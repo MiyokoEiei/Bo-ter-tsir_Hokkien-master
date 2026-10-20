@@ -1,0 +1,459 @@
+#在注释中：支持使用 &nbsp 来定义空格，支持使用 <br> 来定义换行，而正常的空格被用于分词
+
+
+# 本字
+這	〔替〕即（tsit/tse）
+沒	〔替〕無/毛（bo）
+黑	〔替〕烏（oo）
+不	〔替〕毋/伓（m）
+乾	〔替〕焦/凋（ta）
+低	〔替〕下（kee）
+找	〔替〕揣（tsher）
+拿	〔替〕摕（thereh）
+瘦	〔替〕㾪（san）
+纔	〔替〕則（tsiah/tserh/tsak）
+菸	〔替〕薰（hun）
+那	〔替〕彼/許（hit）
+高	〔替〕懸（kuinn）
+打	〔替〕拍（phah）
+葉	〔替〕箬（hioh）
+很	〔替〕真（tsin）<br>           誠（tsiann）<br>           野（ia）…
+哪	〔替〕佗（toh/tah/tuann）
+塞	〔替〕窒（that）
+他	〔替〕伊（i，"ih"僅供輸入方便）
+穿	〔替〕頌（tsing）
+要	〔替〕欲/卜（berh）
+吃	〔替〕食（tsiah）
+你	〔替〕汝（lir）
+剩	〔替〕賰（tshun）
+嘴	〔替〕喙（tshui）
+洨	〔替〕潲（siau）
+呾	〔替〕譚（tann）
+卵	〔替〕𡳞（lan）
+腳	〔替〕骹（kha）
+擠	〔替〕khueh
+拾	〔替〕抾（khioh）
+人	〔替〕儂（lang）
+的	〔替〕其（e/ge/ke）
+个	〔替〕其（e）
+田	〔替〕堘（tshan）
+幹	〔替〕姦（kan）
+睬	〔替〕插（tshap）
+涮	〔替〕sannh
+耍	〔替〕損（sng）
+
+
+#閩南地名雅化/異讀/音譯
+玉斗	〔雅〕五斗（goo-tau）
+玉斗鎮	〔雅〕五斗（goo-tau）
+仙都	〔雅〕山兜（suann-tau）
+仙都鎮	〔雅〕山兜（suann-tau）
+文竈	〔雅〕麻竈（mua-tsau）
+桂洋	〔雅〕龜洋（ku-iunn）
+桂洋鎮	〔雅〕龜洋（ku-iunn）
+角美	〔雅〕角尾（kak-bue）
+集美	〔雅〕潯尾（tsim-bue）
+廈門	〔雅〕下門（e-mng）
+廈門市	〔雅〕下門（e-mng）
+登第	〔雅〕單地（tan-te）
+何厝	〔異〕ua-cu
+閩清	〔異〕ban-tshiann
+閩清市	〔異〕ban-tshiann
+八德	〔雅〕八塊（peh-te）
+八德區	〔雅〕八塊（peh-te）
+列嶼	〔異〕leh-si
+列嶼鎮	〔異〕leh-si
+烈嶼	〔異〕leh-su
+高雄	〔譯/雅〕Takau/打狗（tann-kau）
+高雄市	〔譯/雅〕Takau/打狗（tann-kau）
+基隆	〔譯/雅〕ketakalan/雞籠（ke-lang）
+烈嶼鄉	〔異〕leh-su
+南勝鎮	〔異〕lam-sin
+南勝	〔異〕lam-sin
+滸茂	〔雅〕khoo-moo
+奎洋〔雅〕龜洋（ku-iunn）
+汐止區〔雅〕水返腳（tsui-tng-kha）
+汐止〔雅〕水返腳（tsui-tng-kha）
+玉蒼山	〔異〕gik-tshiong-suann
+蓮坂	〔雅〕劉坂（lau-puann）
+殿前	〔雅〕店前（tainn-tsainn）
+安海	〔雅〕灣海（uann-hai）
+仙景	〔雅〕山仔（suann-a）
+仙景村	〔雅〕山仔（suann-a）
+奎洋鎮	〔雅〕龜洋（ku-iunn）
+安厚	〔雅〕庵後（am-au）
+安厚鎮	〔雅〕庵後（am-au）
+安兜	〔雅〕庵頭（am-thau）
+安山〔雅〕庵山（am-suann）
+康安〔雅〕苦鞍（khoo-uann）
+惠安	〔異〕hui-huann/huinn-huann
+惠安縣	〔異〕hui-huann/huinn-huann
+宏茂橋	〔雅〕紅毛橋（ang-moo-kio）
+官潯	〔異〕kuann-gim/kuann-jim/kuann-tsim
+尚卿	〔雅〕上坑（tsiunn-khinn）
+尚卿鄉	〔雅〕上坑（tsiunn-khinn）
+岵山	〔雅〕小姑（sio-koo）
+岵山鎮	〔雅〕小姑（sio-koo）
+峯尾	〔異〕phang-bue
+峯尾鎮	〔異〕phang-bue
+崇武	〔異〕tsiong-bu
+崇武鎮	〔異〕tsiong-bu
+後龍	〔譯/雅〕Auran/後壠（au-lang）
+後龍溪	〔譯/雅〕Auran/後壠（au-lang）
+龍前	〔雅〕壠前（na-tsan）
+德化	〔異〕tik-hue
+德化縣	〔異〕tik-hue
+心田	〔雅〕深田（tshim-tshan）
+心田村	〔雅〕深田（tshim-tshan）
+揭陽	〔異〕kit-iunn
+揭陽市	〔異〕kit-iunn
+仙嶽	〔異〕sin-loh
+仙嶽山	〔異〕sin-loh-suann
+前樓	〔異〕tsing-lang
+舊鎮	〔雅〕牯鎮（kou-tin）
+舊鎮鎮	〔雅〕牯鎮（kou-tin）
+虎邱	〔雅〕湖坵（oo-khu）
+虎邱鎮	〔雅〕湖坵（oo-khu）
+茂林	〔雅〕鰻頭（mua-thau）
+前樓鎮	〔異〕tsing-lang
+鼎美	〔雅〕鼎尾（tiann-ber）
+蓬壶	〔雅〕毗壺（pi-oo）
+蓬壶鎮	〔雅〕毗壺（pi-oo）
+達埔	〔雅〕卓埔（toh-poo）
+達埔鎮	〔雅〕卓埔（toh-poo）
+錦斗	〔雅〕九斗（kau-tau）
+錦斗鎮	〔雅〕九斗（kau-tau）
+長卿鎮	〔雅〕長坑（tng-khinn）
+長卿	〔雅〕長坑（tng-khinn）
+洛陽	〔異〕loh-iunn/loh-ing
+洛陽鎮	〔異〕loh-iunn/loh-ing
+溪美	〔雅〕溪尾（khue-ber）
+杜潯	〔異〕too-jim/too-gim
+樟塘	〔雅〕張塘（tionn-tng）
+樟塘鎮	〔雅〕張塘（tionn-tng）
+元長	〔雅〕元掌莊（guan-tsiong）
+元長鄉	〔雅〕元掌莊（guan-tsiong）
+沙鹿鎮	〔譯/雅〕Salach/沙轆（sua-lak）
+沙鹿	〔譯/雅〕Salach/沙轆（sua-lak）
+沙鹿區	〔譯/雅〕Salach/沙轆（sua-lak）
+水頭	〔異〕水潮（tsui-thau）
+虞朝巷	〔雅〕牛牢巷（gu-thiau-hang）
+待教巷	〔雅〕刣狗巷（thai-kau-hang）
+烏來	〔譯〕Wulai（u-lai）
+烏來區	〔譯〕Wulai（u-lai）
+烏來鄉	〔譯〕Wulai（u-lai）
+那瑪夏	〔譯〕Namasia（na-ma-siah）
+那瑪夏區	〔譯〕Namasia（na-ma-siah）
+那瑪夏鄉	〔譯〕Namasia（na-ma-siah）
+萬華區	〔譯/雅〕Mankah/艋舺（bang-kah）
+萬華	〔譯/雅〕Mankah/艋舺（bang-kah）
+文山	〔雅〕麻山（mua-suann）
+板橋	〔雅〕枋橋（pang-kio）
+板橋區	〔雅〕枋橋（pang-kio）
+礁美	〔雅〕礁尾（ta-bue）
+板橋市	〔雅〕枋橋（pang-kio）
+玉枕	〔雅〕玉沈（giok-sim）
+百崎	〔雅/異〕百奇（peeh-ia）
+百崎回族鄉	〔雅/異〕百奇（peeh-ia）
+秀峯	〔雅〕sio-phang
+秀峯鄉	〔雅〕sio-phang
+美林	〔雅〕馬林（be-na）
+馬鑾	〔雅〕馬欄（be-nua）
+香山	〔雅〕芳山（phang-suann）
+香山村	〔雅〕芳山（phang-suann）
+英林	〔雅〕烏林（oo-na）
+英林鎮	〔雅〕烏林（oo-na）
+藍田	〔雅〕蓮田（nai-tshan）
+藍田鄉	〔雅〕蓮田（nai-tshan）
+莆美	〔雅〕埔尾（pou-bue）
+課堂村	〔雅/異〕粿堂（khue-tng）
+長樂	〔異〕tio-loh/tiunn-loh
+長樂鄉	〔異〕tiunn-loh
+長泰	〔異〕tio-thua/tionn-thua
+長泰縣	〔異〕tio-thua/tionn-thua
+長泰區	〔異〕tio-thua/tionn-thua
+福清	〔異〕hok-tshiann
+蓮河	〔雅〕來蚝（lai-o）
+閩侯	〔異〕ban-kau
+隆教	〔雅〕藍教（na-ka）
+隆教畲族鄉	〔雅〕藍教（na-ka）
+雲陵	〔異〕in-leng
+雲陵鎮	〔異〕in-leng
+雲霄縣	〔異〕un-sio
+雲霄	〔異〕un-sio
+閩侯縣	〔異〕ban-kau
+霞寨	〔雅/異〕下寨（a-za/ee-tsee）
+霞寨鎮	〔雅/異〕下寨（a-za/ee-tsee）
+霞葛	〔雅〕下葛（ee-kuah）
+霞葛鎮	〔雅〕下葛（ee-kuah）
+龍門鎮	〔異〕lim-bun/lin-bun
+龍門	〔異〕lim-bun/lin-bun
+珩厝	〔雅〕王厝（hing-tshu）
+霞溪	〔雅〕下溪（e-khue）
+
+
+# "熟字訓"正字
+這樣	〔訓〕按呢
+這麼	〔訓〕遮爾<br>           遮
+那麼	〔訓〕遐爾<br>           遐
+那種	〔訓〕彼種<br>           彼種个<br>           向个
+這種	〔訓〕即種<br>           即種个<br>           種个
+這裏	〔訓〕即跡<br>           即搭<br>           遮
+那裏	〔訓〕彼跡<br>           彼搭<br>           遐
+這些	〔訓〕遮个<br>           即寡个<br>           紙个<br>           跩个<br>           跩
+那些	〔訓〕遐个<br>           彼寡个<br>           喝个<br>           徊个<br>           徊
+他們	〔訓〕𪜶<br>           伊人
+我們	〔訓〕阮<br>           我人
+你們	〔訓〕恁<br>           汝人
+還有	〔訓〕猶有
+還會	〔訓〕猶會
+還在	〔訓〕猶咧
+多少	〔訓〕偌濟、濟少
+晚上	〔訓〕下昏
+下午	〔訓〕下晡
+知道	〔訓〕知影
+不知道	〔訓〕毋知影
+不會	〔訓〕袂
+不到	〔訓〕袂到
+多个	〔訓〕外个
+太多	〔訓〕太濟
+阿嬤	〔訓〕阿媽
+公嬤	〔訓〕公媽
+會不會	〔訓〕會袂
+纔不會	〔訓〕則袂
+我們家	〔訓〕阮兜
+他們家	〔訓〕𪜶兜
+你們家	〔訓〕恁兜
+昨晚	〔訓〕昨暝
+幹嘛	〔訓〕創啥
+甚麼	〔訓〕啥物
+什麼	〔訓〕啥物
+吐槽	〔訓〕黜臭
+不用	〔訓〕毋免
+耳朵	〔訓〕耳腔
+獅子座	〔訓〕獅仔座
+吃香	〔訓〕食芳
+#連讀音
+向个	〔連讀〕彼種个
+種个	〔連讀〕即種个
+跩	〔連讀〕即寡个
+徊	〔連讀〕彼寡个
+喝个	〔連讀〕彼寡个
+跩个	〔連讀〕即寡个
+徊个	〔連讀〕彼寡个
+𪜶	〔連讀〕伊人
+阮	〔連讀〕我人
+恁	〔連讀〕汝人
+莫	bok<br>mai〔連讀〕毋愛<br>bong〔連讀〕莫用<br>bang〔連讀〕毋通<br>m-bang〔連讀〕毋通
+#外來詞
+一級棒	〔日〕it-tshih-pang
+兄貴	〔日〕a-ni-qih
+刺身	〔日〕sa-si-mih
+口座	〔日〕khau-zo
+可樂	〔日〕qoo-lah
+吉他	〔日〕gi-ta
+味噌	〔日〕bi-sooh
+啤酒	〔日〕bi-luh
+壽司	〔日〕su-sih
+大補內	〔日〕lam-u-neh
+孔固力	〔日〕khong-ku-li
+拖拉庫	〔日〕thoo-la-khuh
+挨拶	〔日〕ai-sat-tshuh
+柏青哥	〔日〕pha-tshin-goh/pha-tshin-koh
+沙士	〔日〕sa-suh
+烏托邁	〔日〕oo-thok-bai，摩托車
+烏龍麵	〔日〕oo-long-mi
+甜不辣	〔日〕thian-pu-lah，天婦羅
+緣投仔桑	〔日〕ian-tau-a-san
+蘇打	〔日〕soo-lah
+蘇打水	〔日〕soo-lah-tsui
+蘋果	〔日〕ap-phu-luh
+蘋果水	〔日〕ap-phu-luh-tsui
+螺賴把	〔日〕loo-lai-ba，螺絲刀
+西米落	〔日〕se-bi-loh
+賴打	〔日〕lai-tah，打火機
+郵便	〔日〕iu-pian
+阿給	〔日〕a-geh
+阿莎利	〔日〕a-sa-lih
+阿莎利	〔日〕a-sat-lih
+鞄	〔日〕qa-pang
+風呂	〔日〕hu-loo
+馬達	〔日〕moo-tah
+雪文	〔馬/印尼〕sabun
+謝哥米	〔馬/印尼〕sagu
+阿達子	〔馬/印尼〕atal
+芝龜力	〔馬/印尼〕chocolat
+亞鉛	〔馬/印尼〕ajan
+鐳	〔馬/印尼〕duit，錢幣
+磨仔	〔馬/印尼〕buaja，鱷魚
+巴刹	〔馬/印尼〕pasar，市場
+珠律	〔馬/印尼〕serutu，雪茄
+沙嗲	〔馬/印尼〕sate
+沙茶	〔馬/印尼〕sate
+招瓢	〔馬/印尼〕taipio，禮帽
+洞葛	〔馬/印尼〕tongkat，文明棍
+漚屎	〔英〕outside，（球）出界
+五腳砌	〔英〕five-foot way
+五腳基	〔英〕five-foot way
+柑仔蜜	〔他加祿〕kamatis，西紅柿
+柑仔得	〔他加祿〕kamatis，西紅柿
+唚	〔馬/印尼〕cium，親吻
+榴槤	〔馬/印尼〕durian
+榴蓮	〔馬/印尼〕durian
+咖啡	〔馬/印尼〕kopi
+呼機	〔英〕call
+
+#閩南詞註解
+予	〔閩〕給…；使之…<br>           也作「互」、「乎」
+褿	〔閩〕都…<br>           也作「齊」
+齊	〔閩〕都…<br>           也作「褿」
+齊齊	〔閩〕都…<br>           也作「褿褿」
+褿褿	〔閩〕都…<br>           也作「齊齊」
+齊全	〔閩〕都…<br>           也作「褿全」
+褿全	〔閩〕都…<br>           也作「齊全」
+濟	〔閩〕多
+𨑨迌	〔閩〕玩<br>           也作「佚陶」、「七桃」等
+奈何	〔共有〕nai-ho<br>〔閩〕ta(i)-ua
+飲糜	〔閩〕稀粥<br>           也作「泔糜」
+潘	〔閩〕廚餘、泔水
+媠	〔閩〕美麗<br>           也作「水」
+臨邊	〔閩〕馬上…<br>           也作「連鞭」
+連鞭	〔閩〕馬上…<br>           也作「臨邊」
+唐人正	〔閩〕正月初一
+大家	tai-ka/tai-kee〔共有〕專家、方家<br>tai-ke/tak-kee〔閩〕諸位<br>tua-kee/ta-kee〔閩〕婆婆
+大家官	tua-kee-kuann〔閩〕公婆
+大官	〔共有〕義同<br>〔閩〕公公
+客人	〔閩〕客家人
+人客	〔閩〕客人、賓客
+地牛翻身	〔閩〕地震
+重巡	〔閩〕雙眼皮
+無重巡	〔閩〕單眼皮
+孫仔	〔閩〕姪子
+#人體
+骱邊	〔閩〕鼠蹊部、腹股溝
+腳頭趺	〔閩〕膝蓋
+頷頸	〔閩〕脖子<br>           也作「頷筋」
+頷筋	〔閩〕脖子<br>           也作「頷頸」
+頷仔筋	〔閩〕脖子<br>           也作「頷仔頸」
+頷仔頸	〔閩〕脖子<br>           也作「頷仔筋」
+頷仔	〔閩〕脖子
+胳下空	〔閩〕腋下
+胳下胴	〔閩〕腋下
+肩胳下	〔閩〕腋下
+面𤶃	〔閩〕粉刺、痤瘡<br>           也作「面柱」
+面柱	〔閩〕粉刺、痤瘡<br>           也作「面𤶃」
+卵脬	〔閩〕陰囊<br>           也作「𡳞脬」
+卵鳥	〔閩〕陰莖<br>           也作「𡳞鳥」
+𡳞鳥	〔閩〕陰莖<br>           也作「卵鳥」
+𡳞脬	〔閩〕陰囊<br>           也作「卵脬」
+頭麩	〔閩〕頭皮屑
+頭疕	〔閩〕頭皮屑
+#動物
+鯪鯉	〔閩〕穿山甲
+虼蚻	〔閩〕蟑螂
+蟧蜈	〔閩〕長腳蜘蛛
+蚜蜈	〔閩〕長腳蜘蛛
+蚵仔	〔閩〕牡蠣<br>           也作「蠔仔」
+
+#植物
+檨仔	〔閩〕芒果、杧果
+樹梅	〔閩〕楊梅
+𧌄蜅蠐	〔閩〕蟬、知了
+火金蛄	〔閩〕螢火蟲
+
+#地方用詞
+𧌄栱蟬〔漳〕蟬、知了
+火金星	〔漳〕螢火蟲
+密婆	〔漳廈〕蝙蝠
+夜婆	〔廈〕蝙蝠
+日婆	〔泉〕蝙蝠
+無奈何	bo-ta-ua〔泉廈〕沒辦法、不得不
+無奈得何	bo-tai-tit-ua〔漳〕沒辦法、不得不
+攏	〔漳廈〕都…<br>           〔泉〕姑且…
+㜅	〔泉〕美麗<br>           俗作「特」
+𤶃仔子	〔漳〕粉刺、痤瘡
+躄	〔漳〕性交
+呂宋噶喇吧	〔漳〕子虛烏有
+俄羅	〔漳〕子虛烏有
+尪公	〔漳〕神明
+安公	〔泉〕祖父
+安媽	〔泉〕祖母
+魔神	〔漳〕精神失常
+魔神仔	〔漳〕瘋子
+魔神狗	〔漳〕瘋狗
+起魔神	〔漳〕發瘋
+熊鼠	〔永〕兔子
+參柏樹	〔永〕松樹
+參屄	〔漳〕女陰
+柴刀	〔漳〕女陰
+田刀	〔漳〕女陰
+娘嬭	〔漳〕母親（背稱）
+田草	〔漳〕仙草
+干哪	〔泉〕爲甚麼
+干哪誌	〔泉〕爲甚麼
+食物	sit-but〔共有〕義同<br>tsiah-mngh〔泉〕吃宴席
+不哩仔	〔漳〕頗…
+不哩	〔漳〕頗…
+並	〔泉〕頗…
+歁卵	〔泉〕厲害<br>〔漳〕蠢、倔強、莽撞
+歁𡳞	〔泉〕厲害<br>〔漳〕蠢、倔強、莽撞
+𪁎	〔閩〕雄性動物發情<br>〔漳〕厲害
+成年	sing-lian〔共有〕義同<br>tsiann-ni〔閩〕將近一年
+明載	mia-tsai〔閩〕明日<br>meeh-tsai〔漳〕今早
+明仔	meeh-a〔漳〕今早
+食糜	tsiah-mai〔漳〕吃粥<br>               〔泉〕泛指吃飯
+粗梅	tshoo-m〔漳〕楊梅
+在	tsai〔共有〕義同<br>tshai〔漳〕使勁放下、撞擊、靜止不動
+#異體字註釋
+丒	〔異〕丑
+丠	〔異〕丘
+丩	〔異〕糾
+乁	〔異〕及
+乊	〔異〕伊
+乨	〔異〕始
+亗	〔異〕歲
+亝	〔異〕齋
+亝	〔異〕齊
+亣	〔異〕大
+亯	〔異〕享
+仺	〔異〕倉
+佀	〔異〕似
+偀	〔異〕英
+傌	〔異〕罵
+兘	〔異〕始
+刱	〔異〕創
+勽	〔異〕抱
+厸	〔異〕鄰
+咵	〔異〕誇
+啠	〔異〕哲
+噖	〔異〕吟
+夶	〔異〕比
+昚	〔異〕慎
+晇	〔異〕旴
+潹	〔異〕潺
+灳	〔異〕輝
+炗	〔異〕光
+爕	〔異〕燮
+紭	〔異〕紘
+鏁	〔異〕鎖
+尠	〔異〕鮮
+尟	〔異〕鮮
+僊	〔異〕仙
+囸	〔異〕日
+囯	〔異〕國
+囻	〔異〕國
+圀	〔異〕國
+灋	〔異〕法
+尛	〔異〕麼
+劔	〔異〕劍
+剣	〔異〕劍
+徳	〔異〕德
+悳	〔異〕德
+帬	〔異〕裙
+帋	〔異〕紙
+尓	〔異〕爾
+厶	〔異〕私
+亖	〔異〕四
+旹	〔異〕時
+闗	〔異〕關
+権	〔異〕權
