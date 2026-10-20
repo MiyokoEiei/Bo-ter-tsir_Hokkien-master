@@ -1,0 +1,49 @@
+# * 參考材料列表1（阿托先本底即列咧的）
+# * 百度 閩南語吧 (著重感謝@lyf6499佮@星期绿)
+#   http://tieba.baidu.com/f?kw=%C3%F6%C4%CF%D3%EF
+
+# * 林建輝 Lim Kianhui
+#   http://www.hokkienese.com/
+
+# * 閩南語正字促進會
+#   http://site.douban.com/108149/ (QQ群 22637566)
+
+# * 「閩客語典藏」 - 台日大詞典
+#   http://taigi.fhl.net/dict/
+
+# * 黃晉波 - 當代泉州音字彙
+#   http://solution.cs.ucla.edu/~jinbo/dzl/
+
+# * 中華民國教育部 - 台灣閩南語常用詞辭典
+#   http://twblg.dict.edu.tw/holodict_new/default.jsp
+
+# * 參考材料列表2（該版本輸入法新用着的）
+# * 中華民國教育部 - 教育部臺灣台語常用詞辭典
+#   https://sutian.moe.edu.tw/zh-hant/
+
+# * 東苑實驗室 - 韻彙
+#   https://unlui.enatsu.top/
+
+# * 周長楫等 - 闽南方言大词典
+# * 紙質版本
+# * “闽南话在线词典”（微信小程序）
+---
+name: banlam
+version: "20260605"
+sort: by_weight
+use_preset_vocabulary: false
+import_tables:
+  - banlam_dicts/banlam.tuannji					#單字
+  - banlam_dicts/banlam.emoji					#顏文字
+  - banlam_dicts/banlam.kiongiong			#閩南語/普通話共有詞
+  - banlam_dicts/banlam.langmia				#人物名（漢名及歸化翻譯名）
+  - banlam_dicts/banlam.langmia2				#人物名（日本人名和地名）
+  - banlam_dicts/banlam.langmia3				#人物名（音譯人名和地名）
+  - banlam_dicts/banlam.banlamsur			#閩南特有詞
+  - banlam_dicts/banlam.guabun				#帶外文字符的詞彙
+  - banlam_dicts/banlam.koobun				#文言文相關
+  - banlam_dicts/banlam.hunthak				#訓讀詞彙（適應非正字交流語境）
+  - banlam_dicts/banlam.teremia				#閩海地名（含部分東南亞地名）
+  - banlam_dicts/banlam.tiongkok				#中國、朝鮮、韓國地名（除閩海地名）
+  - banlam_dicts/banlam.surjin					#私人用詞庫
+...

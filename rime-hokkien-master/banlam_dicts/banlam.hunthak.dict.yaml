@@ -1,0 +1,830 @@
+---
+name: banlam.hunthak
+version: '20260605'
+sort: by_weight
+...
+#常用詞句訓
+幹嘛	cong na	17741
+幹嘛	cong sannh	17741
+不到	bere kau	33778	
+這樣	an nee	146876
+這樣	a nee	146876
+這樣	zit iunn	146876
+這種	ziong gEe	278588
+這種个	ziong gEe	278588
+這麼	ziah	99
+這麼	ziah ni	2785880
+這麼	zuah	99
+這麼	zuah ni	2785880
+還在	iau tDeh	33229
+那張	hit tiunn	3388
+那種	hiong gEe	2785888
+那麼	hiah ni	2785888
+那麼	huah lian	2785888
+這裏	zit liah	120204
+這裏	zit tah	120204
+多个	gua gEe
+會不會	eRe bere	21534
+纔不會	zIAh bere	2308
+都不會	too bere	305
+不知道	m zayY iann	65800
+對的	tioh e	780
+一下午	zit ee poo	1626
+你們家	lin tau	1626
+不用	m bian	45534
+吐槽	thuh cau	19913
+甚麼	siann mih	686000
+甚麼	sim mih	686000
+什麼	sim mih	686000
+什麼	siann mih	686000
+甚麼事	siann mih sur	46600
+甚麼事	siann mih tai	46600
+耳朵	hi qang	8218
+英英美代子	aInn x bo tai zi	188
+英英美代子	ing x bo tai zi	188
+幹嘛	cong siann	17741
+下午	ee poo	27667
+這些	zia gEe	2785888
+這些	ziah gEe	2785888
+這些	zua gEe	2785888
+這些	zuai	99
+這些	zuai gEe	2785888
+那些	huah gEe	2785888
+那些	huai gEe	2785888
+那些	hit kua a	2785888
+那些	hit kua	2785888
+那些人	hit kua a lang	2785888
+那些人	hit kua lang	2785888
+那些人	huah gEe lang	2785888
+那些人	huai gEe lang	2785888
+在那裏	tDeh hit liah	2785888
+那裏	hit liah	34029
+那裏	hit tah	34029
+你們	lin	99
+我們	gun	99
+知道	zayY iann	5260
+我們家	gun tau	3499
+我們是	gun si	8053
+我們的	gun e	933
+他們家	in tau	1900
+敢這麼	kam an nee	448
+敢這麼	kann an nee	448
+昨晚	za mee	6782
+昨晚	zoh mee	6782
+多少	gua zere	55907
+晚上	ee huInn	44772
+他們	in	99
+他們	i lang	305176
+還有	iau u	235076
+還會	iau eRe	33156
+對對對	tioh x x
+獅子座	sai a zo	1049
+吃香	ziah phang	1006
+公嬤	kong ma	900
+給誰	hoo tiang	1065
+誰給	tiang hoo	393
+給你	hoo lIR	49497
+給我	hoo gua	43556
+沒給	bo hoo	1009
+他給	ih kip	1293
+給他	hoo ih	22326
+鍋邊糊	tiann mi ser	20
+鍋邊糊	tiann py ser	20
+
+
+#類推訓
+#沒=無
+有人沒	u lang bo	36
+有氣沒力	u qui bo lat	378
+有沒	u bo	341
+有的沒的	u e bo e	1000
+沒一	bo zit	21136
+沒事	bo sur	21136
+沒事人	bo sur lang	545
+沒人	bo lang	11274
+沒光	bo kuInn	407
+沒勸	bo quInn	390
+沒名	bo mia	100
+沒命	bo mia	593
+沒唱	bo ciunn	519
+沒問	bo muI	179
+沒啥	bo siann	8978
+沒填	bo thy	497
+沒大	bo tua	584
+沒學	bo oh	707
+沒定	bo tiann	50
+沒影	bo iann	552
+沒換	bo uann	206
+沒改	bo kere	324
+沒放	bo pang	204
+沒教	bo ka	80
+沒斷	bo tuInn	78
+沒書	bo sZir	485
+沒染	bo ni	400
+沒洗	bo sere	580
+沒滿	bo mua	503
+沒漲	bo tiunn	144
+沒燒	bo sio	480
+沒爹	bo tia	459
+沒生	bo senn	558
+沒用	bo iOng	6536
+沒畫	bo uee	508
+沒病	bo penn	708
+沒看	bo kuann	2316
+沒空	bo aInn	1975
+沒笑	bo cio	549
+沒等	bo tan	360
+沒聲	bo siann	497
+沒聽	bo thiann	1276
+沒能	bo nLerng	6635
+沒裝	bo zng	248
+沒見	bo ky	1935
+沒見到	bo ky kau	499
+沒見着	bo ky tioh	154
+沒見識	bo kian sik	508
+沒通	bo thong	468
+沒還	bo haInn	125
+沒醒	bo cenn	552
+沒錢	bo zy	6382
+更沒	kerng bo	846
+沒門	bo muI	543
+沒雨	bo hoo	451
+沒蓋	bo kua
+#不=毋/伓
+不還	m haInn	763
+不講話	m kOang uee
+不快活	m quann uah
+不快活	m quy uah
+不醒	m cenn	851
+不重	m tang	818
+不釣	m tio	418
+不開	m qui	2636
+不關	m kuay	1129
+不領	m nia	532
+不騎	m qia	506
+知不知	zayY m zayY	1206
+等不等	tan m tan	15
+這不是	ze m si	15990
+不請	m ciann	625
+不講	m kOang	2002
+不過	m kOer	169774
+不退	m thEr	925
+不送	m sang	891
+不轉	m tuInn	814
+不轉	m zuan	814
+
+不會	bere	99
+上不上	ziunn m ziunn	191
+不早不晚	m za m uan	48
+人不像人，鬼不像鬼	lang m ciunn lang	464
+恨鐵不成鋼	hern thih m ziann kng	565
+不上	m ziunn	4230
+不作	m zoh	1338
+不作	m zok	1338
+不值	m tat	1445
+不像	m ciunn	13558
+不先	m saInn	595
+不分	m pun	2911
+不剩	m cun	383
+不剩	m sin	383
+不卡	m qah	998
+不卷	m kuInn	234
+不坑	m qenn	220
+不學	m oh	1907
+不成樣	m ziann iunn	458
+不戴	m ti	750
+不批	m phere	171
+不折	m zih	660
+不教	m ka	655 
+不敢	m kann	18109
+不敢聲張	m kann sing tIang	38
+不敢見	m kann ky	23
+不早	m za	1063
+不早於	m za ir	46
+不是	m si	213981
+不是人	m si lang	893
+不是錢	m si zy	240
+不替	m there	515
+不服	m hok	3556
+不期待	m ki thai	162
+不洗	m sere	712
+不活	m uah	817
+不流	m lau	106
+不漲	m tiunn	1073
+不生	m senn	792
+不夠	bere kau	38063
+不完	bere uan	1982
+不爽	bere song	3810
+不着	bere tioh	17380
+不知	m zayY	13482
+不聽	m thiann	3068
+不花	m hua	783
+不落	m loh	807
+不裝	m zng	808
+不見	m ky	6007
+不見面	m ky bin	598
+不識字	m bat ji	577
+不識字	m pat ji	577
+先不	saInn m	5910
+學不	oh m	29
+敢不	kann m	668
+看不	quann m	1490
+若不	na m	96
+說不	sErh m	5118
+這不	ze m	5987
+要吃不做	beh ziah m zo	517
+要吃不做	beh ziah m zue	517
+要吃不做	berh ziah m zo	517
+要吃不做	berh ziah m zue	517
+不想要	m siunn beh	24748
+不想要	m siunn berh	24748
+不是在	m si tDeh	2076
+#那=彼/許
+那一	hit zit	1581
+那个	hit gEe	100
+那年	hit ni	5496
+那爿	hit paInn	18628
+那陣	hit zun	231
+那雙	hit siAng	1334
+那件	hit kiann	1373
+那壺	hit oo	454
+那家	hit kee	2447
+那封	hit pang	106
+那批	hit phere	786
+那捲	hit kuInn	465
+那支	hit ki	884
+那段	hit tuann	5631
+那節	hit zat	86
+#塊=箍
+一塊	zit qoo	1447
+七塊	cit qoo	10
+三塊	sann qoo	10
+九塊	kau qoo	10
+五塊	goo qoo	10
+兩塊	nDoo qoo	10
+八塊	pereh qoo	10
+六塊	lak qoo	10
+千塊	caInn qoo	10
+
+五千塊	goo caInn qoo	43
+六千塊	lak caInn qoo
+七千塊	cit caInn qoo
+八千塊	pereh caInn qoo
+九千塊	kau caInn qoo
+四千塊	si caInn qoo	43
+四塊	si qoo	36
+一萬塊	zit ban qoo	41
+兩萬塊	nDoo ban qoo
+三萬塊	sann ban qoo
+五萬塊	goo ban qoo
+六萬塊	lak ban qoo
+七萬塊	cit ban qoo
+十萬塊	zap ban qoo
+九萬塊	kau ban qoo
+八萬塊	pereh ban qoo
+四萬塊	si ban qoo	41
+幾塊	kui qoo	145
+百塊	pah qoo	10
+萬塊	ban qoo	220
+#打=拍
+會打	eRe phah	681
+會打人	eRe phah lang	20
+還打	hai phah	168
+邊打	py phah	578
+開打	qai phah	958
+重打	tang phah	60
+重打	ting phah	60
+打人	phah lang	1678
+打仗	phah tIang	300
+重打	tiong phah	60
+打一	phah zit	879
+先打	saInn phah	854
+打光	phah kuInn	966
+打分	phah hun	3368
+打平	phah penn	695
+打成	phah ziann	1836
+打拚	phah piann	461
+打暈	phah hun	340
+打柴	phah ca	516
+打樁	phah zng	577
+打滿	phah mua	638
+打爛	phah nua	569
+打牢	phah tiau	241
+打穿	phah cuInn	772
+打蒼蠅	phah hoo sin	474
+打醒	phah cenn	531
+改打	kere phah	530
+敢打	kann phah	615
+有打算	u phah suInn	100
+
+#很=真/盡OR誠
+很次	zIn cur	53
+很小	zIn sere	10402
+很真	zIn zin	53
+也很	ia zIn	13716
+人很	lang zIn	868
+他很	ih zIn	1202
+但很	tan zIn	837
+你很	lIR zIn	1268
+很不	zIn put	3419
+卻很	qiok zIn	1229
+又很	iu zIn	1061
+在很久	tDeh zIn ku	64
+已經很久	i king zIn ku	689
+很久	zIn ku	10942
+很乖	zIn kuai	891
+很乾	zIn ta	548
+很低	zIn kee	9894
+很像	zIn ciunn	6960
+很卡	zIn qah	245
+很合	zIn hah	114
+很圓	zIn y	524
+很坑	zIn qenn	421
+很大	zIn tua	51455
+很小	zIn sio	10402
+很少	zIn zio	27897
+很帥	zIn suai	1239
+很平	zIn penn	195
+很弱	zIn jIak	1578
+很扁	zIn py	383
+很搭	zIn tah	269
+很晚	zIn uan	1694
+很會	zIn eRe	1044
+很有	zIn u	99
+很涼	zIn liang	90
+很溜	157
+很滑	zIn kut	141
+很滿	zIn mua	141
+很火	zIn her	2527
+很熟	zIn sik	1074
+很熱	zIn juah	1271
+很燙	zIn thng	165
+很爛	zIn nua	1482
+很牛	zIn gu	1625
+很甜	zIn ty	739
+很疼	zIn thiann	900
+很癢	zIn ziunn	122
+很白	zIn peeh	235
+很直	zIn tit	534
+很短	zIn tEr	2681
+很矮	zIn ere	103
+很窮	zIn kiOng	742
+很窮	zIn kiong	742
+很糙	zIn coO	77
+很紅	zIn ang	701
+很細	zIn sere	1024
+很胖	zIn phong	682
+很脆	zIn cer	215
+很舊	zIn ku	567
+很薄	zIn poh	864
+很趕	zIn kuann	503
+很軟	zIn nuI	454
+很輕	zIn qin	978
+很辣	zIn luah	142
+很遠	zIn huInn	2822
+很酸	zIn suInn	191
+很重	zIn tang	2529
+很長	zIn tng	5132
+很閒	zIn aInn	332
+很鬆	zIn sang	490
+很鮮	zIn cy	103
+很鹹	zIn kiam	506
+會很	eRe zIn	2543
+有很	u zIn	945
+這很	ze zIn	859
+還很	hai zIn	1943
+很多	zIn zere	153301
+很水	zIn zui	757
+#拿=摕
+拿上	thereh ziunn	725
+拿給	thereh hoo	872
+敢拿	kann thereh	113
+白拿	peeh thereh	181
+還拿	hai thereh	539
+拿來拿去	thereh lai thereh qIR	349 
+#黑=烏
+黑戶	oo hoo	531
+黑星	oo cenn	500
+黑晶	oo zy	568
+黑松	oo siong	540
+黑松沙士	oo siong sa sur	383
+黑槍	oo ciang	517
+黑道	oo toO	1055
+黑點	oo tiam	2046
+掃黑	sau oo	529
+黑幕	oo boo	1170
+黑的	oo e	2845
+黑石	oo zioh	1009
+全黑	zuan oo	748
+涉黑	siap oo	649
+反黑	huan oo	171
+塗黑	too oo	533
+墨黑	bak oo	529
+大黑	tua oo	724
+天黑	thy oo	1175
+太黑	thai oo	809
+小黑	sio oo	2312
+參加黑社會性質組織罪	cam kaE oo sia hue sing zit zoo zit zue	11
+心黑	sim oo	482
+怕黑	phann oo	130
+手黑	ciu oo	435
+打黑	phah oo	656
+抹黑	buah oo	1943
+拉黑	lah oo	2435
+招黑	zio oo	797
+擦黑	cat oo	460
+曬黑	sai oo	760
+最黑	zue oo	102
+染黑	ni oo	522
+棕黑	zang oo	432
+淺黑	cian oo	412
+灰黑	her oo	546
+很黑	hern oo	758
+炭黑	thuann oo	81
+烤黑	qonn oo	380
+焦黑	ta oo	547
+燻黑	hun oo	524
+發黑	huat oo	814
+白山黑水	peeh suann oo zui	514
+碳黑	thuann oo	595
+紅黑	ang oo	808
+純黑	sun oo	320
+紫黑	zi oo	495
+老黑	lau oo	740
+臉黑	liam oo	151
+藍黑	lam oo	720
+變黑	pian oo	816
+開黑	qai oo	830
+青黑	cenn oo	481
+黑五	oo goo	177
+黑五類	oo goo lui	298 
+黑人	oo lang	7827
+黑人音樂	oo lang im gak
+黑光	oo kuInn	579
+黑八	oo pereh	89
+黑冰	oo ping	128
+黑函	oo ham	348
+黑卡	oo qah	842
+黑名	oo mia	433
+黑名單	oo mia tuann	3232
+黑哥	oo ko	94
+黑哨	oo sau	558
+黑啤	oo pi	153
+黑土	oo thoo	600 
+黑地	oo tere	514
+黑墨水	oo bak zui	4180
+黑墨汁	oo bak ziAp	3030
+黑壤	oo jIang	273
+黑夜	oo ia	1789
+黑天	oo thy	567
+黑奴	oo nLoo	730
+黑妹	oo ber	93
+黑妹	oo mai	93
+黑子	oo zur	1706
+黑字	oo ji	591
+黑屏	oo pin	1389
+黑屏	oo ping	1389
+黑巖	oo giam	76
+黑市	oo ci	738
+黑市場	oo ci tiunn	738
+黑布	oo poo	546
+黑帶	oo tua	580
+黑帽	oo bo	62
+黑帽子	oo bo zur	45
+黑幫	oo pang	2294
+黑幫老大	oo pang lau tua	281
+黑底	oo tere	5520 
+黑店	oo tiam	744
+黑影	oo iann	908
+黑得	oo tit	558
+黑心	oo sim	1114
+黑心棉	oo sim mi	54
+黑心肝	oo sim kuann	353
+黑心腸	oo sim tCIang	417
+黑心錢	oo sim zy	75
+黑手	oo ciu	1120
+黑手黨	oo ciu tong	608
+黑斑	oo pan	616
+黑料	oo liau	1146
+黑方	oo hong	615
+黑旗	oo ki	199
+黑書	oo sZir	443
+黑材料	oo zai liau	56
+黑松汽水	oo siong qi zui	289
+黑板	oo pan	1131
+黑板報	oo pan po	747
+黑板擦	oo pan cat	474
+黑桃	oo tho	700 
+黑框	oo qing	572
+黑框眼鏡	oo qing	57
+黑框鏡	oo qing	570
+黑棋	oo ki	1326
+黑椒	oo zio	194
+黑檀	oo tuann	487
+黑檀木	oo tuann bok	467
+黑毛	oo mng	93
+黑毛	oo moo	93
+黑水	oo zui	641 
+黑油	oo iu	478
+黑洞	oo tong	12749 
+黑海	oo hai	583
+黑漆	oo cat	535
+黑潮	oo tiau	622
+黑灰	oo her	117
+黑炭	oo thuann	533 
+黑煤	oo mue	401 
+黑熊	oo him	735 
+黑熊學院	oo him hak y	735 
+黑牌	oo pai	486
+黑狗	oo kau	578 
+黑玫瑰	oo mui kui	29 
+黑珍珠	oo tin zu	129 
+黑球	oo kiu	238 
+黑產	oo san	270 
+黑疸	oo zir	289
+黑瘦	oo san	502
+黑白	oo peeh	5197
+黑皮	oo pher	756
+黑盒	oo ah	628
+黑磷	oo lin	291
+黑社會	oo sia hue	1654
+黑科技	oo qOer ki	2868
+黑種	oo zing	474
+黑種人	oo zing lang	451
+黑筆	oo pit	441
+黑管	oo kuInn	490
+黑箱	oo siunn	506
+黑箱子	oo siunn a	389
+黑米	oo bi	276
+黑米粥	oo bi ziok	28
+黑粉	oo hun	1010
+黑糖	oo thng	5980
+黑紗	oo se	55
+黑紙	oo zua	462
+黑絲	oo si	276
+黑網吧	oo pang pa	108
+黑線	oo suann	737
+黑線人物	oo suann jin but
+黑老大	oo lau tua	191
+黑膠	oo ka	517
+黑膠布	oo ka poo	15
+黑船	oo zun	88
+黑色	oo sik	1351500
+黑茶	oo te	578
+黑莓	oo m	1366
+黑虎	oo hoo	137
+黑蛇	oo zua	519
+黑蟻	oo hia	445
+黑血	oo huih	850
+黑衣	oo i	1014
+黑衣人	oo i lang	867
+黑衣大食	oo i tai sik	1014
+黑袍	oo phau	143
+黑裙	oo kun	93
+黑褐	oo hat	448
+黑褐色	oo hat sik	107
+黑話	oo uee	553
+黑豆	oo tau	8240
+黑豬	oo tIR	517
+黑豹	oo pa	1465
+黑豹樂隊	oo pa gak tui	55
+黑貂	oo tiau	551
+黑貓	oo niau	9340
+黑車	oo cia	793
+黑金	oo kim	7470
+黑金政治	oo kim zing ti
+黑鉛	oo ian	349
+黑錢	oo zy	557
+黑鍋	oo er	595
+黑鏡	oo kiann	179
+黑鐵	oo thih	721
+黑鑽	oo suan	89
+黑鑽	oo zuan	89
+黑陶	oo toO	528
+黑霧	oo bu	100
+黑非洲	oo hui ziu	431
+黑頭	oo thau	914
+黑馬	oo bee	1523
+黑體	oo the	1507
+黑體字	oo the ji	491
+黑髮	oo huat	893
+黑鬚	oo ciu	407
+黑鬼	oo kui	5603
+黑魚	oo hIR	581 
+黑鯇	oo uan	279
+黑鯊	oo sua	167
+黑鳥	oo ziau	213 
+黑鷹	oo ing	96
+黑鸛	oo kuan	431
+黑麥	oo beeh	531
+黑麥草	oo beeh cau	36
+黑麵包	oo mi pau
+黑黃	oo uInn	94
+黑黨	oo tong	72
+黑黴	oo mue	473
+黑鼠	oo cir	428
+黑龍	oo liOng	1298
+黑龍江	oo liong kang	100 
+黑龍江省	oo liong kang senn
+黑龍江省	oo liong kang sing
+更黑	kerng oo	141
+
+#瘦=㾪
+消瘦	siau san	942
+真瘦	ziann san	398
+#菸=薰
+菸嘴	hun cui	553
+吸菸	qip hun	2538
+吃菸	ziah hun	494
+愛點菸	ai tiam hun	472
+戒菸	kai hun	1493
+抽菸室	thiu hun sit	248
+捲菸	kuInn hun	1062
+支菸	ki hun	587
+敬菸	king hun	452
+旱菸	han hun	528
+曬菸	sai hun	384
+洋菸	iunn hun	401
+紙菸	zua hun	477
+菸具	hun kU	554
+菸味	hun bi	732
+菸商	hun sIang	365
+菸圈	hun quan	591
+菸土	hun thoo	443
+菸客	hun qeeh	449
+菸屁	hun phui	400
+菸屎	hun sai	100
+菸廠	hun ciunn	563
+菸捲	hun kuInn	529
+菸斗	hun tau	732
+菸枝	hun ki	1100
+菸殼	hun qak	100
+菸民	hun bin	605
+菸油	hun iu	437
+菸灰	hun her	161
+菸田	hun can	100
+菸癮	hun gian	588
+菸盒	hun ah	100
+菸禁	hun kim	371
+菸粉	hun hun	489
+菸絲	hun si	567
+菸缸	hun kong	539
+菸臭	hun cau	353
+菸草	hun cau	100
+菸草	hun co	1570
+菸葉	hun hioh	882
+菸鹼	hun kiam	538
+貢菸	kong hun	228
+香菸	hIang hun	1690
+鼻菸	phyY hun	477
+#乾=焦/凋
+流乾	lau ta	584
+晾乾	nee ta	761
+淚乾	lui ta	519
+滴乾	tih ta	430
+瀝乾	lik ta	581
+乾布	ta poo	567
+乾急	ta kip	338
+乾柴	ta ca	573
+乾渠	ta kir	549
+乾溝	ta kau	479
+乾溼	ta sip	601
+乾熬	ta ngOO	311
+乾熱	ta juah	528
+乾片	ta phy	428
+乾飯	ta puInn	538
+快乾	quai ta	599
+抹乾	buah ta	519
+抽乾	thiu ta	534
+拭乾	cit ta	493
+撈乾	hoo ta	316
+擦乾	cat ta	960
+曬乾	sai ta	797
+未乾	ber ta	594
+枯乾	qoo ta	517
+水乾	zui ta	481
+乾嘔	ta ooh	546
+乾枯	ta qoo	841
+乾柴烈火	ta ca liat her	523
+乾燥	ta so	4588
+乾酵母	ta kann bu	486
+烤乾	qonn ta	506
+燒乾	sio ta	483
+發乾	huat ta	547
+眼乾	gan ta	474
+過乾癮	ker ta gian	414
+未乾	ber ta	594
+乾唱	ta ciunn	303 
+乾喝	ta lim 
+乾土	ta thoo	424 
+
+#上=頂（有限訓）
+上一	ting zit	1489
+上一个	ting zit gEe
+上个	ting gEe
+上午	ting poo	11182
+上半	ting puann	667
+上季	ting kui	164
+上月	ting gerh	1355
+上盤	ting puann	602
+上禮拜	ting le pai	4104
+上面	ting bin	73643
+上頁	ting iah	700
+樓上	lau ting	9856	
+牀上	cng ting	4447
+網上	bang ting	29537	
+船上	zun ting	2618
+車上	cia ting	3207
+桌上	toh ting	3207
+上次	ting pai	16325
+#下=落（有限訓）
+一下場	zit loh tiunn	434
+一下臺	zit loh tai	424
+一下車	zit loh cia	108
+一下雨	zit loh ho	70
+一下飛機	zit loh hui ki	93
+下樓	loh lau	1657
+下水	loh zui	1980
+有下	u loh	656
+下來	loh lai	38157
+下去	loh qIR	21097
+有下雨	u loh hoo	656
+沒下	bo loh	599
+活下	uah loh	461
+流下	lau loh	1218
+下次	ee pai	11831
+會下雪	eRe loh sErh	28
+#多=外/偌（有限訓）
+十多	zap gua	1611
+多大	gua tua	9782 
+#多=濟（有限訓）
+多少	zere zio	100
+多人	zere lang	5890
+太多	thai zere	45895
+過多	ker zere	8986
+#哪=佗
+到哪	kau tOh	1135
+到哪裏	kau tOh loh	1270
+去哪	qIR tOh	2099
+去哪裏	qIR tOh loh	2312
+哪一	tOh zit	1182
+哪一个	tOh zit gEe	1000
+哪一个人	tOh zit gEe lang	612
+哪一件	tOh zit kiann	547
+哪一位	tOh zit ui	1000
+哪一場	tOh zit tiunn	56
+哪一塊	tOh zit quai	296
+哪一塊	tOh zit tEr	233
+哪一年	tOh zit ni	539
+哪一方面	tOh zit hong bin	200
+哪一爿	tOh zit paInn	170
+哪一箇	tOh zit koo	10000
+哪一篇	tOh zit phy	49
+哪一級	tOh zit qKip	43
+哪一行	tOh zit hang	182
+哪一隻	tOh zit ziah	700
+哪一面	tOh zit bin	83
+哪一頁	tOh zit iah	398
+哪一項	tOh zit hang	1000
+哪來	tOh lai	1483
+哪去	tOh qIR	1088
+哪幾	tOh kui	660
+哪行	tOh hang	503
+哪有	tOh u	2136
+坐哪	zEr tOh	54
+往哪	ong tOh	567
+從哪	ziong tOh	737
+打哪	phah tOh	80
+打哪	tann tOh	80
+放哪	pang tOh	179
+是哪	si tOh	1328
+走哪	zau tOh	144
+
+#塞=窒
+酒塞	ziu that
+
+#他=伊("ih"僅供輸入方便)
+他真	ih zin	237
+問他	muI ih	4947
+教他	ka ih	1012
+放他	pang ih	330
+他上	ih ziunn	637
+他先	ih saInn	655
+他向	ih hIang	629
+他向	ih hiann	629
+他問	ih muI	644
+他會	ih eRe	9094
+他有	ih u	3432
+他還	ih hai	6833
+等他	tan ih	1874
+算他	suInn ih	140
+罵他	maE ih	1419
+聽他	thiann ih	1498
+若他	na ih	79
+說他	serh ih	11705
+請他	ciann ih	1151
+讓他	jIang ih	28989
+趁他	than ih	204
+轉他	zuan ih	40
+送他	sang ih	967
+他受到	ih siu kau 
