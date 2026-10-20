@@ -1,0 +1,1368 @@
+---
+name: bangul
+version: '20261015'
+sort: by_weight
+...
+# ==================== 說明 ====================
+#	聲母:
+#	ㅂ=p  ㅍ=ph  ㅃ=b  ㅁ=m
+#	ㄷ=t  ㅌ=th  ᄅ=l  ㄴ=n
+#	ㄱ=k  ㅋ=kh  ㄲ=g  ㆁ=ng
+#	ㅈ=ts ㅊ=tsh ㅅ=s  ㅿ=j
+#	ㅎ=h  ㅇ=Ø
+#	單元音:
+#	ㅏ=a   ㅔ=e  ㅣ=i  ㆍ=o
+#	ㅗ=oo  ㅜ=u  
+#	ㅓ=er  ㅡ=ir  ㅕ=ee
+#	複元音:
+#	ㅐ=ai  ᅷ=au
+#	ㅑ=ia  ㅛ=io  ㅠ=iu  ᆤ=iau
+#	ᆃ=ou  ᆉ=ua  ㅞ=ue  ㅟ=ui
+#	ᆊ=uai ힵ=uee
+#	ᅻ=eru ힻ=ire
+#	韻尾:
+#	ᄇ=-p  ᄃ=-t  ᄀ=-k  ㅎ=-h
+#	ᄆ=-m  ᄂ=-n  ㆁ=-ng
+#	ㅥ=-nn ㄶ=nnh
+# ==============================================
+#a
+아	a	99
+하	ha	99
+바	pa	99
+파	pha	99
+빠	ba	99
+마	ma	99
+다	ta	99
+타	tha	99
+나	na	99
+라	la	99
+자	za	99
+차	ca	99
+사	sa	99
+가	ka	99
+카	qa	99
+까	ga	99
+ᅀᅡ	ja	99
+ᅌᅡ	nga	99
+#ã
+아ᇿ	ann	99
+하ᇿ	hann	99
+파ᇿ	phann	99
+다ᇿ	tann	99
+타ᇿ	thann	99
+자ᇿ	zann	99
+차ᇿ	cann	99
+사ᇿ	sann	99
+가ᇿ	kann	99
+카ᇿ	qann	99
+#aʔ
+앟	ah	99
+핳	hah	99
+밯	pah	99
+팧	phah	99
+빻	bah	99
+닿	tah	99
+탛	thah	99
+낳	nah	99
+랗	lah	99
+잫	sah	99
+챃	zah	99
+샇	sah	99
+갛	kah	99
+캏	khah	99
+#ãʔ
+않	annh	99
+핞	hannh	99
+삲	sannh	99
+#am
+암	am	99
+함	ham	99
+담	tam	99
+탐	tham	99
+람	lam	99
+잠	zam	99
+참	cam	99
+삼	sam	99
+감	kam	99
+캄	qam	99
+깜	gam	99
+#an
+안	an	99
+한	han	99
+반	pan	99
+판	phan	99
+빤	ban	99
+단	tan	99
+탄	than	99
+란	lan	99
+잔	zan	99
+찬	can	99
+산	san	99
+간	kan	99
+칸	qan	99
+깐	gan	99
+#aŋ
+아ᇰ	ang	99
+하ᇰ	hang	99
+바ᇰ	pang	99
+바ᇰ	pang	99
+빠ᇰ	bang	99
+다ᇰ	tang	99
+타ᇰ	thang	99
+라ᇰ	lang	99
+자ᇰ	zang	99
+차ᇰ	cang	99
+사ᇰ	sang	99
+가ᇰ	kang	99
+카ᇰ	qang	99
+#ap
+압	ap	99
+합	hap	99
+답	tap	99
+탑	thap	99
+랍	lap	99
+잡	zap	99
+찹	cap	99
+삽	sap	99
+갑	kap	99
+캅	qap	99
+#at
+앋	at	99
+핟	hat	99
+받	pat	99
+팓	phat	99
+빧	bat	99
+닫	tat	99
+탇	that	99
+랃	lat	99
+잗	zat	99
+찯	cat	99
+삳	sat	99
+갇	kat	99
+칻	qat	99
+#ak
+악	ak	99
+학	hak	99
+박	pak	99
+팍	phak	99
+빡	bak	99
+닥	tak	99
+탁	thak	99
+락	lak	99
+작	zak	99
+착	cak	99
+삭	sak	99
+각	kak	99
+칵	qak	99
+깍	gak	99
+#aɪ
+애	ai	99
+해	hai	99
+배	pai	99
+패	phai	99
+빼	bai	99
+매	mai	99
+대	tai	99
+태	thai	99
+내	nai	99
+래	lai	99
+재	zai	99
+채	cai	99
+새	sai	99
+개	kai	99
+캐	qai	99
+깨	gai	99
+ᅌᅢ	ngai	99
+#ãɪ
+애ᇿ	ay	99
+해ᇿ	hay	99
+배ᇿ	pay	99
+패ᇿ	phay	99
+대ᇿ	tay	99
+재ᇿ	zay	99
+채ᇿ	cay	99
+새ᇿ	say	99
+개ᇿ	kay	99
+캐ᇿ	qay	99
+#ãɪʔ
+핺	hayh	99
+#aɪʔ
+앻	aih	99
+햏	haih	99
+랳	laih	99
+샣	saih	99
+#au
+ᄋᅷ	au	99
+ᄒᅷ	hau	99
+ᄇᅷ	pau	99
+ᄑᅷ	phau	99
+ᄈᅷ	bau	99
+ᄆᅷ	mau	99
+ᄃᅷ	tau	99
+ᄐᅷ	thau	99
+ᄂᅷ	nau	99
+ᄅᅷ	lau	99
+ᄌᅷ	zau	99
+ᄎᅷ	cau	99
+ᄉᅷ	sau	99
+ᄀᅷ	kau	99
+ᄏᅷ	qau	99
+ᄁᅷ	gau	99
+ᅌᅷ	ngau	99
+#auʔ
+ᄋᅷᇂ	auh	99
+ᄇᅷᇂ	pauh	99
+ᄑᅷᇂ	phauh	99
+ᄈᅷᇂ	bauh	99
+ᄆᅷᇂ	mauh	99
+ᄃᅷᇂ	tauh	99
+ᄂᅷᇂ	nauh	99
+ᄅᅷᇂ	lauh	99
+ᄎᅷᇂ	cauh	99
+ᄀᅷᇂ	kauh	99
+ᅌᅷᇂ	ngauh	99
+#ãuʔ
+ᄒᅷᆭ	haunnh	99
+ᄏᅷᆭ	qaunnh	99
+#e
+에	e	99
+헤	he	99
+베	pe	99
+페	phe	99
+뻬	be	99
+메	me	99
+데	te	99
+테	the	99
+네	ne	99
+레	le	99
+제	ze	99
+체	ce	99
+세	se	99
+게	ke	99
+케	qe	99
+께	ge	99
+ᅌᅦ	nge	99
+#ẽ
+에ᇿ	enn	99
+헤ᇿ	henn	99
+베ᇿ	penn	99
+폐ᇿ	phenn	99
+뎨ᇿ	tenn	99
+테ᇿ	thenn	99
+세ᇿ	senn	99
+제ᇿ	zenn	99
+체ᇿ	cenn	99
+게ᇿ	kenn	99
+케ᇿ	qenn	99
+#eʔ	
+엫	eh	99
+헿	heh	99
+벻	peh	99
+펳	pheh	99
+뼇	beh	99
+멯	meh	99
+뎋	teh	99
+텧	theh	99
+넿	neh	99
+렣	leh	99
+젷	zeh	99
+쳏	ceh	99
+셓	seh	99
+겧	keh	99
+켛	qeh	99
+껳	
+ᅌᅦᇂ	ngeh	99
+#ẽʔ	
+엖	
+헪	hennh	99
+켆	qennh	99
+#i
+이	i	99
+히	hi	99
+비	pi	99
+피	phi	99
+삐	bi	99
+미	mi	99
+디	ti	99
+티	thi	99
+니	ni	99
+리	li	99
+지	zi	99
+치	ci	99
+ᅀᅵ	ji	99
+시	si	99
+기	ki	99
+키	qi	99
+끼	gi	99
+ᅌᅵ	ngi	99
+#ĩ	
+이ᇿ	y	99
+히ᇿ	hy	99
+비ᇿ	py	99
+피ᇿ	phy	99
+디ᇿ	ty	99
+티ᇿ	thy	99
+지ᇿ	zy	99
+치ᇿ	cy	99
+시ᇿ	sy	99
+기ᇿ	ky	99
+키ᇿ	qy	99
+#ĩʔ
+싢	syh	99
+#iʔ
+잏	ih	99
+빟	pih	99
+핗	phih	99
+삫	bih	99
+밓	mih	99
+딯	tih	99
+팋	thih	99
+닣	nih	99
+맇	lih	99
+짛	zih	99
+칳	cih	99
+싷	sih	99
+깋	kih	99
+킿	qih	99
+ᅀᅵᇂ	jih	99
+#im
+임	im	99
+힘	him	99
+딤	tim	99
+팀	thim	99
+림	lim	99
+짐	zim	99
+침	cim	99
+ᅀᅵᆷ	jim	99
+심	sim	99
+김	kim	99
+킴	qim	99
+낌	gim	99
+#in
+인	in	99
+힌	hin	99
+빈	pin	99
+핀	phin	99
+삔	bin	99
+딘	tin	99
+틴	thin	99
+린	lin	99
+진	zin	99
+친	cin	99
+ᅀᅵᆫ	jin	99
+신	sin	99
+긴	kin	99
+킨	qin	99
+낀	gin	99
+#iŋ
+이ᇰ	ing	99
+히ᇰ	hing	99
+비ᇰ	ping	99
+피ᇰ	phing	99
+삐ᇰ	bing	99
+디ᇰ	ting	99
+티ᇰ	thing	99
+리ᇰ	ling	99
+지ᇰ	zing	99
+치ᇰ	cing	99
+시ᇰ	sing	99
+기ᇰ	king	99
+키ᇰ	qing	99
+끼ᇰ	ging	99
+ᅀᅵᇰ	jing	99
+#ip
+입	ip	99
+힙	hip	99
+립	lip	99
+집	zip	99
+칩	cip	99
+ᅀᅵᆸ	jip	99
+십	sip	99
+깁	kip	99
+킵	qip	99	
+#it
+읻	it	99
+힏	hit	99
+빋	pit	99
+핃	phit	99
+삗	bit	99
+딛	tit	99
+틷	thit	99
+릳	lit	99
+짇	zit	99
+칟	cit	99
+ᅀᅵᆮ	jit	99
+싣	sit	99
+긷	kit	99
+킫	qit	99
+#ik
+익	ik	99
+힉	hik	99
+삑	bik	99
+빅	pik	99
+픽	phik	99
+딕	tik	99
+틱	thik	99
+릭	lik	99
+직	zik	99
+칙	cik	99
+식	sik	99
+낍	gik	99
+긱	kik	99
+킥	qik	99
+#ɪa	
+야	ia	99
+햐	hia	99
+먀	mia	99
+댜	tia	99
+냐	nia	99
+랴	lia	99
+쟈	zia	99
+챠	cia	99
+ᅀᅣ	jia	99
+샤	sia	99
+갸	kia	99
+캬	qia	99
+꺄	gia	99
+ᅌᅣ	ngia	99
+#iã	
+야ᇿ	iann	99
+햐ᇿ	hiann	99
+뱌ᇿ	piann	99
+퍄ᇿ	phiann	99
+댜ᇿ	tiann	99
+탸ᇿ	thiann	99
+쟈ᇿ	ziann	99
+챠ᇿ	ciann	99
+샤ᇿ	siann	99
+갸ᇿ	kiann	99
+캬ᇿ	qiann	99
+#ɪaʔ
+얗	iah	99
+햫	hiah	99
+뱧	piah	99
+퍟	phiah	99
+댷	tiah	99
+턓	thiah	99
+럏	liah	99
+쟣	ziah	99
+챻	ciah	99
+ᅀᅣᇂ	jiah	99
+샿	siah	99
+걓	kiah	99
+컇	qiah	99
+ᄁᆘᇂ	giah	99
+#iãʔ	
+얂	iannh	99
+햖	hiannh	99
+샪	
+#ɪam
+얌	iam	99
+햠	hiam	99
+댬	tiam	99
+턈	thiam	99
+럄	liam	99
+쟘	ziam	99
+챰	ciam	99
+ᅀᅣᆷ	jiam	99
+샴	siam	99
+걈	kiam	99
+캼	qiam	99
+꺔	giam	99
+#ɪan
+얀	ian	99
+햔	hian	99
+댠	tian	99
+탼	thian	99
+랸	lian	99
+쟌	zian	99
+챤	cian	99
+샨	sian	99
+갼	kian	99
+캰	qian	99
+꺈	gian	99
+ᅀᅣᆫ	jian	99
+뺜	bian	99
+뱐	pian	99
+퍈	phian	99
+#ɪaŋ
+야ᇰ	iang	99
+햐ᇰ	hiang	99
+뱌ᇰ	piang	99
+퍄ᇰ	phiang	99
+랴ᇰ	liang	99
+ᄃᆘᇰ	tiang	99
+쟈ᇰ	ziang	99
+챠ᇰ	ciang	99
+샤ᇰ	siang	99
+캬ᇰ	qiang	99
+꺄ᇰ	giang	99
+#ɪaŋ（漳）
+#ᅀᅣᇰ	jiang	99
+#갸ᇰ	kiang	99
+#ɪap	
+얍	iap	99
+햡	hiap	99
+댭	tiap	99
+턉	thiap	99
+럅	liap	99
+쟙	ziap	99
+챱	ciap	99
+ᅀᅣᆸ	jiap	99
+샵	siap	99
+걉	kiap	99
+캽	qiap	99
+꺕	giap	99
+#et
+엗	iat	99
+헫	hiat	99
+벧	piat	99
+펟	phiat	99
+뻳	biat	99
+덷	tiat	99
+텓	thiat	99
+렏	liat	99
+젣	ziat	99
+첻	ciat	99
+쩯	jiat	99
+섿	siat	99
+겓	kiat	99
+켇	qiat	99
+껟	giat	99
+#ɪau
+ᄋᆤ	iau	99
+ᄒᆤ	hiau	99
+ᄇᆤ	piau	99
+ᄑᆤ	phiau	99
+ᄈᆤ	biau	99
+ᄆᆤ	miau	99
+ᄃᆤ	tiau	99
+ᄐᆤ	thiau	99
+ᄂᆤ	niau	99
+ᄅᆤ	liau	99
+ᄌᆤ	ziau	99
+ᄎᆤ	ciau	99
+ᅀᆤ	jiau	99
+ᄉᆤ	siau	99
+ᄀᆤ	kiau	99
+ᄏᆤ	qiau	99
+ᄁᆤ	giau	99
+ᅌᆤ	ngiau	99
+#ɪãu
+ᄋᆤᇿ	iaunn	99
+#ɪauʔ	
+ᄋᆤᆭ	
+햟	
+ᄏᆤᆭ	qiauh	99
+ᅌᆤᇂ	ngiauh	99
+#ɪo（理論上應該是ᄋᆝ）
+요	io	99
+효	hio	99
+뵤	pio	99
+표	phio	99
+뾰	bio	99
+됴	tio	99
+툐	thio	99
+료	lio	99
+죠	zio	99
+쵸	cio	99
+ᅀᅭ	jio	99
+쇼	sio	99
+교	kio	99
+쿄	qio	99
+꾜	gio	99
+#ɪoʔ（理論上應該是ᄋᆝᇂ）
+욯	ioh	99
+훃	hioh	99
+둏	tioh	99
+룧	lioh	99
+죻	zioh	99
+춓	cioh	99
+숗	sioh	99
+쿟	kioh	99
+굫	qioh	99
+꾷	gioh	99
+
+#ɪɔŋ
+요ᇰ	iong	99
+효ᇰ	hiong	99
+됴ᇰ	tiong	99
+툐ᇰ	thiong	99
+료ᇰ	liong	99
+ᄉᆚᇰ	siong	99
+죠ᇰ	ziong	99
+쵸ᇰ	ciong	99
+ᅀᅭᇰ	jiong	99
+교ᇰ	kiong	99
+쿄ᇰ	qiong	99
+꾜ᇰ	giong	99
+#ɪɔk
+욕	iok	99
+횩	hiok	99
+됵	tiok	99
+툑	thiok	99
+룍	liok	99
+죡	ziok	99
+쵹	ciok	99
+ᅀᅭᆨ	jiok	99
+쇽	siok	99
+굑	kiok	99
+쿅	qiok	99
+꾝	giok	99
+#iu
+유	iu	99
+휴	hiu	99
+뷰	piu	99
+쀼	biu	99
+듀	tiu	99
+튜	thiu	99
+뉴	niu	99
+류	liu	99
+쥬	ziu	99
+츄	ciu	99
+ᅀᅲ	jiu	99
+슈	siu	99
+규	kiu	99
+큐	qiu	99
+뀨	giu	99
+ᅌᅲ	ngiu	99
+#iuʔ
+끃	giuh
+늏	niuh
+튷	tiuh
+큫	kiuh
+즇	ziuh
+#iũ
+유ᇿ	iunn	99
+휴ᇿ	hiunn	99
+듀ᇿ	tiunn	99
+츄ᇿ	ciunn	99
+쥬ᇿ	ziunn	99
+슈ᇿ	siunn	99
+규ᇿ	kiunn	99
+큐ᇿ	qiunn	99
+#iũʔ
+윦	
+휺	
+#o
+ᄋᆞ	o	99
+ᄒᆞ	ho	99
+ᄇᆞ	po	99
+ᄑᆞ	pho	99
+ᄈᆞ	bo	99
+ᄃᆞ	to	99
+ᄐᆞ	tho	99
+ᄂᆞ	no	99
+ᄅᆞ	lo	99
+ᄏᆞ	zo	99
+ᄎᆞ	co	99
+ᄎᆞ	so	99
+ᄀᆞ	ko	99
+ᄏᆞ	qo	99
+ᄁᆞ	go	99
+#ɔ
+오	oo	99
+호	hoo	99
+보	poo	99
+포	phoo	99
+뽀	boo	99
+모	moo	99
+도	too	99
+토	thoo	99
+노	noo	99
+로	loo	99
+조	zoo	99
+초	coo	99
+소	soo	99
+고	koo	99
+코	qoo	99
+꼬	goo	99
+ᅌᅩ	ngoo	99
+#ɪɔʔ
+훃	hiooh	99
+#ɔ̃
+오ᇿ	onn	99
+호ᇿ	honn	99
+코ᇿ	qonn	99
+#oʔ
+ᄋᆞᇂ	oh	99
+ᄒᆞᇂ	hoh	99
+ᄇᆞᇂ	poh	99
+ᄑᆞᇂ	phoh	99
+ᄈᆞᇂ	boh	99
+ᄃᆞᇂ	toh	99
+ᄐᆞᇂ	thoh	99
+ᄅᆞᇂ	loh	99
+ᄌᆞᇂ	zoh	99
+ᄎᆞᇂ	coh	99
+ᄉᆞᇂ	soh	99
+ᄀᆞᇂ	koh	99	
+#ɔʔ	
+옿	ooh	99
+홓	
+뫃	mooh	99
+뽛	
+돟	
+롷	
+곻	
+#ɔ̃ʔ
+옪	
+혾	
+#ɔm	
+옴	om	99
+돔	tom	99
+솜	som	99
+#ɔŋ	
+오ᇰ	ong	99
+호ᇰ	hong	99
+보ᇰ	pong	99
+포ᇰ	phong	99
+뽀ᇰ	bong	99
+도ᇰ	tong	99
+토ᇰ	thong	99
+로ᇰ	long	99
+조ᇰ	zong	99
+초ᇰ	cong	99
+소ᇰ	song	99
+고ᇰ	kong	99
+코ᇰ	qong	99
+꼬ᇰ	gong	99
+#ɔp
+#옵	op	99
+홉	hop	99
+롭	
+곱			
+#ɔk
+옥	ok	99
+혹	hok	99
+복	pok	99
+폭	phok	99
+뽁	bok	99
+독	tok	99
+톡	thok	99
+록	lok	99
+족	zok	99
+촉	cok	99
+속	sok	99
+곡	kok	99
+콕	qok	99
+꼭	gok	99
+#u
+우	u	99
+후	hu	99
+부	pu	99
+푸	phu	99
+뿌	bu	99
+두	tu	99
+투	thu	99
+루	lu	99
+주	zu	99
+추	cu	99
+ᅀᅮ	ju	99
+수	su	99
+구	ku	99
+쿠	thu	99
+꾸	gu	99
+#uʔ	
+웋	uh	99
+붛	puh	99
+풓	phuh	99
+뿧	
+둫	tuh	99
+퉇	thuh	99
+뤃	luh	99
+줗	zuh	99
+춯	cuh	99
+숳	suh	99
+쿻	quh	99
+#un
+운	un	99
+훈	hun	99
+분	pun	99
+푼	phun	99
+뿐	bun	99
+둔	tun	99
+툰	thun	99
+룬	lun	99
+준	zun	99
+춘	cun	99
+ᅀᅮᆫ	jun	99
+순	sun	99
+군	kun	99
+쿤	qun	99
+꾼	gun	99
+#ut	
+욷	ut	99
+훋	hut	99
+붇	put	99
+푿	phut	99
+뿓	but	99
+둗	tut	99
+툳	thut	99
+룯	lut	99
+줃	zut	99
+춛	cut	99
+숟	sut	99
+굳	kut	99
+쿧	qut	99	
+#ua
+ᄋᆉ	ua	99
+ᄀᆉ	kua	99
+ᄇᆉ	pua	99
+ᄑᆉ	phua	99
+ᄈᆉ	bua	99
+ᄃᆉ	tua	99
+ᄐᆉ	thua	99
+ᄒᆉ	hua	99
+ᄌᆉ	zua	99
+ᄎᆉ	cua	99
+ᄉᆉ	sua	99
+ᅀᆉ	jua	99
+ᄏᆉ	qua	99
+ᄅᆉ	lua	99
+ᄁᆉ	gua	99
+#uã	
+ᄋᆉᇿ	uann	99
+ᄒᆉᇿ	huann	99
+ᄇᆉᇿ	puann	99
+ᄑᆉᇿ	phuann	99
+ᄃᆉᇿ	tuann	99
+ᄐᆉᇿ	thuann	99
+ᄌᆉᇿ	zuann	99
+ᄎᆉᇿ	cuann	99
+ᄉᆉᇿ	suann	99
+ᄀᆉᇿ	kuann	99
+ᄏᆉᇿ	quann	99	
+#uaʔ	
+ᄋᆉᇂ	uah	99
+ᄒᆉᇂ	huah	99
+ᄇᆉᇂ	puah	99
+ᄑᆉᇂ	phuah	99
+ᄈᆉᇂ	buah	99
+ᄃᆉᇂ	tuah	99
+ᄐᆉᇂ	thuah	99
+ᄅᆉᇂ	luah	99
+ᄌᆉᇂ	zuah	99
+ᄎᆉᇂ	cuah	99
+ᅀᆉᇂ	juah	99
+ᄉᆉᇂ	suah	99
+ᄀᆉᇂ	kuah	99
+ᄏᆉᇂ	quah	99
+#uan	
+ᄋᆉᆫ	uan	99
+ᄒᆉᆫ	huan	99
+ᄑᆉᆫ	phuan	99
+ᄇᆉᆫ	puan	99
+ᄈᆉᆫ	buan	99
+ᄃᆉᆫ	tuan	99
+ᄐᆉᆫ	thuan	99
+ᄅᆉᆫ	luan	99
+ᄌᆉᆫ	zuan	99
+ᄉᆉᆫ	suan	99
+ᄎᆉᆫ	cuan	99
+ᄏᆉᆫ	quan	99
+ᄀᆉᆫ	kuan	99
+ᄁᆉᆫ	guan	99
+#uaŋ
+ᄋᆉᇰ	uang	99
+ᄒᆉᇰ	huang	99
+#ᄎᆉᇰ	cuang	99
+#uat
+ᄋᆉᆮ	uat	99
+ᄒᆉᆮ	huat	99
+ᄇᆉᆮ	puat	99
+ᄑᆉᆮ	phuat	99
+ᄈᆉᆮ	buat	99
+ᄃᆉᆮ	tuat	99
+ᄐᆉᆮ	thuat	99
+ᄅᆉᆮ	luat	99
+ᄌᆉᆮ	zuat	99
+ᄎᆉᆮ	cuat	99	
+ᄉᆉᆮ	suat	99
+ᄀᆉᆮ	kuat	99
+ᄏᆉᆮ	quat	99
+ᄁᆉᆮ	guat	99
+#uai	
+ᄋᆊ	uai	99
+ᄒᆊ	huai	99
+ᄉᆊ	suai	99
+ᄀᆊ	kuai	99
+ᄏᆊ	quai	99
+ᄆᆊ	muai	99
+ᄌᆊ	zuai	99
+#uãi	
+ᄋᆊᇿ	uay	99
+ᄒᆊᇿ	huay	99
+ᄌᆊᇿ	zuay	99
+ᄉᆊᇿ	suay	99
+ᄀᆊᇿ	kuay	99
+#uaiʔ
+ᄋᆊᇂ	
+ᄈᆊᇂ	
+ᄃᆊᇂ	
+ᄎᆊᇂ	
+ᄀᆊᇂ	
+#uãiʔ	
+ᄋᆊᆭ	uayh	99
+ᄀᆊᆭ	
+#ue	
+웨	ue	99
+훼	hue	99
+붸	pue	99
+풰	phue	99
+쀄	bue	99
+뭬	mue	99
+뒈	tue	99
+퉤	thue	99
+뤠	lue	99
+줴	zue	99
+췌	cue	99
+ᅀᅰ	jue	99
+쉐	sue	99
+궤	kue	99
+퀘	que	99
+꿰	gue	99，
+#ueʔ1
+윃	ueh	99
+뷓	pueh	99
+퉿	thueh	99
+뤻	lueh	99
+쥏	zueh	99
+췧	cueh	99
+쉫	sueh	99
+궿	kueh	99
+퀳	queh	99
+뀋	gueh	99
+ᅌᅰᇂ	ngueh	99
+#ueʔ2（漳）
+#쀟	bueh	99
+#퓋	phueh	99
+#휗	hueh	99
+#ui
+위	ui	99
+휘	hui	99
+뷔	pui	99
+퓌	phui	99
+쀠	bui	99
+뮈	mui	99
+뒤	tui	99
+튀	thui	99
+뤼	lui	99
+쥐	zui	99
+취	cui	99
+쉬	sui	99
+귀	kui	99
+퀴	qui	99
+뀌	gui	99
+#uĩ	
+위ᇿ	uy	99
+휘ᇿ	huy	99
+뷔ᇿ	puy	99
+쥣	zuy	99
+취ᇿ	cuy	99
+쉬ᇿ	suy	99
+귀ᇿ	kuy	99
+뒤ᇿ	tuy	99
+튀ᇿ	thuy	99
+#uiʔ
+윟	uih	99
+휳	huih	99
+귛	kuih	99
+#m̩
+음	m	99
+흠	hm	99
+#m̩ʔ	
+으ᇡ	mh	99
+흐ᇡ	hmh	99
+#ŋ̍	
+으ᇰ	ng	99
+흐ᇰ	hng	99
+브ᇰ	png	99
+므ᇰ	mng	99
+드ᇰ	tng	99
+트ᇰ	thng	99
+느ᇰ	nng	99
+즈ᇰ	zng	99
+츠ᇰ	cng	99
+스ᇰ	sng	99
+그ᇰ	kng	99
+크ᇰ	qng	99
+#ŋ̍ʔ	
+으ퟶ	
+흐ퟶ	hngh	99
+프ퟶ	phngh	99
+므ퟶ	mngh	99
+츠ퟶ	cngh	99
+트ퟶ	thngh	99
+스ퟶ	sngh	99
+크ퟶ	qngh	99
+#ɛ
+여	ee	99
+혀	hee	99
+겨	kee	99
+켜	qee	99
+져	zee	99
+쳐	cee	99
+셔	see	99
+려	lee	99
+며	mee	99
+녀	nee	99
+뼈	bee	99
+벼	pee	99
+펴	phee	99
+껴	gee	99
+ᅌᅧ	ngee	99
+#ɛʔ
+옇	eeh	99
+렿	leeh	99
+몋	meeh	99
+뎧	teeh	99
+뼣	beeh	99
+졓	zeeh	99
+셯	seeh	99
+폏	peeh	99
+쳫	ceeh	99
+녛	neeh	99
+혛	heeh	99
+곃	keeh	99
+켷	qeeh	99
+톃	theeh	99
+#uɛ
+ᄋힵ	uee	99
+ᄀힵ	kuee	99
+ᄒힵ	huee	99
+#uɛʔ
+ᄋힵᇂ	ueeh	99
+#ɪɔ̃	
+#요ᇿ	ionn	99
+#효ᇿ	hionn	99
+#됴ᇿ	tionn	99
+#죠ᇿ	zionn	99
+#쵸ᇿ	cionn	99
+#쇼ᇿ	sionn	99
+#교ᇿ	kionn	99
+#쿄ᇿ	qionn	99
+#ɯ
+으	ir	99
+흐	hir	99
+그	kir	99
+크	qir	99
+끄	gir	99
+르	lir	99
+ᅀᅳ	jir	99
+스	sir	99
+즈	zir	99
+츠	cir	99
+드	tir	99
+트	thir	99
+
+#ɯe
+ᄋힻ	ire	99
+ᄀힻ	kire	99
+ᄏힻ	qire	99
+ᄌힻ	zire	99
+ᄎힻ	cire	99
+ᄉힻ	sire	99
+ᄇힻ	pire	99
+ᄑힻ	phire	99
+ᄈힻ	bire	99
+ᄃힻ	tire	99
+ᄐힻ	thire	99
+ᄅힻ	lire	99
+ᄁힻ	gire	99
+ᄒힻ	hire	99
+#ɯeʔ
+ᄋힻᇂ	ireh	99
+ᄒힻᇂ	hireh	99
+ᄇힻᇂ	pireh	99
+ᄑힻᇂ	phireh	99
+ᄈힻᇂ	bireh	99
+ᄐힻᇂ	thireh	99
+ᄅힻᇂ	lireh	99
+ᄌힻᇂ	zireh	99
+ᄎힻᇂ	cireh	99
+ᄉힻᇂ	sireh	99
+ᄀힻᇂ	kireh	99
+ᄏힻᇂ	qireh	99
+ᄁힻᇂ	gireh	99
+ᅌힻᇂ	ngireh	99
+#ɯo
+#ᄋힼ	iro	99
+#ᄒힼ	hiro	99
+#ᄌힼ	ziro	99
+#ᄎힼ	ciro	99
+#ᄉힼ	siro	99
+#ᄃힼ	tiro	99
+#ᄐힼ	thiro	99
+#ᄅힼ	liro	99
+#ᄀힼ	kiro	99
+#ᄏힼ	qiro	99
+#ᄁힼ	giro	99
+#ᄈힼ	biro	99
+#ᄑힼ	phiro	99
+#ɯʔ
+긓	kirh	99
+츻	cirh	99
+#ə
+어	er	99
+허	her	99
+버	per	99
+퍼	pher	99
+뻐	ber	99
+더	ter	99
+터	ther	99
+러	ler	99
+저	zer	99
+처	cer	99
+서	ser	99
+거	ker	99
+커	qer	99
+꺼	ger	99
+#əʔ
+엏	erh	99
+뻫	berh	99
+덯	terh	99
+렇	lerh	99
+젛	zerh	99
+섷	serh	99
+겋	kerh	99
+컇	qerh	99
+껗	gerh	99
+#əe（暫無頭緒orz）
+#ən
+언	ern	99
+건	kern	99
+껀	gern	99
+헌	hern	99
+컨	qern	99
+#əŋ
+어ᇰ	erng	99
+허ᇰ	herng	99
+버ᇰ	perng	99
+퍼ᇰ	pherng	99
+더ᇰ	terng	99
+터ᇰ	therng	99
+러ᇰ	lerng	99
+너ᇰ	nerng	99
+저ᇰ	zerng	99
+처ᇰ	cerng	99
+서ᇰ	serng	99
+거ᇰ	kerng	99
+커ᇰ	qerng	99
+#əm
+섬	serm	99
+험	herm	99
+첨	cerm	99
+점	zerm	99
+#ək
+컥	kerk	99
+턱	terk	99
+컥	qerk	99
+척	cerk	99
+적	zerk	99
+#ət
+헏	hert	99
+걷	gert	99
+#əu
+ᄋᅻ	eru	99
+ᄒᅻ	heru	99
+ᄌᅻ	zeru	99
+ᄎᅻ	ceru	99
+ᄉᅻ	seru	99
+ᄃᅻ	teru	99
+ᄐᅻ	theru	99
+ᄅᅻ	leru	99
+ᄀᅻ	keru	99
+ᄏᅻ	qeru	99
+ᄁᅻ	geru	99
+ᄈᅻ	beru	99
+ᄑᅻ	pheru	99
+#uam
+ᄒᆉᆷ	huam	99
+#uap
+ᄒᆉᆸ	huap	99
+#ɪak1
+뱍	piak	99
+퍅	phiak	99
+챡	ciak	99
+캭	qiak	99
+#ɪak2
+#약	iak	99
+#샥	siak	99
+#댝	tiak	99
+#탹	thiak	99
+#햑	hiak	99
+#뺙	biak	99
+#럑	liak	99
+#쟉	ziak	99
+#갹	kiak	99
+#ɪəŋ(暫無頭緒orz)
+#ɪək(暫無頭緒orz)
+#en
+#엔	en	99
+#헨	hen	99
+#벤	pen	99
+#펜	phen	99
+#뻰	ben	99
+#덴	ten	99
+#텐	then	99
+#렌	len	99
+#젠	zen	99
+#첸	cen	99
+#ᅀᅦᆫ	jen	99
+#센	sen	99
+#겐	ken	99
+#켄	qen	99
+#껜	gen	99
+
+#ao
+#ᄋᅶ	ao	99
+#ᄐᅶ	hao	99
+#ᄇᅶ	pao	99
+#ᄑᅶ	phao	99
+#ᄈᅶ	bao	99
+#ᄆᅶ	mao	99
+#ᄃᅶ	tao	99
+#ᄐᅶ	thao	99
+#ᄂᅶ	nao	99
+#ᄅᅶ	lao	99
+#ᄌᅶ	zao	99
+#ᄎᅶ	cao	99
+#ᄉᅶ	sao	99
+#ᄀᅶ	kao	99
+#ᄏᅶ	qao	99
+#ᄁᅶ	gao	99
+#ᅌᅶ	ngao	99
+#aoʔ
+#ᄋᅶᇂ	aoh	99
+#ᄇᅶᇂ	paoh	99
+#ᄑᅶᇂ	phaoh	99
+#ᄈᅶᇂ	baoh	99
+#ᄆᅶᇂ	maoh	99
+#ᄃᅶᇂ	taoh	99
+#ᄂᅶᇂ	naoh	99
+#ᄅᅶᇂ	laoh	99
+#ᄎᅶᇂ	caoh	99
+#ᄀᅶᇂ	kaoh	99
+#ᅌᅶᇂ	ngaoh	99
+#oam
+#홤	hoam	99
+#oap
+#홥	hoap	99
+#oa
+#와	oa	99
+#화	hoa	99
+#봐	poa	99
+#퐈	phoa	99
+#뽜	boa	99
+#뫄	moa	99
+#돠	toa	99
+#톼	thoa	99
+#놔	noa	99
+#롸	loa	99
+#좌	soa	99
+#촤	zoa	99
+#ᅀᅪ	joa	99
+#솨	soa	99
+#과	koa	99
+#콰	qoa	99
+#꽈	goa	99
+#oã	
+#왓	goann	99
+#홧	hoann	99
+#봣	poann	99
+#퐛	phoann	99
+#돳	toann	99
+#퇏	thoann	99
+#좟	zoann	99
+#촷	coann	99
+#솻	soann	99
+#괏	koann	99
+#쾃	qoann	99	
+#oaʔ	
+#왛	oah	99
+#홯	hoah	99
+#봫	poah	99
+#퐣	phoah	99
+#뽷	boah	99
+#돻	toah	99
+#퇗	thoah	99
+#뢓	loah	99
+#좧	zoah	99
+#촿	coah	99
+#ᅀᅪᇂ	joah	99
+#쇃	soah	99
+#괗	koah	99
+#쾋	qoah	99
+#oan
+#완	oan	99
+#환	hoan	99
+#봔	poan	99
+#퐌	phoan	99
+#뽠	boan	99
+#돤	toan	99
+#퇀	thoan	99
+#롼	loan	99
+#좐	zoan	99
+#촨	coan	99
+#솬	soan	99
+#관	koan	99
+#콴	qoan	99
+#꽌	goan	99
+#oaŋ	
+#왕	uang	99
+#황	huang	99
+#촹	cuang	99
+#oat
+#왇	oat	99
+#홛	hoat	99
+#봗	poat	99
+#퐏	phuat	99
+#뽣	buat	99
+#돧	toat	99
+#퇃	thoat	99
+#롿	loat	99
+#좓	zuat	99
+#솯	suat	99
+#괃	kuat	99
+#콷	quat	99
+#꽏	guat	99
+#oai	
+#왜	oai	99
+#홰	hoai	99
+#쇄	soai	99
+#괘	koai	99
+#쾌	qoai	99	
+#oãi
+#ᄋᆧᇿ	oay	99
+#ᄒᆧᇿ	hoay	99
+#ᄌᆧᇿ	zoay	99
+#ᄉᆧᇿ	soay	99
+#ᄀᆧᇿ	koay	99	
+#oaiʔ	
+#왷	oaih	99
+#뾓	boaih	99
+#뢯	loaih	99
+#쵛	zoaih	99
+#괳	koaih	99
+#oãiʔ
+#ᄋᆧᆭ	oath	99
+#ᄀᆧᆭ	koayh	99
+#ɔu	
+#ᄋᆃ	ou	99
+#ᄒᆃ	hou	99
+#ᄇᆃ	pou	99
+#ᄑᆃ	phou	99
+#ᄈᆃ	bou	99
+#ᄆᆃ	mou	99
+#ᄃᆃ	tou	99
+#ᄐᆃ	thou	99
+#ᄂᆃ	nou	99
+#ᄅᆃ	lou	99
+#ᄌᆃ	zou	99
+#ᄎᆃ	cou	99
+#ᄉᆃ	sou	99
+#ᄀᆃ	kou	99
+#ᄏᆃ	qou	99
+#ᄁᆃ	gou	99
+#ᅌᆃ	ngou	99

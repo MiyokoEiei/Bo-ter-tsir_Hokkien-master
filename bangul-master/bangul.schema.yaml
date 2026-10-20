@@ -1,0 +1,139 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: bangul
+  name: 閩南語古諺文
+  version: "20261015"
+  author:
+    - 沒袋子 <tenn_tik_u@qq.com>
+  description: |
+    閩南語諺文輔助輸入方案
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'abcdefghijklrnmopqstuvwxyz'
+  initials: xvzywutsqponmlkjihgfedrcba
+  delimiter: " '"
+  algebra:
+    - abbrev/^([xvzywutsqponmlrkjihgfedcba]h?).+$/$1/ 
+    - derive/^([a-z]+)\d$/$1/
+#聲母
+    - derive/^th/v/														#簡化拼式
+    - derive/^ph/f/													#簡化拼式
+#韻母
+    - derive/oo/w/														#主流，簡化拼式
+    - derive/eru/ou/												#永德（老）
+    - derive/ire/re/													#汐止腔，簡化拼式
+    #- derive/enn/y/													#泉音
+    - derive/enn/ey/													#漳音，簡化拼式
+    - derive/ir/r/														#主流，簡化拼式
+##鼻化韻
+    - derive/i([au])nn/y$1/
+translator:
+  dictionary: bangul
+  preedit_format:
+    #通用
+    - 'xform z ts'
+    - 'xform q kh'
+    - 'xform f ph'
+    - 'xform w oo'
+    - 'xform c tsh'
+    - 'xform y inn'
+    - 'xform ya iann'
+    - 'xform inna iann'
+    - 'xform v tʰ'
+    - 'xform x ~'
+    - 'xform einn enn'
+    - 'xform ey enn'    
+    #漳腔專用
+    - 'xform yo ionn'
+    - 'xform ionn ionn'
+    - 'xform inno ionn'
+    - 'xform sinno sionn'
+    - 'xform zinno tsionn'
+    - 'xform cinno tshionn'
+    - 'xform tinno tionn'
+    - 'xform kinno kionn'
+    - 'xform qinno khionn'
+    - 'xform y inn'
+    
+  enable_user_dict: true
+  enable_sentence: true
+  enable_completion: true
+  enable_encoder: true
+  encode_commit_history: true
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: minus, send: minus }  # 第7調
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*$"
+    dmode_lookup: "/[a-z]*$"
+
+style:
+  display_tray_icon: false
+  font_face: "Microsoft JhengHei UI"
+  font_point: 12
+  fullscreen: false
+  horizontal: false
+  inline_preedit: true
+  layout:
+    border_width: 3
+    candidate_spacing: 5
+    hilite_padding: 2
+    hilite_spacing: 4
+    margin_x: 12
+    margin_y: 6
+    min_height: 0
+    min_width: 160
+    round_corner: 4
+    spacing: 10
