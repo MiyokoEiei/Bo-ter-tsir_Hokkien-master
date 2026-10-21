@@ -112,7 +112,8 @@
 - 字符顯示存在問題，尤其在輸入框上
 - 不喜者可以直接將schema.yaml中dependencies和translator的bangul部分刪除
 
-<img width="361" height="488" alt="image" src="https://github.com/user-attachments/assets/c589208d-1ca9-4796-9082-1380cf4e5af0" />
+<img width="347" height="487" alt="image" src="https://github.com/user-attachments/assets/23f75a2b-441b-4168-98be-aafb8ee1be92" />
+
 
 ## 尚待解決的缺陷
 - 統一將同一碼位的單字詞頻調整爲0—100，使得首字母簡拼輸入的詞頻比較混亂。如輸入s，「僧」、「勺」排在「是」、「先」等常用詞前面
