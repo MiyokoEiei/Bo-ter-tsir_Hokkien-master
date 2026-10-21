@@ -49,11 +49,12 @@
 | iap | iap | iap | m̩ʔ | mh | mh | iã | iann | ya |
 | iat | iat | iat | ŋ̍ʔ | ngh | ngh | iũ | iunn | yu |
 | iak | iak | iak | ɔ̃ʔ | onnh | onnh | iɔ̃ | ionn | yo |
-| iɔk | iok | iok | ũẽʔ | uennh | uennh | iãũ | iaunn | iaunn |
+| iɔk | iok | iok | ũẽʔ | uennh | uennh | iãũ | iaunn | iaunn/yau |
 | ut | ut | ut | ũĩʔ | uinnh | uyh | uã | uann | uann |
 | uat | uat | uat | uãĩʔ | uainnh | uayh | uẽ | uenn | uenn/uey |
 | uap | - | uap | 　 | 　 | 　 | uĩ | uinn | uy |
 | ɔk | ok | ok | 　 | 　 | 　 | uãĩ | uainn | uay |
+| ɔp | op | op | 　 | 　 | 　 |  |  |  |
 | ət | - | ert | 　 | 　 | 　 | 　 | 　 | 　 |
 | ək | - | erk | 　 | 　 | 　 | 　 | 　 | 　 |
 | aʔ | ah | ah | 　 | 　 | 　 | 　 | 　 | 　 |
@@ -117,7 +118,7 @@
 
 ## 尚待解決的缺陷
 - 統一將同一碼位的單字詞頻調整爲0—100，使得首字母簡拼輸入的詞頻比較混亂。如輸入s，「僧」、「勺」排在「是」、「先」等常用詞前面
-- 帶inn的鼻化韻並未統一設置簡拼，如-iaunn、-iaunnh等並不能按-yau、-yauh打出來
+- ~~帶inn的鼻化韻並未統一設置簡拼，如-iaunn、-iaunnh等並不能按-yau、-yauh打出來~~
 - m、ng、ngh等聲化韻占用簡拼碼位，如輸入m只能顯示「毋」、「梅」等字，以m-爲聲母的漢字不顯示在輸入框中
 - 腔口差的細分主要集中於泉山、漳北和泉府等若干腔口之間，對於漳南、廈門、臺灣等區域內部的方音差認知有限，因而也未作更多區分
 - 最後，本人schema.yaml技術猶如🐒，代碼能力更是爲0，請大方之家不吝賜教orz
