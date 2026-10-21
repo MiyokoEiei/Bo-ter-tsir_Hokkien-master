@@ -6,7 +6,7 @@ schema:
     - 沒袋子 <tenn_tik_u@qq.com>
   description: |
     閩南語拆字反查方案
-    （默認方案爲泉音，可自行複製粘貼）
+
 switches:
   - name: ascii_mode
     reset: 0
@@ -43,10 +43,12 @@ engine:
 
 speller:
   alphabet: 'abcdefghijklnmopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWXYZ~[/\]90-;x'
-  initials: xvzywutsrqponmlkjihgfedcbaABCDEFGHIJKLMNOPQRST'UVWXYZ~
+  initials: xvzywutsrqponmlkjihgfedcbaABCDEFGHIJKLMNOPQRSTUVWXYZ
   delimiter: " '"
   algebra:
-#聲母
+    - abbrev/^([xvzywutsrqponmlkjihgfedcbaABCDEFGHIJKLMNOPQRSTUVWXYZ]h?).+$/$1/ 
+    - derive/^([a-z]+)\d$/$1/
+#聲母（以下各詞條最前方添加井號"#"即可取消詞條效果，詞條功效請見後綴說明）
     #- derive/^j/l/													#入歸柳
     #- derive/l/d/													#常見拼寫形式
     - derive/^th/v/													#簡化拼式
@@ -78,8 +80,8 @@ speller:
     #- derive/Doo/oo/												#漳音
     - derive/Doo/ng/												#泉音
 ###刀高文（例字：高（尚）、（無可奈）何）
-    - derive/oO/oo/												#泉音
-    #- derive/oO/o/													#廈漳
+    #- derive/oO/oo/												#泉音
+    - derive/oO/o/													#廈漳
     - derive/ngOO/ngoo/										    	#泉音，例字：俄（羅斯）、鰲（拜）
     - derive/ngOO/ngw/										    	#泉音，例字：俄（羅斯）、鰲（拜），簡化拼式
     #- derive/ngOO/go/										    	#廈漳，例字：俄（羅斯）、鰲（拜）
@@ -89,34 +91,34 @@ speller:
     #- derive/qonn/qo/												#廈漳，例字：可（以）、考（試）
 ###鉤沽文（例字：（結）構、（忠）厚）
     #- derive/eru/oo/												#廈漳
-    - derive/eru/io/													#泉音（新）
+    #- derive/eru/io/													#泉音（新）
     #- derive/eru/iro/												#泉音（老）
     #- derive/eru/ro/													#泉音（老），簡化拼式
-    #- derive/eru/ou/												#永德（老），簡化拼式
+    - derive/eru/ou/												#永德（老），簡化拼式
     #- derive/eru/er/												#永德（新）
 ###鉤沽文（廈門腔特字，例字：謳（歌）、（皇）后）
     #- derive/ERU/oo/												#廈漳
-    - derive/ERU/io/												#泉音（新）
+    #- derive/ERU/io/												#泉音（新）
     #- derive/ERU/ro/												#泉音（老），簡化拼式
     #- derive/ERU/iro/												#泉音（老）
-    #- derive/ERU/eru/												#永德（老）
-    #- derive/ERU/ou/												#永德（老），簡化拼式
+    - derive/ERU/eru/												#永德（老）
+    - derive/ERU/ou/												#永德（老），簡化拼式
     #- derive/ERU/er/												#永德（新）
 ###鉤沽文（例字：（輻）輳、湊（文讀音））
     #- derive/Oo/oo/												#廈漳
-    - derive/Oo/o/													#泉音
-    #- derive/Oo/eru/												#德化
-    #- derive/Oo/ou/													#德化
+    #- derive/Oo/o/													#泉音
+    - derive/Oo/eru/												#德化
+    - derive/Oo/ou/													#德化
 ###杯稽白（例字：溪（水）、雞（角））
-    #- derive/ere/re/												#汐止腔，簡化拼式
+    - derive/ere/re/												#汐止腔，簡化拼式
     - derive/ere/ue/												#泉音
     #- derive/ere/e/												#漳音
     #- derive/^([^eur]*)e(\d?)$/$1ei$2/					        	#漳南
     #- derive/^([^eur]*)e(\d?)$/$1iei$2/				        	#漳浦
 ###杯稽白（例字：會/解（曉））
     #- derive/eRe/ere/												#老泉音
-    #- derive/eRe/ue/												#永德
-    - derive/eRe/e/												#泉漳
+    - derive/eRe/ue/												#永德
+    #- derive/eRe/e/												#泉漳
 ###科伽白（例字：短（褲）、袋（仔））
     - derive/Er/er/													#泉音
     #- derive/Er/e/													#廈漳
@@ -158,20 +160,20 @@ speller:
     #- derive/Iang/ian/												#薌城、龍海
 ###生經文（例字：生（活）、（戰）爭）
     #- derive/erng/ing/												#生卿合流
-    - derive/erng/ng/												#泉音
+    #- derive/erng/ng/												#泉音
 ###生經文入1（例字：特（別）、德（國））
     - derive/^(t|z|c)erk/$1ik/												#泉音，簡化拼式
-    #- derive/^(t|z|c)erk/$1rk/												#南安，簡化拼式
+    - derive/^(t|z|c)erk/$1rk/												#南安，簡化拼式
 ###卿經文（例字：（執）行、英（國））
     #- derive/i(ng|k)/e$1/											#漳南
 ###卿經文入（例字：革（命）、（豐）澤）
-    - derive/ik/iak/												#泉音
+    #- derive/ik/iak/												#泉音
     #- derive/i(ng|k)/io$1/											#漳南
 ###卿經白（例字：宮（廟）、龍（王））
     - derive/iOng/ing/												#泉音
     #- derive/iOng/iong/											#廈漳
 ###恩巾文（例字：恩（情）、（面）巾）
-    - derive/ern(\d?\s?)/un$1/								    	#泉音
+    #- derive/ern(\d?\s?)/un$1/								    	#泉音
     #- derive/ern(\d?\s?)/in$1/							    		#漳音
 ###箴箴文（例字：（陰）森、（丹）蔘）
     #- derive/om/im/												#廈音
@@ -211,32 +213,115 @@ speller:
     #- derive/iunn/ionn/											#漳音
 ###青更白（例字：（三）更（半）暝）
     - derive/enn/y/													#泉音
-    #- derive/enn/ey/												#漳音，簡化拼式
+    - derive/enn/ey/												#漳音，簡化拼式
     #- xform/^(m|ng)$/$1_/
+#腔口分異字：“級”
+    - derive/qK/q/
+    #- derive/qK/k/
+#腔口分異字：“書”
+    - derive/sZ/z/													#泉音
+    #- derive/sZ/s/													#漳音
+    #- derive/sZ/c/													#臺音？
+#腔口分異字：“个/其”
+    - derive/gEe/ge/													#泉音主流說法
+    - derive/gEe/ke/													#永德老派說法
+    #- derive/gEe/e/													#漳廈臺主流說法
+    #- derive/gEe/kai/												#原始形態（你若願意.....）
+#腔口分異字：“科”、“果”
+    - derive/Oer/er/												#泉音
+    #- derive/Oer/o/												#漳音
+#腔口分異字：“講”
+    - derive/kOang/kang/								   			#泉音
+    #- derive/kOang/kong/								    		#漳音
+#腔口分異字：“則”/“纔”
+    #- derive/zIAh/ziah/											#漳泉廈臺主流說法
+    #- derive/zIAh/zerh/											#南安又音
+    - derive/zIAh/zak/												#泉山又音
+#腔口分異字：“腦”白讀
+    - derive/nau$/lo/												#泉音
+#腔口分異字：“積”、“即”
+    #- derive/iK/ik/												#廈漳
+    - derive/iK/it/													#泉音
+#腔口分異字，例字：（欲）挃、知（影）
+    #- derive/yY/y/													#漳音
+    - derive/yY/i/													#泉音
+#腔口分異字：“百”
+    #- derive/pah/peeh/
+#腔口分異字：“阮”
+    - derive/^gun/guan/
+#腔口分異字：“超”
+    - derive/cTH/c/													#泉音
+    #- derive/cTH/th/												#漳音
+    #- derive/cTH/v/												#漳音
+#腔口分異字：“仔/囝”（暫未製作）
+    #- derive/kYA/a/												#主流說法
+    #- derive/kYA/kiann/											#永德
+#腔口分異字：“相”
+    #- derive/sDio/sio/												#“相”=sio
+    - derive/sDio/sann/												#“相”=sann
+    #- derive/sDio/sa/											#“相”=sa
+#腔口分異字：“肉”白讀音
+    - derive/bah/hik/												#泉山
+    #- derive/bah/hiak/												#泉音
+#腔口分異字：“風”
+    - derive/huang/hong/
+#腔口分異字：“誰”
+    - derive/tiang/zuah/											#漳音
+    - derive/tiang/siang/											#泉廈音
+    #- derive/tiang/zui/
+#腔口分異字：“佗（哪）”
+    #- derive/tOh/tah/												#漳音
+    - derive/tOh/toh/												#泉音
+#特定詞彙訓讀：“bong/bang/m bang/mai”("不要")
+    - derive/mBang/mbang/									    	#“不要”=毋bang
+    - derive/mBang/mai/										    	#“不要”=mai
+    - derive/mBang/bang/											#“不要”=bang
+    - derive/mBang/bong/											#“不要”=bong
+    #- derive/mBang/boh/											#“不要”=boh
+#特定詞彙訓讀：“哪裏”
+    #- derive/tOh/tahui/											#“哪裏”=搭位
+    #- derive/tOh/tahloh/											#“哪裏”=搭落
+    #- derive/tOh/toui/												#“哪裏”=佗位
+    - derive/tOh/tohui/												#“哪裏”=佗位
+    #- derive/tOh/toloh/											#“哪裏”=佗落
+    - derive/tOh/tohloh/											#“哪裏”=佗落
+    - derive/tOh/tuann/												#“哪裏”=tuann
+#特定詞彙訓讀：“在”/“咧”/“哩”
+    - derive/tDeh/ler/												#“在”=ler
+    - derive/tDeh/lerh/												#“在”=lerh
+    - derive/tDeh/terh/												#“在”=terh
+    - derive/tDeh/leh/												#“在”=leh
+    - derive/tDeh/le/												#“在”=le
+    #- derive/tDeh/li/												#“在”=li
+    #特定詞彙訓讀：“很”
+    - derive/zIn/zin/												#“很”=真/盡
+    #- derive/zIn/ziann/											#“很”=誠
+    - derive/zIn/ia/												#“很”=野
+    #- derive/zIn/hin/												#“很”=很（漳）
+    #- derive/zIn/hun/												#“很”=很
+    - derive/zIn/hern/												#“很”=很（泉）
 #個人向特殊處理：強制分泥來
-    #- derive/nL([ieoua]o?O?)/n$1/
-    #- derive/nLoo/noo/												#例字：（憤）怒
-    #- derive/nLoo/nw/												#簡化拼式
+    - derive/nL([ieoua]o?O?)/n$1/
+    - derive/nLoo/noo/												#例字：（憤）怒
+    - derive/nLoo/nw/												#簡化拼式
     #- derive/nIang/lIang/											#例字：（孃）孃
 #個人向特殊處理2：咸韻三等合口字讀如-uam、-uap（現實中爲潮州音）
-    - derive/uap/uat/												#核心閩南語
-    - derive/uam/uan/												#核心閩南語
+    #- derive/uap/uat/												#核心閩南語
+    #- derive/uam/uan/												#核心閩南語
 #（替換方法：將nL、uam、uap音節批量替換爲l、uan、uat即可）
 
 translator:
-  dictionary: dmode
+  dictionary: banlam
+  initial_quality: 100001
   preedit_format:
-    - 'xform ([aeiouwy])(r?m?n*h?g?p?t?k?y?)([\[/\\\]90\-;]) $1$3$2'
-    - 'xform ([aeouy])([aiueoy])([\[/\\\]90\-;]) $1$3$2'
-    
-    #泉腔专属
+    #泉音专属
     - 'xform r ir'
     - 'xform iir ir'
     - 'xform eir er'
+    - 'xform irh erh'
     - 'xform irk erk'
     - 'xform irm erm'
-    - 'xform irn ern'    
-    - 'xform irng erng'
+    - 'xform irn ern'
     - 'xform ou eru'
     - 'xform uir ur'
     #通用
@@ -244,6 +329,7 @@ translator:
     - 'xform q kh'
     - 'xform f ph'
     - 'xform w oo'
+    - 'xform iw ioo'
     - 'xform c tsh'
     - 'xform y inn'
     - 'xform v th'
