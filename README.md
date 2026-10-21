@@ -11,7 +11,7 @@
 - 原方案部分訛誤處（如-uInn有的誤寫作-ng）一並予以修改
 - 提供一些脫離現代核心閩南語音系的輸入方式（如強制分泥來、-uap/-uam，我自己也在用XD），供有需要者啓用：）
 
-<img width="332" height="535" alt="image" src="https://github.com/user-attachments/assets/68bc12aa-7c60-4199-aad4-cd2a87c7b1a8" />
+<img width="260" height="450" alt="image" src="https://github.com/user-attachments/assets/68bc12aa-7c60-4199-aad4-cd2a87c7b1a8" />
 
 | IPA | 臺羅 | 鍵位 | IPA | 臺羅 | 鍵位 | IPA | 臺羅 | 鍵位 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -85,23 +85,23 @@
 - 爲部分常用字詞添加了數量有限的「訓讀」，以適應非閩南語正字環境
 - 同時，輸入法方案中也仍保留這些訓讀字詞的正字，不喜者亦可直接將hunthak.dict.yaml刪除，影響不大
 
-<img width="533" height="544" alt="image" src="https://github.com/user-attachments/assets/c4a0727b-9f41-4b99-b13e-ee147735e537" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/c4a0727b-9f41-4b99-b13e-ee147735e537" />
 
 ## 反查部分
 - 添加了所謂d模式（本來打算用d鍵做前綴，但並沒有），與拼音反查共用「`」鍵
 - d模式是基於閩南語文讀音來拆字的反查模式，長期沒更新，下次重點改這部分orz
 - 該方案的schema.yaml默認用泉州音，腔口不同的用家請自行複製粘貼orz
 
-<img width="397" height="161" alt="image" src="https://github.com/user-attachments/assets/b0c41986-9e5c-4ee2-9591-c69c77b565cb" />
+<img width="350" height="149" alt="image" src="https://github.com/user-attachments/assets/b0c41986-9e5c-4ee2-9591-c69c77b565cb" />
 
 ## 註釋部分
 - 借用「他山之石」（指別人做的lua濾鏡），用於字詞註釋，目前詞條尚少
 - 主要是註明訓讀、替字，以及地名雅化，也兼有提示部分詞彙用法腔口差的功能
 - 還在做
 
-<img width="421" height="563" alt="image" src="https://github.com/user-attachments/assets/aa4726f9-16e2-440b-82b0-ef7d3377e05a" />
-<img width="603" height="510" alt="image" src="https://github.com/user-attachments/assets/791b26c8-d509-47bc-aa59-7ef995c99cd7" />
-<img width="589" height="583" alt="image" src="https://github.com/user-attachments/assets/029c0cdd-0d9d-40a7-8eaf-7ffc3fc7bb0e" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/aa4726f9-16e2-440b-82b0-ef7d3377e05a" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/791b26c8-d509-47bc-aa59-7ef995c99cd7" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/029c0cdd-0d9d-40a7-8eaf-7ffc3fc7bb0e" />
 
 ## 輔助部分
 - 利用table_translator功能的產物
@@ -118,4 +118,5 @@
 - 統一將同一碼位的單字詞頻調整爲0—100，使得首字母簡拼輸入的詞頻比較混亂。如輸入s，「僧」、「勺」排在「是」、「先」等常用詞前面
 - 帶inn的鼻化韻並未統一設置簡拼，如-iaunn、-iaunnh等並不能按-yau、-yauh打出來
 - m、ng、ngh等聲化韻占用簡拼碼位，如輸入m只能顯示「毋」、「梅」等字，以m-爲聲母的漢字不顯示在輸入框中
+- 腔口差的細分主要集中於泉山、漳北和泉府等若干腔口之間，對於漳南、廈門、臺灣等區域內部的方音差認知有限，因而也未作更多區分
 - 最後，本人schema.yaml技術猶如🐒，代碼能力更是爲0，請大方之家不吝賜教orz
