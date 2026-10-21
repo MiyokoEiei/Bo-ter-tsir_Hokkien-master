@@ -10,6 +10,144 @@
 - 優化（也可能是劣化）了schema.yaml/speller的可讀性，追加了一些文字說明
 - 原方案部分訛誤處（如-uInn有的誤寫作-ng）一並予以修改
 - 提供一些脫離現代核心閩南語音系的輸入方式（如強制分泥來、-uap/-uam，我自己也在用XD），供有需要者啓用：）
+
+| IPA | 臺羅 | 鍵位 |
+| --- | --- | --- |
+| p | p | p |
+| pʰ | ph | ph/f |
+| b | b | b |
+| m | m | m |
+| t | t | t |
+| tʰ | th | th/v |
+| n | n | n |
+| l | l | l |
+| ts | ts | z |
+| tsʰ | tsh | c |
+| dz | j | j |
+| s | s | s |
+| k | k | k |
+| kʰ | kh | q |
+| g | g | g |
+| ŋ | ng | ng |
+| h | h | h |
+
+| IPA | 臺羅 | 鍵位 |
+| --- | --- | --- |
+| a | a | a |
+| i | i | i |
+| u | u | u |
+| e | e | e |
+| ɔ | oo | oo/w |
+| o | o | o |
+| ɨ | ir | ir/r |
+| ə | er | er |
+| ɛ | ee| ee |
+| ai | ai | ai |
+| au | au | au |
+| ia | ia | ia |
+| iu | iu | iu |
+| io | io | io |
+| iau | iau | iau |
+| ua | ua | ua |
+| ui | ui | ui |
+| ue | ue | ue |
+| uɛ | uee | uee |
+| uai | uai | uai |
+| ou | - | ou |
+| əu | - | eru |
+
+| IPA | 臺羅 | 鍵位 |
+| --- | --- | --- |
+| am | am | am |
+| an | an | an |
+| aŋ | ang | ang |
+| im | im | im |
+| in | in | in |
+| iŋ | ing | ing |
+| iam | iam | iam |
+| ian | ian | ian |
+| iaŋ | iang | iang |
+| iɔŋ | iong | iong |
+| un | un | un |
+| uan | uan | uan |
+| uam | uam | uam |
+| uaŋ | uang | uang |
+| ɔŋ | ong | ong |
+| ɔm | om | om |
+| ən | - | ern |
+| əm | - | erm |
+| əŋ | - | erng |
+| m̩ | m | m |
+| ŋ̍ | ng | ng |
+
+| IPA | 臺羅 | 鍵位 |
+| --- | --- | --- |
+| ap | ap | ap |
+| at | at | at |
+| ak | ak | ak |
+| ip | ip | ip |
+| it | it | it |
+| ik | ik | ik |
+| iap | iap | iap |
+| iat | iat | iat |
+| iak | iak | iak |
+| iɔk | iok | iok |
+| ut | ut | ut |
+| uat | uat | uat |
+| uap | - | uap |
+| ɔk | ok | ok |
+| ət | - | ert |
+| ək | - | erk |
+| aʔ | ah | ah |
+| iʔ | ih | ih |
+| uʔ | uh | uh |
+| eʔ | eh | eh |
+| oʔ | oh | oh |
+| ɔʔ | ooh | ooh/wh |
+| ɨʔ | - | irh/rh |
+| əʔ | erh | erh |
+| ɛʔ | - | eeh |
+| aiʔ | aih | aih |
+| auʔ | auh | auh |
+| iaʔ | iah | iah |
+| iuʔ | iuh | iuh |
+| ioʔ | ioh | ioh |
+| uaʔ | uah | uah |
+| uiʔ | uih | uih |
+| ueʔ | ueh | ueh |
+| uɛʔ | -| ueeh |
+| iauʔ | iauh | iauh |
+| uaiʔ | uaih | uaih |
+| ãʔ | annh | annh |
+| ãĩʔ | ainnh | ayh |
+| ãũʔ | aunnh | aunnh |
+| ĩʔ | innh | yh |
+| ĩãʔ | iannh | yah |
+| ĩãũʔ | iaunnh | iaunnh |
+| m̩ʔ | mh | mh |
+| ŋ̍ʔ | ngh | ngh |
+| ɔ̃ʔ | onnh | onnh |
+| ũẽʔ | uennh | uennh |
+| ũĩʔ | uinnh | uyh |
+| uãĩʔ | uainnh | uayh |
+
+| IPA | 臺羅 | 鍵位 |
+| --- | --- | --- |
+| ã | ann | ann |
+| ĩ | inn | y |
+| ẽ | enn | enn/ey |
+| ɔ̃ | onn | onn |
+| ãĩ | ainn | ay |
+| ãũ | aunn | aunn |
+| iã | iann | ya |
+| iũ | iunn | yu |
+| iɔ̃ | ionn | yo |
+| iãũ | iaunn | iaunn |
+| uã | uann | uann |
+| uẽ | uenn | uenn/uey |
+| uĩ | uinn | uy |
+| uãĩ | uainn | uay |
+（ps：當鼻化韻前面聲母爲n-、m-或ng-時，可省略鼻化輸入）
 ## 詞彙部分
 - 將八股文併入dict，並予以刪減（刪除詞彙約2萬，尚未完成）
 - 簡單拆分了dict（主要是將單字、共有詞彙和閩南語詞彙分開，其他部分純屬個人喜好，重新合併也無妨）
@@ -32,5 +170,8 @@
 - 「bangul」Neta自hangul，即閩南語（古）諺文拼音方案，爲遊戲之作，與臺諺方案有區別
 - 字符顯示存在問題，尤其在輸入框上
 - 不喜者可以直接將schema.yaml中dependencies和translator的bangul部分刪除
-
-最後，本人schema.yaml技術猶如🐒，代碼能力更是爲0，請大方之家不吝賜教orz
+## 尚待解決的缺陷
+- 統一將同一碼位的單字詞頻調整爲0—100，使得首字母簡拼輸入的詞頻比較混亂。如輸入s，「僧」、「勺」排在「是」、「先」等常用詞前面
+- 帶inn的鼻化韻並未統一設置簡拼，如-iaunn、-iaunnh等並不能按-yau、-yauh打出來
+- m、ng、ngh等聲化韻占用簡拼碼位，如輸入m只能顯示「毋」、「梅」等字，以m-爲聲母的漢字不顯示在輸入框中
+- 最後，本人schema.yaml技術猶如🐒，代碼能力更是爲0，請大方之家不吝賜教orz
