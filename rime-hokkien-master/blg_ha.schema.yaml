@@ -16,7 +16,6 @@ schema:
     p.s. 「輸入法設定」中，務請不要同時勾選兩種（及以上）閩南語腔口方案，否則各方案中speller部分可能失靈。
   dependencies:
     - bangul
-    - dmode
     - luna_pinyin
     - hutsoo
 switches:
@@ -62,12 +61,13 @@ engine:
     - lua_filter@phraseComment_Filter				# 短语释义
     #- lua_filter@dateTime_filter
 speller:
-  alphabet: 'zyxwvutsrqponmlkjihgfedcba~[/\]90-;'
-  initials: zyxwvutsrqponmlkjihgfedcba
+  alphabet: 'abcdefghijklnmopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWXYZ~[/\]90-;x'
+  initials: xvzywutsrqponmlkjihgfedcbaABCDEFGHIJKLMNOPQRSTUVWXYZ
   delimiter: " '"
   algebra:
+    - abbrev/^([xvzywutsrqponmlkjihgfedcbaABCDEFGHIJKLMNOPQRSTUVWXYZ]h?).+$/$1/ 
+    - derive/^([a-z]+)\d$/$1/
 #聲母（以下各詞條最前方添加井號"#"即可取消詞條效果，詞條功效請見後綴說明）
-
     #- derive/^j/l/														#入歸柳
     #- derive/l/d/														#常見拼寫形式
     - derive/^th/v/														#簡化拼式
@@ -210,6 +210,7 @@ speller:
     - derive/iA/ia/														#廈漳
 ##鼻化韻
     - derive/i([auo])nn/y$1/
+    - derive/iaunn/yau/
     - derive/mi/my/													#帶鼻化韻的形式
     - derive/niu/nyu/													#帶鼻化韻的形式
 ###熋千白（例字：（一）千；（頭）先）
@@ -332,8 +333,8 @@ speller:
     - derive/nLoo/nw/												#簡化拼式
     #- derive/nIang/lIang/										#例字：（孃）孃
 #個人向特殊處理2：咸韻三等合口字讀如-uam、-uap（現實中爲潮州音）
-    - derive/uap/uat/												#核心閩南語
-    - derive/uam/uan/												#核心閩南語
+    #- derive/uap/uat/												#核心閩南語
+    #- derive/uam/uan/												#核心閩南語
 translator:
   dictionary: banlam
   preedit_format:
@@ -357,6 +358,9 @@ translator:
     - 'xform x ~'
     - 'xform einn enn'
     - 'xform ey enn'
+    - 'xform yau iaunn'
+    - 'xform innau iaunn'
+    - 'xform iannu iaunn'
   enable_user_dict: true
   enable_sentence: false
   enable_encoder: true

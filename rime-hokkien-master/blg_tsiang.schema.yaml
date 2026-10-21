@@ -16,7 +16,6 @@ schema:
     p.s. 「輸入法設定」中，務請不要同時勾選兩種（及以上）閩南語腔口方案，否則各方案中speller部分可能失靈。
   dependencies:
     - bangul
-    - dmode
     - luna_pinyin
     - hutsoo
 switches:
@@ -212,6 +211,7 @@ speller:
     - derive/iA/ia/														#廈漳
 ##鼻化韻
     - derive/i([auo])nn/y$1/
+    - derive/iaunn/yau/
     - derive/mi/my/													#帶鼻化韻的形式
     - derive/niu/nyu/													#帶鼻化韻的形式
 ###熋千白（例字：（一）千；（頭）先）
@@ -361,6 +361,9 @@ translator:
     - 'xform x ~'
     - 'xform einn enn'
     - 'xform ey enn'
+    - 'xform yau iaunn'
+    - 'xform innau iaunn'
+    - 'xform iannu iaunn'
   enable_user_dict: true
   enable_sentence: false
   enable_encoder: true
