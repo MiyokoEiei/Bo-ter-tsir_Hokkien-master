@@ -11,142 +11,69 @@
 - 原方案部分訛誤處（如-uInn有的誤寫作-ng）一並予以修改
 - 提供一些脫離現代核心閩南語音系的輸入方式（如強制分泥來、-uap/-uam，我自己也在用XD），供有需要者啓用：）
 
-| IPA | 臺羅 | 鍵位 |
-| --- | --- | --- |
-| p | p | p |
-| pʰ | ph | ph/f |
-| b | b | b |
-| m | m | m |
-| t | t | t |
-| tʰ | th | th/v |
-| n | n | n |
-| l | l | l |
-| ts | ts | z |
-| tsʰ | tsh | c |
-| dz | j | j |
-| s | s | s |
-| k | k | k |
-| kʰ | kh | q |
-| g | g | g |
-| ŋ | ng | ng |
-| h | h | h |
+| IPA | 臺羅 | 鍵位 || IPA | 臺羅 | 鍵位 || IPA | 臺羅 | 鍵位 |
+| --- | --- | --- || --- | --- | --- || --- | --- | --- |
+| p | p | p || a | a | a || am | am | am |
+| pʰ | ph | ph/f || i | i | i || an | an | an |
+| b | b | b || u | u | u || aŋ | ang | ang |
+| m | m | m || e | e | e || im | im | im |
+| t | t | t || ɔ | oo | oo/w || in | in | in |
+| tʰ | th | th/v || o | o | o || iŋ | ing | ing |
+| n | n | n || ɨ | ir | ir/r || iam | iam | iam |
+| l | l | l || ə | er | er || ian | ian | ian |
+| ts | ts | z || ɛ | ee | ee || iaŋ | iang | iang |
+| tsʰ | tsh | c || ai | ai | ai || iɔŋ | iong | iong |
+| dz | j | j || au | au | au || un | un | un |
+| s | s | s || ia | ia | ia || uan | uan | uan |
+| k | k | k || iu | iu | iu || uam | uam | uam |
+| kʰ | kh | q || io | io | io || uaŋ | uang | uang |
+| g | g | g || iau | iau | iau || ɔŋ | ong | ong |
+| ŋ | ng | ng || ua | ua | ua || ɔm | om | om |
+| h | h | h || ui | ui | ui || ən | - | ern |
+|  |  |  || ue | ue | ue || əm | - | erm |
+|  |  |  || uɛ | uee | uee || əŋ | - | erng |
+|  |  |  || uai | uai | uai || m̩ | m | m |
+|  |  |  || ou | - | ou || ŋ̍ | ng | ng |
+|  |  |  || əu | - | eru ||  |  |  |
 
-| IPA | 臺羅 | 鍵位 |
-| --- | --- | --- |
-| a | a | a |
-| i | i | i |
-| u | u | u |
-| e | e | e |
-| ɔ | oo | oo/w |
-| o | o | o |
-| ɨ | ir | ir/r |
-| ə | er | er |
-| ɛ | ee| ee |
-| ai | ai | ai |
-| au | au | au |
-| ia | ia | ia |
-| iu | iu | iu |
-| io | io | io |
-| iau | iau | iau |
-| ua | ua | ua |
-| ui | ui | ui |
-| ue | ue | ue |
-| uɛ | uee | uee |
-| uai | uai | uai |
-| ou | - | ou |
-| əu | - | eru |
-
-| IPA | 臺羅 | 鍵位 |
-| --- | --- | --- |
-| am | am | am |
-| an | an | an |
-| aŋ | ang | ang |
-| im | im | im |
-| in | in | in |
-| iŋ | ing | ing |
-| iam | iam | iam |
-| ian | ian | ian |
-| iaŋ | iang | iang |
-| iɔŋ | iong | iong |
-| un | un | un |
-| uan | uan | uan |
-| uam | uam | uam |
-| uaŋ | uang | uang |
-| ɔŋ | ong | ong |
-| ɔm | om | om |
-| ən | - | ern |
-| əm | - | erm |
-| əŋ | - | erng |
-| m̩ | m | m |
-| ŋ̍ | ng | ng |
-
-| IPA | 臺羅 | 鍵位 |
-| --- | --- | --- |
-| ap | ap | ap |
-| at | at | at |
-| ak | ak | ak |
-| ip | ip | ip |
-| it | it | it |
-| ik | ik | ik |
-| iap | iap | iap |
-| iat | iat | iat |
-| iak | iak | iak |
-| iɔk | iok | iok |
-| ut | ut | ut |
-| uat | uat | uat |
-| uap | - | uap |
-| ɔk | ok | ok |
-| ət | - | ert |
-| ək | - | erk |
-| aʔ | ah | ah |
-| iʔ | ih | ih |
-| uʔ | uh | uh |
-| eʔ | eh | eh |
-| oʔ | oh | oh |
-| ɔʔ | ooh | ooh/wh |
-| ɨʔ | - | irh/rh |
-| əʔ | erh | erh |
-| ɛʔ | - | eeh |
-| aiʔ | aih | aih |
-| auʔ | auh | auh |
-| iaʔ | iah | iah |
-| iuʔ | iuh | iuh |
-| ioʔ | ioh | ioh |
-| uaʔ | uah | uah |
-| uiʔ | uih | uih |
-| ueʔ | ueh | ueh |
-| uɛʔ | -| ueeh |
-| iauʔ | iauh | iauh |
-| uaiʔ | uaih | uaih |
-| ãʔ | annh | annh |
-| ãĩʔ | ainnh | ayh |
-| ãũʔ | aunnh | aunnh |
-| ĩʔ | innh | yh |
-| ĩãʔ | iannh | yah |
-| ĩãũʔ | iaunnh | iaunnh |
-| m̩ʔ | mh | mh |
-| ŋ̍ʔ | ngh | ngh |
-| ɔ̃ʔ | onnh | onnh |
-| ũẽʔ | uennh | uennh |
-| ũĩʔ | uinnh | uyh |
-| uãĩʔ | uainnh | uayh |
-
-| IPA | 臺羅 | 鍵位 |
-| --- | --- | --- |
-| ã | ann | ann |
-| ĩ | inn | y |
-| ẽ | enn | enn/ey |
-| ɔ̃ | onn | onn |
-| ãĩ | ainn | ay |
-| ãũ | aunn | aunn |
-| iã | iann | ya |
-| iũ | iunn | yu |
-| iɔ̃ | ionn | yo |
-| iãũ | iaunn | iaunn |
-| uã | uann | uann |
-| uẽ | uenn | uenn/uey |
-| uĩ | uinn | uy |
-| uãĩ | uainn | uay |
+| IPA | 臺羅 | 鍵位 || IPA | 臺羅 | 鍵位 || IPA | 臺羅 | 鍵位 |
+| --- | --- | --- || --- | --- | --- || --- | --- | --- |
+| ap | ap | ap || ãʔ | annh | annh || ã | ann | ann |
+| at | at | at || ãĩʔ | ainnh | ayh || ĩ | inn | y |
+| ak | ak | ak || ãũʔ | aunnh | aunnh || ẽ | enn | enn/ey |
+| ip | ip | ip || ĩʔ | innh | yh || ɔ̃ | onn | onn |
+| it | it | it || ĩãʔ | iannh | yah || ãĩ | ainn | ay |
+| ik | ik | ik || ĩãũʔ | iaunnh | iaunnh || ãũ | aunn | aunn |
+| iap | iap | iap || m̩ʔ | mh | mh || iã | iann | ya |
+| iat | iat | iat || ŋ̍ʔ | ngh | ngh || iũ | iunn | yu |
+| iak | iak | iak || ɔ̃ʔ | onnh | onnh || iɔ̃ | ionn | yo |
+| iɔk | iok | iok || ũẽʔ | uennh | uennh || iãũ | iaunn | iaunn |
+| ut | ut | ut || ũĩʔ | uinnh | uyh || uã | uann | uann |
+| uat | uat | uat || uãĩʔ | uainnh | uayh || uẽ | uenn | uenn/uey |
+| uap | - | uap ||  |  |  || uĩ | uinn | uy |
+| ɔk | ok | ok ||  |  |  || uãĩ | uainn | uay |
+| ət | - | ert ||  |  |  ||  |  |  |
+| ək | - | erk ||  |  |  ||  |  |  |
+| aʔ | ah | ah ||  |  |  ||  |  |  |
+| iʔ | ih | ih ||  |  |  ||  |  |  |
+| uʔ | uh | uh ||  |  |  ||  |  |  |
+| eʔ | eh | eh ||  |  |  ||  |  |  |
+| oʔ | oh | oh ||  |  |  ||  |  |  |
+| ɔʔ | ooh | ooh/wh ||  |  |  ||  |  |  |
+| ɨʔ | - | irh/rh ||  |  |  ||  |  |  |
+| əʔ | erh | erh ||  |  |  ||  |  |  |
+| ɛʔ | - | eeh ||  |  |  ||  |  |  |
+| aiʔ | aih | aih ||  |  |  ||  |  |  |
+| auʔ | auh | auh ||  |  |  ||  |  |  |
+| iaʔ | iah | iah ||  |  |  ||  |  |  |
+| iuʔ | iuh | iuh ||  |  |  ||  |  |  |
+| ioʔ | ioh | ioh ||  |  |  ||  |  |  |
+| uaʔ | uah | uah ||  |  |  ||  |  |  |
+| uiʔ | uih | uih ||  |  |  ||  |  |  |
+| ueʔ | ueh | ueh ||  |  |  ||  |  |  |
+| uɛʔ | - | ueeh ||  |  |  ||  |  |  |
+| iauʔ | iauh | iauh ||  |  |  ||  |  |  |
+| uaiʔ | uaih | uaih ||  |  |  ||  |  |  |
 （ps：當鼻化韻前面聲母爲n-、m-或ng-時，可省略鼻化輸入）
 ## 詞彙部分
 - 將八股文併入dict，並予以刪減（刪除詞彙約2萬，尚未完成）
