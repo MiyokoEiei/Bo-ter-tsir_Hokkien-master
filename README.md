@@ -11,7 +11,7 @@
 - 原方案部分訛誤處（如-uInn有的誤寫作-ng）一並予以修改
 - 提供一些脫離現代核心閩南語音系的輸入方式（如強制分泥來、-uap/-uam，我自己也在用XD），供有需要者啓用：）
 
-<img width="260" height="450" alt="image" src="https://github.com/user-attachments/assets/68bc12aa-7c60-4199-aad4-cd2a87c7b1a8" />
+<img width="260" height="490" alt="image" src="https://github.com/user-attachments/assets/68bc12aa-7c60-4199-aad4-cd2a87c7b1a8" />
 
 | IPA | 臺羅 | 鍵位 | IPA | 臺羅 | 鍵位 | IPA | 臺羅 | 鍵位 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -101,7 +101,7 @@
 
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/aa4726f9-16e2-440b-82b0-ef7d3377e05a" />
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/791b26c8-d509-47bc-aa59-7ef995c99cd7" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/029c0cdd-0d9d-40a7-8eaf-7ffc3fc7bb0e" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/029c0cdd-0d9d-40a7-8eaf-7ffc3fc7bb0e" />
 
 ## 輔助部分
 - 利用table_translator功能的產物
