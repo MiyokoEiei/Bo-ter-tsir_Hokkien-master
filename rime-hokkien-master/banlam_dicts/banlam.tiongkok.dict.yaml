@@ -7,12 +7,34 @@ use_preseth_vocabulary: false
 丁青縣		42
 野三坡		2
 于都縣		51
+讓胡路	jIang hoo loo	590
+讓胡路區	
+寧海路	
+托木爾		42
+托木爾峯	
+塔里木		63
+塔城市		49
+寧夏	nLing haE	196
+寧夏回族自治區	nLing haE hue zok zur ti qU
+寧夏城		31
+寧夏省		45
+寧夏路		55
+海倫市		54
+海城市		58
 義烏		80
 義烏小商品	
 義烏市		84
+太原街	
+太倉市		62
+太原路		45
+太行	thai hang	81
+天都	thian too	43
+天都峯	thian too hong	14
 巴郡	
 巴中	pa tiong	69
 巴丹吉林	pa tan kit lim
+天門	thian bun	86
+天門市	thian bun ci	57
 巴丹吉林沙漠	pa tan kit lim
 高縣	koO kuAy	57
 長江上		64
@@ -4420,8 +4442,11 @@ use_preseth_vocabulary: false
 海椒	hai zio	13
 海椒市		1
 海河	hai ho	86
-海河流域		1
-海淀區	hai tian qu	153
+海河流域	
+海淀	hai tian	153
+海淀區	hai tian qU	153
+海淀公園	
+海淀黃莊	
 海港	hai kang	82
 海港區		58
 海珠	hai zu	88
@@ -6458,7 +6483,7 @@ use_preseth_vocabulary: false
 謝家集區		51
 謝通門	sia thong bun	51
 謝通門縣		45
-譙城	tsiau siann	56
+譙城	ziau siann	56
 譙城區		54
 警備	king pi	63
 警備區		57
@@ -6511,7 +6536,7 @@ use_preseth_vocabulary: false
 貴德縣		51
 貴池	kui ti	5
 貴池區		52
-貴港	kui kang	69
+貴港	kui kang
 貴港市		59
 貴溪	kui qere	59
 貴溪市		52

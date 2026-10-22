@@ -3,14 +3,11 @@ name: banlam.tuannji
 version: '20261016'
 sort: by_weight
 ...
-#下	qee	0%
 #且	cia	99
-乞	qi	0%
 #伯	phik	88
 #佇	thIR	99
 #佇	thir	96
 #俠	kiap	91
-傷	siunn	0%
 #刮	que	1%
 #劃	uih	99	#廈門
 #奇	qa	1%
@@ -23,30 +20,30 @@ sort: by_weight
 #權	quan	89
 #滲	serm	100
 #濁	tok	97	#泉
-猶	ia	0%
 #畫	ueeh	99
 #緯	hui	85
+#耀	cio	98
 #耳	hy	98	#臺灣
 #蕭	sio	98
 #蝛	bui	100
 #言	gan	98
 #訝	nga	99
 #諛	U	96
-諾	hiooh	0%
 #邵	sio	97	#廈門
 #鋤	thIR	100
 #錄	lok	98	#臺灣
 #駒	qi	89	#漳音
 #騎	qa	95
-#騰	terng	96
+騰	terng	96
 #鳩	qiu	99
 #𠖫	kam	90
-〇	ling	98
+〇	ling	90
 〇	qong	92
+㐎	bun	88
 㐱	tin	89
 㒲	jip	99
+㕣	ian
 㜅	thik	96
-𡳞	lan	90
 㜅	thiok	99
 㝎	ting	65
 㝥	bai	94
@@ -60,6 +57,7 @@ sort: by_weight
 㧾	hut	95
 㨖	ti	80
 㨻	zann	100
+㫃	ian
 㬎	gap	9
 㬎	hian	9
 㴙	cap	93
@@ -92,11 +90,11 @@ sort: by_weight
 䭕	ziann	94
 䰾	pa	80
 䴉	huan	49
-一	it	100
-一	zit	100
+一	it	150
+一	zit	148
 丁	ting	97
 丂	qonn	93
-七	cit	100
+七	cit	148
 丄	sIang	78
 丅	ha	93
 丆	am	91
@@ -108,13 +106,13 @@ sort: by_weight
 三	sann	100
 上	ciunn	0%
 上	sIang	100
-上	ziunn	0%
+上	ziunn	147
 下	ee	100
-下	ha	100
+下	ha	149
 下	hee	100
+下	qee	0%
 丌	ki	31
-不	m	100
-不	put	100
+不	put	150
 丏	bian	84
 丐	kai	87
 丑	thiu	99
@@ -141,7 +139,7 @@ sort: by_weight
 丨	qia	99
 丨	sU	94
 丩	kiu	74
-个	gEe	100
+个	gEe	149
 丫	a	97
 中	ting	0%
 中	tiong	100
@@ -193,7 +191,8 @@ sort: by_weight
 乜	mia	98
 乜	mih	99
 九	kau	99
-九	kiu	100
+九	kiu	144
+乞	qi	0%
 乞	qit	99
 也	ia	100
 乧	teru	90
@@ -209,7 +208,6 @@ sort: by_weight
 乾	kan	98
 乾	kuann	0%
 乾	qian	0%
-乾	ta	100	#本字焦/凋
 乿	luan	87
 亀	ku	88
 亁	qian	84
@@ -224,16 +222,16 @@ sort: by_weight
 予	hoo	0%
 予	ir	97
 亊	sur	64
-事	sur	100
+事	sur	140
 事	tai	3%
-二	ji	100
+二	ji	149
 亍	cIak	96
 于	ir	96
 亐	ir	87
 云	un	93
 互	hoo	95
 亓	ki	53
-五	goo	100
+五	goo	148
 五	nGoo	98
 井	zenn	99
 井	zing	0%
@@ -241,7 +239,7 @@ sort: by_weight
 亗	sue	92
 亙	kerng	94
 些	sia	99
-些	siann	96
+些	siann	0%
 亜	a	90
 亝	zai	84
 亝	ze	76
@@ -276,8 +274,8 @@ sort: by_weight
 亷	liam	91
 亹	bi	60
 亹	bun	78
-人	jin	100
-人	lang	100
+人	jin	150
+人	lang	150
 亻	jin	96
 亼	zip	98
 亽	zip	97
@@ -302,8 +300,7 @@ sort: by_weight
 仔	a	99
 仔	zur	3%
 仕	sur	84
-他	ih	100	#訓讀，h尾爲權宜區分
-他	thann	100
+他	thann	145
 他	tho	3%
 仗	tIang	94
 付	hu	99
@@ -317,7 +314,7 @@ sort: by_weight
 仡	gert	97
 代	tEr	0%
 代	tai	98
-令	ling	97
+令	ling	98
 以	i	100
 仨	sann	97
 仫	moo	88
@@ -403,7 +400,7 @@ sort: by_weight
 佝	qoo	92
 佞	nLing	96
 佟	tong	80
-你	lIR	100
+你	lIR	149
 你	ni	8%
 佢	kir	97
 佤	gua	97
@@ -411,7 +408,7 @@ sort: by_weight
 佩	pue	91
 佫	hok	70
 佫	kik	86
-佫	koh	100
+佫	koh	145
 佬	lau	94
 佬	liau	0%
 佬	loO	84
@@ -435,7 +432,7 @@ sort: by_weight
 侂	thok	94
 侃	qan	97
 侄	tit	97
-來	lai	100
+來	lai	148
 侈	ci	85
 侉	qua	93
 例	le	99
@@ -604,7 +601,8 @@ sort: by_weight
 債	zai	0%
 債	zee	99
 傷	sIang	95
-傻	sa	100
+傷	siunn	0%
+傻	sa	98
 傼	han	77	#姓氏
 傾	qing	96
 僂	leru	91
@@ -614,8 +612,8 @@ sort: by_weight
 僉	ciam	92
 僊	sian	58
 働	tong	52
-像	ciunn	100
-像	sCIang	100
+像	ciunn	149
+像	sCIang	97
 僐	sian	67
 僑	kiau	94
 僕	phok	0%
@@ -626,7 +624,7 @@ sort: by_weight
 僞	ui	89
 僥	hiau	96
 僦	ziu	91
-僧	sZerng	100
+僧	sZerng	92
 僧	serng	99
 僫	oh	0%
 僬	ziau	82
@@ -678,7 +676,7 @@ sort: by_weight
 充	ciong	98
 兆	tiau	93
 兇	hiong	96
-先	saInn	100
+先	saInn	148
 先	sian	100
 光	kong	0%
 光	kuInn	99
@@ -707,26 +705,26 @@ sort: by_weight
 兢	king	79
 兣	li qerk	247
 兤	kong	74
-入	jip	100
+入	jip	147
 兦	bong	69
 內	lai	99
-內	nLue	100
+內	nLue	140
 全	zuInn	1%
-全	zuan	100
+全	zuan	145
 兩	lIang	0%
-兩	nDoo	100
+兩	nDoo	149
 兩	niu	0%
 兪	jU	74
 八	pat	100
-八	pereh	100
+八	pereh	149
 公	kang	5%
 公	kong	100
 六	lak	100
-六	liok	100
+六	liok	145
 兮	he	97
 共	ka	1%
 共	kang	1%
-共	kiong	100
+共	kiong	145
 兲	thian	99
 兵	piann	1%
 兵	ping	95
@@ -852,7 +850,7 @@ sort: by_weight
 刮	kuah	97
 刮	kuat	99
 刮	kuih	100
-到	kau	100
+到	kau	149
 到	tau	1%
 到	toO	96
 刱	cong	83
@@ -874,11 +872,11 @@ sort: by_weight
 則	zak	100
 則	zerk	100
 剉	co	90
-削	sIak	100
-削	siah	98
+削	sIak	96
+削	siah	89
 剋	qerk	97
 剌	lat	97
-前	zaInn	100
+前	zaInn	143
 前	zian	100
 前	zun	3%
 剎	sat	95
@@ -951,7 +949,7 @@ sort: by_weight
 勅	thik	83
 勇	iong	98
 勉	bian	95
-勍	qiang	99
+勍	qiang	90
 勐	bing	86
 勑	thik	69
 勒	lik	98
@@ -980,7 +978,7 @@ sort: by_weight
 勸	quInn	99
 勸	quan	96
 勹	pau	87
-勺	sCiah	100
+勺	sCiah	80
 勺	sIak	99
 勻	un	96
 勼	kiu	76
@@ -998,7 +996,7 @@ sort: by_weight
 匕	pi	77
 化	hua	99
 化	huee	1%
-北	pak	100
+北	pak	148
 北	pok	98
 匙	si	79
 匚	hong	39
@@ -1021,9 +1019,9 @@ sort: by_weight
 區	au	5%
 區	qU	100
 十	sip	100
-十	zap	100
+十	zap	144
 卂	sin	60
-千	caInn	100
+千	caInn	148
 千	cian	100
 卅	sap	100
 卅	siap	97
@@ -1041,7 +1039,7 @@ sort: by_weight
 卓	toh	99
 卓	tok	98
 協	hiap	100
-南	nLam	99
+南	nLam	143
 単	tan	82
 博	phok	100
 卛	lut	96
@@ -1111,7 +1109,7 @@ sort: by_weight
 厹	jiu	93
 厹	kiu	66
 厺	qir	97
-去	qIR	100
+去	qIR	150
 厼	ji	88
 厽	lui	81
 厾	tuh	100
@@ -1136,7 +1134,7 @@ sort: by_weight
 受	siu	99
 叚	kaE	66
 叛	puan	95
-叟	sOo	96
+叟	sOo	93
 叡	jue	92
 叢	zang	99
 叢	zong	88
@@ -1144,17 +1142,17 @@ sort: by_weight
 口	qeru	100
 古	koo	100
 句	ku	97
-另	ling	99
+另	ling	97
 叨	tho	93
 叨	thoO	97
 叩	qeru	96
-只	zi	100
+只	zi	145
 叫	kiau	0%
 叫	kio	100
 召	tiau	90
 叭	pat	97
 叮	ting	84
-可	qonn	100
+可	qonn	148
 可	qua	0%
 台	thai	96
 叱	cik	93
@@ -1188,7 +1186,7 @@ sort: by_weight
 同	sang	0%
 同	tang	3%
 同	tong	98
-名	bing	100
+名	bing	144
 名	mia	100
 后	hERU	99
 吏	li	90
@@ -1209,7 +1207,7 @@ sort: by_weight
 吣	cim	88
 否	heru	99
 否	phi	0%
-吧	pa	100
+吧	pa	147
 吩	huan	67
 吩	hun	87
 吪	ngOO	77
@@ -1288,7 +1286,7 @@ sort: by_weight
 咈	hut	77
 咋	za	98
 和	hOer	1%
-和	hoO	100
+和	hoO	148
 咍	hai	79
 咎	kiu	88
 咐	hu	53
@@ -1317,13 +1315,13 @@ sort: by_weight
 咬	gau	99
 咬	ka	98
 咬	ngau	95
-咭	khiat	100
 咭	kiat	86
+咭	qiat	100
 咯	koh	98
 咯	kok	77
 咯	qak	100
 咯	qiak	100
-咱	lan	100
+咱	lan	146
 咲	siau	80
 咳	hai	0%
 咳	ka	89
@@ -1337,13 +1335,13 @@ sort: by_weight
 咾	loO	90
 咿	i	75
 哀	ai	96
-品	phin	100
+品	phin	145
 哂	sin	76
 哄	hang	2%
 哄	hann	2%
 哄	hong	85
 哆	to	94
-哇	ua	100
+哇	ua	144
 哈	ha	99
 哈	hah	100
 哉	zai	92
@@ -1359,7 +1357,6 @@ sort: by_weight
 哠	kauh	99
 員	uan	97
 哥	ko	99
-哦	guah	100
 哦	nGoo	93
 哦	oo	98
 哧	ciah	98
@@ -1367,8 +1364,8 @@ sort: by_weight
 哩	ing li	1000
 哩	li	93
 哪	na	99
-哪	tOh	100
-哭	qau	100
+哪	tOh	149
+哭	qau	147
 哭	qok	3%
 哮	hau	94
 哲	tiat	99
@@ -1441,7 +1438,7 @@ sort: by_weight
 啡	hui	73
 啡	pi	79
 啤	pi	85
-啥	sannh	100
+啥	sannh	148
 啥	siann	99
 啦	lah	100
 啪	phah	98
@@ -1491,7 +1488,7 @@ sort: by_weight
 喬	kiau	98
 單	sian	0%
 單	tan	97
-單	tuann	100
+單	tuann	142
 喰	can	91
 喱	li	78
 喲	io	99
@@ -1513,7 +1510,7 @@ sort: by_weight
 嗓	song	92
 嗔	cin	97
 嗕	nauh	100
-嗖	sOo	94
+嗖	sOo	92
 嗗	uat	91
 嗘	ke	85
 嗙	phngh	100
@@ -1625,7 +1622,7 @@ sort: by_weight
 噹	tong	8%
 噺	sin	70
 噻	sai	90
-噻	seeh	100
+噻	seeh	90
 噼	phik	91
 噽	phi	79
 嚀	nLing	97
@@ -1655,7 +1652,7 @@ sort: by_weight
 嚯	honn	91
 嚳	qak	95
 嚴	giam	100
-嚶	enn	98
+嚶	enn	96
 嚷	jIang	99
 嚼	zIak	100
 嚾	uang	100
@@ -1677,7 +1674,7 @@ sort: by_weight
 囘	hue	84
 囙	in	86
 囚	siu	85
-四	si	97
+四	si	147
 四	sur	98
 囜	jim	86
 囝	kann	97
@@ -1685,7 +1682,7 @@ sort: by_weight
 回	her	0%
 回	hue	99
 囟	sin	73
-因	in	100
+因	in	147
 囡	gin	100
 囡	kan	78
 囡	kin	91
@@ -1728,7 +1725,7 @@ sort: by_weight
 園	huInn	99
 園	uan	96
 圓	uan	95
-圓	y	98
+圓	y	100
 圔	ip	93
 圖	too	99
 團	thngh	0%			#泉音“（一）團”
@@ -1741,7 +1738,7 @@ sort: by_weight
 土	thoo	99
 在	cai	1%				#漳
 在	sai	1%				#泉
-在	tDeh	100	#也作咧，本字不確定
+在	tDeh	150	#也作咧，本字不確定
 在	zai	100
 圩	ui	75
 圭	ke	97
@@ -1749,7 +1746,7 @@ sort: by_weight
 圮	ki	34
 地	tEr	1%
 地	te	100
-地	tere	100
+地	tere	145
 地	ti	1%
 圳	zun	87
 圻	ki	42
@@ -1962,10 +1959,11 @@ sort: by_weight
 夒	no	99
 夓	ha	87
 夔	kui	79
-夕	siah	99
+夕	siah	20
 夕	sik	88
 外	gua	99
 外	gue	100
+夘	uan	40
 夙	siok	88
 多	toO	100
 夛	to	80
@@ -1978,11 +1976,11 @@ sort: by_weight
 夤	in	88
 夥	her	95
 大	tai	100
-大	tua	100
+大	tua	148
 夨	zerk	97
 天	thian	100
-天	thy	100
-太	thai	100
+天	thy	140
+太	thai	149
 夫	hu	95
 夬	kuai	94
 夭	iau	89
@@ -2035,7 +2033,7 @@ sort: by_weight
 奮	hun	82
 奰	pi	49
 女	lIR	99
-女	lu	100
+女	lu	147
 奴	nLoo	99
 奶	lin	99
 奶	nai	5%
@@ -2044,10 +2042,10 @@ sort: by_weight
 奸	kan	90
 她	thann	99
 奼	tha	100
-好	ho	100
+好	ho	150
 好	honn	100
 妁	ziok	91
-如	jir	100
+如	jir	146
 妃	hui	91
 妄	bong	92
 妊	jim	95
@@ -2135,7 +2133,7 @@ sort: by_weight
 娩	bian	88
 娯	goo	0%
 娯	gu	98
-娶	cU	100
+娶	cU	99
 娶	cua	99
 娼	cIang	95
 婀	o	86
@@ -2237,7 +2235,7 @@ sort: by_weight
 嬧	zin	70
 嬪	pin	92
 嬭	nee	96
-嬰	enn	100
+嬰	enn	98
 嬰	ing	51
 嬴	ing	78
 嬸	sim	0%
@@ -2299,7 +2297,7 @@ sort: by_weight
 安	an	99
 安	uann	1%
 宋	song	97
-完	uan	100
+完	uan	145
 宍	jiok	95
 宏	hing	3%		#舊讀
 宏	hong	94
@@ -2327,7 +2325,7 @@ sort: by_weight
 宴	ian	91
 宵	siau	85
 家	ka	0%	#家己
-家	kaE	100
+家	kaE	146
 家	kee	100
 宷	sim	83
 宸	sin	83
@@ -2406,7 +2404,7 @@ sort: by_weight
 對	tui	100
 導	toO	94
 小	siau	99
-小	sio	100
+小	sio	147
 尐	ziat	96
 少	siau	100
 少	zio	100
@@ -2445,7 +2443,7 @@ sort: by_weight
 尾	ber	99
 尾	bi	95
 尿	jiau	92
-尿	jio	100
+尿	jio	142
 局	kik	95
 局	kiok	100
 屁	phi	0%
@@ -2656,6 +2654,7 @@ sort: by_weight
 布	poo	97
 帆	huam	0%
 帆	phang	97
+帋	zi	50
 希	hi	97
 帑	thong	85
 帔	phi	85
@@ -2711,7 +2710,7 @@ sort: by_weight
 平	piann	0%
 平	ping	97
 年	nLian	100
-年	ni	100
+年	ni	148
 并	ping	89
 幷	ping	72
 幸	hing	93
@@ -2893,13 +2892,13 @@ sort: by_weight
 征	zing	72
 待	thai	97
 徇	sun	75
-很	zIn	100
+很	hern	100
 徉	Iang	77
 徊	huai	98
 徊	hue	86
 律	lut	99
 後	au	100
-後	hERU	100
+後	hERU	143
 後	hau	0%
 徐	cIR	100
 徐	sir	70
@@ -2907,7 +2906,7 @@ sort: by_weight
 徒	too	92
 得	lit	100
 得	terk	98
-得	tit	100
+得	tit	145
 徘	pai	94
 徙	sU	91
 徙	sua	99
@@ -2942,7 +2941,7 @@ sort: by_weight
 徽	hui	87
 心	sim	100
 忄	sim	89
-必	pit	100
+必	pit	146
 忉	toO	70
 忌	ki	79
 忌	qi	1%
@@ -2979,15 +2978,15 @@ sort: by_weight
 怎	ziunn	97
 怎	zuann	95
 怐	qoo	91
-怒	nLoo	100
+怒	nLoo	144
 怔	zing	77
-怕	phann	100
+怕	phann	145
 怖	poo	87
 怙	hoo	75
 怙	koo	72
 怛	than	84
 思	si	95
-思	sur	99
+思	sur	140
 怠	tai	89
 怡	i	90
 怢	thuh	97
@@ -3005,7 +3004,7 @@ sort: by_weight
 怵	thut	98
 怹	in	89
 恁	jim	99
-恁	lin	100
+恁	lin	145
 恂	sun	73
 恃	si	76
 恆	herng	98
@@ -3072,7 +3071,7 @@ sort: by_weight
 惕	thik	91
 惘	bong	79
 惚	hut	91
-惛	hun	100
+惛	hun	80
 惜	sik	98
 惜	sioh	100
 惝	cIang	82
@@ -3088,7 +3087,7 @@ sort: by_weight
 惱	noo	99	#文讀
 惲	hun	70
 想	sIang	99
-想	siunn	100
+想	siunn	147
 惴	zui	92
 惶	hiann	2%
 惶	hong	61
@@ -3181,7 +3180,7 @@ sort: by_weight
 懇	qern	97
 懈	hai	91
 應	in	5%
-應	ing	100
+應	ing	145
 懊	au	88
 懊	o	87
 懋	beru	95
@@ -3220,8 +3219,8 @@ sort: by_weight
 成	siann	98
 成	sing	99
 成	ziann	98
-我	gua	100
-我	ngoo	100
+我	gua	150
+我	ngoo	149
 戒	kai	93
 戔	zian	82
 戕	cIang	86
@@ -3266,7 +3265,7 @@ sort: by_weight
 扇	sy	100
 扈	hoo	84
 扉	hui	74
-手	ciu	100
+手	ciu	146
 手	siu	0%
 扌	ciu	87
 扌	siu	71
@@ -3276,7 +3275,6 @@ sort: by_weight
 扏	hiu	87
 扒	pat	99
 扒	pee	98
-打	phah	100
 打	tann	100
 扔	jing	99
 払	hut	79
@@ -3409,7 +3407,7 @@ sort: by_weight
 拾	sip	97
 拾	zap	99
 拿	na	98
-拿	thereh	100	#本字摕
+拿	thereh	148	#本字摕
 持	ci	98
 持	ti	0%
 挂	kui	87
@@ -3427,7 +3425,7 @@ sort: by_weight
 挑	thio	100
 挓	tha	98
 挔	hiannh	99
-挕	hy	99
+挕	hy	100
 挖	iah	99
 挖	oo	97
 挖	uat	99
@@ -3462,8 +3460,8 @@ sort: by_weight
 捆	qun	95
 捉	ciok	99
 捋	luah	99
-捌	bat	100
-捌	pat	98
+捌	bat	142
+捌	pat	140
 捍	han	86
 捎	sa	95
 捎	sau	96
@@ -3516,7 +3514,7 @@ sort: by_weight
 掔	qian	85
 掖	ik	79
 掘	kut	98
-掙	zerng	99
+掙	zerng	96
 掛	kua	99
 掜	tau	88
 掝	hik	77
@@ -3558,7 +3556,7 @@ sort: by_weight
 揖	ip	99
 揚	Iang	93
 換	huan	3%
-換	uann	100
+換	uann	146
 揜	iap	95
 揞	iap	94
 揠	at	98
@@ -3567,7 +3565,7 @@ sort: by_weight
 揢	qeeh	99
 揣	cer	1%
 揣	cui	100
-揤	jCih	100
+揤	jCih	143
 揨	terng	83
 揩	qai	93
 揪	ziu	92
@@ -3596,7 +3594,7 @@ sort: by_weight
 搖	iau	97
 搖	io	96
 搗	toO	86
-搜	sOo	99
+搜	sOo	95
 搝	giu	99
 搝	qiu	93
 搞	kau	98
@@ -3660,6 +3658,7 @@ sort: by_weight
 撈	hoo	92
 撈	loO	99
 撋	nua	94
+撏	siam	97
 撐	thenn	100
 撐	therng	0%
 撒	sat	99
@@ -3697,10 +3696,10 @@ sort: by_weight
 擄	loo	83
 擅	sian	90
 擇	tik	92
-擊	kik	98
+擊	kik	97
 擋	tong	88
 操	cau	99
-操	coO	100
+操	coO	140
 擎	qing	91
 擒	qim	96
 擓	
@@ -3711,7 +3710,7 @@ sort: by_weight
 擘	pik	87
 據	kir	100
 擛	iat	95
-擠	qereh	100	#替字
+擠	qereh	145	#替字
 擠	ze	90
 擠	zik	98	#替字
 擢	tioh	0%
@@ -3796,7 +3795,7 @@ sort: by_weight
 敝	pe	96
 敞	cIang	94
 敢	kam	100
-敢	kann	100
+敢	kann	146
 敢	kiam	0%
 散	san	98
 散	suann	98
@@ -3817,7 +3816,7 @@ sort: by_weight
 斁	too	79
 斂	liam	98
 斃	pe	98
-文	bun	100
+文	bun	144
 斈	hak	97
 斉	ze	80
 斌	pin	99
@@ -3877,7 +3876,7 @@ sort: by_weight
 旡	qi	84
 既	ki	97
 旣	ki	12
-日	jit	100
+日	jit	148
 旦	tan	90
 旦	tuann	96
 旨	zi	84
@@ -3932,7 +3931,7 @@ sort: by_weight
 昪	pian	76
 昬	hun	96
 昭	ziau	96
-是	si	100
+是	si	150
 昰	si	75
 昱	iok	94
 昴	bau	95
@@ -3940,7 +3939,7 @@ sort: by_weight
 昷	un	63
 昺	ping	83
 晁	tiau	80
-時	si	99
+時	si	146
 晃	hong	86
 晄	hong	22
 晆	kui	62
@@ -3985,7 +3984,7 @@ sort: by_weight
 暄	huan	78
 暇	ha	95
 暇	hee	96
-暈	hun	100
+暈	hun	98
 暈	uInn	0%
 暈	un	88
 暉	hui	89
@@ -4056,13 +4055,13 @@ sort: by_weight
 朁	cam	88
 會	eRe	100
 會	her	0%
-會	hue	100
+會	hue	143
 會	kue	0%
 朅	qiat	98
-月	gerh	100
+月	gerh	147
 月	guat	1%
-有	iu	100
-有	u	100
+有	iu	149
+有	u	150
 朊	guan	89
 朋	perng	100
 服	hok	97
@@ -4080,8 +4079,8 @@ sort: by_weight
 朦	bong	84
 朧	long	89
 木	bak	100
-木	bok	100
-未	ber	100
+木	bok	146
+未	ber	147
 未	bi	99
 末	buah	100
 末	buat	100
@@ -4104,7 +4103,7 @@ sort: by_weight
 李	li	98
 杏	hing	90
 材	zai	95
-村	cuInn	100
+村	cuInn	141
 村	cuan	100
 村	cun	100
 杖	tIang	95
@@ -4127,7 +4126,7 @@ sort: by_weight
 杷	pee	94
 杼	tir	95
 松	sZiOng	0%
-松	siong	100
+松	siong	96
 板	pan	97
 枇	pi	61
 枉	ong	94
@@ -4317,7 +4316,7 @@ sort: by_weight
 楊	iunn	99
 楓	hong	0%
 楓	puInn	99
-楔	sereh	100
+楔	sereh
 楔	siat	95
 楗	king	61
 楚	coo	99
@@ -4337,7 +4336,7 @@ sort: by_weight
 楱	zOo	88
 極	kik	99
 楷	qai	97
-楹	enn	99
+楹	enn	90
 楹	ing	72
 楽	gak	96
 楽	lok	85
@@ -4369,7 +4368,7 @@ sort: by_weight
 構	keru	98
 槌	thui	95
 槍	cIang	4%
-槍	ciang	100	#受官話影響（“槍枝”）
+槍	ciang	142	#受官話影響（“槍枝”）
 槍	ciunn	95	#“長槍”
 槐	huai	96
 槓	kang	91
@@ -4500,13 +4499,14 @@ sort: by_weight
 欜	nLong	86
 欝	ut	92
 欠	qiam	100
-次	cur	100
+次	cur	143
 欣	herm	100
 欱	hop	100
 欲	beh	1%
 欲	berh	1%
 欲	boh	1%
 欲	iok	85
+欶	soh	0%
 欶	sok	89
 欶	suh	0%
 欷	hi	77
@@ -4554,11 +4554,11 @@ sort: by_weight
 歴	lik	87
 歷	lik	96
 歸	kui	97
-歹	phayY	100
+歹	phayY	146
 歹	tai	5%
 歹	tay	5%			#訓讀字
 歺	tai	79
-死	si	98
+死	si	142
 死	sur	97
 歿	but	97
 殂	zoo	90
@@ -4720,7 +4720,6 @@ sort: by_weight
 沏	ciat	98
 沐	bak	97
 沐	bok	94
-沒	bo	100	#本字無/毛
 沒	but	98
 沓	tap	97
 沓	tauh	100
@@ -4759,7 +4758,7 @@ sort: by_weight
 泄	siat	97
 泅	siu	73
 泉	zuan	97
-泉	zuann	100
+泉	zuann	140
 泊	phik	99	#湖泊
 泊	poh	1%		#落泊
 泊	pok	95	#停泊
@@ -4823,7 +4822,7 @@ sort: by_weight
 洶	hiong	93
 洺	bing	81
 活	huat	0%
-活	uah	100
+活	uah	147
 活	uat	1%
 洽	hap	0%
 洽	hiap	98
@@ -5094,7 +5093,7 @@ sort: by_weight
 漲	tiunn	99
 漲	tng	0%
 漳	zIang	83
-漳	ziang	100
+漳	ziang	140
 漳	zing	55
 漳	ziunn	1%
 漵	sir	84
@@ -5157,7 +5156,7 @@ sort: by_weight
 澶	sian	79
 澶	thuann	95
 澹	tam	92
-激	kik	97
+激	kik	98
 濁	tak	98
 濁	zok	97
 濂	liam	97
@@ -5216,7 +5215,7 @@ sort: by_weight
 灉	iong	73
 灋	huap	95
 灌	kuan	94
-灑	sa	98
+灑	sa	96
 灔	iam	74
 灘	than	95
 灘	thuann	98
@@ -5333,7 +5332,7 @@ sort: by_weight
 焠	cuh	99
 焠	cui	83
 無	bo	99
-無	bu	100
+無	bu	150
 焢	qong	76
 焦	ta	99
 焦	ziau	97
@@ -5363,8 +5362,8 @@ sort: by_weight
 煜	iok	97
 煞	sannh	99
 煞	sat	96
-煞	suah	100
-煠	sah	100
+煞	suah	140
+煠	sah	98
 煡	qit	97
 煢	king	66
 煤	mue	97
@@ -5404,7 +5403,7 @@ sort: by_weight
 熨	ut	99
 熬	ngOO	98
 熱	jiat	100
-熱	juah	100
+熱	juah	145
 熲	king	59
 熳	ban	88
 熵	sIang	80
@@ -5470,7 +5469,7 @@ sort: by_weight
 爭	zenn	100
 爭	zerng	97
 爰	uan	71
-爲	ui	100
+爲	ui	149
 爵	zIak	99
 父	hu	93
 父	pee	93
@@ -5482,7 +5481,7 @@ sort: by_weight
 爽	song	100
 爾	nDi	98
 爾	nia	5%
-爿	paInn	100
+爿	paInn	145
 爿	zIang	2%
 牀	cng	100
 牀	cong	0%
@@ -5492,7 +5491,7 @@ sort: by_weight
 牆	cIang	100
 牆	ciunn	94
 片	phian	100
-片	phy	100
+片	phy	147
 版	pan	99
 牋	zian	86
 牌	pai	99
@@ -5505,7 +5504,7 @@ sort: by_weight
 牙	gee	100
 牚	thenn	98
 牛	giu	100
-牛	gu	100
+牛	gu	146
 牛	ngiu	99
 牝	phin	99
 牝	pin	83
@@ -5519,7 +5518,6 @@ sort: by_weight
 物	but	99
 物	mih	100
 物	mngh	3%
-帋	zi	50
 牯	koo	78
 牲	senn	96
 牲	serng	97
@@ -5593,6 +5591,7 @@ sort: by_weight
 猱	no	100
 猴	heru	95
 猴	kau	89
+猶	ia	0%
 猶	iau	0%
 猶	iu	83
 猷	iu	68
@@ -5831,7 +5830,7 @@ sort: by_weight
 甥	serng	96
 甦	soo	92
 甧	serm	99
-用	iOng	100
+用	iOng	148
 用	iong	100
 甩	sue	95
 甪	liok	86
@@ -5846,7 +5845,7 @@ sort: by_weight
 甲	kah	100
 甲	kap	100
 申	sin	95
-男	nLam	100
+男	nLam	145
 甸	tian	91
 甹	phing	86
 町	ting	83
@@ -5984,8 +5983,7 @@ sort: by_weight
 瘡	cong	0%
 瘢	puan	93
 瘤	liu	95
-瘦	sOo	100
-瘦	san	97	#本字㾪
+瘦	sOo	95
 瘧	giok	98
 瘩	tah	94
 瘮	cim	92
@@ -6032,9 +6030,9 @@ sort: by_weight
 登	terng	98
 發	huat	100
 發	puh	100
-白	peeh	100
+白	peeh	144
 白	pik	100
-百	pah	100
+百	pah	144
 百	pik	97
 皁	zoO	88
 皂	zoO	92
@@ -6132,7 +6130,7 @@ sort: by_weight
 眉	bai	96
 眉	bi	93
 看	qan	100
-看	quann	100
+看	quann	149
 県	hian	83
 眐	zing	57
 眔	tap	93
@@ -6142,7 +6140,7 @@ sort: by_weight
 眚	sing	74
 眜	buat	97
 眞	zin	69
-真	zin	100
+真	zin	146
 眠	bian	5%
 眠	bin	96
 眢	uan	57
@@ -6162,7 +6160,7 @@ sort: by_weight
 眼	ngaI	0%
 眾	zing	98
 眾	ziong	98
-着	tioh	100
+着	tioh	146
 着	tiok	100
 着	toh	100
 睂	bi	55
@@ -6246,7 +6244,7 @@ sort: by_weight
 矧	sin	64
 矩	kir	90
 矬	zo	89
-短	tEr	100
+短	tEr	142
 短	tuan	98
 矮	ai	0%
 矮	ere	97
@@ -6278,6 +6276,7 @@ sort: by_weight
 砰	pherng	96
 砰	phiang	100
 砲	phau	90
+破	pua	100
 砵	puat	90
 砷	sin	82
 砸	zap	97
@@ -6298,11 +6297,11 @@ sort: by_weight
 硩	teeh	100
 硪	ngOO	91
 硫	liu	94
-硬	ging	100
+硬	ging	144
 硬	ngee	100
 确	qak	97
 硯	gian	96
-硯	hy	100
+硯	hy	99
 硰	sa	90
 硼	pherng	97
 硽	iam	71
@@ -6379,6 +6378,7 @@ sort: by_weight
 礱	lang	96
 礴	pok	86
 示	si	85
+礻	si
 礽	jing	97
 社	sia	97
 祀	cai	4%
@@ -6541,7 +6541,7 @@ sort: by_weight
 穸	sik	58
 穹	qiong	97
 空	qang	100
-空	qong	100
+空	qong	145
 穿	cing	100
 穿	cuInn	99
 穿	cuan	95
@@ -6617,7 +6617,7 @@ sort: by_weight
 笆	pa	84
 笈	kip	96
 笏	hut	90
-笑	cio	100
+笑	cio	144
 笑	siau	97
 笒	cim	90
 笙	serng	98
@@ -6674,7 +6674,7 @@ sort: by_weight
 箔	poh	97
 箔	pok	6%
 箕	ki	48
-算	suInn	100
+算	suInn	99
 算	suan	100
 箜	qong	83
 箝	qiam	91
@@ -6779,7 +6779,7 @@ sort: by_weight
 籽	zur	90
 粄	puan	92
 粅	but	95
-粉	hun	95
+粉	hun	97
 粋	cui	84
 粑	pa	85
 粒	liap	100
@@ -6881,9 +6881,9 @@ sort: by_weight
 素	soo	98
 紡	hong	0%
 紡	phang	95
-索	sak	100	#泉腔文讀（“探索”）
+索	sak	98	#泉腔文讀（“探索”）
 索	sik	94	#漳腔文讀
-索	soh	100
+索	soh	98
 索	sok	93	#泉腔文讀（“繩索”）
 紥	zat	95
 紫	zi	95
@@ -7087,7 +7087,7 @@ sort: by_weight
 纓	iann	96
 纓	ing	76
 纔	cai	0%
-纔	zIAh	100	#本字則
+纔	zIAh	149	#本字則
 纖	ciam	98
 纖	siam	99
 纛	tok	81
@@ -7209,7 +7209,6 @@ sort: by_weight
 翼	ik	93
 翼	sit	96
 翽	huai	93
-#耀	cio	98
 耀	iau	95
 老	lau	100
 老	loO	100
@@ -7220,7 +7219,7 @@ sort: by_weight
 耋	tiat	93
 而	ji	99
 耍	sa	0%
-耍	sng	100
+耍	sng	98
 耐	nai	99
 耑	tuan	89
 耒	lui	89
@@ -7260,7 +7259,7 @@ sort: by_weight
 聰	cang	0%
 聰	cong	96
 聱	ngOO	76
-聲	siann	100
+聲	siann	147
 聲	sing	96
 聳	cang	0%
 聳	siong	87
@@ -7273,7 +7272,7 @@ sort: by_weight
 聹	nLing	94
 聻	ziam	89
 聼	thing	89
-聽	thiann	100
+聽	thiann	150
 聽	thing	98
 聾	lang	99
 聾	long	92
@@ -7309,7 +7308,7 @@ sort: by_weight
 肫	tun	83
 肬	iu	51
 肭	lut	98
-肯	qerng	100
+肯	qerng	142
 肯	qin	99
 肰	jian	97
 肱	king	76
@@ -7362,7 +7361,7 @@ sort: by_weight
 胸	hiong	98
 胺	an	95
 胼	pian	73
-能	nLerng	100
+能	nLerng	146
 胿	kui	64
 脂	zi	91
 脅	hiap	96
@@ -7404,7 +7403,7 @@ sort: by_weight
 腓	hui	70
 腔	qIang	99
 腔	qang	3%
-腔	qiunn	100
+腔	qiunn	143
 腕	uan	83
 腕	uann	97
 腚	ting	81
@@ -7425,7 +7424,7 @@ sort: by_weight
 腱	kian	91
 腳	kIak	100
 腳	kioh	0%
-腳	qa	100
+腳	qa	144
 腴	jU	83
 腸	ciang	98
 腸	tCIang	100
@@ -7517,7 +7516,7 @@ sort: by_weight
 舄	sik	55
 舅	kiu	91
 舅	ku	99
-與	ir	100
+與	ir	146
 興	hing	98
 舉	kir	96
 舊	kiu	99
@@ -7642,7 +7641,7 @@ sort: by_weight
 花	huee	100
 芲	hua	84
 芳	hong	92
-芳	phang	100
+芳	phang	148
 芴	but	96
 芷	zi	85
 芸	hun	0%
@@ -7670,7 +7669,7 @@ sort: by_weight
 苡	i	76
 苢	i	52
 苣	kir	87
-若	jIak	100
+若	jIak	144
 若	jia	1%
 若	na	0%
 苦	qoo	98
@@ -7730,7 +7729,7 @@ sort: by_weight
 荀	sun	86
 荃	zuan	93
 荇	hing	86
-草	cau	100
+草	cau	150
 草	co	99
 草	coO	8%
 荊	king	86
@@ -7816,7 +7815,7 @@ sort: by_weight
 菱	ling	83
 菲	hui	95
 菴	am	99
-菸	hun	89	#本字薰
+菸	ian	89
 菹	zir	90
 菻	lim	90
 菽	siok	80
@@ -7846,7 +7845,7 @@ sort: by_weight
 落	lak	0%
 落	lauh	1%
 落	liauh	3%
-落	loh	100
+落	loh	145
 落	lok	99
 葆	po	90
 葇	jiu	91
@@ -7874,7 +7873,7 @@ sort: by_weight
 葺	cip	96
 蒂	te	90
 蒂	ti	1%
-蒐	sOo	98
+蒐	sOo	94
 蒓	sun	68
 蒔	si	71
 蒗	long	79
@@ -8028,12 +8027,13 @@ sort: by_weight
 藕	ngau	100
 藜	le	84
 藝	ge	99
+藝	gee	2%
 藝	gere	2%
 藠	gio	99
 藤	terng	95
 藤	tin	95
 藥	Iak	99
-藥	ioh	100
+藥	ioh	142
 藩	huan	83
 藪	sOo	91
 藷	zir	87
@@ -8068,7 +8068,7 @@ sort: by_weight
 虒	thi	89
 虓	hau	91
 虔	qian	96
-處	cir	100
+處	cir	144
 虗	hir	96
 虛	hir	99
 虜	loo	87
@@ -8111,6 +8111,7 @@ sort: by_weight
 蚶	ham	84
 蚺	jiam	95
 蚻	zuah	98
+蚼	ku	80
 蛀	ziu	89
 蛀	zu	88
 蛄	koo	77
@@ -8294,7 +8295,7 @@ sort: by_weight
 衊	biat	97
 衋	hik	79	#傷痛其心
 行	hang	100
-行	hing	100
+行	hing	147
 行	kiann	0%
 衍	ian	88
 衎	qan	96
@@ -8315,6 +8316,7 @@ sort: by_weight
 衢	ku	92
 衣	i	94
 衣	ui	0%
+衤	i
 表	piau	100
 表	pio	100
 衩	ca	88
@@ -8330,7 +8332,7 @@ sort: by_weight
 袀	kun	78
 袁	uan	94
 袂	be	1%
-袂	bere	100
+袂	bere	148
 袈	kaE	64
 袋	tEr	98
 袋	tai	95
@@ -8403,7 +8405,7 @@ sort: by_weight
 褶	sip	92
 褸	lU	98
 褻	siat	94
-褿	ziAu	100
+褿	ziAu	147
 襀	zioh	97
 襁	kIang	95
 襄	sIang	83
@@ -8426,7 +8428,7 @@ sort: by_weight
 西	se	100
 覀	a	88
 要	beh	100
-要	berh	100
+要	berh	149
 要	iau	100
 覃	tham	95
 覆	hok	98
@@ -8434,9 +8436,9 @@ sort: by_weight
 覇	pa	81
 覈	hert	99
 覈	hik	90
-見	kian	100
+見	kian	149
 見	ky	100
-規	kui	93
+規	kui	99
 覒	mau	96
 覒	moo	83
 覓	ba	1%
@@ -8571,12 +8573,12 @@ sort: by_weight
 誦	siong	98
 誨	hue	87
 誩	king	62
-說	serh	100
+說	serh	149
 說	suat	100
 說	sue	99	#"遊說"
 読	thok	95
 誰	sui	93
-誰	tiang	100
+誰	tiang	143
 課	qer	8%		#"工課"
 課	qo	100
 課	qoO	8%
@@ -8588,7 +8590,7 @@ sort: by_weight
 諄	zun	85
 談	tam	100
 諉	ui	64
-請	ciann	100
+請	ciann	146
 請	cing	5%
 諍	zenn	98
 諍	zerng	89
@@ -8614,6 +8616,7 @@ sort: by_weight
 諸	za	0%
 諸	zir	98
 諺	gan	94
+諾	hiooh	0%
 諾	nLok	100
 謀	beru	100
 謁	iat	96
@@ -8629,7 +8632,7 @@ sort: by_weight
 謖	siok	82
 謗	pong	91
 謙	qiam	99
-講	kOang	100
+講	kOang	150
 講	kang	99
 講	qiang	0%
 謝	sia	98
@@ -8663,7 +8666,7 @@ sort: by_weight
 譽	ir	93
 讀	tau	0%
 讀	teru	0%
-讀	thak	100
+讀	thak	147
 讀	thok	98
 讁	tik	67
 讃	zan	90
@@ -8848,11 +8851,11 @@ sort: by_weight
 赱	zOo	95
 赳	ziu	86
 赴	hu	81
-起	qi	100
+起	qi	146
 趁	than	100
 趁	thin	100
 趄	cir	91
-超	cTHiau	100
+超	cTHiau	145
 越	uat	100
 趒	tio	96
 趕	kan	96
@@ -8992,7 +8995,7 @@ sort: by_weight
 軄	zik	73
 軆	sin	75
 車	cer	3%			#永春
-車	cia	100
+車	cia	145
 車	kir	5%
 軋	at	100
 軌	kui	89
@@ -9060,6 +9063,8 @@ sort: by_weight
 轍	tiat	97
 轎	kio	97
 轓	huan	51
+轔	lian	80
+轔	lin	80
 轟	hong	73
 轡	pi	75
 轢	lik	85
@@ -9121,7 +9126,7 @@ sort: by_weight
 迹	zik	79
 迺	nai	90
 追	tui	98
-退	thEr	100
+退	thEr	144
 退	thue	100
 送	sang	98
 送	song	96
@@ -9145,10 +9150,10 @@ sort: by_weight
 逗	tau	97
 逗	teru	99
 逘	ci	80
-這	ze	100	#本字即
+這	ze	150	#本字即
 這	zia	1%		#本字即搭
 這	zit	99	#本字即
-通	thang	100
+通	thang	145
 通	thong	100
 逛	kong	88
 逛	sErh	99
@@ -9184,7 +9189,7 @@ sort: by_weight
 遊	iu	94
 運	un	99
 遍	phian	97
-過	kOer	100
+過	kOer	148
 過	ker	100
 過	koO	99
 過	kua	1%
@@ -9204,7 +9209,7 @@ sort: by_weight
 遛	liu	93
 遜	sun	93
 遞	te	91
-遠	huInn	100
+遠	huInn	144
 遠	uan	99
 遢	thap	98
 遣	qian	98
@@ -9214,7 +9219,7 @@ sort: by_weight
 遭	zoO	99
 遮	jia	0%
 遮	zia	100
-遮	ziah	100
+遮	ziah	98
 遮	zuah	100
 遲	ti	93
 遴	lin	87
@@ -9233,13 +9238,13 @@ sort: by_weight
 邂	hai	84
 邃	sui	82
 還	haInn	100
-還	hai	100
+還	hai	146
 還	huan	100
 邇	nDi	97
 邈	bok	89
 邉	pian	0%
 邊	pian	93
-邊	py	100
+邊	py	142
 邋	lap	97
 邋	liap	98	#正音
 邏	lo	92
@@ -9256,7 +9261,7 @@ sort: by_weight
 那	hia	2%		#本字彼搭/許搭
 那	hit	100	#本字彼/許
 那	lo	0%
-那	na	100
+那	na	150
 邦	pang	95
 邨	cun	94
 邪	ia	0%
@@ -9497,7 +9502,7 @@ sort: by_weight
 鉻	lok	90
 鉼	phiann	98
 鉿	kap	93
-銀	gern	100
+銀	gern	145
 銃	cing	92
 銅	tang	98
 銅	tong	1%
@@ -9584,7 +9589,7 @@ sort: by_weight
 錦	kim	98
 錨	biau	94
 錪	tian	72
-錫	siah	100
+錫	siah	90
 錫	sik	3%
 錮	koo	73
 錯	co	100
@@ -9691,7 +9696,7 @@ sort: by_weight
 鏰	perng	93
 鏵	hua	0%
 鏹	kIang	96
-鏹	qiang	100
+鏹	qiang	94
 鏽	siu	82
 鐃	nLau	96
 鐐	liau	82
@@ -9755,7 +9760,7 @@ sort: by_weight
 閉	pe	0%
 閉	pi	93
 開	qai	100
-開	qui	100
+開	qui	145
 閎	hing	85
 閎	hong	45
 閏	jun	98
@@ -9778,7 +9783,7 @@ sort: by_weight
 閤	hap	99
 閥	huat	95
 閨	kui	83
-閩	ban	100
+閩	ban	145
 閩	bin	99
 閫	qun	90
 閬	lang	97
@@ -9827,7 +9832,7 @@ sort: by_weight
 阨	ik	64
 阪	pan	91
 阮	guan	95
-阮	gun	100
+阮	gun	148
 阮	uInn	99
 阱	zenn	97
 阱	zing	67
@@ -9950,17 +9955,17 @@ sort: by_weight
 雥	zip	92
 雦	zip	93
 雧	zip	91
-雨	U	100
+雨	U	145
 雨	hoo	98
 雩	U	90
-雪	sErh	100
+雪	sErh	99
 雪	suat	99
 雫	nua	96
 雭	sip	86	#小雨聲
 雮	bok	86	#鳥羽澤也
 雯	bun	92
-雰	hun	99
-雲	hun	97
+雰	hun	96
+雲	hun	98
 雲	un	100
 雴	cip	94
 零	lan	1%
@@ -9968,7 +9973,7 @@ sort: by_weight
 雷	lui	98
 雹	pau	90
 電	tian	100
-需	sU	100
+需	sU	99
 霂	bok	85
 霄	siau	87
 霄	sio	96
@@ -10024,7 +10029,7 @@ sort: by_weight
 靠	qoO	100
 靠	qua	5%
 靡	bi	83
-面	bian	100
+面	bian	143
 面	bin	98
 靣	bian	90
 靤	phau	92
@@ -10047,7 +10052,7 @@ sort: by_weight
 鞍	an	97
 鞍	uann	98
 鞏	qiong	99
-鞘	ciau	99
+鞘	ciau	96
 鞘	siau	84
 鞚	qong	80
 鞠	kiok	98
@@ -10076,12 +10081,12 @@ sort: by_weight
 韭	kiu	67
 韭	ku	91
 韮	kiu	75
-音	im	100
+音	im	144
 韶	siau	86
 韻	un	92
 響	hIang	97
 頁	hiat	2%
-頁	iah	100
+頁	iah	143
 頂	ting	99
 頃	qing	90
 項	hang	99
@@ -10107,7 +10112,7 @@ sort: by_weight
 頤	i	83
 頦	hai	88
 頫	hu	60
-頭	thau	100
+頭	thau	146
 頭	theru	100
 頰	kiap	96
 頷	am	88
@@ -10150,7 +10155,7 @@ sort: by_weight
 顳	ziap	97
 顴	kuan	70
 風	hong	100
-風	huang	100
+風	huang	145
 颪	kua	81
 颯	sap	99
 颱	thai	86
@@ -10172,7 +10177,7 @@ sort: by_weight
 飛	per	94
 飜	huan	53
 飝	hui	55
-食	sik	97
+食	sik	89
 食	sit	99
 食	ziah	0%
 飠	sik	67
@@ -10186,7 +10191,7 @@ sort: by_weight
 飭	thik	92
 飮	im	87
 飯	huan	0%
-飯	puInn	100
+飯	puInn	143
 飲	im	98
 飳	zu	83
 飴	i	72
@@ -10221,7 +10226,7 @@ sort: by_weight
 餵	ui	98
 餼	hi	81
 餾	liu	84
-餿	sOo	95
+餿	sOo	93
 饃	boo	90
 饅	ban	81
 饈	siu	79
@@ -10712,7 +10717,7 @@ sort: by_weight
 麿	moo	87
 黁	nLun	99
 黃	hong	0%
-黃	uInn	100
+黃	uInn	148
 黌	hong	30
 黍	sere	97
 黍	sir	86
@@ -10720,7 +10725,6 @@ sort: by_weight
 黏	nLiam	97
 黐	thi	95
 黑	hik	99
-黑	oo	1%#訓讀
 黒	hik	89
 黓	ik	61
 黔	qiam	98
@@ -10771,7 +10775,7 @@ sort: by_weight
 鼯	goo	79
 鼴	ian	68
 鼷	he	86
-鼻	phyY	100
+鼻	phyY	144
 鼾	han	85
 鼾	huann	96
 齁	heru	87
@@ -10816,7 +10820,7 @@ sort: by_weight
 龔	kiong	1%
 龕	qam	93
 龘	tap	94
-龜	ku	96
+龜	ku	97
 龜	kui	0%
 龜	kun	0%
 龝	ciu	81
@@ -10829,11 +10833,14 @@ sort: by_weight
 鿫	o	80
 鿬	tian	69
 鿽	
+𠁣	y
+𠃛	uay
 𠕇	taInn	98
 𠞄	there	98
 𠞩	zui	90
 𠢕	gau	99
 𡢃	kan	90
+𡳞	lan	90
 𢇇	kuan	70
 𢈾	cOo	90
 𢪱	but	90
@@ -10857,7 +10864,6 @@ sort: by_weight
 𩑾	cih	93
 𩑾	cirh	100
 𩚨	qiu	90
-𩛩	kauh	93
 𪁎	cio	92
 𪐞	too	91
 𪜶	in	100

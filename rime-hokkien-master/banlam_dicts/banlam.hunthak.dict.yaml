@@ -3,15 +3,23 @@ name: banlam.hunthak
 version: '20260605'
 sort: by_weight
 ...
-#常用詞句訓
+#常用單字訓
+不	m	100
+沒	bo	149
+很	zIn	145
+黑	oo	1%
+打	phah	150
+菸	hun	89	#本字薰
+瘦	san	97	#本字㾪
+乾	ta	100	#本字焦/凋
+他	ih	100	#訓讀，h尾僅供輸入方便
+#常用詞彙訓
 幹嘛	cong na	17741
 幹嘛	cong sannh	17741
 不到	bere kau	33778	
 這樣	an nee	146876
 這樣	a nee	146876
-這樣	zit iunn	146876
 這種	ziong gEe	278588
-這種个	ziong gEe	278588
 這麼	ziah	99
 這麼	ziah ni	2785880
 這麼	zuah	99
@@ -91,7 +99,6 @@ sort: by_weight
 鍋邊糊	tiann mi ser	20
 鍋邊糊	tiann py ser	20
 
-
 #類推訓
 #沒=無
 有人沒	u lang bo	36
@@ -116,6 +123,9 @@ sort: by_weight
 沒影	bo iann	552
 沒換	bo uann	206
 沒改	bo kere	324
+沒下	bo loh	599
+沒要	bo beh	58
+沒要	bo berh
 沒放	bo pang	204
 沒教	bo ka	80
 沒斷	bo tuInn	78
@@ -150,6 +160,8 @@ sort: by_weight
 沒門	bo muI	543
 沒雨	bo hoo	451
 沒蓋	bo kua
+還沒	hai bo
+沒在	bo tDeh	116
 #不=毋/伓
 不還	m haInn	763
 不講話	m kOang uee
@@ -265,7 +277,6 @@ sort: by_weight
 八塊	pereh qoo	10
 六塊	lak qoo	10
 千塊	caInn qoo	10
-
 五千塊	goo caInn qoo	43
 六千塊	lak caInn qoo
 七千塊	cit caInn qoo
@@ -628,7 +639,6 @@ sort: by_weight
 黑龍江省	oo liong kang senn
 黑龍江省	oo liong kang sing
 更黑	kerng oo	141
-
 #瘦=㾪
 消瘦	siau san	942
 真瘦	ziann san	398
@@ -749,7 +759,6 @@ sort: by_weight
 下來	loh lai	38157
 下去	loh qIR	21097
 有下雨	u loh hoo	656
-沒下	bo loh	599
 活下	uah loh	461
 流下	lau loh	1218
 下次	ee pai	11831

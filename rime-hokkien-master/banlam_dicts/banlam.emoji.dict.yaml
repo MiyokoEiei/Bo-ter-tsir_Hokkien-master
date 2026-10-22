@@ -127,17 +127,20 @@ sort: by_weight
 ✨	siam sih
 ✨	syh
 ❄️	serh hue
-❌	coO
-❌	m tioh
-❎	coO
-❎	m tioh
-❓	bun hoo
-❓	bun tere
-❗	kam than ho
-❗	zu i
+❌	coO	97
+❌	m tioh	97
+❎	coO	97
+❎	m tioh	97
+❓	bun hoo	98
+❓	bun tere	98
+❗	kam than ho	98
+❗	zu i	99
 ❤️	sim	98
-➕	ka
-➖	kiam
+➕	kaE	90
+➕	kaE ziunn	90
+➕	kaE sIang	90
+➖	kiam	90
+➖	kiam kIR	90
 ➗	tir i
 ➗	tir i
 ⬛	oo sik	98
@@ -541,9 +544,10 @@ sort: by_weight
 🖋️	kng pit	100
 🖌️	ueh pit	100
 🖍️	lah pit	100
-🖕🏻	qir hong kan	100
-🖕🏻	qoo tiong ko	100
-🖕🏻	tiong ko	100
+🖕🏻	qIR hong kan	100
+🖕🏻	qang kan	100
+🖕🏻	sai lin nia	100
+🖕🏻	tiong ki	100
 🖥️	tian nLo	100
 🖥️	tian nau	100
 🖨️	phah in ki	100
@@ -659,6 +663,7 @@ sort: by_weight
 🤗	
 🤝	ak ciu	100
 🤡	sio thiu	100
+🤢	gEr lan	98
 🤢	gEr	98
 🤢	toO tuann	100
 🤣	cio si	100
@@ -738,101 +743,6 @@ sort: by_weight
 🪪	sin hun zing	100
 🪫	bo tian	100
 🪳	ka zuah	100
-
-上合組織	S CO	556
-上海合作組織	S CO	1000
-世界衛生組織	W HO	844
-世界貿易組織	W TO	602
-世界銀行	W B	887
-中南財經政法大學南湖校區	Z UEL
-中南財經政法大學首義校區	Z UEL
-中國中央電視臺	C CTV	551
-中國人民大學蘇州校區	R UC
-中國人民大學通州校區	R UC
-中國共產黨	C PC	751
-中國國民黨	K MT	606
-中央情報局	C IA	560
-中情局	C IA	740
-中華民國	R OC	972
-亞太經合組織	A PEC	522
-人工智能	A I	12457
-人類發展指數	H TI
-俠盜獵車手	G TA	555
-克格勃	K GB	555
-全國人大	N PC	713
-全國人民代表大會	N PC	649	713
-北大西洋公約組織	N ATO	467
-北約	N ATO	1049
-十字軍之王	C K
-台澎金馬	T W
-台灣地區	T W
-合眾國	U S	300
-君士坦丁堡	P OLI	510
-君士坦丁波利斯	P OLI
-哈布斯堡	H AB	480
-哥倫比亞特區	D C	454
-國際政治經濟學	I PE	1000
-國際標準書號	I SBN	394
-國際組織	I O	873
-國際貨幣基金組織	I MF	612
-大阪	O OSAKA	1530
-大韓民國	R OK	533
-奈雪的茶	N AIXUE	363
-奈雪的茶	N AYUKI	363
-威尼斯	V EN	1180
-富蘭克林·羅斯福	F DR
-平克·弗洛伊德	P F	26
-德意志	G ER	2825
-我的世界	M C	1908
-拜占庭帝國	B YZ	459
-新臺幣	N TD	631
-日本放送協會	N HK	378
-東南亞國家聯盟	A SEAN	424
-東羅馬帝國	E RE	445
-林登·約翰遜	L BJ
-格魯吉亞	G EO	878
-梵蒂岡	P AP	713
-植物大戰殭屍	P VZ	718
-世貿組織	W TO
-歐洲聯盟	E U	562
-堺	S AKAI	596
-歐陸風雲	E U
-武漢大學信息學部	W HU
-武漢大學工學部	W HU
-武漢大學文理學部	W HU
-武漢大學醫學部	W HU
-民主進步黨	D PP	417
-波斯帝國	P ER	134
-洛杉磯	L A	2022
-洩矢諏訪子	S WK
-漢語水平考試	H SK	465
-熱那亞	G EN	615
-阿爾巴尼亞	A LB	595
-王國風雲	C K
-石油輸出國組織	O PEC	510
-約翰·肯尼迪	J FK	100
-總理	P M	3716
-美利堅合眾國	U SA	300
-美國中央情報局	C IA	62
-美國之音	V OA	552
-腺嘌呤核甘三磷酸	A TP	25
-脫氧核糖核酸	D NA	502
-美國國家航空航天局	N ASA	454
-美國廣播公司	A BC	441
-聯合國	U N	3285
-聯合王國	U K	486
-肯德基	K FC	2176
-自由貿易區	F TA	585
-華中工學院	H UST	18
-華盛頓哥倫比亞特區	W DC
-西羅馬帝國	W RE	435
-路易·威登	L V	584
-相互保證毀滅	M AD	223
-鋼鐵雄心	H OI
-阿拉伯聯合酋長國	U AE	530
-非政府組織	N GO	576
-非洲、加勒比和太平洋國家集團	A CP	100
-香港特別行政區	H K	606
 🆎	A B
 🆒	C OOL
 🆔	I D
@@ -843,62 +753,4 @@ sort: by_weight
 🇬🇧	G BR
 🇺🇳	U N
 💽	C D
-快速公交系統	B RT	244
-關稅與貿易總協定	G ATT	404
-注意力缺陷過動症	A DHD	153
-人類免疫缺陷病毒	A IDS	456
-哥倫比亞廣播公司	C BC	484
-簡單網絡管理協議	S NMP	408
-居民消費價格指數	C PI	531
-他媽的	T MD	2431
-無印良品	M UJI	500
-名創優品	M INISO	100
-白話字	P OJ	100
 Pe̍h-ōe-jī	P OJ	99
-太田順也	Z UN
-中國人民解放軍	P LA	696
-中國人民解放軍海軍	P LAN	509
-中國人民解放軍空軍	P LAA	476
-卡斯蒂利亞	C AS	418
-中華人民共和國	P RC	3159
-伊朗伊斯蘭共和國	I RA	100
-和平、自由和中立區	Z OPFAN
-德意志聯邦共和國	G ER	453
-朝鮮民主主義人民共和國	D PRK
-法蘭西第五共和國	F RA
-蘇維埃社會主義共和國聯盟	C CCP
-蘇維埃社會主義共和國聯盟	U SSR
-創傷後應激障礙	P TSD	180
-消費者物價指數	C PI	22
-上海交通大學	S JTU	1056
-中南財經政法大學	Z UEL	657
-中國人民大學	R UC	972
-美國聯邦調查局	F BI	51
-聯邦調查局	F BI	568
-北京大學	P KU	2375
-南京大學	N JU	1943
-南開大學	N KU	896
-廈門大學	A MU	870
-復旦大學	F DU	1960
-交通大學	J TU	100
-暨南大學	J NU	867
-武漢大學	W HU	1420
-歐洲共同體	E C	467
-南方共同市場	M ERCOSUR
-歐洲經濟共同體	E EC	432
-清華大學	T HU	3685
-華中師範大學	C NNU	627	627
-華中科技大學	H UST	927	927
-西安交通大學	X JTU	564
-香港中文大學	C UHK	1202
-不列顛哥倫比亞	B C	493
-大不列顛	G B	534
-大不列顛及北愛爾蘭聯合王國	U KGB	21
-不列顛哥倫比亞省	B C	459
-香港城市大學	C ITYU	346
-香港大學	H KU	985
-中國工商銀行	I CBC	690
-😉	W INK	100
-🚾	W C	100
-超文本傳送協議	H TTP	293
-香港中文大學（深圳）	C UHK	12

@@ -1,0 +1,727 @@
+---
+name: banlam.huanhunthak
+version: '20261022'
+sort: by_weight
+#（有的「孔子白」本來kiongiong詞庫就有保留，在此省略）
+...
+#常用詞彙訓
+幹嘛	kan ma	17741
+那張	na tiunn	3388
+這裏	ze li	120204
+纔不會	zai put hue	2308
+不知道	put ti to	65800
+對的	tui e	780
+一下午	zit ha nGoo	1626
+你們家	ni bun kaE	1626
+那些人	na sia lang	2785888
+你們	ni bun	99
+我們家	ngoo bun kaE	3499
+我們是	ngoo bun si	8053
+我們的	ngoo bun e	933
+他們家	thann bun kaE	1900
+敢這麼	kam zit moo	448
+敢這麼	kann zit moo	448
+昨晚	zoh buan	6782
+昨晚	zoh uan	6782
+還會	iau eRe	33156
+對對對	tui x x
+獅子座	sai zur zo	1049
+吃香	qit hIang	1006
+給我	kip gua	43556
+沒給	but kip	1009
+他給	thann kip	1293
+給他	kip thann	22326
+鍋邊糊	koO pian hoo	20
+
+#類推訓
+#沒=無
+有人沒	u lang but	36
+有沒	iu but	341
+有的沒的	u e but e	1000
+沒一	but zit	21136
+沒事	but sur	21136
+沒事人	but sur lang	545
+沒人	but lang	11274
+沒光	but kuInn	407
+沒勸	but quInn	390
+沒名	but mia	100
+沒命	but mia	593
+沒唱	but ciunn	519
+沒問	but muI	179
+沒啥	but siann	8978
+沒填	but thy	497
+沒大	but tua	584
+沒學	but oh	707
+沒定	but tiann	50
+沒影	but iann	552
+沒換	but uann	206
+沒改	but kere	324
+沒下	but loh	599
+沒要	but beh	58
+沒要	but berh
+沒放	but pang	204
+沒教	but ka	80
+沒斷	but tuInn	78
+沒書	but sZir	485
+沒染	but ni	400
+沒洗	but sere	580
+沒滿	but mua	503
+沒漲	but tiunn	144
+沒燒	but sio	480
+沒爹	but tia	459
+沒生	but senn	558
+沒用	but iOng	6536
+沒畫	but uee	508
+沒病	but penn	708
+沒看	but kuann	2316
+沒空	but aInn	1975
+沒笑	but cio	549
+沒等	but tan	360
+沒聲	but siann	497
+沒聽	but thiann	1276
+沒能	but nLerng	6635
+沒裝	but zng	248
+沒見	but ky	1935
+沒見到	but ky kau	499
+沒見着	but ky tioh	154
+沒見識	but kian sik	508
+沒通	but thong	468
+沒還	but haInn	125
+沒醒	but cenn	552
+沒錢	but zy	6382
+更沒	kerng but	846
+沒門	but muI	543
+沒雨	but hoo	451
+沒蓋	but kua
+還沒	hai but
+沒在	but zai	116
+#不=毋/伓
+不還	put haInn	763
+不講話	put kOang uee
+不快活	put quann uah
+不快活	put quy uah
+不醒	put cenn	851
+不重	put tang	818
+不釣	put tio	418
+不開	put qui	2636
+不關	put kuay	1129
+不領	put nia	532
+不騎	put qia	506
+知不知	ti put ti	1206
+等不等	tan put tan	15
+這不是	ze put si	15990
+不請	put ciann	625
+不講	put kOang	2002
+不過	put kOer	169774
+不退	put thEr	925
+不送	put sang	891
+不轉	put tuInn	814
+不轉	put zuan	814
+上不上	ziunn put ziunn	191
+不早不晚	put za put uan	48
+人不像人，鬼不像鬼	lang put ciunn lang	464
+恨鐵不成鋼	hern thih put ziann kng	565
+不上	put ziunn	4230
+不作	put zoh	1338
+不作	put zok	1338
+不值	put tat	1445
+不像	put ciunn	13558
+不先	put saInn	595
+不分	put pun	2911
+不剩	put cun	383
+不剩	put sin	383
+不卡	put qah	998
+不卷	put kuInn	234
+不坑	put qenn	220
+不學	put oh	1907
+不成樣	put ziann iunn	458
+不戴	put ti	750
+不批	put phere	171
+不折	put zih	660
+不教	put ka	655 
+不敢聲張	put kam sing tIang	38
+不敢見	put kann ky	23
+不早	put za	1063
+不早於	put za ir	46
+不是人	put si lang	893
+不是錢	put si zy	240
+不替	put there	515
+不服	put hok	3556
+不期待	put ki thai	162
+不洗	put sere	712
+不活	put uah	817
+不流	put lau	106
+不漲	put tiunn	1073
+不生	put senn	792
+不夠	bere kau	38063
+不完	bere uan	1982
+不爽	bere song	3810
+不着	bere tioh	17380
+不知	put zayY	13482
+不聽	put thiann	3068
+不花	put hua	783
+不落	put loh	807
+不裝	put zng	808
+不見	put ky	6007
+不見面	put ky bin	598
+不識字	put bat ji	577
+不識字	put pat ji	577
+先不	saInn put	5910
+學不	oh put	29
+敢不	kann put	668
+看不	quann put	1490
+若不	na put	962
+說不	sErh put	5118
+這不	zit put	5987
+這不	ze put	5987
+不想要	put siunn beh	24748
+不想要	put siunn berh	24748
+不是在	put si zai	2076
+#那=彼/許
+那一	na zit	1581
+那个	na gEe	100
+那年	na ni	5496
+那爿	na paInn	18628
+那陣	na zun	231
+那雙	na siAng	1334
+那件	na kiann	1373
+那壺	na oo	454
+那家	na kee	2447
+那封	na pang	106
+那批	na phere	786
+那捲	na kuInn	465
+那支	na ki	884
+那段	na tuann	5631
+那節	na zat	86
+#打=拍
+會打	eRe tann	681
+會打人	eRe tann lang	20
+還打	hai tann	168
+邊打	py tann	578
+開打	qai tann	958
+重打	tang tann	60
+重打	ting tann	60
+打人	tann lang	1678
+打仗	tann tIang	300
+重打	tiong tann	60
+打一	tann zit	879
+先打	saInn tann	854
+打光	tann kuInn	966
+打分	tann hun	3368
+打平	tann penn	695
+打成	tann ziann	1836
+打拚	tann piann	461
+打暈	tann hun	340
+打柴	tann ca	516
+打樁	tann zng	577
+打滿	tann mua	638
+打爛	tann nua	569
+打牢	tann tiau	241
+打穿	tann cuInn	772
+打蒼蠅	tann cong ing	474
+打醒	tann cenn	531
+改打	kere tann	530
+敢打	kann tann	615
+有打算	u tann suInn	100
+很次	hern cur	53
+很小	hern sere	10402
+很真	hern zin	53
+也很	ia hern	13716
+人很	lang hern	868
+他很	thann hern	1202
+但很	tan hern	837
+你很	lIR hern	1268
+很不	hern put	3419
+卻很	qiok hern	1229
+又很	iu hern	1061
+在很久	zai hern kiu	64
+已經很久	i king hern kiu	689
+很久	hern ku	10942
+很乖	hern kuai	891
+很乾	hern kan	548
+很低	hern kee	9894
+很像	hern ciunn	6960
+很卡	hern qah	245
+很合	hern hah	114
+很圓	hern y	524
+很坑	hern qenn	421
+很大	hern tua	51455
+很小	hern sio	10402
+很少	hern zio	27897
+很帥	hern suai	1239
+很平	hern penn	195
+很弱	hern jIak	1578
+很扁	hern py	383
+很搭	hern tah	269
+很晚	hern uan	1694
+很會	hern eRe	1044
+很有	hern u	99
+很涼	hern liang	90
+很溜	157
+很滑	hern kut	141
+很滿	hern mua	141
+很火	hern her	2527
+很熟	hern sik	1074
+很熱	hern juah	1271
+很燙	hern thng	165
+很爛	hern nua	1482
+很牛	hern gu	1625
+很甜	hern ty	739
+很疼	hern thiann	900
+很癢	hern ziunn	122
+很白	hern peeh	235
+很直	hern tit	534
+很短	hern tEr	2681
+很矮	hern ere	103
+很窮	hern kiOng	742
+很窮	hern kiong	742
+很糙	hern coO	77
+很紅	hern ang	701
+很細	hern sere	1024
+很胖	hern phong	682
+很脆	hern cer	215
+很舊	hern ku	567
+很薄	hern poh	864
+很趕	hern kuann	503
+很軟	hern nuI	454
+很輕	hern qin	978
+很辣	hern luah	142
+很遠	hern huInn	2822
+很酸	hern suInn	191
+很重	hern tang	2529
+很長	hern tng	5132
+很閒	hern aInn	332
+很鬆	hern sang	490
+很鮮	hern cy	103
+很鹹	hern kiam	506
+會很	eRe hern	2543
+有很	u hern	945
+這很	ze hern	859
+還很	hai hern	1943
+很多	hern zere	153301
+很水	hern zui	757
+#拿=摕
+拿上	na ziunn	725
+敢拿	kann na	113
+白拿	peeh na	181
+還拿	hai na	539
+拿來拿去	na lai na qIR	349 
+#黑=烏
+黑戶	hik hoo	531
+黑星	hik cenn	500
+黑晶	hik zy	568
+黑松	hik siong	540
+黑松沙士	hik siong sa sur	383
+黑槍	hik ciang	517
+黑道	hik toO	1055
+黑點	hik tiam	2046
+掃黑	sau hik	529
+黑幕	hik boo	1170
+黑的	hik e	2845
+黑石	hik zioh	1009
+全黑	zuan hik	748
+涉黑	siap hik	649
+反黑	huan hik	171
+塗黑	too hik	533
+墨黑	bak hik	529
+大黑	tua hik	724
+天黑	thy hik	1175
+太黑	thai hik	809
+小黑	sio hik	2312
+參加黑社會性質組織罪	cam kaE hik sia hue sing zit zoo zit zue	11
+心黑	sim hik	482
+怕黑	phann hik	130
+手黑	ciu hik	435
+打黑	tann hik	656
+抹黑	buah hik	1943
+拉黑	lah hik	2435
+招黑	zio hik	797
+擦黑	cat hik	460
+曬黑	sai hik	760
+最黑	zue hik	102
+染黑	ni hik	522
+棕黑	zang hik	432
+淺黑	cian hik	412
+灰黑	her hik	546
+很黑	hern hik	758
+炭黑	thuann hik	81
+烤黑	qonn hik	380
+燻黑	hun hik	524
+發黑	huat hik	814
+白山黑水	peeh suann hik zui	514
+碳黑	thuann hik	595
+紅黑	ang hik	808
+純黑	sun hik	320
+紫黑	zi hik	495
+老黑	lau hik	740
+臉黑	liam hik	151
+藍黑	lam hik	720
+變黑	pian hik	816
+開黑	qai hik	830
+青黑	cenn hik	481
+黑五	hik goo	177
+黑五類	hik goo lui	298 
+黑人	hik lang	7827
+黑人音樂	hik lang im gak
+黑光	hik kuInn	579
+黑八	hik pereh	89
+黑冰	hik ping	128
+黑函	hik ham	348
+黑卡	hik qah	842
+黑名	hik mia	433
+黑名單	hik mia tuann	3232
+黑哥	hik ko	94
+黑哨	hik sau	558
+黑啤	hik pi	153
+黑土	hik thoo	600 
+黑地	hik tere	514
+黑墨水	hik bak zui	4180
+黑墨汁	hik bak ziAp	3030
+黑壤	hik jIang	273
+黑夜	hik ia	1789
+黑天	hik thy	567
+黑奴	hik nLoo	730
+黑妹	hik ber	93
+黑妹	hik mai	93
+黑子	hik zur	1706
+黑字	hik ji	591
+黑屏	hik pin	1389
+黑屏	hik ping	1389
+黑巖	hik giam	76
+黑市	hik ci	738
+黑市場	hik ci tiunn	738
+黑布	hik poo	546
+黑帶	hik tua	580
+黑帽	hik bo	62
+黑帽子	hik bo zur	45
+黑幫	hik pang	2294
+黑幫老大	hik pang lau tua	281
+黑底	hik tere	5520 
+黑店	hik tiam	744
+黑影	hik iann	908
+黑得	hik tit	558
+黑心	hik sim	1114
+黑心棉	hik sim mi	54
+黑心肝	hik sim kuann	353
+黑心腸	hik sim tCIang	417
+黑心錢	hik sim zy	75
+黑手	hik ciu	1120
+黑手黨	hik ciu tong	608
+黑斑	hik pan	616
+黑料	hik liau	1146
+黑方	hik hong	615
+黑旗	hik ki	199
+黑書	hik sZir	443
+黑材料	hik zai liau	56
+黑松汽水	hik siong qi zui	289
+黑板	hik pan	1131
+黑板報	hik pan po	747
+黑板擦	hik pan cat	474
+黑桃	hik tho	700 
+黑框	hik qing	572
+黑框眼鏡	hik qing	57
+黑框鏡	hik qing	570
+黑棋	hik ki	1326
+黑椒	hik zio	194
+黑檀	hik tuann	487
+黑檀木	hik tuann bok	467
+黑毛	hik mng	93
+黑毛	hik moo	93
+黑水	hik zui	641 
+黑油	hik iu	478
+黑洞	hik tong	12749 
+黑海	hik hai	583
+黑漆	hik cat	535
+黑潮	hik tiau	622
+黑灰	hik her	117
+黑炭	hik thuann	533 
+黑煤	hik mue	401 
+黑熊	hik him	735 
+黑熊學院	hik him hak y	735 
+黑牌	hik pai	486
+黑狗	hik kau	578 
+黑玫瑰	hik mui kui	29 
+黑珍珠	hik tin zu	129 
+黑球	hik kiu	238 
+黑產	hik san	270 
+黑疸	hik zir	289
+黑瘦	hik san	502
+黑白	hik peeh	5197
+黑皮	hik pher	756
+黑盒	hik ah	628
+黑磷	hik lin	291
+黑社會	hik sia hue	1654
+黑科技	hik qOer ki	2868
+黑種	hik zing	474
+黑種人	hik zing lang	451
+黑筆	hik pit	441
+黑管	hik kuInn	490
+黑箱	hik siunn	506
+黑箱子	hik siunn a	389
+黑米	hik bi	276
+黑米粥	hik bi ziok	28
+黑粉	hik hun	1010
+黑糖	hik thng	5980
+黑紗	hik se	55
+黑紙	hik zua	462
+黑絲	hik si	276
+黑網吧	hik pang pa	108
+黑線	hik suann	737
+黑線人物	hik suann jin but
+黑老大	hik lau tua	191
+黑膠	hik ka	517
+黑膠布	hik ka poo	15
+黑船	hik zun	88
+黑色	hik sik	1351500
+黑茶	hik te	578
+黑莓	hik m	1366
+黑虎	hik hoo	137
+黑蛇	hik zua	519
+黑蟻	hik hia	445
+黑血	hik huih	850
+黑衣	hik i	1014
+黑衣人	hik i lang	867
+黑衣大食	hik i tai sik	1014
+黑袍	hik phau	143
+黑裙	hik kun	93
+黑褐	hik hat	448
+黑褐色	hik hat sik	107
+黑話	hik uee	553
+黑豆	hik tau	8240
+黑豬	hik tIR	517
+黑豹	hik pa	1465
+黑豹樂隊	hik pa gak tui	55
+黑貂	hik tiau	551
+黑貓	hik niau	9340
+黑車	hik cia	793
+黑金	hik kim	7470
+黑金政治	hik kim zing ti
+黑鉛	hik ian	349
+黑錢	hik zy	557
+黑鍋	hik er	595
+黑鏡	hik kiann	179
+黑鐵	hik thih	721
+黑鑽	hik suan	89
+黑鑽	hik zuan	89
+黑陶	hik toO	528
+黑霧	hik bu	100
+黑非洲	hik hui ziu	431
+黑頭	hik thau	914
+黑馬	hik bee	1523
+黑體	hik the	1507
+黑體字	hik the ji	491
+黑髮	hik huat	893
+黑鬚	hik ciu	407
+黑鬼	hik kui	5603
+黑魚	hik hIR	581 
+黑鯇	hik uan	279
+黑鯊	hik sua	167
+黑鳥	hik ziau	213 
+黑鷹	hik ing	96
+黑鸛	hik kuan	431
+黑麥	hik beeh	531
+黑麥草	hik beeh cau	36
+黑麵包	hik mi pau
+黑黃	hik uInn	94
+黑黨	hik tong	72
+黑黴	hik mue	473
+黑鼠	hik cir	428
+黑龍	hik liOng	1298
+黑龍江	hik liong kang	100 
+黑龍江省	hik liong kang senn
+黑龍江省	hik liong kang sing
+更黑	kerng hik	141
+#瘦=㾪
+消瘦	siau san	942
+真瘦	ziann san	398
+#菸=薰
+菸嘴	hun cui	553
+吸菸	qip hun	2538
+吃菸	ziah hun	494
+愛點菸	ai tiam hun	472
+戒菸	kai hun	1493
+抽菸室	thiu hun sit	248
+捲菸	kuInn hun	1062
+支菸	ki hun	587
+敬菸	king hun	452
+旱菸	han hun	528
+曬菸	sai hun	384
+洋菸	iunn hun	401
+紙菸	zua hun	477
+菸具	hun kU	554
+菸味	hun bi	732
+菸商	hun sIang	365
+菸圈	hun quan	591
+菸土	hun thoo	443
+菸客	hun qeeh	449
+菸屁	hun phui	400
+菸屎	hun sai	100
+菸廠	hun ciunn	563
+菸捲	hun kuInn	529
+菸斗	hun tau	732
+菸枝	hun ki	1100
+菸殼	hun qak	100
+菸民	hun bin	605
+菸油	hun iu	437
+菸灰	hun her	161
+菸田	hun can	100
+菸癮	hun gian	588
+菸盒	hun ah	100
+菸禁	hun kim	371
+菸粉	hun hun	489
+菸絲	hun si	567
+菸缸	hun kong	539
+菸臭	hun cau	353
+菸草	hun cau	100
+菸草	hun co	1570
+菸葉	hun hioh	882
+菸鹼	hun kiam	538
+貢菸	kong hun	228
+香菸	hIang hun	1690
+鼻菸	phyY hun	477
+#乾=焦/凋
+流乾	lau kan	584
+晾乾	nee kan	761
+淚乾	lui kan	519
+滴乾	tih kan	430
+瀝乾	lik kan	581
+乾布	kan poo	567
+乾急	kan kip	338
+乾柴	kan ca	573
+乾渠	kan kir	549
+乾溝	kan kau	479
+乾溼	kan sip	601
+乾熬	kan ngOO	311
+乾熱	kan juah	528
+乾片	kan phy	428
+乾飯	kan puInn	538
+快乾	quai kan	599
+抹乾	buah kan	519
+抽乾	thiu kan	534
+拭乾	cit kan	493
+撈乾	hoo kan	316
+擦乾	cat kan	960
+曬乾	sai kan	797
+未乾	ber kan	594
+枯乾	qoo kan	517
+水乾	zui kan	481
+乾嘔	kan ooh	546
+乾枯	kan qoo	841
+乾柴烈火	kan ca liat her	523
+乾燥	kan so	4588
+乾酵母	kan kann bu	486
+烤乾	qonn kan	506
+燒乾	sio kan	483
+發乾	huat kan	547
+眼乾	gan kan	474
+過乾癮	ker kan gian	414
+未乾	ber kan	594
+乾唱	kan ciunn	303 
+乾喝	kan lim 
+乾土	kan thoo	424 
+
+#上=頂（有限訓）
+上一	ting zit	1489
+上一个	ting zit gEe
+上个	ting gEe
+上午	ting poo	11182
+上半	ting puann	667
+上季	ting kui	164
+上月	ting gerh	1355
+上盤	ting puann	602
+上禮拜	ting le pai	4104
+上面	ting bin	73643
+上頁	ting iah	700
+樓上	lau ting	9856	
+牀上	cng ting	4447
+網上	bang ting	29537	
+船上	zun ting	2618
+車上	cia ting	3207
+桌上	toh ting	3207
+上次	ting pai	16325
+#下=落（有限訓）
+一下場	zit loh tiunn	434
+一下臺	zit loh tai	424
+一下車	zit loh cia	108
+一下雨	zit loh ho	70
+一下飛機	zit loh hui ki	93
+下樓	loh lau	1657
+下水	loh zui	1980
+有下	u loh	656
+下來	loh lai	38157
+下去	loh qIR	21097
+有下雨	u loh hoo	656
+活下	uah loh	461
+流下	lau loh	1218
+下次	ee pai	11831
+會下雪	eRe loh sErh	28
+#多=外/偌（有限訓）
+十多	zap gua	1611
+多大	gua tua	9782 
+#多=濟（有限訓）
+多少	zere zio	100
+多人	zere lang	5890
+太多	thai zere	45895
+過多	ker zere	8986
+#哪=佗
+到哪	kau tOh	1135
+到哪裏	kau tOh loh	1270
+去哪	qIR tOh	2099
+去哪裏	qIR tOh loh	2312
+哪一	tOh zit	1182
+哪一个	tOh zit gEe	1000
+哪一个人	tOh zit gEe lang	612
+哪一件	tOh zit kiann	547
+哪一位	tOh zit ui	1000
+哪一場	tOh zit tiunn	56
+哪一塊	tOh zit quai	296
+哪一塊	tOh zit tEr	233
+哪一年	tOh zit ni	539
+哪一方面	tOh zit hong bin	200
+哪一爿	tOh zit paInn	170
+哪一箇	tOh zit koo	10000
+哪一篇	tOh zit phy	49
+哪一級	tOh zit qKip	43
+哪一行	tOh zit hang	182
+哪一隻	tOh zit ziah	700
+哪一面	tOh zit bin	83
+哪一頁	tOh zit iah	398
+哪一項	tOh zit hang	1000
+哪來	tOh lai	1483
+哪去	tOh qIR	1088
+哪幾	tOh kui	660
+哪行	tOh hang	503
+哪有	tOh u	2136
+坐哪	zEr tOh	54
+往哪	ong tOh	567
+從哪	ziong tOh	737
+打哪	tann tOh	80
+打哪	tann tOh	80
+放哪	pang tOh	179
+是哪	si tOh	1328
+走哪	zau tOh	144
+酒塞	ziu sat
+他真	thann zin	237
+問他	muI thann	4947
+教他	ka thann	1012
+放他	pang thann	330
+他上	thann ziunn	637
+他先	thann saInn	655
+他向	thann hIang	629
+他向	thann hiann	629
+他問	thann muI	644
+他會	thann eRe	9094
+他有	thann u	3432
+他還	thann hai	6833
+等他	tan thann	1874
+算他	suInn thann	140
+罵他	maE thann	1419
+聽他	thiann thann	1498
+若他	na thann	79
+說他	serh thann	11705
+請他	ciann thann	1151
+讓他	jIang thann	28989
+趁他	than thann	204
+轉他	zuan thann	40
+送他	sang thann	967
+他受到	thann siu kau 

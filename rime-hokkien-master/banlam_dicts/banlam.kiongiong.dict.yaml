@@ -58,8 +58,6 @@ sort: by_weight
 一下	zit ee	16148
 一下來		53
 一下班		2
-一不小心	it put siau sim
-一不小心	it put sio sim
 一不留神	it put liu sin
 一世	it se	249
 一世之雄	it se zi hiong
@@ -826,6 +824,7 @@ sort: by_weight
 一平米	zit ping bi	25
 一年	it nLian	4574
 一年	zit ni	4574
+一度	it too	457
 一年一度	it nLian it too
 一年一變	zit ni zit pian
 一年之計	it nLian zi ke
@@ -1434,7 +1433,6 @@ sort: by_weight
 一比二		17	#9
 一比較		18
 一毛	it moo	79
-一毛不拔	it moo put puat
 一毛錢		75
 一毫	it hoO	62
 一毫	zit hoO	62
@@ -1859,7 +1857,6 @@ sort: by_weight
 一空	zit qang	82
 一窩	zit o	78
 一窩蜂	it o hong	68
-一窩風		366	#9
 一窮二白	it kiong ji pik
 一窺堂奧	it qui tong o
 一窺究竟	it qui kiu king
@@ -2051,7 +2048,6 @@ sort: by_weight
 一股繩		13	#9
 一股腦	it koo nau	100
 一股腦	it koo noo	100
-一股風		15	#9
 一肩挑		68	#9
 一胎	it thai	57
 一胎	zit thai	57
@@ -3267,12 +3263,6 @@ sort: by_weight
 三下	sann ee	74
 三下五除二	
 三下兩下	
-三不	sam put	65
-三不五時	sam put goo si
-三不朽	sam put hiu	37
-三不沾	sam put tam	9
-三不知	sam put ti	52
-三不管	sam put kuan	48
 三不要		21	#9
 三世	sann se	100
 四世	si se	100
@@ -4382,7 +4372,6 @@ sort: by_weight
 三讀會		12
 三讀通過	
 三變	sam pian	34
-三豐		661	#9
 三貂角		31
 三責險		6
 三資	sam zur	57
@@ -6037,6 +6026,8 @@ sort: by_weight
 下集	ee zip	62
 下集預告	
 下面	ee bin	7984
+這塊	zit quai	798
+下面	haE bian	7984
 下面	ee qa	7984
 下面提到	
 下面這箇	
@@ -6069,8 +6060,6 @@ sort: by_weight
 不一致的	put it ti e
 不一般	put it pan	38
 不丈夫	put tIang hu	2
-不三不四	put sam put sur
-不三思	put sam sur
 不上	put sIang	423
 不上不下	put sIang put ha
 不上來		64
@@ -6188,7 +6177,6 @@ sort: by_weight
 不使用		177
 不來		370
 不來往		3
-不來梅	put lai mue	75
 不來的		328	#9
 不來電		50
 不來點		25	#9
@@ -6216,7 +6204,6 @@ sort: by_weight
 不保險		9
 不信	put sin	519
 不信仰		3
-不信任	put sin jim	188
 不信任動議	
 不信任感	
 不信任投票	
@@ -6384,7 +6371,6 @@ sort: by_weight
 不再難		2
 不再需要	
 不冒		49
-不冒險	put moo hiam
 不冤	put uan	24
 不冷		86
 不冷不熱	
@@ -6392,13 +6378,10 @@ sort: by_weight
 不准	put zun	447
 不准他		49
 不准你		54
+陰陽入		100
 不准問		41
 不准我		55
-不准沒		314	#9
-不准許		485	#9
-不准誰		344	#9
 不凍港	put tong kang	38
-不凡		1125	#9
 不出		632
 不出來		382
 不出具	
@@ -6494,7 +6477,6 @@ sort: by_weight
 不加壓		10	#9
 不加密		3
 不加強		2
-不加掩飾	put kaE iam sik
 不加糖		24
 不加考慮	put kaE qonn lir
 不努力		231
@@ -6527,9 +6509,7 @@ sort: by_weight
 不勝其苦	put sing ku qoo
 不勝唏噓	put sing hi hir
 不勝寒	put sing han	1
-不勝感激	put sing kam kik
 不勝春		315	#9
-不勝枚舉	put sing mue kir
 不勝衣		358	#9
 不勝酒力	put sing ziu lik
 不勞		117	#9
@@ -6564,7 +6544,6 @@ sort: by_weight
 不即不離	
 不厚		18
 不厚道		46
-不厭	put iam	82
 不厭倦	
 不厭其煩	
 不厭其詳	
@@ -6634,7 +6613,6 @@ sort: by_weight
 不可低於	
 不可使		8
 不可使用	
-不可侵犯	put qonn cim huam
 不可保存	
 不可保持	
 不可信	put qonn sin	78
@@ -6649,7 +6627,6 @@ sort: by_weight
 不可允許	
 不可充分	
 不可克服	put qonn qik hok
-不可兼得	put qonn kiam terk
 不可再		497
 不可再生資源	put qonn zai serng zur guan
 不可出口	
@@ -6859,8 +6836,6 @@ sort: by_weight
 不同之處	put tong zi cir
 不同人		57
 不同以往	put tong i ong
-不同凡俗	put tong huam siok
-不同凡響	put tong huam hIang
 不同命運	
 不同品牌	
 不同國家	
@@ -6868,7 +6843,6 @@ sort: by_weight
 不同地點	
 不同型號	
 不同場合	
-不同尋常	put tong sim sIang
 不同尺寸	
 不同層次	
 不同年齡	
@@ -6913,7 +6887,6 @@ sort: by_weight
 不同類型	
 不同風味	
 不同風格	
-不同點	put tong tiam	8
 不名數		164	#9
 不名譽		40
 不吐		61
@@ -6926,7 +6899,6 @@ sort: by_weight
 不吝指正	put ling zi zing
 不吝珠玉	put ling zu giok
 不吝賜教	put ling sir kau
-不含	put ham	306
 不含有		14
 不含油	
 不含稅		59
@@ -6950,7 +6922,6 @@ sort: by_weight
 不周	put ziu	62
 不周到		47
 不周延	put ziu ian	35
-不周風		313	#9
 不咋		2391	#9
 不咋會		26	#9
 不咋的		148	#9
@@ -7000,7 +6971,6 @@ sort: by_weight
 不單身	
 不器	put qi	43
 不噴		16
-不嚴	put giam	80
 不嚴密		5
 不嚴格		34
 不嚴謹		163
@@ -7049,7 +7019,6 @@ sort: by_weight
 不執行		20
 不堅固		2
 不堅定		21
-不堪	put qam	346
 不堪一擊	
 不堪入目	
 不堪入耳	
@@ -7057,7 +7026,6 @@ sort: by_weight
 不堪回首	
 不堪忍受	
 不堪設想	
-不堪重負	put qam tiong hu
 不報		81
 不堵車		12
 不塗		48
@@ -7306,7 +7274,6 @@ sort: by_weight
 不存在	put zun zai	1736
 不孝	put hau	84
 不孝子		49
-不孝有三	put hau iu sam
 不孤單		14
 不孤獨的	
 不孤立	
@@ -7627,12 +7594,7 @@ sort: by_weight
 不必說		43
 不必這樣	
 不忌口		7
-不忍	put jim	135
-不忍卒讀	put jim zut thok
-不忍心	put jim sim	104
 不忘	put bong	155
-不忘初心	put bong coo sim
-不忘初心，牢記使命	put bong coo sim
 不忘初衷	put bong coo thiong
 不忘挖井人	
 不忘本		46
@@ -7646,10 +7608,6 @@ sort: by_weight
 不快不慢	
 不快樂		106
 不忮不求	
-不念	put nLiam	56
-不念書	put nLiam sZir	5
-不念舊情	put nLiam kiu zing
-不念舊惡	put nLiam kiu ok
 不念過往	
 不忿	put hun	56
 不怎好		69
@@ -7717,7 +7675,6 @@ sort: by_weight
 不惜工本	
 不惜成本	
 不惜犧牲	
-不惜重金	put sik tiong kim
 不惟	put ui	50
 不惡而嚴	
 不想		2474
@@ -7906,15 +7863,12 @@ sort: by_weight
 不捐		7
 不捨	put sia	126
 不捨得		81
-不捨的		207	#9
-不掉		1743	#9
 不掉色		3
 不排		6
 不排斥		51
 不排除		292
 不掛		63
-不掛眼		149	#9
-不採		498	#9
+不採		49
 不採取		11
 不採用		29
 不接		129
@@ -7924,7 +7878,6 @@ sort: by_weight
 不接觸		35
 不接電話	
 不控股	
-不揍		435	#9
 不提		345
 不提也罷	put the ia pa
 不提供		108
@@ -7932,7 +7885,6 @@ sort: by_weight
 不提醒		4
 不插		48
 不插電		55
-不揚		576	#9
 不換		104
 不揮發	
 不損害		14
@@ -7943,8 +7895,6 @@ sort: by_weight
 不搭界	put tap ka	44          #吳語音
 不搭界	put tap kai	4
 不搶		19
-不摸頭		156	#9
-不撓		58	#9
 不撞南牆不回頭	
 不播		9
 不擅	put sian	54
@@ -8002,7 +7952,6 @@ sort: by_weight
 不敗紀錄	
 不敗金身	
 不教而誅	put kau ji zu
-不敢	put kam	1810
 不敢信		6
 不敢出		9
 不敢出氣	
@@ -8010,31 +7959,25 @@ sort: by_weight
 不敢動		33
 不敢去		51
 不敢問		13
-不敢喝		61	#9
 不敢大意	
 不敢奢望	
 不敢怠慢	
 不敢恭維	
 不敢想象	
 不敢懈怠	
-不敢猜		12	#9
 不敢用		29
-不敢當	put kam tong	71
 不敢相信	
 不敢看		43
 不敢碰		15
 不敢聽	
 不敢自專	
-不敢苟同	put kam keru tong
-不敢言	put kam gian	5
 不敢說		239
 不敢講		5
 不敢賭		5
-不敢造次	put kam coO cur
 不敢高攀	
 不敬	put king	76
 不整	put zing	42
-不整合		457	#9
+不整合	
 不整潔		5
 不整齊		17
 不敵	put tik	131
@@ -8076,7 +8019,7 @@ sort: by_weight
 不斷深入	
 不斷激發	
 不斷發展	
-不斷的		798	#9
+不斷的	
 不斷總結	
 不斷調整	
 不斷豐富	
@@ -8148,7 +8091,7 @@ sort: by_weight
 不是對手	
 不是小好	
 不是已經	
-不是很		6714	#9
+不是很	
 不是很好	
 不是很清楚	
 不是很理想	
@@ -8196,12 +8139,9 @@ sort: by_weight
 不暢	put thIang	102
 不暢通		5
 不暫停		4
-不暴力		34	#9
 不曉得	put hiau tit	120
-不曬		89	#9
-不更		202	#9
-不更事		518	#9
-不更好		59	#9
+不更		202	
+不更事	
 不曾	put zerng	190
 不曾在		53
 不曾想		20
@@ -8218,7 +8158,7 @@ sort: by_weight
 不會動		13
 不會去		163
 不會吧		280
-不會呀		55	#9
+不會呀		55
 不會哦	
 不會哭		5
 不會唱		8
@@ -8231,7 +8171,7 @@ sort: by_weight
 不會將		73
 不會對		140
 不會少		36
-不會弄		65	#9
+不會弄		65
 不會改	 	7
 不會放		6
 不會是		193
@@ -8242,8 +8182,7 @@ sort: by_weight
 不會發		11
 不會的		8
 不會答應	
-不會糊		21	#9
-不會給		580	#9
+不會給		58
 不會聽		8
 不會肥		8
 不會被		330
@@ -8252,7 +8191,6 @@ sort: by_weight
 不會變		80
 不會買		29
 不會走		17
-不會跌		48	#9
 不會踢		3
 不會輸		10
 不會錯		44
@@ -8279,16 +8217,13 @@ sort: by_weight
 不朽	put hiu	105
 不朽功勛	
 不朽名作	
-不朽的		639	#9
 不朽盾		2
-不材		399	#9
 不枉	put ong	73
 不枉此生	
 不枉此行	
 不果	put koO	51
 不果斷		2
 不染		11
-不染	put jiam	11
 不染塵埃	
 不染纖塵	
 不查		55
@@ -8311,7 +8246,6 @@ sort: by_weight
 不欲	put iok	65
 不欺暗室	
 不欺負		4
-不歡		41	#9
 不歡而散	
 不歡迎		27
 不止	put zi	963
@@ -8338,7 +8272,6 @@ sort: by_weight
 不正確		224
 不正經		59
 不歧視		41
-不歪		48	#9
 不歸	put kui	93
 不歸路		73
 不死	put sur	402
@@ -8354,8 +8287,6 @@ sort: by_weight
 不殺生		4
 不比	put pi	424
 不比你		24
-不毛		529	#9
-不毛之地	put moo zi te
 不民主		6
 不氣		55
 不氣餒		9
@@ -8370,7 +8301,6 @@ sort: by_weight
 不求多		9
 不求收獲	
 不求有功	
-不求甚解	put kiu sim kai
 不求聞達	put kiu bun tat
 不污染		3
 不決	put kuat	66
@@ -8427,7 +8357,6 @@ sort: by_weight
 不清潔		3
 不清爽		2
 不清白		2
-不減	put kiam	104
 不減分	
 不減當年	
 不渝	put jU	65
@@ -8521,7 +8450,6 @@ sort: by_weight
 不牢		210	#9
 不牢靠		113	#9
 不牽繩		3
-不犯	put huam	61
 不犯病		2
 不犯規		5
 不猜		40	#9
@@ -8540,7 +8468,6 @@ sort: by_weight
 不理會		46
 不理睬		13
 不理解		533
-不甘	put kam	151
 不甘寂寞	
 不甘平凡	
 不甘心		231
@@ -8548,10 +8475,8 @@ sort: by_weight
 不甘示弱	
 不甘落後	
 不甘願		3
-不甚	put sim	108
 不甚合意	
 不甚明朗	
-不甚瞭解	put sim liau kai
 不甜	put ty	32
 不生不死	
 不生不滅	put sur put biat
@@ -8617,8 +8542,6 @@ sort: by_weight
 不由得		139
 不由自主	put iu zur zu
 不申請		7
-不男不女	put nLam put lIR
-不男不女	put nLam put lU
 不畏	put uyY	83
 不畏困難	
 不畏強敵	
@@ -8765,14 +8688,12 @@ sort: by_weight
 不知何故	put ti hoO koo
 不知其二	put ti ki ji
 不知其可	put ti ki qonn
-不知凡幾	put ti huam ki
 不知分寸	put ti hun cun
 不知去向	put ti qIR hIang
 不知名	put ti bing	81
 不知名的	put ti bing e
 不知啊		26
 不知底細	
-不知廉恥	put ti liam thi
 不知忌諱	put ti ki hue
 不知恥	put ti thi	1
 不知悔改	put ti hue kai
@@ -8791,7 +8712,6 @@ sort: by_weight
 不知死		120
 不知死活	
 不知深淺	
-不知甘苦	put ti kam qoo
 不知疲倦	put ti phi kuan
 不知真僞	put ti zin ui
 不知羞	put ti siu
@@ -8824,7 +8744,6 @@ sort: by_weight
 不礙事		50
 不祥	put sIang	83
 不祥之兆	
-不禁	put kim	363
 不禁想起	
 不禁要問	
 不禮貌		54
@@ -8911,7 +8830,6 @@ sort: by_weight
 不籤		325	#9
 不籤合同	
 不粗	put coo	7
-不粘	put nLiam	101
 不粘油	
 不粘鍋		193
 不精	put zing	66
@@ -9472,8 +9390,6 @@ sort: by_weight
 不諧當		42	#9
 不諱	put hui	62
 不諱言		54
-不諳	put am	37
-不諳世事	put am se sur
 不諷刺		2
 不謀	put beru	34
 不謀其政	put beru ki zing
@@ -9529,7 +9445,6 @@ sort: by_weight
 不負卿		16	#9
 不負所托	
 不負責		135
-不負責任	put hu ziK jim
 不貪		17
 不貪圖		3
 不貪心		5
@@ -9859,7 +9774,6 @@ sort: by_weight
 不限流量	
 不限電		2
 不陪		10
-不陰不陽	put im put iunn
 不隨		59
 不隨大流	
 不隨意	put sui i	52
@@ -9975,8 +9889,6 @@ sort: by_weight
 不鳥我		4
 不鳴則已	put bing zerk i
 不鹹		7
-不鹹不淡	put ham put tam
-不麻煩	put ma huan	17
 不黑	put hik	74
 不點		65
 不點名		16
@@ -10576,7 +10488,6 @@ sort: by_weight
 並出來		29
 並出具		6
 並出去		22
-並刀		363	#9
 並列		216
 並列冠軍	
 並列句		8
@@ -10750,12 +10661,10 @@ sort: by_weight
 並舉		97
 並舉手		299	#9
 並茂		66
-並蒂		536	#9
 並蒂蓮		51
 並藉助		9
 並處		77
 並處以		77
-並處理		109	#9
 並行	ping hing	185
 並行不悖	ping hing put pue
 並行任務	
@@ -10812,10 +10721,7 @@ sort: by_weight
 並達成		2
 並適時		3
 並選擇		37
-並邀		441	#9
 並邀請		15
-並邦		128	#9
-並鄰		225	#9
 並配備		6
 並重		98
 並針對		16
@@ -13818,12 +13724,8 @@ sort: by_weight
 九宮	kiu kiong	62
 九宮格	kiu kiong keeh	69
 九宮鍵		4
-九宵	kiu siau	49
-九宵雲		444	#9
-九宵雲外	kiu siau un gue
-九寨		863	#9
 九寨溝風景名勝區	kiu zee kau	36
-九尾		584	#9
+九尾	kau ber	58
 九尾狐		21
 九尾龜		40
 九局	kau kiok	50
@@ -13934,20 +13836,18 @@ sort: by_weight
 九級風		32
 九紮	kau zat	21
 九組	kau zoo	47
-九經		456	#9
 九缸	kau kng	31
-九臺		639	#9
 九臺市		59
 九芎	kiu kiong
 九芝堂	
 九華	kiu hua	38
 九萬	kau ban	57
-九萬九千		#9
-九萬二千		#9
-九萬五千		#9
+九萬九千	
+九萬二千	
+九萬五千	
 九萬人		38
 九萬元		40
-九萬六千		#9
+九萬六千	
 九萬塊		26
 九萬箇		500
 九萬里	kau ban li	4
@@ -13962,7 +13862,6 @@ sort: by_weight
 九轉大腸	kiu zuan tua tCIang
 九轉大腸	kiu zuan tua tng
 九轉金丹	kiu zuan kim tan
-九通		485	#9
 九連環		2
 九遊	kiu iu	8
 九運會	
@@ -13981,12 +13880,11 @@ sort: by_weight
 九陽神功	
 九隻	kau ziah	52
 九集	kau zip	63
-九零後		513	#9
-九霄		628	#9
+九零後	kiu ling au	513	
+九霄	kiu siau	628
 九霄雲外	kiu siau un gue
 九面體		19
 九頭鳥		54
-九餘		306	#9
 九香蟲		39
 九黎族	kiu le zok	1
 九點	kau tiam	140
@@ -15003,10 +14901,8 @@ sort: by_weight
 予以重視	ir i tiong si
 予取予求	ir cU ir kiu
 予小子	ir siau zur	48
-事不三思	sur put sam sur
 事不可爲	sur put qonn ui
 事不宜遲	sur put i ti
-事不過三	sur put koO sam
 事不關己	sur put kuan ki
 事主	sur zu	71
 事事如意	sur x jir i
@@ -15970,12 +15866,8 @@ sort: by_weight
 二階導數	
 二隻	ji ziah	59
 二集		68
-二零		46	#9
-二零三		10	#9
 二零零		72
 二面角		42
-二頁		596	#9
-二頂		351	#9
 二項分佈	
 二項式		46
 二項式係數	
@@ -15985,27 +15877,11 @@ sort: by_weight
 二類		83
 二類卡	
 二餅	ji piann	7
-二餘		323	#9
-二馬		153	#9
 二鬼子		44
-二點		624	#9
-二點球		23	#9
-二點鐘		393	#9
 二黨制		12
-二龍路		11	#9
-于今		86	#9
-于光遠		463	#9
-于克勒		112	#9
-于品海		355	#9
-于寘		167	#9
-于徐		436	#9
-于慧		418	#9
 于是		9236
-于晴		541	#9
-于歸		460	#9
 于贈		18
-于都		59
-于靖		325	#9
+于都	
 于飛	ir hui	55
 于飛之樂	
 云乎		39
@@ -16017,8 +15893,6 @@ sort: by_weight
 云街	un kere
 互㨃	
 互不	hoo put	93
-互不侵犯	hoo put cim huam
-互不侵犯條約	hoo put cim huam
 互不干涉	hoo put kan siat
 互不干涉內政	hoo put kan siat
 互不相容	hoo put sIang iong
@@ -16036,7 +15910,6 @@ sort: by_weight
 互利互惠	
 互利性		33
 互制		30
-互加		427	#9
 互助互愛	
 互助合作	
 互助會		50
@@ -16913,7 +16786,6 @@ sort: by_weight
 五面	goo bin	49
 五面體		35
 五音	nGoo im	59
-五音不全	nGoo im put zuan
 五頁	goo iah	51
 五頂	goo ting	43
 五項	goo hang	102
@@ -25451,7 +25323,6 @@ sort: by_weight
 保研人	po gian lang	1
 保研名額	
 保研資格	
-保研路		11	#9
 保票	po phio	47
 保稅	po ser	91
 保稅倉庫	
@@ -25959,13 +25830,12 @@ sort: by_weight
 信息點		27
 信意		39
 信我	sin gua	32
-信手		622	#9
+信手		622	
 信手塗鴉	sin siu too a
 信手拈來	sin siu nLiam lai
 信托貿易	
 信據		32
 信教	sin kau	572
-信文		418	#9
 信服		100
 信札		55
 信條	sin tiau	161
@@ -25973,7 +25843,10 @@ sort: by_weight
 信樂燒	sin lok sio
 信標		48
 信步		76
+齊齊	ze x
+齊全	ze zuan
 信源		15
+米象	bi ciunn	15
 信然		45
 信物	sin but	62
 信產部		92
@@ -25996,7 +25869,6 @@ sort: by_weight
 信用度		9
 信用擔保	
 信用放款	
-信用狀		372	#9
 信用狀況	
 信用環境	
 信用社		97
@@ -26022,7 +25894,7 @@ sort: by_weight
 信用體系	
 信的過	sin e ker
 信皮	sin pher	33
-信神		49	#9
+信神		49
 信神者		27
 信立泰	
 信筆		48
@@ -26037,7 +25909,6 @@ sort: by_weight
 信箱裏		52
 信簡		28
 信紙	sin zua	77
-信紙上		22	#9
 信經	sin king	44
 信者		7
 信而有徵	
@@ -26125,28 +25996,19 @@ sort: by_weight
 信貸部門	
 信貸銀行	
 信貸風險	
-信賞		338	#9
 信賞必罰	
 信賴	sin lai	164
 信賴度		6
 信賴感		6
-信通		151	#9
 信道	sin toO	122
 信道容量	
 信道編碼	
 信達		82
 信達雅		82
 信部	sin poo	70
-信野		100
-信長	sin tIang	10
-信長之野望	sin ia
-信長書店	sin tIang sZir taInn
-信長書店	sin tIang sZir tiam
-信長書店	sin tIang zir tiam
 信陵君		38
 信陽市		63
 信陽毛尖	sin Iang moo ziam
-信靠		511	#9
 信風	sin hong	48
 信風帶	sin hong tua	33
 信馬游繮	
@@ -26409,7 +26271,7 @@ sort: by_weight
 俯瞰圖		36
 俯瞰攝影	
 俯臥		577	#9
-俯臥hu ngOO		57
+俯臥	hu ngOO		57
 俯臥位		10
 俯臥撐	hu ngOO therng	249
 俯衝	hu ciong	60
@@ -26865,7 +26727,6 @@ sort: by_weight
 倒流	to lau	80
 倒滿	to mua	53
 倒灌	to kuan	53
-倒煙		328	#9
 倒爲		411	#9
 倒爺	to ia	49
 倒牛奶		6
@@ -31119,7 +30980,6 @@ sort: by_weight
 先修	saInn siu	24
 先修班	sian siu pan	38
 先修課程	sian siu qo thing
-先修路		57	#9
 先倒	saInn to	49
 先借	saInn zioh	49
 先做	saInn zo	203
@@ -32414,7 +32274,6 @@ sort: by_weight
 入離職		2
 入雲	jip un	59
 入雲龍	
-入風口		346	#9
 入駐	jip zu	351
 入骨		62
 入魂		5
@@ -35889,7 +35748,6 @@ sort: by_weight
 六級	lak qKip	253
 六級真題	
 六級考試	
-六級風		265	#9
 六紮	lak zat	21
 六絃	lak hian	46
 六絃	liok hian	46
@@ -36180,7 +36038,9 @@ sort: by_weight
 共產		94
 共產主義	
 共產主義思想	
+廢詞	hue sur	200
 共產主義戰士	
+用家	iong kaE	100
 共產主義理想	
 共產主義社會	
 共產主義精神	
@@ -36189,13 +36049,13 @@ sort: by_weight
 共產主義運動	
 共產主義道德	
 共產主義青年團	
-共產制		275	#9
 共產國際	
 共產黨		267
 共產黨人	kiong san tong lang
 共產黨員	
 共產黨宣言	kiong san tong suan gian
 共產黨政府	kiong san tong zing hu
+共用	kiong iOng	146
 共用	kiong iong	146
 共白頭	kiong pik theru	2
 共相	kiong sIang	48
@@ -36263,8 +36123,6 @@ sort: by_weight
 共鳴器		36
 共黨		50
 兵丁	ping ting	52
-兵不厭詐	ping put iam za
-兵不血刃	ping put hiat jim
 兵亂	ping luan	45
 兵來將擋	ping lai zIang tong
 兵兵	ping x	54
@@ -36571,7 +36429,6 @@ sort: by_weight
 其言		19
 其言也善	
 其語言		5
-其貌不揚	ki mau put Iang
 其身		75
 其身份		10
 其近親屬	
@@ -37351,7 +37208,6 @@ sort: by_weight
 冒用	moo iong	68
 冒着	moo tioh	169
 冒着危險	
-冒着煙		27	#9
 冒着生命危險	
 冒稱		40
 冒納羅亞	
@@ -39332,8 +39188,7 @@ sort: by_weight
 刀刺	to ciah	56
 刀刻	to qerk	50
 刀削	to siah	9
-刀割		621	#9
-刀割to kuah		62
+刀割	to kuah		62
 刀劈	to phik	6
 刀劍	to kiam	121
 刀功	to kang	8
@@ -40127,6 +39982,7 @@ sort: by_weight
 分鏡頭劇本	
 分鐘	hun zing	5707
 分門別類	hun bun piat lui
+分開	hun qui	770
 分開	pun qui	770
 分開來		27
 分開做		3
@@ -41532,7 +41388,6 @@ sort: by_weight
 刮開		49	#9
 刮除	kuah tir	49
 刮頭	kuah thau	30
-刮風		170	#9
 刮骨	kuah kut	50
 刮骨去毒	
 刮骨療毒	
@@ -42674,6 +42529,7 @@ sort: by_weight
 前端開發	
 前端頁面	
 前篇	zaInn phy	17
+前綴	zian tue	148
 前綴	zian tuat	148
 前綴樹		2
 前線	zian suann	274
@@ -45692,12 +45548,10 @@ sort: by_weight
 勻速直線運動	
 勻速轉動	
 勻速運動	
-勻面		261	#9
 勾一下	
 勾三搭四	
 勾上	kau ziunn	51
 勾上	keru ziunn	51
-勾下		359	#9
 勾不起	
 勾中	kau tiong	36
 勾中	keru tiong	36
@@ -45733,9 +45587,7 @@ sort: by_weight
 勾描	keru bio	39
 勾搭	kau tah	110
 勾欄	keru lan	48
-勾消		410	#9
 勾玉	keru giok	47
-勾留		423	#9
 勾畫	kau uee	78
 勾畫	keru uee	78
 勾畫出		55
@@ -45760,9 +45612,7 @@ sort: by_weight
 勾起來		4
 勾踐	keru zian	60
 勾踐劍	
-勾通		524	#9
 勾連	kau lian	49
-勾過		420	#9
 勾過來	kau ker lai	32
 勾選	kau suan	126
 勾銷	keru siau	54
@@ -47889,7 +47739,6 @@ sort: by_weight
 千金一刻	cian kim it qerk
 千金一擲	
 千金一笑	cian kim it siau
-千金不換	zian kim put huan
 千金之家	
 千金小姐	cian kim sio zia
 千金市骨	
@@ -48491,7 +48340,6 @@ sort: by_weight
 卓有成效	tok iu sing hau
 卓然	tok jian	58
 卓爾	tok nDi	28
-卓爾不凡	tok nDi put huam
 卓爾不羣	tok nDi put kun
 卓犖	tok lok	38
 卓瑪	tok ma	8
@@ -48816,7 +48664,7 @@ sort: by_weight
 南樓	nLam lau	5
 南橋	nLam kio	81
 南橘北枳	
-南橫		477	#9
+南橫		477
 南橫公路	
 南歌子		3
 南歐	nLam au	52
@@ -49119,7 +48967,6 @@ sort: by_weight
 占三	ziam sann	54
 占上		493	#9
 占上游		23
-占上風		363	#9
 占上風		59
 占下	ziam haE	40
 占下風		40
@@ -52817,7 +52664,6 @@ sort: by_weight
 口上	qau sIang	11
 口上	qeru sIang	11
 口下留情	qeru haE liu zing
-口不對心	qeru put tui sim
 口不擇言	qeru put tik gian
 口中	qau tiong	376
 口中	qeru tiong	376
@@ -55234,7 +55080,6 @@ sort: by_weight
 可領	qonn nia	22
 可願	qonn guan	49
 可願意		47
-可風		532	#9
 可食	qonn sit	55
 可食用	qonn sit iong	27
 可食用性	
@@ -55699,7 +55544,6 @@ sort: by_weight
 吃火鍋		130
 吃灰	ziah her	130
 吃烤全羊	
-吃煙		494	#9
 吃牛肉		30
 吃牢飯		38
 吃狗肉		27
@@ -56421,7 +56265,6 @@ sort: by_weight
 合不攏嘴	hap put liong cui
 合不攏嘴	hap put liong zui
 合不攏腿	
-合並		9371	#9
 合久必分	hap kiu pit hun
 合乎	hap hoo	96
 合乎情理	
@@ -56609,7 +56452,6 @@ sort: by_weight
 合川		661	#9
 合工大		31
 合巹		44
-合并		9371	#9
 合度	hap too	51
 合式	hap sik	51
 合弦	hap hian	39
@@ -57875,7 +57717,6 @@ sort: by_weight
 名源		363	#9
 名滿天下	bing buan thian ha
 名演員		4
-名煙		560	#9
 名爲	bing ui	567
 名爵	bing zIak	68
 名片	mia phy	288
@@ -58784,7 +58625,6 @@ sort: by_weight
 吸盤	qip puann	61
 吸盤式	
 吸着	qip tioh	59
-吸着煙		13	#9
 吸睛		52
 吸碳	qip thuann	30
 吸積	qip ziK	41
@@ -58870,7 +58710,6 @@ sort: by_weight
 吹口氣		2
 吹向	cer hIang	54
 吹吧	cer pa	6
-吹吹風		138	#9
 吹哨	cer sau	51
 吹哨子		44
 吹哨聲		26
@@ -62194,7 +62033,6 @@ sort: by_weight
 善財童子	
 善辯		54
 善類		55
-善風		318	#9
 喇叭		181
 喇叭口		50
 喇叭形		47
@@ -67507,14 +67345,12 @@ sort: by_weight
 土包子		54
 土匪		120
 土博士		2
-土參		256	#9
 土司	thoo sur	72
 土名	thoo mia
 土味		37
 土味十足	
 土土	thoo x	54
 土地	thoo tere	869
-土地上		1013	#9
 土地交易	
 土地使用	
 土地使用權	
@@ -67622,14 +67458,10 @@ sort: by_weight
 土層	thoo zan	59
 土山		34
 土崗	thoo kang	44
-土崩		564	#9
 土崩瓦解	thoo perng gua kai
 土工	thoo kang	69
 土工布	
 土布		52
-土庫		48
-土庫曼		46
-土庫曼人	
 土庫鎮		19
 土建		98
 土建工程	
@@ -67659,7 +67491,6 @@ sort: by_weight
 土木身		5
 土木類		7
 土林	thoo lim	5
-土桑		287	#9
 土棍		28
 土樓	thoo lau	18
 土樣	thoo iunn	47
@@ -67672,7 +67503,6 @@ sort: by_weight
 土洋結合	
 土溫		43
 土炕		50
-土炮		45	#9
 土牆	thoo ciunn	58
 土牛	thoo gu	43
 土牛木馬	
@@ -67698,17 +67528,10 @@ sort: by_weight
 土穴		37
 土竈	thoo zau	8
 土籍		31
-土耳其人	
-土耳其咖啡	
-土耳其浴	
-土耳其的	
-土耳其進行曲	
-土耳其隊	
 土肥	thoo hui	56
 土肥	thoo pui	56
 土腥味		4
 土腥氣		33
-土臺		43	#9
 土色		52
 土茯苓		2
 土茴香		22
@@ -67730,17 +67553,18 @@ sort: by_weight
 土話	thoo uee	55
 土語		51
 土豆	thoo tau	714
-土豆子		13	#9
 土豆泥		58
 土豆燉牛肉	
 土豆片		22
 土豆絲		70
 土豆網		96
 土豆餅		6
-土豚		346	#9
 土豪	thoo ho	471
 土豪劣紳	thoo hoO luat sin
 土豬		44
+壽酒	siu ziu
+壽麵	siu mi
+壽圖	siu too
 土財主		49
 土貨		39
 土質		58
@@ -68551,7 +68375,6 @@ sort: by_weight
 在東北		690	#9
 在東方		408	#9
 在東部		196	#9
-在東風		13	#9
 在某		1263	#9
 在某些	tDeh boo sia	307
 在某些	tDeh boo siann	307
@@ -68651,9 +68474,7 @@ sort: by_weight
 在流動		11
 在流行		6
 在海內外	
-在海口		4
 在海外		197
-在海淀		6
 在海灘上	
 在海邊	tDeh hai py	67
 在海關		5
@@ -71906,62 +71727,38 @@ sort: by_weight
 塔下	thah haE	56
 塔下	thap haE	56
 塔中	thah tiong	5
-塔什干	thap sip kan	49
-塔克	thah qerk	54
-塔克林	
-塔克辛		24
 塔內	thah lai	8
 塔內	thah nLue	8
 塔公	thah kong	51
 塔公草原	
-塔列朗		39
-塔利	thah li	24
-塔利班	tha li pan	92
-塔利班	thap li pan
 塔剎	thap cat	46
-塔加路族語	
-塔吉克	thap kit qerk	54
-塔吉克人	
-塔吉克共和國	
-塔吉克族	
 塔吊	thah tiau	60
-塔城市		49
 塔塔	thah x	27
 塔塔	thap x	27
-塔塔兒		41
-塔塔兒人	
 塔墩	thah tun	32
 塔夫綢		44
-塔姆	thah bu	11
 塔娜蘇甘	
-塔子		47	#9
+塔子		4
 塔尖	thah ziam	55
-塔山		46	#9
-塔崩		300	#9
+塔山		46
 塔布	thah poo	47
 塔布羊	
 塔底	thah tere	5
 塔式	thah sik	10
 塔式起重機	
 塔扎	thah zat	35
-塔木德		2
-塔木德經	
 塔林	thah lim	56
 塔樓	thah lau	75
 塔矢亮		21
-塔羅卡		191	#9
 塔臺	thah tai	50
 塔裏	thah lai	13
 塔身	thah sin	6
 塔那那利佛	
-塔里木		63
-塔里班		344	#9
 塔鐘	thah zing	41
 塔門	thah muI	47
 塔防	thah hong	43
 塔頂	thah ting	58
 塗上	too ziunn	99
-塗乙		202	#9
 塗到	too kau	50
 塗刷	too sua	60
 塗去	too qIR	40
@@ -71971,12 +71768,10 @@ sort: by_weight
 塗塗畫畫	
 塗好	too ho	48
 塗完	too uan	13
-塗家		512	#9
 塗寫	too sia	49
 塗層	too zan	244
 塗山	too san	54
 塗布	too poo	62
-塗徑		203	#9
 塗成	too ziann	52
 塗抹	too buah	194
 塗抹工具	
@@ -71988,23 +71783,15 @@ sort: by_weight
 塗改液	too kai ik	6
 塗改液	too kere ik	6
 塗改無效	
-塗敷		546	#9
 塗料	too liau	161
 塗有	too iu	54
 塗油	too iu	48
-塗油於		121	#9
-塗消		264	#9
 塗滿	too mua	56
 塗漆	too cat	52
-塗潦		197	#9
-塗潭		149	#9
 塗炭	too than	55
-塗片		70	#9
-塗畫		43	#9
 塗的	too e	18
 塗眼霜	
 塗着	too tioh	53
-塗竄		151	#9
 塗粉	too hun	47
 塗脂抹粉	
 塗膠	too ka	55
@@ -72013,21 +71800,17 @@ sort: by_weight
 塗藥	too ioh	49
 塗蠟	too lah	40
 塗裝	too zng	107
-塗說		394	#9
 塗過	too ker	46
 塗過來		15
 塗過去		17
 塗金	too kim	42
-塗銷		372	#9
 塗防曬霜	
-塗附		433	#9
 塗顏色	
 塗飾	too sik	55
 塗飾劑		43
 塗鴨	too ah	40
 塗點	too tiam	9
 塘堰	tong ian	41
-塘塞		340	#9
 塘壩	tong pa	49
 塘泥	tong ni	42
 塘蝨		43
@@ -72040,7 +71823,6 @@ sort: by_weight
 塞上曲	sai sIang qiok	40
 塞上江南	sai sIang kang nLam
 塞下曲	sai haE qiok	46
-塞不下		91	#9
 塞住	sat zu	54
 塞住	that zu	54
 塞來昔布	sai lai sik poo
@@ -72059,15 +71841,12 @@ sort: by_weight
 塞子	sai zur	55
 塞孔	sat qong
 塞孔	that qong
-塞尺		459	#9
-塞弗		48	#9
 塞得	sat tit	12
 塞得	that tit	12
 塞思黑	sai sur hik	10
 塞擦音	sat cat im	37
 塞擦音	sik cat im	37
 塞族	sai zok	47
-塞機		366	#9
 塞死	that si	10
 塞淵	sik ian	25
 塞滿	sat mua	77
@@ -72082,17 +71861,13 @@ sort: by_weight
 塞耳	sat hi	39
 塞耳	that hi	39
 塞藥	that ioh	43
-塞規		522	#9
 塞語	sai gir	36
 塞語	sik gir	36
-塞象眼		16	#9
 塞責	sik ziK	49
 塞起	sat qi
 塞起	that qi
 塞車	that ciah	77
 塞進	that zin	139
-塞進來		409	#9
-塞進去		554	#9
 塞門	that muI	43
 塞音	sik im	43
 塞黑	sai hik	659
@@ -72104,6 +71879,7 @@ sort: by_weight
 填倉	thy cng	38
 填充	thy ciong	498
 填充劑		50
+土鱉	thoo pih	50
 填充數據	
 填充物		56
 填充率		6
@@ -72112,7 +71888,6 @@ sort: by_weight
 填充題		39
 填入	thy jip	101
 填出來		3
-填列		44	#9
 填到	thy kau	61
 填土	thy thoo	55
 填土機		9
@@ -75025,9 +74800,6 @@ sort: by_weight
 夠戇	kau gong	44
 夠我	kau gua	18
 夠戧	kau cIang	50
-夠打		422	#9
-夠撿		121	#9
-夠擠		324	#9
 夠數	kau soo	46
 夠早	kau za	44
 夠朋友		52
@@ -75035,30 +74807,27 @@ sort: by_weight
 夠格	kau keeh	57
 夠氣	kau qui	40
 夠溼	kau sip	33
-夠爲		373	#9
 夠狠	kau hern	76
 夠用	kau iOng	522
 夠用	kau iong	522
 夠直	kau tit	36
 夠看	kau quann	9
-夠着		60	#9
+夠着		60
 夠瞧	kau ziau	38
 夠瞧的		34
-夠種		354	#9
-夠笨		448	#9
-夠糟		374	#9
+夠種		354
+夠笨		448
+夠糟		374
 夠累	kau lui	7
 夠緊	kau kin	42
 夠義氣		3
-夠花		556	#9
-夠草		226	#9
 夠買	kau bere	56
 夠近	kau kern	43
-夠酷		41	#9
+夠酷		41
 夠重	kau tang	47
 夠錢	kau zy	10
 夠長	kau tng	21
-夠難		42	#9
+夠難		42
 夠面子	kau bin zur	35
 夠響	kau hIang	40
 夠香	kau hIang	42
@@ -75114,12 +74883,10 @@ sort: by_weight
 夢時空	bong si qong	10
 夢景	bong king	44
 夢月	bong guat
-夢有		550	#9
 夢有五不占	
 夢梁錄	
 夢江南	
 夢溪筆談	
-夢潔		45	#9
 夢特嬌		3
 夢璃	bong le	62
 夢的	bang e	118
@@ -75127,7 +74894,6 @@ sort: by_weight
 夢秋	bong ciu	10
 夢筆生花	
 夢粱錄		39
-夢網		836	#9
 夢繫	bong he	49
 夢羅園		12
 夢華錄		7
@@ -75171,8 +74937,6 @@ sort: by_weight
 夥同	her tong	75
 夥同一氣	
 夥同他人	
-夥夠		102	#9
-夥種		158	#9
 夥穿一條褲子	
 夥耕		12
 夥計	her ki	108
@@ -75197,12 +74961,11 @@ sort: by_weight
 大三度		36
 大三角		8
 大三通		27
-大三陽		127	#9
 大上海	tua sIang hai	13
 大下坡	
-大不		755	#9
+大不		755
 大不同	tai put tong	16
-大不大		913	#9
+大不大		913	
 大不如前	tai put jir zian
 大不如前	tua put jir zaInn
 大不幸	tai put hing	2
@@ -75233,7 +74996,6 @@ sort: by_weight
 大乘經典	tai sing king tian
 大乾	tai qian	9
 大亂	tai luan	85
-大了點		152	#9
 大事	tua sur	354
 大事不好	tua sur put ho
 大事不妙	
@@ -75268,7 +75030,6 @@ sort: by_weight
 大份	tua hun	7
 大企業		251
 大企業家	
-大伙		1399	#9
 大伯	tua peeh	132
 大伯子		38
 大伯母		42
@@ -75288,7 +75049,6 @@ sort: by_weight
 大使	tai sai	170
 大使級	tai sur qKip	43
 大使館	tai sai kuan	126
-大來歷		221	#9
 大便	tai pian	210
 大便不通	
 大便乾燥	
@@ -75298,14 +75058,10 @@ sort: by_weight
 大保底	tua po tere	3
 大俠	tai hiap	176
 大修	tua siu	94
-大修廠		12	#9
 大修理		45
 大修理基金	
 大修道院	
 大修道院長	
-大倉		46	#9
-大個子		749	#9
-大倒退		28	#9
 大借款	tua zioh quan	37
 大偉	tua ui	87
 大偏差	
@@ -75315,10 +75071,9 @@ sort: by_weight
 大做特做	tua zo tit zo
 大偵探		30
 大傢伙		73
-大傳		560	#9
 大傷	tua sIang	59
 大傷腦筋	
-大傻		751	#9
+大傻		751
 大傻瓜		55
 大傻逼		10
 大像素		5
@@ -75333,7 +75088,7 @@ sort: by_weight
 大光明		3
 大克鼎		2
 大兒子		84
-大全		1855	#9
+大全		1855
 大公	tua kong	82
 大公司		913
 大公國		44
@@ -75341,8 +75096,6 @@ sort: by_weight
 大公報		59
 大公子		8
 大公無私	tai kong bu sur
-大公開		22	#9
-大公雞		104	#9
 大公館		28
 大兵	tua ping	85
 大兵團		49
@@ -75380,9 +75133,7 @@ sort: by_weight
 大剌剌		46
 大前提	tua zian tere	77
 大前鋒	tua zian hong	71
-大剪刀		436	#9
 大副	tua hu	56
-大創意		16	#9
 大劇院	tua kIak y	87
 大劉	tua lau	233
 大劍	tua kiam	96
@@ -75414,16 +75165,15 @@ sort: by_weight
 大力神	tua lik sin	58
 大力補	
 大力開展	
-大功		650	#9
+大功		650
 大功告成	tai kong koO sing
 大功率	tua kong lut	96
-大加		762	#9
+大加	tai kaE	762
 大加讚賞	tai kaE zan sIang
 大加那利島	tua kaE na li
 大劫	tua kiap	6
 大劫案	tua kiap an	5
 大勇	tua iong	75
-大動		602	#9
 大動作	tua tong zok	71
 大動干戈	tai tong kan koO
 大動盪	tua tong tong	3
@@ -75949,7 +75699,6 @@ sort: by_weight
 大小子		12	#9
 大小官員	
 大小寫	tua sio sia	83
-大小寫不敏感	tua sio sia put bin kam
 大小寫敏感	tua sio sia bin kam
 大小年	tua sio ni	14
 大小王	tua sio ong	3
@@ -77070,7 +76819,7 @@ sort: by_weight
 大茴香子	
 大草包	
 大草原		813	#9
-大草原tua cau guan		81
+大草原	tua cau guan		81
 大草原上	
 大荒	tai hong	65
 大荒落	tai hong lok	10
@@ -77187,7 +76936,6 @@ sort: by_weight
 大解	tua kai	45
 大解放	
 大言		590	#9
-大言不慚	tai gian put cam
 大言炎炎	
 大訂單		6
 大計	tua ke	87
@@ -77226,8 +76974,6 @@ sort: by_weight
 大豆油	tua tau iu	34
 大豆蛋白	tua tau tan peeh
 大豆製品	tua tau ze phin
-大豐		667	#9
-大豐市		612	#9
 大豐收	tua hong siu	59
 大豐簋	tai hong kui	16
 大象	tua ciunn	292
@@ -77247,7 +76993,7 @@ sort: by_weight
 大資本家	
 大資產階級	
 大資金		70
-大賈		46	#9
+大賈	tai koo	46
 大賜福	
 大賞	tai sIang	42
 大賠	tua pue	40
@@ -77265,11 +77011,9 @@ sort: by_weight
 大贏	tua iann	48
 大贏家	tua iann kee	84
 大贏特贏	tua iann terk iann
-大赤色		224	#9
 大赦	tai sia	56
 大赦國際	tai sia kok ze
 大起	tua qi	42
-大起來		538	#9
 大起大落	tua qi tua loh
 大起義		10
 大趨勢		158
@@ -77277,27 +77021,21 @@ sort: by_weight
 大足石刻	
 大跌	tai tiat	238
 大跌	tua tiat	238
-大跌市		382	#9
 大跌眼鏡	
 大跨一步	
 大跨度	tua qua too	11
 大路	tua loo	100
-大路上		120	#9
 大路貨	tua loo her	47
 大跳水	tua thiau zui	8
-大跳臺		68	#9
 大踏步	tua tah poo	58
 大躍進	tai Iak zin	80
 大車	tua cia	82
 大車隊	tua cia tui	1
 大軍	tua kun	474
 大軍進犯	tai kun zin huam
-大軸子		190	#9
 大輪金剛	tai lun kim kong
 大輪金剛明王	tai lun kim kong
-大輸		424	#9
-大轉		465	#9
-大轉子		13	#9
+大輸		424
 大轉彎	tua zuan uan	54
 大轉折	tua zuan ziat	4
 大轉盤	tua zuan puann	4
@@ -77318,29 +77056,24 @@ sort: by_weight
 大逆轉	tua gik zuan	40
 大通道	tua thong toO	5
 大通銀行	tai thong gern hang
-大週摺		332	#9
 大週期	tua ziu ki	46
 大遊行		7
 大運	tua un	80
 大運會		20
 大運河		62
-大遍		367	#9
 大過	tua ker	61
 大過年		3
 大道	tua toO	269
-大道上		152	#9
+大道上		152
 大道理	tua to li	93
-大遠景		33	#9
 大遷徙	tua cian sU	12
 大遷移	tua cian i	3
 大選	tai suan	139
 大選舉	tua suan kIR	34
 大遼	tai liau	13
 大邊	tua py	43
-大郅		770	#9
 大郎	tua long	19
 大部	tua poo	100
-大部份		637	#9
 大部分	tua poo hun	7486
 大部分地區	
 大部分是	
@@ -77358,13 +77091,9 @@ sort: by_weight
 大醜	tai ciu	45
 大醫精誠	tai i zing sing
 大醫院	tua i y	113
-大采		412	#9
-大里		504	#9
 大里市		29
 大里溪		18
-大野		707	#9
-大野世民	tai ia se bin
-大野淵	tai ia ian	70
+大野		707
 大量	tai lIang	4675
 大量	tua lIang	4675
 大量事實	
@@ -77382,7 +77111,6 @@ sort: by_weight
 大金	tai kim	67
 大金剛	tai kim kong	9
 大金剛	tua kim kong	9
-大金牙		73	#9
 大金礦	tua kim qong	2
 大金融	tua kim iong	16
 大釜	tua hu	29
@@ -77458,7 +77186,7 @@ sort: by_weight
 大陪審團	
 大陰脣		34
 大陸	tai liok	1228
-大陸上		350	#9
+大陸上	
 大陸人	tai liok lang	74
 大陸冷氣團	
 大陸同胞	
@@ -77498,7 +77226,6 @@ sort: by_weight
 大隊長		89
 大險	tai hiam	45
 大險	tua hiam	45
-大隱		40	#9
 大隱靜脈	
 大隻	tua ziah	59
 大隻佬	tua ziah loO	4
@@ -77544,11 +77271,9 @@ sort: by_weight
 大霧天氣	
 大霧瀰漫	
 大霹靂		41
-大青		591	#9
 大青龍湯	
 大靜脈		40
 大面	tua bin	56
-大面上		88	#9
 大面積		379
 大面貓	tua bin niau	2
 大革命		142
@@ -77603,7 +77328,7 @@ sort: by_weight
 大風險		8
 大風雨		43
 大風雪		46
-大飛		682	#9
+大飛		682
 大飛躍		3
 大食	tai sik	8
 大食國	tai i kok	1
@@ -77693,8 +77418,6 @@ sort: by_weight
 大麻煩		27
 大麻花	
 大麻袋	
-大麻里		201	#9
-大麼		209	#9
 大黃	tua uInn	91
 大黃牛	
 大黃蜂		96
@@ -77712,7 +77435,7 @@ sort: by_weight
 大鼓	tua koo	59
 大鼠	tua cir	139
 大鼻	tua phyY	15
-大鼻子		150	#9
+大鼻子	
 大齊	tai ze	8
 大齋	tua zai	40
 大齋期		28
@@ -77726,18 +77449,13 @@ sort: by_weight
 大龍街		17
 大龍郵票	
 大龍頭	
-天一		957	#9
-天一亮		68	#9
 天一光	thy zit kuInn	1
-天一早		12	#9
 天一總局	thian it zong kiok
 天一閣	thian it kok	33
 天上	thian sIang	273
 天上人間	thian sIang jin kan
 天上地下	thian sIang te ha
 天上天下	thian sIang thian ha
-天上掉		766	#9
-天上有		84	#9
 天上飛		5
 天下	thian haE	1433
 天下事	thian haE sur	39
@@ -77768,7 +77486,6 @@ sort: by_weight
 天下英才	
 天下英雄	
 天下間	thian haE kan
-天不		111	#9
 天不假年	thian put kaE nLian
 天不怕	thy put phann	57
 天主	thian zu	69
@@ -77798,7 +77515,6 @@ sort: by_weight
 天人菊		37
 天仙	thian sian	95
 天仙配	
-天以上		381	#9
 天份	thian hun	59
 天佑	thian iu	88
 天佑中華	thian iu tiong hua
@@ -77830,11 +77546,9 @@ sort: by_weight
 天冷	thy ling	80
 天分	thian hun	114
 天前	thy zaInn	100
-天前配		15
 天劍	thian kiam	8
 天劫	thian kiap	7
-天半		596	#9
-天南		41	#9
+天南		41
 天南地北	
 天南星		30
 天南海北	
@@ -77845,11 +77559,10 @@ sort: by_weight
 天台宗		51
 天各一方	
 天合	thian hap	6
-天同		556	#9
 天后	thian hERU	335
 天后級		50
 天吶		56
-天呀		558	#9
+天呀		558
 天命	thian bing	118
 天和	thian hoO	67
 天和地		4
@@ -77862,11 +77575,9 @@ sort: by_weight
 天啓星		10
 天啓騎士	
 天啟	thian qe
-天啦		104	#9
 天喜	thian hi	31
 天國	thian kik	105
 天圓地方	
-天圖		48	#9
 天團	thian thuan	57
 天地	thian te	383
 天地	thy tere	383
@@ -77926,7 +77637,7 @@ sort: by_weight
 天契	thian qere	37
 天女	thian lIR	63
 天女散花	
-天妒		40	#9
+天妒		40
 天妒英才	
 天姿	thian zur	55
 天姿國色	thian zur kok sik
@@ -77953,7 +77664,6 @@ sort: by_weight
 天寶伏妖錄	
 天將	thian zIang	41
 天尊	thian zun	69
-天就		917	#9
 天山南北	thian san nLam pok
 天山南路	thian san nLam loo
 天山天池	
@@ -77993,15 +77703,9 @@ sort: by_weight
 天弓	thian kiOng	50
 天弓千亦	thian kiong cian ik
 天弘	thian hong	58
-天很冷		10	#9
-天很熱		13	#9
-天很藍		35	#9
-天後		3353	#9
-天後宮		588	#9
 天從人願	
 天心岩	thian sim giam	35
 天心閣	thian sim kok	1
-天怒		334	#9
 天怒人怨	
 天性	thian sing	211
 天恩	thian ern	35
@@ -78021,7 +77725,6 @@ sort: by_weight
 天授	thian siu	49
 天搖地動	
 天擇	thian tik	53
-天放		528	#9
 天敵	thian tik	88
 天數	thian soo	164
 天文	thian bun	255
@@ -78065,7 +77768,6 @@ sort: by_weight
 天暗	thian am	49
 天曆	thian lik	43
 天曉得		53
-天更藍		10	#9
 天書	thian sir	88
 天書奇譚	
 天會	thian hue	63
@@ -78082,15 +77784,12 @@ sort: by_weight
 天梯	thian thui	150
 天棚	thian penn	56
 天極	thian kik	108
-天極網		721	#9
 天樂	thian gak	68
 天樂	thian lok	68
 天樂義		5
 天樞	thian sU	53
 天樞星		29
 天樞穴		2
-天橋上		98	#9
-天橋下		45	#9
 天橋立	thian kio lip	24
 天機	thian ki	97
 天機雲錦	
@@ -78141,8 +77840,6 @@ sort: by_weight
 天淵之別	
 天清日晏	
 天源迪科	
-天溝		466	#9
-天演		525	#9
 天演論	thian ian lun	45
 天漢	thian han	47
 天火	thian her	61
@@ -78183,7 +77880,7 @@ sort: by_weight
 天然食物	
 天然餌料	
 天然鹼		45
-天煞		47	#9
+天煞		47
 天熱	thy juah	92
 天燈	thian terng	53
 天燕座		32
@@ -78200,7 +77897,6 @@ sort: by_weight
 天王星	thian ong cenn	58
 天王殿		34
 天王老子	
-天珠		42	#9
 天球	thian kiu	52
 天球儀		36
 天理	thian li	100
@@ -78225,8 +77921,6 @@ sort: by_weight
 天界	thian kai	81
 天癸	thian kui	45
 天的	thy e	10
-天盛		768	#9
-天盡頭		14	#9
 天目	thian bok	5
 天真	thian zin	352
 天真可愛	
@@ -78313,7 +78007,6 @@ sort: by_weight
 天花板上	
 天花病毒	
 天花粉		30
-天若		69	#9
 天若有情	
 天荒地老	
 天華	thian hua	76
@@ -78326,8 +78019,6 @@ sort: by_weight
 天藍藍	
 天虹	thian hong	8
 天蛾	thian ngOO	26
-天螻		236	#9
-天蟹座		341	#9
 天蠍	thian hiat	132
 天蠍座	thian hiat zo	104
 天蠍星		32
@@ -78340,13 +78031,10 @@ sort: by_weight
 天衣	thian i	2
 天衣無縫	thian i bu hong
 天要下雨	thian iau haE U
-天覆		432	#9
 天角獸		2
 天誅	thian zu	57
 天誅地滅	thian tu te biat
 天誘其衷	
-天說		573	#9
-天論		434	#9
 天譴	thian qian	56
 天變	thian pian	59
 天象	thian sCIang	62
@@ -78354,7 +78042,6 @@ sort: by_weight
 天象變化	
 天貓	thian mau	603
 天貓	thian niau	603
-天貓上		235	#9
 天貓客服	
 天貓座		35
 天資	thian zur	71
@@ -78384,9 +78071,6 @@ sort: by_weight
 天選者		8
 天邊	thy py	109
 天邊海角	
-天都	thian too	43
-天都峯	thian too hong	14
-天野喜孝	
 天量	thian lIang	75
 天長地久	thian tIang tere kiu
 天長地老	thian tIang tere loO
@@ -78397,9 +78081,7 @@ sort: by_weight
 天門	thian muI	86
 天門冬	thian bun tong	52
 天門冬科	
-天門市		57
 天門洞		4
-天開		651	#9
 天降	thian kang	79
 天降大任	thian kang tai jim
 天降祥瑞	
@@ -78412,7 +78094,6 @@ sort: by_weight
 天雨路滑	
 天雨順延	
 天雷	thy lui	77
-天電		430	#9
 天靈	thian ling	3
 天靈蓋	thian ling kai	49
 天靈蓋	thian ling kua	49
@@ -78460,8 +78141,7 @@ sort: by_weight
 天黑之前	
 天黑前		5
 天黑時		2
-天黑黑		553	#9
-天齊		126	#9
+天黑黑		553	
 天龍	thian liong	132
 天龍人	thian liong lang	32
 天龍八部	
@@ -78473,7 +78153,6 @@ sort: by_weight
 太上皇帝	thai sIang hong te
 太上老君	thai sIang loO kun
 太不	thai put	151
-太不像		25	#9
 太不像話	
 太不容易	
 太不應該	
@@ -78481,14 +78160,12 @@ sort: by_weight
 太久了		102
 太乙		63
 太乙神針	
-太乾		520	#9
 太亂		79
 太亮	thai lIang	17
 太仁慈		2
-太他媽		211	#9
 太令人		10
 太任性		2
-太伯		42	#9
+太伯	
 太低	thai kee	402
 太便宜		43
 太俗		8
@@ -78498,7 +78175,6 @@ sort: by_weight
 太保市		28
 太倉	thai cong	92
 太倉促		5
-太倉市		62
 太倉稊米	
 太假	thai kee	80
 太偏	thai phian	21
@@ -78513,7 +78189,6 @@ sort: by_weight
 太僕寺		50
 太僕寺卿	
 太僕寺旗	
-太兇		77	#9
 太公	thai kong	61
 太公兵法	
 太公望	thai kong bong	31
@@ -78523,22 +78198,17 @@ sort: by_weight
 太冷門		8
 太凶		7
 太刀	thai to	39
-太划算		18	#9
 太初	thai coo	53
 太初曆		39
 太刺眼		2
 太剋制	
 太勞累	
 太匆匆		3
-太半		368	#9
-太卜		378	#9
 太占地方	
-太卡		46	#9
+太卡		46
 太危險		17
 太卷	thai kuInn	5
 太厚	thai kau	68
-太原街	
-太原路		45
 太厲害		60
 太反常	
 太受歡迎	
@@ -78547,7 +78217,6 @@ sort: by_weight
 太古宙		39
 太古時代	
 太古洋行	
-太可		52	#9
 太可惜		11
 太可惡	
 太可憐		3
@@ -78569,14 +78238,12 @@ sort: by_weight
 太嚴		8
 太嚴重		58
 太囂張		5
-太困		45	#9
 太圓	thai y	42
 太土		6
 太在乎		24
 太在意		89
 太坑	thai qenn	13
 太壞		76
-太壯		43	#9
 太多		4589
 太多人		178
 太多的		233
@@ -78587,8 +78254,8 @@ sort: by_weight
 太太	thai x	293
 太太太	thai x x	35
 太夫人		48
-太奢侈		5
-太奶奶		147	#9
+太奢侈	
+太奶奶	
 太好	thai ho	315
 太好吃		7
 太好玩	
@@ -78610,7 +78277,6 @@ sort: by_weight
 太子少傅	
 太子洗馬	thai zur sian ma
 太子港		46
-太子胤礽	
 太子舍人	thai zur sia jin
 太子黨		54
 太孤單		3
@@ -78703,7 +78369,6 @@ sort: by_weight
 太慘烈	
 太慢		205
 太慫		6
-太懂		224	#9
 太懶		70
 太懸殊		2
 太戇		12
@@ -78713,8 +78378,8 @@ sort: by_weight
 太拼		7
 太摳門	
 太撩人	
-太擁擠		38	#9
-太擠		41	#9
+太擁擠	
+太擠	
 太敏感		16
 太新		5
 太早	thai za	134
@@ -78736,7 +78401,7 @@ sort: by_weight
 太極張三丰	
 太極拳	thai kik kun	208
 太極推手	
-太極門		42
+太極門	
 太模糊		8
 太次		7
 太正		6
@@ -78745,10 +78410,9 @@ sort: by_weight
 太歲	thai sue	78
 太歲爺	thai sue ia	34
 太歲神	thai sue sin	1
-太死		141	#9
 太殘忍		6
 太水	thai zui	13
-太沉		98	#9
+太沉	
 太沉重		7
 太沒		84
 太沖		53
@@ -78757,13 +78421,12 @@ sort: by_weight
 太油		51
 太浪漫		2
 太液池		44
-太涼		42	#9
+太涼	
 太淡	thai tam	7
 太深	thai cim	112
 太淺	thai cian	55
 太清	thai cing	6
 太清宮		3
-太渣		192	#9
 太渺小		3
 太湖	thai oo	136
 太湖流域	
@@ -78774,18 +78437,16 @@ sort: by_weight
 太滿	thai mua	23
 太漂亮		6
 太濃		22
-太火		76	#9
-太火爆		44	#9
+太火爆	
 太無聊	thai bu liau	24
 太焦慮		10
-太煩		40	#9
-太煩人		5
+太煩	
+太煩人	
 太熟	thai sik	13
 太熱	thai juah	125
 太燒腦	
 太燙		7
 太爛	thai nua	85
-太爲		507	#9
 太爺		61
 太爽		5
 太牛	thai gu	7
@@ -78796,9 +78457,6 @@ sort: by_weight
 太玄		5
 太甚		57
 太甜	thai ty	22
-太田	thai tian
-太田道灌	thai tian toO kuan
-太田順也	thai tian sun ia
 太甲	thai kap	44
 太疼	thai thiann	5
 太痠		10
@@ -78863,13 +78521,13 @@ sort: by_weight
 太精彩		5
 太糊塗	
 太糟糕	thai zau kau	13
-太紅		45	#9
-太素		49	#9
+太紅	
+太素	
 太累		189
 太累贅		2
 太細	thai sere	48
 太細節		4
-太絕		40	#9
+太絕	
 太絕對		8
 太給力	
 太緊		88
@@ -78882,14 +78540,14 @@ sort: by_weight
 太老爺		38
 太耽誤		3
 太聰明		13
-太肥		42	#9
+太肥	
 太胖	thai phang	67
 太能		23
 太腫		29
 太自私		4
-太臭		45	#9
+太臭	
 太舊	thai ku	5
-太花		49	#9
+太花	
 太苦		57
 太苦逼	
 太菜		25
@@ -78897,8 +78555,7 @@ sort: by_weight
 太虛		73
 太虛幻境	
 太虧		5
-太蠢		127	#9
-太行	thai hang	81
+太蠢	
 太行水泥	thai hang zui ni
 太衝動		3
 太複雜		147
@@ -78908,7 +78565,6 @@ sort: by_weight
 太諷刺		3
 太謹慎		2
 太讓人		34
-太谷		586	#9
 太谷燈		16
 太谷餅	
 太貪		5
@@ -79043,7 +78699,6 @@ sort: by_weight
 太靠後		4
 太響		5
 太飽	thai pa	54
-太餓		48	#9
 太香	thai hIang	5
 太驕傲	
 太髒	thai zam	10
@@ -79113,13 +78768,9 @@ sort: by_weight
 夭歿		22
 夭矯		40
 夭逝	iau se	34
-央中		297	#9
 央企	Iang thi	199
-央及		410	#9
-央告		396	#9
 央圖	Iang too	16
 央地	Iang te
-央懇		121	#9
 央求	Iang kiu	70
 央行	Iang hang	651
 央視	Iang si	410
@@ -79140,13 +78791,11 @@ sort: by_weight
 夯土機		24
 夯實	hang sit	90
 夯實基礎	
-夯幹		42	#9
 夯歌	hang koO	33
 夯漢		17
 夯砣		12
 夯貨		33
 失主		75
-失之		201	#9
 失之交臂	sit zi kau pe
 失之偏頗	sit zi phian poO
 失之千里	sit zi cian li
@@ -79194,7 +78843,6 @@ sort: by_weight
 失口	sit qeru	44
 失味		10
 失和		54
-失單		319	#9
 失土		39
 失地	sit tere	75
 失地農民	
@@ -79202,7 +78850,6 @@ sort: by_weight
 失學	sit hak	70
 失學兒童	
 失守	sit siu	79
-失官		366	#9
 失宜		40
 失密		43
 失察		49
@@ -79217,10 +78864,7 @@ sort: by_weight
 失志		47
 失怙	sit hoo	39
 失恃		31
-失悔		345	#9
 失意		112
-失意人		26	#9
-失意後		10	#9
 失態		81
 失慎		29
 失憶	sit ik	107
@@ -79372,7 +79016,6 @@ sort: by_weight
 失迎	sit ging	33
 失迷		36
 失速	sit sok	51
-失道		495	#9
 失道寡助	sit toO kua zoo
 失道者	sit toO zia	17
 失配	sit phue	8
@@ -79419,42 +79062,28 @@ sort: by_weight
 夸父逐日	
 夸脫	qua thuat	41
 夸誕		30
-夸麗		211	#9
 夾七夾八	
 夾上	gereh ziunn	51
 夾上	ngeh ziunn	51
 夾上	ngereh ziunn	51
 夾上來		29
 夾上去		32
-夾下		587	#9
 夾下來		26
 夾下去		24
 夾不住	kiap put zu	2
 夾不牢		10
-夾人		386	#9
-夾住		739	#9
+夾住	
 夾來夾去	
 夾克	kiap qerk	86
 夾克衫		3
-夾入	gereh jip	45
-夾入	ngeh jip	45
-夾入	ngereh jip	45
+夾入		45
 夾具	kiap kU	78
-夾到	gereh kau	55
-夾到	ngeh kau	55
-夾到	ngereh kau	55
-夾剪	gereh zian	32
-夾剪	ngeh zian	32
-夾剪	ngereh zian	32
+夾到		55
+夾剪		32
 夾在	gereh tDeh	96
 夾在	ngeh tDeh	96
 夾在	ngereh tDeh	96
-夾夠	gereh kau	19
-夾夠	ngeh kau	19
-夾夠	ngereh kau	19
-夾好	gereh ho	45
-夾好	ngeh ho	45
-夾好	ngereh ho	45
+夾好		45
 夾子	kiap zur	89
 夾子裏	
 夾完	gereh uan	35
@@ -79471,9 +79100,7 @@ sort: by_weight
 夾心蛋糕	
 夾心餅	
 夾心餅乾	
-夾手	gereh ciu	52
-夾手	ngeh ciu	52
-夾手	ngereh ciu	52
+夾手		52
 夾批	kiap phere	43
 夾持	kiap ci	54
 夾擊	kiap kik	160
@@ -79482,9 +79109,7 @@ sort: by_weight
 夾斷	gereh tuInn	44
 夾斷	ngeh tuInn	44
 夾斷	ngereh tuInn	44
-夾板	gereh pan	61
-夾板	ngeh pan	61
-夾板	ngereh pan	61
+夾板		61
 夾板氣		43
 夾板船		22
 夾核桃	
@@ -79615,7 +79240,6 @@ sort: by_weight
 奇情	ki zing	58
 奇情片		24
 奇慘無比	
-奇慢		43	#9
 奇慢無比	
 奇才	ki zai	140
 奇才異能	
@@ -79687,7 +79311,6 @@ sort: by_weight
 奇襲戰術	
 奇覽	ki lam	27
 奇觀	ki kuan	122
-奇解		301	#9
 奇計	ki ke	47
 奇詭	ki kui	49
 奇談	ki tam	62
@@ -79763,8 +79386,6 @@ sort: by_weight
 奉母	hong bu
 奉母字	hong bo ji
 奉母字	hong bu ji
-奉派		396	#9
-奉爲		873	#9
 奉爲圭臬	hong ui kui giat
 奉爲神		41	#9
 奉爲至寶	
@@ -79775,13 +79396,11 @@ sort: by_weight
 奉獻精神	
 奉獻給		39
 奉獻者		2
-奉現		286	#9
 奉申賀敬	hong sin hoO king
 奉祀	hong sur	49
 奉系		45
 奉系軍閥	
-奉職		373	#9
-奉若		483	#9
+奉職	
 奉若圭臬	
 奉若神明	
 奉茶	hong tee	1
@@ -79819,7 +79438,6 @@ sort: by_weight
 奏出去		10
 奏功	zOo kong	44
 奏國歌		6
-奏在		310	#9
 奏報	zOo po	7
 奏報	zau po	7
 奏捷	zOo ziap	39
@@ -79827,7 +79445,6 @@ sort: by_weight
 奏摺	zau ziat
 奏摺	zau zih	58
 奏效	zOo hau	85
-奏於		348	#9
 奏明	zOo bing	43
 奏曲	zau qik	46
 奏書	zOo sir	38
@@ -79839,7 +79456,6 @@ sort: by_weight
 奏琴	zau qim	38
 奏疏	zOo soo	50
 奏疏	zau soo	50
-奏着		276	#9
 奏章	zOo zIang	54
 奏章	zau ziunn	54
 奏表	zau pio	40
@@ -79851,7 +79467,6 @@ sort: by_weight
 奏響	zOo hIang	76
 奏鳴曲		119
 奏鳴曲式	
-奏點		233	#9
 奐奐	huan x
 契丹	qe tan	205
 契丹	qit tan	205
@@ -79880,12 +79495,9 @@ sort: by_weight
 契紙	qere zua	34
 契闊談讌	qiat quat tam ian
 奔三	pun sann	15
-奔亡		321	#9
 奔來		10
 奔出		54
-奔到		46	#9
 奔勞	pun loO	39
-奔北		371	#9
 奔去		73
 奔向	pun hIang	117
 奔向大海	
@@ -79914,7 +79526,6 @@ sort: by_weight
 奔牛節	
 奔現		15
 奔着	pun tioh	203
-奔突		469	#9
 奔竄	pun cuan	40
 奔行	pun hing	48
 奔襲		59
@@ -79935,7 +79546,9 @@ sort: by_weight
 奔頭	pun thau	52
 奔馬	pun ma	55
 奔馬律	
-奔馳		513
+奔馳	pun ti	513
+禁海令	kim hai lingkimhai
+奔馳	phun ti	513
 奔馳公司	
 奔馳如飛	
 奔馳車		8
@@ -79950,7 +79563,6 @@ sort: by_weight
 套上	tho ziunn	92
 套上來		25
 套上去		41
-套下		410	#9
 套下來		
 套下去		
 套不上		2
@@ -79997,7 +79609,6 @@ sort: by_weight
 套曲	tho qik	49
 套曲	tho qiok	49
 套書	tho sZir	6
-套服		490	#9
 套期保值	
 套板		38
 套機	tho ki	84
@@ -80012,7 +79623,6 @@ sort: by_weight
 套用	tho iong	355
 套疊	tho thiap	43
 套皮	tho pher	7
-套盒		47	#9
 套直	tho tit
 套着	tho tioh	69
 套磁		53
@@ -80062,7 +79672,6 @@ sort: by_weight
 奚嘯伯		38
 奚美娟		2
 奚落	he lok	58
-奠下		432	#9
 奠儀		35
 奠基		90
 奠基人		62
@@ -80090,7 +79699,6 @@ sort: by_weight
 奢想	cia sIang	48
 奢望	cia bang	124
 奢求		83
-奢泰		267	#9
 奢淫		39
 奢盼		31
 奢華		139
@@ -80103,14 +79711,12 @@ sort: by_weight
 奧利司他膠囊	
 奧博		58
 奧占		19
-奧占		196	#9
 奧國人		22
 奧妙	o biau	86
 奧妙無比	
 奧妙無窮	o biau bu kiong
 奧委會		82
 奧山	o san	78
-奧康		47	#9
 奧援		40
 奧數	o soo	81
 奧數班		8
@@ -80178,7 +79784,6 @@ sort: by_weight
 奪人	tuat jin	39
 奪人心魄	
 奪位		14
-奪來		41	#9
 奪偶		14
 奪冠		639
 奪冠慶典	
@@ -80221,7 +79826,6 @@ sort: by_weight
 奪門之變	
 奪門而入	
 奪門而出	
-奪鬥		266	#9
 奪魁		59
 奪魂		53
 奮不顧身	hun put koo sin
@@ -80241,9 +79845,7 @@ sort: by_weight
 奮戰		104
 奮戰不懈	
 奮戰到底	
-奮擊		41	#9
 奮武揚威	
-奮爭		474	#9
 奮發	hun huat	65
 奮發努力	
 奮發向上	
@@ -80299,7 +79901,6 @@ sort: by_weight
 女主管		3
 女主角		368
 女主角獎	
-女乒		42	#9
 女乘務員	
 女乘客		15
 女乳症		25
@@ -80356,7 +79957,6 @@ sort: by_weight
 女冠子	
 女刑警		3
 女刺客		3
-女功		359	#9
 女助手		3
 女助理		14
 女博士		73
@@ -80605,7 +80205,6 @@ sort: by_weight
 女神	lu sin	704
 女神像		704
 女神蛤		16
-女票		717	#9
 女祭司		8
 女秀才		34
 女科學家	
@@ -80728,9 +80327,8 @@ sort: by_weight
 奴隸階級	
 奴顏婢膝	
 奴顏媚骨	
-奶名		307	#9
 奶味		1900
-奶品		481	#9
+奶品	
 奶嘴	lin cui	80
 奶嘴	ling cui	80
 奶奶	nai x	672
@@ -80738,10 +80336,7 @@ sort: by_weight
 奶娃娃		16
 奶娘	nai niu	3
 奶媽	nai ma	137
-奶孃		553	#9
 奶子	nai zur	86
-奶房		273	#9
-奶捲		357	#9
 奶昔	nai sik	60
 奶水	lin zui	80
 奶水	ling zui	80
@@ -80757,9 +80352,8 @@ sort: by_weight
 奶油蛋糕	
 奶油雞蛋	
 奶油風		7
-奶湯		55	#9
 奶湯蒲菜	
-奶源		154	#9
+奶源	
 奶爸	nai pa	123
 奶牙	lin ge	33
 奶牙	ling gee	33
@@ -80788,8 +80382,8 @@ sort: by_weight
 奶製品		77
 奶豆腐		2
 奶農	nai nLong	59
-奶酒		523	#9
-奶酥		462	#9
+奶酒		52
+奶酥		46
 奶酪	lin lok	234
 奶酪	ling lok	234
 奶酪火鍋	
@@ -80817,7 +80411,6 @@ sort: by_weight
 奸商		101
 奸夫		6
 奸宄		37
-奸官		319	#9
 奸巧	kan qiau	39
 奸徒		38
 奸惡	kan ok	43
@@ -80826,8 +80419,6 @@ sort: by_weight
 奸棍		19
 奸毒	kan tok	29
 奸民		36
-奸淫		174	#9
-奸滑		414	#9
 奸狡		41
 奸猾		48
 奸笑	kan siau	70
@@ -80835,7 +80426,6 @@ sort: by_weight
 奸胥猾吏	
 奸臣		58
 奸臣當道	
-奸言		294	#9
 奸計	kan ke	55
 奸詐		73
 奸詐鬼		10
@@ -80847,101 +80437,9 @@ sort: by_weight
 奸險		43
 奸雄	kan hiong	55
 奸頑		25
-奸騙		267	#9
 奸黠		25
 奸黨		44
-她上		611	#9
-她下		585	#9
-她不		1639	#9
-她也		3844	#9
-她仍		42	#9
-她以		201	#9
-她來		680	#9
-她便		320	#9
-她倆		631	#9
-她做		215	#9
-她像		148	#9
-她先		610	#9
-她再		169	#9
-她出		574	#9
-她到		659	#9
-她剛		158	#9
-她卻		811	#9
-她去		618	#9
-她又		1473	#9
-她只		207	#9
-她叫		328	#9
-她可		74	#9
-她向		142	#9
-她和		2669	#9
-她哥		69	#9
-她問		286	#9
-她回		128	#9
-她在		5833	#9
-她太		114	#9
-她好		146	#9
-她姐		54	#9
-她媽		802	#9
-她家		1663	#9
-她寫		82	#9
-她將		501	#9
-她對		2301	#9
-她就		3355	#9
-她已		143	#9
-她強		66	#9
-她很		570	#9
-她從		826	#9
-她念		492	#9
-她怕		96	#9
-她想		901	#9
-她愛		302	#9
-她所		440	#9
-她才		761	#9
-她找		69	#9
-她把		1001	#9
-她拿		102	#9
-她放		576	#9
-她敢		63	#9
-她於		76	#9
-她既		85	#9
-她是		8003	#9
-她更		135	#9
-她曾		316	#9
-她最		216	#9
-她會		2623	#9
-她有		1106	#9
-她正		153	#9
-她殺		494	#9
-她沒		318	#9
-她爲		392	#9
-她爸		395	#9
-她爹		338	#9
-她瑪		226	#9
-她用		736	#9
-她的		42342	#9
-她看		124	#9
-她真		49	#9
-她竟		61	#9
-她笑		86	#9
-她給		343	#9
 她經濟	thann king ze	40
-她總		88	#9
-她聽		71	#9
-她能		1181	#9
-她與		664	#9
-她被		834	#9
-她要		1113	#9
-她見		42	#9
-她說		9662	#9
-她請		537	#9
-她講		99	#9
-她讓		163	#9
-她走		140	#9
-她跟		623	#9
-她連		225	#9
-她過		624	#9
-她還		2120	#9
-她那		556	#9
 奼女	tha lIR	47
 奼紫	tha zir	58
 奼紫嫣紅	tha zir ian hong
@@ -80971,7 +80469,6 @@ sort: by_weight
 好久不見	ho ku put kian
 好久不見	honn kiu put kian
 好乖	ho kuai	57
-好乾		531	#9
 好亂	ho luan	7
 好了		2912
 好了後	ho liau au	57
@@ -81001,14 +80498,10 @@ sort: by_weight
 好任務		2
 好伐	ho huat	41
 好似	ho sur	318
-好低		73	#9
-好住		500	#9
 好作品		117
 好使	ho sur	97
-好來		592	#9
 好來好去	
 好便宜		10
-好假		570	#9
 好做	ho zo	86
 好做	honn zo	86
 好傢伙		244
@@ -81032,12 +80525,11 @@ sort: by_weight
 好價錢	ho kee zy	13
 好兄弟	ho hiann ti	91
 好兆頭		56
-好兇		523	#9
 好兒女		47
 好兒媳	
 好兒子		55
 好兵帥克	
-好再		650	#9
+好再		650	
 好再來		65
 好冷	ho ling	90
 好出路		10
@@ -81045,7 +80537,6 @@ sort: by_weight
 好刀	ho to	590
 好利來		11
 好到	ho kau	69
-好刺		356	#9
 好劇	ho kIak	21
 好劇本		22
 好功夫	ho kang hu	4
@@ -81071,7 +80562,6 @@ sort: by_weight
 好受	ho siu	97
 好古	honn koo	3
 好句	ho ku	55
-好叫		543	#9
 好可怕		23
 好可愛		128
 好可愛哦	
@@ -81083,7 +80573,6 @@ sort: by_weight
 好吃	honn ziah	811
 好吃好喝	
 好吃懶做	honn qit lan zo
-好合		572	#9
 好同學		7
 好同志		9
 好名	ho mia	53
@@ -81091,8 +80580,8 @@ sort: by_weight
 好名次	ho mia cur	9
 好名聲	ho mia siann	23
 好吧	ho pa	1253
-好吵		62	#9
-好呀		1821	#9
+好吵		62
+好呀		18
 好味	ho bi	32
 好味道		7
 好命	ho mia	56
@@ -81110,8 +80599,6 @@ sort: by_weight
 好喝	ho hat	371
 好單位	ho tuann ui	15
 好嘛	ho ma	200
-好嘞		240	#9
-好噠		58	#9
 好嚇人		6
 好嚴重		2
 好圖	ho too	72
@@ -82314,7 +81801,6 @@ sort: by_weight
 始願		28
 姍姍	san x	87
 姍姍來遲	san x lai ti
-姐丈		309	#9
 姐夫		1632	#9
 姐妹		4433	#9
 姐姐	ze x	1312
@@ -82479,7 +81965,6 @@ sort: by_weight
 委用	ui iong	34
 委罪	ui zue	28
 委罪於人	
-委蛇		519	#9
 委託		452
 委託下單	
 委託事項	
@@ -82516,7 +82001,6 @@ sort: by_weight
 委身於		8
 委辦		55
 委辦局	
-委過		309	#9
 委隨		19
 委靡		49
 委靡不振	
@@ -82526,12 +82010,6 @@ sort: by_weight
 姘居		41
 姘頭	phing thau	50
 姜戈	qIang koO	81
-姜承		43	#9
-姜某		46	#9
-姜芋		254	#9
-姜蒜		164	#9
-姜被		301	#9
-姜黃		159	#9
 姝姝	su x
 姝麗		39
 姣好	kau honn	57
@@ -82540,9 +82018,6 @@ sort: by_weight
 姥姥家		29
 姥娘		45
 姥爺	lau ia	120
-姦伏		241	#9
-姦佞		103	#9
-姦凶		340	#9
 姦夫		54
 姦夫淫婦	
 姦婦	kan hu	34
@@ -82556,13 +82031,6 @@ sort: by_weight
 姦淫幼女	
 姦淫擄掠	kan im loo liok
 姦盜邪淫	
-姦細		153	#9
-姦臣		573	#9
-姦詐		184	#9
-姦通		258	#9
-姦邪		85	#9
-姦雄		115	#9
-姦非		281	#9
 姨丈	i tiunn	53
 姨太		55
 姨太太	i thai x	52
@@ -82577,7 +82045,6 @@ sort: by_weight
 姨婆		51
 姨媽		162
 姨媽家		3
-姨孃		283	#9
 姨母	i bo	51
 姨母	i bu	51
 姨父	i hu	55
@@ -82590,14 +82057,12 @@ sort: by_weight
 姪子	tit zur	4
 姪孫	tit sng	10
 姪孫	tit sun	50
-姫路市		23
-姬友		47	#9
+姬友		47
 姬妾		49
 姬松茸		49
 姬發	ki huat	9
 姮娥		43
 姱修		13
-姻婭		310	#9
 姻家	in kaE	29
 姻戚		32
 姻緣		95
@@ -82605,7 +82070,7 @@ sort: by_weight
 姻緣線	
 姻親	in cin	51
 姻親關係	
-姻黨		213	#9
+
 姿勢	zur se	1006
 姿容		54
 姿影	zur iann	37
@@ -82614,7 +82079,7 @@ sort: by_weight
 姿態控制	
 姿態萬千	
 姿色		85
-姿質		376	#9
+
 姿采		41
 威亞		10
 威信		94
@@ -82640,7 +82105,7 @@ sort: by_weight
 威壓	ui ap	19
 威客	ui qerk	65
 威容		33
-威寧		46	#9
+
 威尊命賤	
 威德		57
 威懾	ui siap	98
@@ -82696,7 +82161,7 @@ sort: by_weight
 威風凜冽	
 威風凜凜	
 威風掃地	ui hong soO te
-威駭		169	#9
+
 威鳳一羽	
 威龍	ui liong	15
 娃哈哈		164
@@ -85240,7 +84705,7 @@ sort: by_weight
 安於一隅	
 安於現狀	
 安枕	an zim	48
-安格		804	#9
+
 安樂	an lok	89
 安樂公	an lok kong	53
 安樂國		38
@@ -85273,12 +84738,12 @@ sort: by_weight
 安眠藥		90
 安眠酮		34
 安睡	an sui	59
-安知		47	#9
+安知		47
 安石榴		39
 安祖花		34
 安神	an sin	78
 安神補腦液	
-安祥		586	#9
+
 安穩	an un	237
 安納金		10
 安置	an ti	216
@@ -85345,7 +84810,7 @@ sort: by_weight
 安謐	an bit	51
 安貞	an zing	81
 安貞醫院	
-安貧		499	#9
+
 安貧樂道	
 安賽蜜		6
 安賽龍	
@@ -85386,14 +84851,14 @@ sort: by_weight
 安頓自己	
 安養	an Iang	47
 安養院		37
-安魂		47	#9
+
 安魂彌撒	
 安魂曲		55
 宋人	song jin	59
 宋代	song tai	261
 宋儒		45
 宋元		61
-宋公		40	#9
+
 宋史	song sur	70
 宋四大書	
 宋國		65
@@ -85403,7 +84868,6 @@ sort: by_weight
 宋書	song sir	49
 宋朝		269
 宋板		20
-宋氏		47	#9
 宋江起義	
 宋瓷	song zur	45
 宋白	song peeh	32
@@ -85499,7 +84963,6 @@ sort: by_weight
 完全部		3
 完全顛倒	
 完勝		138
-完卵		460	#9
 完善		1366
 完善一下	
 完善制度	
@@ -85527,7 +84990,6 @@ sort: by_weight
 完形心理學	
 完形心理治療	
 完形測驗	
-完後		2025	#9
 完成	uan sing	5909
 完成之後	
 完成交易	
@@ -85570,7 +85032,6 @@ sort: by_weight
 完整項目	
 完整體		3
 完殺		6
-完治		40	#9
 完滿	uan buan	73
 完滿無缺	
 完滿的		17
@@ -85586,7 +85047,6 @@ sort: by_weight
 完稿	uan koO	55
 完穀不化	
 完竣		32
-完糧		348	#9
 完結	uan kiat	300
 完結篇		58
 完美	uan bi	1863
@@ -86016,7 +85476,6 @@ sort: by_weight
 定息	ting sik	45
 定情	ting zing	62
 定情之物	
-定慧		40	#9
 定戶	ting hoo	36
 定投	ting tau	748
 定損	ting suInn	47
@@ -86026,7 +85485,6 @@ sort: by_weight
 定於	ting ir	103
 定於一尊	
 定旋律		2
-定春		41	#9
 定是	ting si	65
 定時	ting si	272
 定時任務	
@@ -86043,7 +85501,6 @@ sort: by_weight
 定時開關	
 定時間	tiann si kan
 定時關機	
-定更		446	#9
 定會	tiann eRe	68
 定會	ting hue	68
 定會有		3
@@ -86065,7 +85522,6 @@ sort: by_weight
 定本	ting pun	55
 定格	ting keeh	109
 定案	ting an	55
-定植		703	#9
 定標	ting piau	55
 定檔	ting tong	44
 定死	tiann si	47
@@ -86074,9 +85530,6 @@ sort: by_weight
 定母	ting bu
 定母字	ting bo ji
 定母字	ting bu ji
-定法		515	#9
-定洋		285	#9
-定海		641	#9
 定海神針	ting hai sin zerm
 定準	tiann zun	45
 定溫	ting un	47
@@ -86094,15 +85547,12 @@ sort: by_weight
 定的是		11
 定盤星		35
 定直線		29
-定省		389	#9
 定着	tiann tioh	10
 定睛	ting zing	57
 定睛一看	
-定碳		419	#9
 定神	ting sin	72
 定神一看	
 定票	tiann phio	49
-定禮		376	#9
 定稿	tiann ko	89
 定積分		15
 定窯	ting io	27
@@ -86110,7 +85560,6 @@ sort: by_weight
 定約	ting Iak	46
 定級	tiann qKip	69
 定給	ting kip	43
-定編		505	#9
 定罪	ting zue	83
 定罪量刑	ting zue lIang hing
 定義	ting gi	2895
@@ -86128,8 +85577,6 @@ sort: by_weight
 定能	ting nLerng	63
 定艙	ting cng	40
 定色劑		24
-定苗		454	#9
-定裝		482	#9
 定製	ting ze	1012
 定製化		53
 定製軟件	
@@ -86260,7 +85707,6 @@ sort: by_weight
 客座教授	
 客廳	qeeh thiann	570
 客廳裏		86
-客心		312	#9
 客戶	qeeh hoo	5985
 客戶信息	
 客戶價值	
@@ -86474,7 +85920,6 @@ sort: by_weight
 宣敘調		12
 宣教	suan kau	74
 宣旨		45
-宣明		48	#9
 宣武帝	
 宣武醫院	
 宣武門		62
@@ -86485,7 +85930,6 @@ sort: by_weight
 宣稱		353
 宣紙	suan zua	62
 宣統	suan thong	56
-宣肺		40	#9
 宣萱		68
 宣言		140
 宣言書	
@@ -86640,8 +86084,6 @@ sort: by_weight
 害人蟲		39
 害他		15
 害你	hai lIR	20
-害口		284	#9
-害命		541	#9
 害喜		100
 害國害民	
 害得	hai tit	119
@@ -86666,7 +86108,6 @@ sort: by_weight
 害處		71
 害蟲	hai thang	97
 害起		35
-害躁		313	#9
 害過	hai ker	45
 害馬	hai bee	32
 害鳥	hai ziau	36
@@ -86703,7 +86144,6 @@ sort: by_weight
 家仇國恨	kok siu kaE hern
 家企業		141
 家伙	kaE her	427
-家住		1414	#9
 家信	kaE sin	53
 家傭	kaE iong	38
 家傳	kaE thuan	60
@@ -86715,19 +86155,14 @@ sort: by_weight
 家兔	kaE thoo	59
 家內	kee lai	3580
 家具	kaE ku	1551
-家制		439	#9
 家務	kaE bu	131
 家務事		58
 家務勞動	
 家務活		57
 家務管理	
 家協會		81
-家去		762	#9
 家叔	kaE siok	40
-家口		567	#9
 家史	kaE sur	51
-家和		717	#9
-家商		431	#9
 家喻戶曉	
 家嚴	kaE giam	43
 家國	kaE kok	48
@@ -86742,7 +86177,6 @@ sort: by_weight
 家境清寒	
 家境貧困	
 家境貧寒	
-家大		43	#9
 家大業大	
 家天下		35
 家奴	kaE nLoo	54
@@ -86750,7 +86184,6 @@ sort: by_weight
 家姑	kaE koo	36
 家委會		6
 家婆	kee po	100
-家子		663	#9
 家學	kaE hak	54
 家學淵源	
 家宅	kaE tik	60
@@ -86901,7 +86334,6 @@ sort: by_weight
 家教中心	
 家教經驗	
 家教老師	
-家數		724	#9
 家族	kaE zok	1592
 家族中		45
 家族企業	
@@ -86913,7 +86345,6 @@ sort: by_weight
 家族樹		33
 家族粉	
 家族聚會	
-家景		446	#9
 家暴	kaE po	147
 家暴傾向	
 家書	kaE sZir	62
@@ -86925,7 +86356,6 @@ sort: by_weight
 家村	kaE cun	81
 家校合作	
 家業	kaE giap	60
-家樂		396	#9
 家樂福		162
 家機布		22
 家母	kaE bERU	50
@@ -86968,11 +86398,9 @@ sort: by_weight
 家系	kaE he	59
 家紋	kaE bun	100
 家紡	kaE phang	89
-家累		427	#9
 家累千金	
 家給人足	kaE kip jin ziok
 家聲	kaE sing	54
-家職		238	#9
 家肴	kaE gau	10
 家臣	kaE sin	54
 家莊	kaE zong	86
@@ -87062,7 +86490,6 @@ sort: by_weight
 容器裏		18
 容器雲	
 容器類	
-容大		95	#9
 容嬤嬤	iong ma x
 容容	iong x	55
 容容易易	iong x i x
@@ -87096,7 +86523,6 @@ sort: by_weight
 容易腐爛	
 容易錯		7
 容止		46
-容災		675	#9
 容災備份	
 容熱量		9
 容留	iong liu	53
@@ -87142,7 +86568,6 @@ sort: by_weight
 宿便	siok pian	12
 宿債	siok zee	38
 宿儒	siok jU	38
-宿分		280	#9
 宿務	siok bu	46
 宿命	siok bing	169
 宿命	siok mia	169
@@ -87179,12 +86604,10 @@ sort: by_weight
 宿舍網路	
 宿舍裏		67
 宿舍費		36
-宿草		369	#9
 宿處	siok cir	38
 宿衛	siok ue	46
 宿見	siok kian	23
 宿諾	siok nLok	26
-宿豫		595	#9
 宿酒	siok ziu	36
 宿醉	siok zui	57
 宿題	siok te	40
@@ -87249,7 +86672,6 @@ sort: by_weight
 寄存器		112
 寄存處		43
 寄存行李	
-寄完		353	#9
 寄宿	kia sok	78
 寄宿制		3
 寄宿學校	
@@ -87299,7 +86721,6 @@ sort: by_weight
 寄生蟲感染	
 寄生蟲病	
 寄生電容	
-寄發		547	#9
 寄的	kia e	55
 寄相思	ki sIang sur	1
 寄籍	ki zik	33
@@ -87309,27 +86730,23 @@ sort: by_weight
 寄託於		23
 寄話	kia uee
 寄語	ki gir	83
-寄費		359	#9
 寄賣	kia bere	52
 寄賣品		19
 寄賣店		36
 寄賣處		24
 寄走	kia zau	40
 寄足	kia ziok	21
-寄跡		355	#9
 寄身	kia sin	47
 寄送	kia sang	83
 寄過來	kia ker lai	52
 寄過去	kia ker qIR	49
 寄達	ki tat	47
 寄達	kia tat	47
-寄遞		528	#9
 寄還	kia haInn	38
 寄銷	kia siau	32
 寄銷品		11
 寄錢	kia zy	68
 寄錯	kia co	41
-寄頓		288	#9
 寄食	kia sit	36
 寄養	kia Iang	81
 寄養家庭	
@@ -87345,7 +86762,6 @@ sort: by_weight
 密件	bit kiann	46
 密佈	bit poo	83
 密使	bit sur	51
-密保		101	#9
 密信	bit sin	52
 密函	bit ham	48
 密切	bit ciat	272
@@ -87394,18 +86810,13 @@ sort: by_weight
 密封艙		39
 密封蓋	bit hong kua	1
 密州出獵	
-密布		386	#9
-密帳		377	#9
 密度	bit too	518
 密度函數	
 密度板		36
 密度波		34
 密度計		52
-密戶		242	#9
-密排		410	#9
 密探	bit tham	65
 密接	bit ziap	46
-密摺		395	#9
 密摺摺	bat zih x
 密教	bit kau	53
 密文	bit bun	62
@@ -87415,8 +86826,6 @@ sort: by_weight
 密林深處	
 密植	bit sit	52
 密檐塔		32
-密爾		375	#9
-密的		186	#9
 密碼	bit bee	1690
 密碼保護	
 密碼修改	
@@ -87483,7 +86892,6 @@ sort: by_weight
 富人	pu lang	419
 富兒子	
 富力	hu lik	82
-富厚		415	#9
 富可敵國	
 富含	hu ham	213
 富含鈣		3
@@ -87667,8 +87075,6 @@ sort: by_weight
 寒螿	han zIang	28
 寒蟬	han sian	59
 寒衣	han i	51
-寒證		303	#9
-寒賤		313	#9
 寒邪	han sia	18
 寒酸	han suan	72
 寒門	han bun	75
@@ -87729,7 +87135,6 @@ sort: by_weight
 寡信		40
 寡助		45
 寡占		36
-寡占		364	#9
 寡合	kua hap	38
 寡味		45
 寡女	kua lir	56
@@ -87743,15 +87148,12 @@ sort: by_weight
 寡斷	kua tuan	61
 寡核苷酸	
 寡歡	kua huan	59
-寡母		514	#9
 寡淡	kua tam	65
-寡糖		545	#9
 寡聚體	
 寡聞		57
 寡聞寡見	
 寡言		62
 寡言少語	kua gian siau gir
-寡陋		314	#9
 寡頭	kua thau	77
 寡頭壟斷	
 寡頭政治	
@@ -87762,10 +87164,7 @@ sort: by_weight
 寢宮	cim kiong	59
 寢殿	cim tian	8
 寢苫枕塊	
-寢食		568	#9
-寢食不安	cim sik put an
 寢食難安	cim sik nLan an
-寤寐		448	#9
 寤寐求之	goo bi kiu zi
 寥寥	liau x	122
 寥寥數筆	liau x soo pit
@@ -87796,7 +87195,6 @@ sort: by_weight
 實做	sit zue	43
 實像	sit sCIang	46
 實價	sit kee	61
-實兵		559	#9
 實兵演練	
 實兵演習	
 實分析		39
@@ -87813,7 +87211,6 @@ sort: by_weight
 實力雄厚	
 實務	sit bu	349
 實務操作	
-實卡		48	#9
 實參	sit cam	6
 實受資本	
 實名	sit bing	150
@@ -87866,7 +87263,6 @@ sort: by_weight
 實彈演習	
 實得	sit tit	50
 實得分數	
-實德		968	#9
 實心	sit sim	75
 實心實意	
 實心彈		36
@@ -87890,14 +87286,11 @@ sort: by_weight
 實戰訓練	
 實戰過		3
 實戰開發	
-實戶		279	#9
-實才		374	#9
 實打實		78
 實拍	sit phah	103
 實拍拍		21
 實操	sit cau	439
 實據	sit kir	52
-實支		311	#9
 實收	sit siu	58
 實收資本	
 實效	sit hau	120
@@ -88333,15 +87726,7 @@ sort: by_weight
 實鼻	zat phyY
 寧可	nLing qonn	223
 寧可信其	
-寧和		565	#9
 寧在	nLing zai	6
-寧夏	nLing haE	196
-寧夏回族	
-寧夏回族自治區	nLing ha
-寧夏城		31
-寧夏省		45
-寧夏路		55
-寧夏銀川	
 寧宗		46
 寧左勿右	
 寧帖		27
@@ -88355,9 +87740,7 @@ sort: by_weight
 寧死不屈	
 寧死不服	
 寧死不降	
-寧毅		61	#9
 寧洱		49
-寧海路	
 寧爲		57
 寧爲玉碎	nLing ui giok sui
 寧爲雞口	nLing ui ke qeru
@@ -88575,7 +87958,6 @@ sort: by_weight
 審閱	sim iat	104
 審閱	sim uat	104
 審閱人	
-審限		41	#9
 審音		10
 審題	sim tere	127
 審驗		57
@@ -88717,7 +88099,6 @@ sort: by_weight
 寫程序		62
 寫程式		33
 寫稿	sia koO	70
-寫篇		239	#9
 寫給		297
 寫給自己	
 寫觀後感	
@@ -88783,7 +88164,6 @@ sort: by_weight
 寬廣	quan kong	117
 寬廣度		34
 寬延	quan ian	30
-寬弘		329	#9
 寬待	quan thai	49
 寬得	quann tit	41
 寬心	quan sim	56
@@ -88794,18 +88174,13 @@ sort: by_weight
 寬敞	quan cIang	123
 寬敞明亮	
 寬敞的		30
-寬斧		240	#9
 寬於	quan ir	46
-寬暢		492	#9
 寬曠	quan qong	37
 寬檐帽	
 寬汎	quan huam
 寬泛	quan huam	164
-寬洪		345	#9
 寬減	quan kiam	34
-寬爽		226	#9
 寬猛相濟	quan bing sIang ze
-寬甸		594	#9
 寬的	quan e	85
 寬眼距		2
 寬窄	quan zik	57
@@ -88816,7 +88191,6 @@ sort: by_weight
 寬肩	quan kaInn	48
 寬膠帶		33
 寬舒	quan sir	41
-寬街		42	#9
 寬衣	quan i	56
 寬衣解帶	quan i kai tai
 寬袍大袖	quan poo tai siu
@@ -88851,7 +88225,6 @@ sort: by_weight
 寰樞關節	
 寰海		33
 寰球		52
-寵你		42	#9
 寵信	thiong sin	51
 寵倖	thiong hing
 寵兒	thiong ji	88
@@ -89023,14 +88396,12 @@ sort: by_weight
 寺庫		30
 寺廟	si bio	166
 寺舍		35
-寺裏		155	#9
 寺觀		50
 寺鐘	si zing	38
 寺院	si y	106
 封上來		18
 封上去		24
 封不住	hong put zu	2
-封二		532	#9
 封住	hong zu	83
 封侯	hong heru	56
 封侯萬里	
@@ -89040,14 +88411,13 @@ sort: by_weight
 封凍期		32
 封到	hong kau	44
 封包	hong pau	57
+皇孫	hong sun	57
 封印	hong in	221
-封反		223	#9
 封口	hong qau	92
 封口機		2
 封口費		7
 封后	hong heru	58
 封君	hong kun	41
-封喉		40	#9
 封嘴	hong cui	46
 封國	hong kok	48
 封土	hong thoo	48
@@ -89118,7 +88488,7 @@ sort: by_weight
 封疆大吏	
 封皮	hong pher	56
 封盤	hong puann	49
-封着		44	#9
+封着		44
 封神榜	hong sin png	76
 封神演義	hong sin ian gi
 封禁	hong kim	80
@@ -95204,7 +94574,7 @@ sort: by_weight
 巡佐		25
 巡哨		39
 巡回法庭	
-巡場		48	#9
+巡場		48
 巡境	
 巡夜		47
 巡天	sun thian	49
@@ -95247,11 +94617,9 @@ sort: by_weight
 巡視		107
 巡視員		69
 巡視組		10
-巡訪		30
 巡診		47
 巡警		86
 巡護員		2
-巡迥		234	#9
 巡迴		109
 巡迴公演	
 巡迴分析端口	
@@ -99370,13 +98738,10 @@ sort: by_weight
 幾小時	kui sio si	84
 幾小時前	
 幾小時後	
-幾尾	kui ber	44
 幾局	kui kiok	49
 幾屆	kui kai	55
 幾層	kui zan	76
 幾層樓		47
-幾工	kui kang
-幾工前	kui kang zaInn
 幾希	ki hi	37
 幾幅	kui pak	57
 幾幢	kui tong	2
@@ -99413,15 +98778,12 @@ sort: by_weight
 幾折	kui ziat	61
 幾招	kui ziau	78
 幾拳	kui kun	50
-幾捾	kui kuann
 幾排	kui pai
-幾擺	kui pai
 幾攤	kui thuann
 幾支	kui ki	72
-幾支刀	kui ki to
-幾支劍	kui ki kiam
-幾支槍	kui ki cing
-幾改	kui kai
+幾支刀	
+幾支劍	
+幾支槍	
 幾文錢	kui bun zy	40
 幾斤	kui kern	73
 幾斤幾兩	
@@ -101401,7 +100763,6 @@ sort: by_weight
 弭除		19
 弱一點		38
 弱不勝衣	jiok put sing i
-弱不禁風	jIak pun kim hong
 弱作用		34
 弱作用力	
 弱側		53
@@ -105398,7 +104759,6 @@ sort: by_weight
 徽調		36
 心上	sim sIang	105
 心上人	sim sIang lang	78
-心不在焉	sim put zai ian
 心不死		2
 心不甘		2
 心不甘情不願	
@@ -105587,7 +104947,6 @@ sort: by_weight
 心智健全	
 心曠神怡	
 心曲	sim qiok	57
-心有不甘	sim iu put kam
 心有慼慼	sim iu cik cik
 心有所向	sim iu soo hIang
 心有所屬	sim iu soo siok
@@ -105724,7 +105083,6 @@ sort: by_weight
 心理預期	
 心甘情願	sim kam zing guan
 心生一計	sim serng it ke
-心生不滿	sim serng put buan
 心田	sim tian	80
 心疑		42
 心疼	sim thiann	701
@@ -105875,7 +105233,6 @@ sort: by_weight
 心血管疾病	sim huih kuInn	
 心行	sim hing
 心術		60
-心術不正	sim sut put zing
 心衰		51
 心裁		623	#9
 心裏		2409
@@ -106221,7 +105578,6 @@ sort: by_weight
 忍者組		2
 忍者龜		45
 忍耐	jim nai	139
-忍耐不住	jim nai put zu
 忍耐住		39
 忍耐力		58
 忍耐性	
@@ -106929,7 +106285,6 @@ sort: by_weight
 忿發	hun huat	17
 忿言		21
 忿鷙		13
-怎不	zerm put	59
 怎不可		35
 怎不是		34
 怎不會		35
@@ -109518,26 +108873,14 @@ sort: by_weight
 想載		358	#9
 想轉	siunn tuInn	59
 想辦法	siunn pan huap	647
-想送		601	#9
 想逃	siunn to	11
 想透	siunn thau	48
-想這些	siunn ziah ge	10
+想這些		10
 想通	siunn thang	97
-想通過		2424	#9
-想進		1669	#9
-想進來		509	#9
-想進去		566	#9
-想進球		10	#9
+想通過		242
 想過	siunn ker	318
 想過來		51
 想過去		60
-想過着		287	#9
-想選		314	#9
-想錄		421	#9
-想開		944	#9
-想靠		812	#9
-想飛		744	#9
-想養		93	#9
 惴惴	zui x	58
 惴惴不安	zui x put an
 惶恐	hong qiong	114
@@ -110454,7 +109797,6 @@ sort: by_weight
 愣神		55
 愣說		426	#9
 愣頭青		52
-愧不敢當	qui put kam tong
 愧作	qui zok	25
 愧對		72
 愧心		37
@@ -116477,92 +115819,61 @@ sort: by_weight
 打鼾	tann han	59
 打齋		33
 打齋	tann zai	33
-扔上		453	#9
-扔上來		374	#9
-扔上去		393	#9
-扔下		944	#9
-扔下來		481	#9
-扔下去		515	#9
-扔下樓		18	#9
-扔來		456	#9
-扔出		700	#9
-扔出來		477	#9
-扔出去		566	#9
-扔到		1725	#9
-扔去		523	#9
-扔向		127	#9
-扔回		478	#9
-扔回來		348	#9
-扔回去		389	#9
-扔在		944	#9
-扔垃圾		246	#9
-扔完		66	#9
-扔手雷		17	#9
-扔掉		1902	#9
-扔掉的		186	#9
-扔棄		435	#9
-扔沙包		14	#9
-扔炸彈		59	#9
-扔石頭		129	#9
-扔給		748	#9
-扔給我		91	#9
-扔菸頭		25	#9
-扔起		356	#9
-扔起來		326	#9
-扔進		1566	#9
-扔過來		95	#9
-扔錢		70	#9
-扔鞋		43	#9
+扔上	
+扔上來	
+扔上去	
+扔下	
+扔下來	
+扔下去	
+扔來		456
+扔出		700
+扔出來	
+扔出去	
+扔到	
+扔去	
+扔向	
+扔回	
+扔回來	
+扔回去	
+扔在	
+扔垃圾	
+扔完	
+扔掉	
+扔炸彈	
+扔石頭	
+扔給	
+扔給我	
+扔進	
+扔過來	
+扔錢	
 托住	thok zu	57
-托克	thok qerk	52
-托克維爾	
-托兒		575	#9
+托兒		575
 托兒所		60
 托出	thok cut	58
-托利	thok li	26
-托利黨人	
-托勒		406	#9
-托勒玫		287	#9
-托名		64	#9
 托塔天王	
 托墨	thok bik	24
-托夢		199	#9
-托大		112	#9
-托夫	thok hu	58
-托子		399	#9
-托實		278	#9
-托尼	thok ni	257
-托幼		579	#9
-托德	thok terk	22
-托普	thok phoo	7
-托木爾		42
-托木爾峯	
+托幼	
 托杯	thok pue	33
 托架	thok kee	59
 托槽	thok zoO	20
 托派	thok phai	45
-托熟		207	#9
 托特	thok terk	47
-托特納姆熱刺	
+
 托生	thok serng	6
 托盤天平	
 托着	thok tioh	78
 托福	thok hok	414
 托福考試	
 托福雅思	
-托米	thok bi	46
-托納利		2
-托維	thok ui	44
 托老中心	
 托老院		37
 托育	thok io	30
-托胎		326	#9
+托育	thok iok	30
 托腮	thok sai	51
 托膽	thok tam	17
 托舉	thok kir	20
 托色	thok sik	25
-托莱多	thok lai to
-托萊多		470	#9
+
 托葉	thok iap	47
 托葷鹹食	
 托蒂	thok ti	83
@@ -116572,19 +115883,15 @@ sort: by_weight
 托足	thok ziok	30
 托足無門	
 托運行李	
-托里	thok li	57
-托里拆利	
 托鉢	thok puat	47
 托鉢人		10
 托鉢修會	
 托鉢僧		38
-托雷多	
 托領	thok nia	19
 托馬	thok ma	47
 扛上	kng ziunn	49
 扛上來		28
 扛上去		32
-扛下		474	#9
 扛下來		
 扛下去		
 扛不起		5
@@ -119298,7 +118605,6 @@ sort: by_weight
 抽血	thiu huih	132
 抽角色	
 抽調		96
-抽豐		227	#9
 抽象	thiu sCIang	666
 抽象主義	
 抽象代數	
@@ -120038,7 +119344,6 @@ sort: by_weight
 拒不承認	kir put sing jin
 拒不接受	kir put ziap siu
 拒不服從	kir put hok ziong
-拒不道歉	kir put toO qiam
 拒不配合	kir put phue hap
 拒之千里	
 拒之門外	
@@ -120609,7 +119914,6 @@ sort: by_weight
 招領	zio nia	66
 招領失物	
 招領處		40
-招風		573	#9
 招風惹草	
 招風惹雨	
 招風耳		50
@@ -121025,7 +120329,6 @@ sort: by_weight
 拾過	qioh ker	42
 拾遺	sip ui	60
 拾遺補缺	sip ui poo quat
-拾金不昧	sip kim put mue
 拾陸	zap lak	47
 拾零	zap ling	51
 拾音	sip im	16
@@ -121127,8 +120430,8 @@ sort: by_weight
 拿走		242
 拿起		489
 拿起來		85
-拿身份		10	#9
-拿辦		332	#9
+這些	zit sia	146876
+給誰	kip tiang	1065
 拿這些		23
 拿過		219
 拿過來		89
@@ -122836,7 +122139,6 @@ sort: by_weight
 捲鋼	kuInn kng	40
 捲開	kuInn qui	43
 捲雲		614	#9
-捲風		457	#9
 捲餅	kuInn piann	48
 捲髮	kuan huat	96
 捲髮器		48
@@ -123823,19 +123125,15 @@ sort: by_weight
 採樣頻率	
 採樣點		10
 採樵人		21
-採樹種		240	#9
 採氣	cai qi	49
 採油		63
-採油廠		10	#9
 採煤		61
-採煤礦		289	#9
 採爲		35
 採獲		33
-採獵		325	#9
 採珠		44
 採珠人		33
 採生折割	cai serng ziat kat
-採用	cai iong	3884
+採用	cai iOng	3884
 採用到		36
 採用率		41
 採的	cai e	60
@@ -123853,12 +123151,10 @@ sort: by_weight
 採礦權		70
 採種	cai ziong	47
 採稿	cai koO	40
-採空區		525	#9
-採精		459	#9
+採精		459
 採納	cai nLap	288
-採給		268	#9
+採給		268
 採編	cai pian	81
-採脂		377	#9
 採花	cai huee	72
 採花賊		53
 採芹人		41
@@ -123877,9 +123173,7 @@ sort: by_weight
 採蘭贈藥	
 採蜜		52
 採血	cai huih	58
-採行		430	#9
 採補		43
-採製		526	#9
 採訪		814
 採訪中		152
 採訪他		12
@@ -123912,19 +123206,18 @@ sort: by_weight
 採購商		85
 採購單	
 採購團		54
-採購工作		#9
+採購工作	
 採購成本	
-採購招標		#9
-採購指南		#9
-採購數量		#9
+採購指南
+採購數量	
 採購案		38
 採購法		57
 採購活動	
 採購站		41
-採購管理		#9
-採購經理		#9
-採購網		16	#9
-採購規則		#9
+採購管理	
+採購經理	
+採購網	
+採購規則	
 採購計劃	
 採購部		75
 採購部門	
@@ -123933,11 +123226,8 @@ sort: by_weight
 採辦		50
 採運		44
 採過	cai ker	42
-採過來		205	#9
-採過去		138	#9
 採選		62
 採金		48
-採銅		46	#9
 採錄		43
 採鐵	cai thih	26
 採陰補陽	
@@ -123949,10 +123239,8 @@ sort: by_weight
 採集系統	
 採集者		10
 採集起來	
-採風		871	#9
 採食	cai sit	55
 採鹽	cai iam	44
-探了探		46	#9
 探井	tham zenn	45
 探信		29
 探個究竟	
@@ -124943,7 +124231,6 @@ sort: by_weight
 掩面而泣	
 掩面而過	
 掩飾	iam sik	201
-掩飾不住	iam sik put zu
 掩飾性	
 掩體	iam the	72
 掩鼻	iam phyY	47
@@ -126920,7 +126207,6 @@ sort: by_weight
 搶鏡頭		54
 搶險		116
 搶險救災	
-搶風		339	#9
 搶風航行	
 搶風頭		56
 搶飯碗		13
@@ -128023,7 +127309,6 @@ sort: by_weight
 擁抱變化	
 擁抱陽光	
 擁擠	iong ze	215
-擁擠不堪	iong ze put qam
 擁有	iong iu	5367
 擁有權		47
 擁有率		2
@@ -130112,16 +129397,14 @@ sort: by_weight
 改制後		8
 改制方案	
 改劇本	kai kIak pun	14
-改加		361	#9
 改動	kai tong	484
+改動	kere tong	484
 改動	kere tang	484
-改動過		24	#9
-改動量		10	#9
+改動過	
 改區	kere qU	46
 改印	kere in	31
 改卷	kere kuInn	28
 改去	kere qIR	53
-改取		342	#9
 改口	kai qau	78
 改口	kai qeru	78
 改口說		49
@@ -130142,7 +129425,6 @@ sort: by_weight
 改善睡眠	
 改善通訊	
 改善關係	
-改嘴		287	#9
 改回	kai hue	65
 改回來		51
 改回去		44
@@ -130150,18 +129432,16 @@ sort: by_weight
 改圖	kere too	52
 改土歸流	kai thoo kui liu
 改在	kere tDeh	56
-改型		546	#9
-改場		260	#9
 改填	kere thy	30
 改大	kere tua	49
 改天換地	kai thian huan te
 改好	kere ho	113
-改好後		15	#9
+改好後	
 改姓	kai senn	56
 改姓	kere senn	56
 改嫁	kai kee	59
 改嫁	kere kee	59
-改學		45	#9
+改學	
 改守	kai siu	29
 改完	kere uan	75
 改定	kai ting	44
@@ -130188,14 +129468,10 @@ sort: by_weight
 改性	kai sing	93
 改性塑料	
 改悔	kai hue	44
-改憲		334	#9
 改成	kai ziann	692
-改戰		269	#9
 改打	kere tann	53
 改扣	kere qau	21
 改扣	kere qeru	21
-改扮		469	#9
-改抄		220	#9
 改投	kai tau	49
 改掉	kai tiau	120
 改換	kai huan	59
@@ -130213,8 +129489,7 @@ sort: by_weight
 改日	kai jit	54
 改日再來	
 改易	kai ik	43
-改時		419	#9
-改書		331	#9
+改書	
 改朝換代	kai tiau huan tai
 改朝換代	kai tiau uann tai
 改期	kere ki	56
@@ -130232,7 +129507,6 @@ sort: by_weight
 改段	kere tuann	22
 改派	kai phai	8
 改派	kere phai	8
-改炒		309	#9
 改煮	kere zir	18
 改爲	kai ui	561
 改版	kai pan	194
@@ -130523,7 +129797,6 @@ sort: by_weight
 放下屠刀	hong haE to to
 放下武器	pang hee bu qi
 放不下		145
-放不下心	hong put haE sim
 放不出		5
 放不出來	
 放不到	
@@ -130849,7 +130122,6 @@ sort: by_weight
 放風	pang hong	57
 放風	pang huang	57
 放風箏		75
-放風聲		335	#9
 放飛	pang per	101
 放飛機		52
 放養	pang Iang	78
@@ -131675,7 +130947,6 @@ sort: by_weight
 教下去		10
 教不出		3
 教不出來	
-教不嚴	kau put giam	1
 教主	kau zu	171
 教乖	ka kuai
 教了	ka liau	115
@@ -132139,7 +131410,6 @@ sort: by_weight
 敢上去		46
 敢下		525	#9
 敢下來		10
-敢不	kam put	66
 敢不從命	
 敢不敢		84
 敢付	kann hu	29
@@ -134512,7 +133782,6 @@ sort: by_weight
 斬盡殺絕	
 斬眼		246	#9
 斬立決		3
-斬而不奏	zam ji put zOo
 斬草除根	zam coO tir kern
 斬落	zam lok	7
 斬衰	zam sue	10
@@ -137518,7 +136787,6 @@ sort: by_weight
 昏睡	hun sui	81
 昏睡不醒	
 昏睡病		34
-昏瞶	hun qui	18
 昏聵	hun qui	46
 昏花	hun hua	53
 昏話	hun uee	42
@@ -138176,9 +137444,7 @@ sort: by_weight
 是先去		37	#9
 是全社會		#9
 是典型		186
-是兼容		3
-是冷		148	#9
-是凡		524	#9
+是兼容		3、
 是出於		183
 是分開		50
 是利用		107
@@ -138206,21 +137472,17 @@ sort: by_weight
 是否有利	
 是否有效	
 是否正確	
-是否瞭解		#9
 是否符合	
-是否結束		#9
 是否能		441
-是否能夠		#9
 是吧		460
-是呀		4277	#9
 是和你		7
 是哦	si oo	7
 是哪裏		132
 是唯一		351
 是啊		1539
+是啥	si sannh	422
 是啥	si siann	422
 是啥樣		40
-是善		131	#9
 是善是惡	
 是喜是悲	
 是喜是憂	
@@ -138229,7 +137491,7 @@ sort: by_weight
 是國內		287
 是在	si tDeh	3498
 是坐在		7
-是坑		230	#9
+是坑	
 是垃圾		52
 是基於		496
 是基礎		114
@@ -138239,8 +137501,6 @@ sort: by_weight
 是多麼		41
 是夜		15
 是夢	si bang	14
-是大勢		32	#9
-是女生		346	#9
 是好	si ho	126
 是好事		266
 是好人		48
@@ -138251,33 +137511,25 @@ sort: by_weight
 是對		1446
 是對的		101
 是小	si sio	10
-是工作狂		#9
 是巧合		36
 是帶着		44
-是幫		116	#9
 是幾月	
-是很		8026	#9
-是很便宜		#9
-是很多		1771	#9
+是很		802
 是徒勞		13
 是從	si ziong	109
 是必然		232
-是念		568	#9
 是怎麼回事	
 是怎麼想	
 是怕		42
 是您		93
 是悲是喜	
-是惡		107	#9
 是想	si siunn	303
 是想要	si siunn beh	17
 是想要	si siunn berh	17
-是愚蠢		172	#9
 是愛		95
 是我	si gua	2498
 是我不好	
 是我不對	
-是我呀		13	#9
 是我國		157
 是我媽		17
 是我的		290
@@ -139062,7 +138314,6 @@ sort: by_weight
 晨間活動	
 晨霧		57
 晨露		56
-晨風		616	#9
 普世	phoo se	72
 普世基督教	
 普世教會	
@@ -139251,8 +138502,6 @@ sort: by_weight
 景物	king but	107
 景物依舊	
 景狀	king zong	36
-景甜	king tiam	33
-景緻		91
 景美溪		25
 景致		368 
 景色		280
@@ -139826,7 +139075,6 @@ sort: by_weight
 暢順	thIang sun	50
 暢飲	thIang im	61
 暨大	ki tua	86
-暫不	ziam put	111
 暫且	ziam cia	210
 暫且	ziam ciann	210
 暫且不表	
@@ -140781,7 +140029,6 @@ sort: by_weight
 更說是		264	#9
 更讓		1088	#9
 更讓人		1296	#9
-更豐富		2232	#9
 更象	kerng ciunn	70
 更豪華		64	#9
 更貴	kerng kui	122
@@ -147457,7 +146704,6 @@ sort: by_weight
 東面	tang bin	87
 東頭村		350	#9
 東風	tang hong	206
-東風吹		28	#9
 東風小康	tong hong siau qong
 東風小康	tong hong sio qng
 東風悅達起亞	tong hong iat tat
@@ -153006,7 +152252,6 @@ sort: by_weight
 橫面	huay bin	37
 橫題	huay tere	25
 橫額	huay giah	47
-橫風		48	#9
 橫飛	herng hui	61
 橫騎		246	#9
 橫骨	huay kut	37
@@ -153712,15 +152957,11 @@ sort: by_weight
 欲購從速	iok kau ziong sok
 欲購從速	iok keru ziong sok
 欲速不達	iok sok put tat
-欶管	suh kuInn	10
-欶血	suh huih	10
-欷吁		271	#9
-欷歔		391	#9
 欹嶔歷落	
 欺三瞞四	
 欺上瞞下	
 欺世盜名	qi se toO bing
-欺人		686	#9
+欺人		686
 欺人之談	
 欺人太甚	
 欺人自欺	
@@ -155680,10 +154921,9 @@ sort: by_weight
 歸正	kui zing	56
 歸歸類	
 歸法		34
-歸港		10
+歸港	
 歸煙		25
 歸爲		154
-歸獄		265	#9
 歸田	kui tian	51
 歸症		10
 歸省	kui sing	44
@@ -156152,7 +155392,6 @@ sort: by_weight
 殘疾證		7
 殘疾賠償金	
 殘破	zan phoO	73
-殘破不堪	zan phoO put qam
 殘秋	zam ciu	44
 殘稿	zam koO	39
 殘篇斷簡	
@@ -158808,7 +158047,6 @@ sort: by_weight
 水下作業	
 水下核爆炸	
 水下核試驗	
-水不在深	sui put zai sim
 水世界		7
 水中	zui tiong	233
 水中捉月	sui tiong ciok guat
@@ -160526,7 +159764,6 @@ sort: by_weight
 沉鬱頓挫	
 沉魚落雁	tim gir lok gan
 沉默	tim bik	576
-沉默不語	tim bik put gir
 沉默寡言	tim bik kua gian
 沉默是金	
 沉默權		3
@@ -160602,11 +159839,10 @@ sort: by_weight
 沒人緣	
 沒人罵		13
 沒人脈		14
-沒人要	bo lang berh	39
+沒人要		39
 沒人賣		2
 沒人跟		3
 沒人陪		6
-沒仇		40	#9
 沒付		44
 沒任何		83
 沒任務		2
@@ -160722,7 +159958,7 @@ sort: by_weight
 沒回來		62
 沒回去		54
 沒圖		20
-沒在	bo tDeh	116
+沒在		116
 沒在意		39
 沒地方		70
 沒地里		17
@@ -160808,8 +160044,7 @@ sort: by_weight
 沒想好		33
 沒想法		10
 沒想着		22
-沒想要	bo siunn beh	2474
-沒想要	bo siunn berh	2474
+沒想要		2474
 沒想要上	
 沒想要做	
 沒想過		120
@@ -160826,8 +160061,6 @@ sort: by_weight
 沒感興趣	
 沒感覺		118
 沒感謝		6
-沒慢		353	#9
-沒懂		231	#9
 沒成交		2
 沒我		28
 沒戲		160
@@ -160944,7 +160177,6 @@ sort: by_weight
 沒注意到	
 沒活動		2
 沒派		45
-沒消		476	#9
 沒消失	
 沒涉及		3
 沒測		42
@@ -161073,8 +160305,6 @@ sort: by_weight
 沒被		162
 沒被錄取	
 沒裝備	
-沒要	bo beh	58
-沒要	bo berh
 沒要到	
 沒見你		3
 沒見過		442
@@ -161083,13 +160313,10 @@ sort: by_weight
 沒見食面	
 沒規定		5
 沒規矩		46
-沒親		435	#9
 沒覺得		95
 沒計劃	
-沒討		420	#9
 沒記		51
 沒記得	
-沒設		458	#9
 沒設置		3
 沒詞		45
 沒試		61
@@ -161111,7 +160338,6 @@ sort: by_weight
 沒請		50
 沒講		100
 沒講完		5
-沒證		86	#9
 沒譜		72
 沒讀		57
 沒變		128
@@ -161119,7 +160345,6 @@ sort: by_weight
 沒讓		31
 沒貢獻	
 沒買		118
-沒貼		47	#9
 沒資格		113
 沒賞		31
 沒賠沒賺	
@@ -161129,12 +160354,9 @@ sort: by_weight
 沒起來		51
 沒趕		56
 沒趕上		44
-沒趣		590	#9
 沒跑		37
 沒跑題		3
 沒跟		22
-沒路		334	#9
-沒蹺		206	#9
 沒車		60
 沒輕沒重	
 沒輸		51
@@ -161170,10 +160392,8 @@ sort: by_weight
 沒那回事	
 沒那麼		443
 沒酒		44
-沒采		373	#9
 沒量		44
 沒量斗		6
-沒銷		291	#9
 沒錢買		41
 沒錯		1850
 沒鎖		42	#9
@@ -164347,11 +163567,9 @@ sort: by_weight
 浪蕩	long tong	59
 浪蕩公子	
 浪蕩子		46
-浪蕩挕	long tong hy	2
 浪蕩燈		2
 浪蝕	long sit	24
 浪蝶游蜂	
-浪衝		429	#9
 浪裏白條	long li pik tiau
 浪費	long hui	1145
 浪費可恥	
@@ -164402,7 +163620,6 @@ sort: by_weight
 浮動式	
 浮吊		42
 浮名	hu bing	49
-浮圖		509	#9
 浮圖經		11
 浮土	hu thoo	46
 浮在	phu tDeh	75
@@ -164448,7 +163665,6 @@ sort: by_weight
 浮潛	heru ziam	52
 浮潛器具	
 浮濫	heru lam	33
-浮燥		513	#9
 浮現	phu hian	154
 浮現出		65
 浮現出來	
@@ -164457,7 +163673,6 @@ sort: by_weight
 浮生六記	
 浮生若夢	hu serng jIak bong
 浮生記	hu serng ki	4
-浮皮		406	#9
 浮着	phu tioh	51
 浮石	phu zioh	52
 浮空	hu qong	29
@@ -164524,7 +163739,7 @@ sort: by_weight
 浴盆	iok phun	60
 浴簾	ik liam	52
 浴簾	iok liam	52
-浴缸		1135	#9
+浴缸		113
 浴缸裏		22
 浴血	iok hiat	64
 浴血奮戰	iok hiat hun zian
@@ -164554,7 +163769,7 @@ sort: by_weight
 海上颱風警報	
 海不揚波	hai put Iang pho
 海中	hai tiong	89
-海之		1%
+海之	
 海之中	
 海之旅	
 海事	hai sur	113
@@ -164567,12 +163782,7 @@ sort: by_weight
 海事職業學校	
 海事處		51
 海事衛星	
-海于格松	
-海伯利		37
 海信		125
-海倫		90
-海倫娜		15
-海倫市		54
 海倫鋼琴	
 海內	hai nLue	71
 海內外	hai lai gua	134
@@ -164584,22 +163794,15 @@ sort: by_weight
 海南話	hai nLam uee
 海南雞飯	hai nLam kere puInn
 海口人	hai qau lang
-海口腔	hai qau qiunn
 海味		61
 海員		61
 海哩	hai li	32
 海商		60
 海商法		54
 海嘯		137
-海因茨		2
-海因里希	
 海國		51
 海國圖志	
 海圖		54
-海地	hai te	72
-海地人		40
-海地島		29
-海城市		58
 海埔		28
 海埔新生地	
 海域	hai hik	171
@@ -164641,7 +163844,6 @@ sort: by_weight
 海寇		3
 海寶	hai poO	60
 海專		38
-海尼根		33
 海山	hai san	61
 海山	hai suann	61
 海岬		47
@@ -164697,12 +163899,7 @@ sort: by_weight
 海底隧道	
 海底電纜	
 海康	hai qong	55
-海德		86
-海德保		28
-海德公園	
-海德堡		60
-海德里		33
-海德里希	
+
 海心沙	
 海思	hai sur	37
 海怪	hai kuai	59
@@ -164713,26 +163910,20 @@ sort: by_weight
 海捕		42
 海損	hai sun	49
 海日		49
-海明威		159
 海星	hai cenn	77
-海晏		542	#9
 海晏河清	
 海景		89
 海景房		18
 海曲	hai qiok	46
-海松	hai siong	56
 海枯石爛	hai qoo sik lan
-海格	hai kik	10
+
 海格通信	
 海棗	hai zo	26
 海棠		110
 海棠依舊	hai tong i kiu
 海棠花	hai tong huee	54
-海森伯		39
-海森堡		52
 海榴		30
 海權		17
-海欣		68
 海歸		150
 海水	hai zui	328
 海水倒灌	
@@ -164790,12 +163981,8 @@ sort: by_weight
 海流	hai liu	53
 海浪		102
 海浪滔天	
-海海	hai x	73
-海涅		50
 海涵	hai ham	54
-海淀公園	
-海淀圖書城	
-海淀黃莊	
+海海	hai x	73
 海淘	hai to	139
 海溝	hai kau	53
 海溫		47
@@ -164820,8 +164007,6 @@ sort: by_weight
 海燕		95
 海爾	hai nDi	227
 海爾冰箱	
-海爾布隆	
-海爾德蘭	
 海爾空調	
 海爾集團	
 海牀	hai cng	47
@@ -164847,7 +164032,6 @@ sort: by_weight
 海產品		70
 海產店		32
 海疆		54
-海登		52
 海百合		42
 海的	hai e	64
 海盆		43
@@ -164867,13 +164051,12 @@ sort: by_weight
 海神號		49
 海禁		48
 海程		41
-海空		45	#9
+海空		45
 海空軍		49
 海空軍基地	
 海立雲垂	
 海米		55
 海精靈		5
-海納		48	#9
 海納百川	
 海絲騰		3
 海綿	hai mi	220
@@ -164885,7 +164068,6 @@ sort: by_weight
 海綿體		55
 海線	hai suann	43
 海纜		54
-海耶克		3
 海膽	hai tann	56
 海臺		37
 海航		88
@@ -164893,11 +164075,10 @@ sort: by_weight
 海芋	hai oo	52
 海苔	hai thi	57
 海草	hai cau	54
-海莉	hai li	23
 海菜		47
 海葬		46
 海葵	hai kui	50
-海蒂	hai ti	9
+
 海蔘	hai som	90
 海蔘崴	hai som uai	56
 海藍	hai lam	64
@@ -164909,7 +164090,6 @@ sort: by_weight
 海蘭泡	
 海蘭泡慘案	
 海虎		100
-海虹		44	#9
 海蛆		27
 海蛇	hai zua	52
 海蛞蝓		29
@@ -165072,7 +164252,6 @@ sort: by_weight
 浸出物		2
 浸到	zim kau	48
 浸在	zim tDeh	58
-浸塑		49	#9
 浸完		38
 浸於		47
 浸會	zim hue	44
@@ -166049,7 +165228,6 @@ sort: by_weight
 淫邪	im sia	5
 淫雨	im u	48
 淫靡		46
-淫風		370	#9
 淫風甚熾	
 淫鬼		29
 淬勉		90	#9
@@ -166075,8 +165253,6 @@ sort: by_weight
 淮陽	huai Iang	61
 淮陽王		2
 淯水		32
-深不可測	sim put qonn cerk
-深不見底	sim put kian te
 深井	cim zenn	61
 深井冰		49
 深交	cim kau	67
@@ -166086,11 +165262,9 @@ sort: by_weight
 深似海		23
 深作欣二	
 深信	cim sin	91
-深信不疑	cim sin put gi
 深入	cim jip	1347
 深入	sim jip	1347
 深入一線	
-深入不毛	sim jip put moo
 深入人心	
 深入分析	
 深入到	cim jip kau	69
@@ -166117,9 +165291,142 @@ sort: by_weight
 深切哀悼	
 深切懷念	
 深切關懷	
+這樣	zit iunn	146876
 深切體會	
+一不小心	it put siau sim
+一不小心	it put sio sim
+一毛不拔	it moo put puat
+三不	sam put	65
+三不五時	sam put goo si
+三不朽	sam put hiu	37
+三不沾	sam put tam	9
+三不知	sam put ti	52
+三不管	sam put kuan	48
+不三不四	put sam put sur
+不三思	put sam sur
+不信任	put sin jim	188
+不冒險	put moo hiam
+不加掩飾	put kaE iam sik
+不勝感激	put sing kam kik
+不勝枚舉	put sing mue kir
+不厭	put iam	82
+不可侵犯	put qonn cim huam
+不可兼得	put qonn kiam terk
+不同凡俗	put tong huam siok
+不同凡響	put tong huam hIang
+不同尋常	put tong sim sIang
+不同點	put tong tiam	8
+不含	put ham	306
+不嚴	put giam	80
+不堪	put qam	346
+不堪重負	put qam tiong hu
+不孝有三	put hau iu sam
+不忍	put jim	135
+不忍卒讀	put jim zut thok
+不忍心	put jim sim	104
+不忘初心	put bong coo sim
+不忘初心，牢記使命	put bong coo sim
+不念	put nLiam	56
+不念書	put nLiam sZir	5
+不念舊情	put nLiam kiu zing
+不念舊惡	put nLiam kiu ok
+不惜重金	put sik tiong kim
+不敢	put kam	1810
+不敢當	put kam tong	71
+不敢苟同	put kam keru tong
+不敢言	put kam gian	5
+不敢造次	put kam coO cur
+不染	put jiam	11
+不毛之地	put moo zi te
+不求甚解	put kiu sim kai
+不減	put kiam	104
+不犯	put huam	61
+不甘	put kam	151
+不甚	put sim	108
+不甚瞭解	put sim liau kai
+不男不女	put nLam put lIR
+不男不女	put nLam put lU
+不知凡幾	put ti huam ki
+不知廉恥	put ti liam thi
+不知甘苦	put ti kam qoo
+不禁	put kim	363
+不粘	put nLiam	101
+不諳	put am	37
+不諳世事	put am se sur
+不負責任	put hu ziK jim
+不陰不陽	put im put iunn
+不鹹不淡	put ham put tam
+不麻煩	put ma huan	17
+事不三思	sur put sam sur
+事不過三	sur put koO sam
+互不侵犯	hoo put cim huam
+互不侵犯條約	hoo put cim huam
+五音不全	nGoo im put zuan
+兵不厭詐	ping put iam za
+兵不血刃	ping put hiat jim
+其貌不揚	ki mau put Iang
+千金不換	zian kim put huan
+卓爾不凡	tok nDi put huam
+口不對心	qeru put tui sim
+大小寫不敏感	tua sio sia put bin kam
+大言不慚	tai gian put cam
+寢食不安	cim sik put an
+弱不禁風	jIak pun kim hong
+心不在焉	sim put zai ian
+心有不甘	sim iu put kam
+心生不滿	sim serng put buan
+心術不正	sim sut put zing
+忍耐不住	jim nai put zu
+怎不	zerm put	59
+愧不敢當	qui put kam tong
+拒不道歉	kir put toO qiam
+拾金不昧	sip kim put mue
+掩飾不住	iam sik put zu
+擁擠不堪	iong ze put qam
+放不下心	hong put haE sim
+教不嚴	kau put giam	1
+敢不	kam put	66
+斬而不奏	zam ji put zOo
+暫不	ziam put	111
+殘破不堪	zan phoO put qam
+水不在深	sui put zai sim
+沉默不語	tim bik put gir
+深不可測	sim put qonn cerk
+深不見底	sim put kian te
+深信不疑	cim sin put gi
+深入不毛	sim jip put moo
+深感不便	sim kam put pian
+深感不安	sim kam put an
+無話不談	bu hua put tam
+犯不上	huam put sIang	46
+犯而不校	huam ji put kau
+琴瑟不調	qim sit put tiau
+瑕不掩瑜	ha put iam jU
+甜不辣	tiam put lat	47
+瘦弱不堪	sOo jIak put qam
+百吃不厭	pah ziah put iam
+瞞不住	mua put zu	49
+破敗不堪	phoO pai put qam
+破舊不堪	pho kiu put qam
+禁不住	kim put zu	107
+竇性心律不齊	tau sing sim lut
+站不住	zam put zu	58
+絕口不談	zuat qeru put tam
+絲毫不減	sur hoO put kiam
+耳不忍聞	nDi put jim bun
+腳不沾地	kIak put tiam te
+腳不點地	kIak put tiam te
+臨危不懼	lim gui put kU
+衣衫不整	i sam put zing
+談不	tam put	69
+賊心不死	zerk sim put sur
+隱瞞不住	un mua put zu
+風馬不接	hong ma put ziap
+食不厭精	sik put iam zing
+食不甘味	sik put kam bi
+馬不停蹄	ma put ting te
+馬不及鞍	ma put kip an
 深切體認	
-深到		524	#9
 深刻	cim qerk	608
 深刻印象	
 深刻反思	
@@ -166237,8 +165544,6 @@ sort: by_weight
 深愛	cim ai	140
 深愛着		49
 深感	sim kam	126
-深感不便	sim kam put pian
-深感不安	sim kam put an
 深感憂慮	sim kam iu lir
 深感榮幸	sim kam ing hing
 深感遺憾	sim kam ui ham
@@ -170893,7 +170198,7 @@ sort: by_weight
 濯濯	zok x	42
 濯盥	tak kuan	6
 濯足	tak ziok	45
-濯足tak ziok
+濯足	tak ziok
 濯身	tak sin	19
 濯錦以魚	
 濰坊市		78
@@ -173321,7 +172626,6 @@ sort: by_weight
 無記名投票	
 無記錄	
 無話	bo uee	114
-無話不談	bu hua put tam
 無話可說	bu hua qonn suat
 無話可講	bu hua qonn kang
 無語	bu gir	335
@@ -173711,19 +173015,11 @@ sort: by_weight
 煎魚	zian hIR	50
 煎點	zian tiam	26
 煒煒	ui x
-煙供		379	#9
-煙具		554	#9
-煙味		732	#9
-煙商		365	#9
 煙囪		94
-煙土		443	#9
 煙塵	ian thun	82
 煙夜蛾		29
 煙大	ian tua	8
 煙威青	ian ui cing
-煙子		453	#9
-煙客		449	#9
-煙屁		400	#9
 煙岸	ian gan	17
 煙嵐		47
 煙嵐雲岫	
@@ -173732,19 +173028,14 @@ sort: by_weight
 煙徑		19
 煙感		5
 煙戶		32
-煙斗		223	#9
 煙景		39
 煙月	ian guat	43
 煙月牌		14
 煙柱	ian zu	45
-煙桿		448	#9
-煙槍		565	#9
 煙樹	ian ciu	49
-煙機		682	#9
 煙毒	ian tok	47
 煙毒犯		21
 煙氣	ian qi	83
-煙油		437	#9
 煙泡	ian phau	31
 煙波		61
 煙波客		27
@@ -173758,7 +173049,6 @@ sort: by_weight
 煙消雲散	
 煙消霧散	
 煙渚		39
-煙漬		61	#9
 煙火	ian her	125
 煙火之警	
 煙火人間	
@@ -173778,11 +173068,9 @@ sort: by_weight
 煙燻妝		59
 煙爨		18
 煙瘴		39
-煙癮		588	#9
 煙盒	ian ah	64
 煙硝		39
 煙硝味		29
-煙稈		261	#9
 煙穗		28
 煙突		30
 煙窩		24
@@ -173790,11 +173078,8 @@ sort: by_weight
 煙管	ian kuInn	49
 煙篷		16
 煙籠霧鎖	ian long bu soO
-煙粉		489	#9
 煙縷		38
 煙肉	ian bah	45
-煙膏		349	#9
-煙臭		353	#9
 煙臭味		36
 煙臺市		85
 煙色		46
@@ -173817,15 +173102,12 @@ sort: by_weight
 煙花陣		18
 煙花隊		17
 煙花風月	
-煙苗		427	#9
 煙蓑雨笠	
 煙袋	ian tEr	6
 煙視媚行	
-煙道		432	#9
 煙酒不沾	
 煙酰胺		56
 煙酸	ian suan	57
-煙錢		46	#9
 煙鍋	ian ko	47
 煙雨	ian u	102
 煙雨樓		52
@@ -173850,10 +173132,7 @@ sort: by_weight
 煙霾		32
 煙靄		44
 煙飛星散	
-煙館		447	#9
 煙鬟		29
-煙鬼		536	#9
-煙鹼		49	#9
 煜熠		28
 煞住		41
 煞嘴尾	suah cui ber	10
@@ -177822,7 +177101,6 @@ sort: by_weight
 犯上	huam sIang	53
 犯上作亂	
 犯下	huam haE	121
-犯不上	huam put sIang	46
 犯不着		66
 犯了一個	
 犯了罪		9
@@ -177902,7 +177180,6 @@ sort: by_weight
 犯罪預備	
 犯罪預防	
 犯罪類型	
-犯而不校	huam ji put kau
 犯臺		30
 犯規		330
 犯規動作	
@@ -178181,7 +177458,6 @@ sort: by_weight
 狗皮膏藥	
 狗眼	kau gan	50
 狗眼看人	
-狗秀	kau siu	39
 狗窩	kau o	59
 狗竇	keru teru	39
 狗竇大開	
@@ -180584,7 +179860,6 @@ sort: by_weight
 琴桿	qim kuay	41
 琴棋書畫	
 琴瑟	qim sik	56
-琴瑟不調	qim sit put tiau
 琴瑟友之	qim sit iu zi
 琴瑟和諧	
 琴瑟和鳴	
@@ -180619,7 +179894,6 @@ sort: by_weight
 琵鷺		45
 琺琅		59
 琺琅質		45
-瑕不掩瑜	ha put iam jU
 瑕垢	ha heru	22
 瑕瑜互見	
 瑕疵		298
@@ -181296,7 +180570,6 @@ sort: by_weight
 甚麼都有	
 甚麼都沒	
 甚麼鬼		190
-甜不辣	tiam put lat	47
 甜到	ty kau	22
 甜口	ty qau	9
 甜味	ty bi	149
@@ -181608,6 +180881,7 @@ sort: by_weight
 生拉硬拽	
 生搬硬套	
 生擒	serng qim	58
+生效	serng hau	232
 生效	senn hau	232
 生效判決	
 生效後		12
@@ -185326,7 +184600,6 @@ sort: by_weight
 瘦子	sOo zur	86
 瘦小	sOo siau	86
 瘦弱	sOo jIak	93
-瘦弱不堪	sOo jIak put qam
 瘦得	san tit	1
 瘦成	san ziann	52
 瘦猴		58	#9
@@ -186662,7 +185935,6 @@ sort: by_weight
 發頭風		16
 發願	huat guan	57
 發顫	huat zun	56
-發風		383	#9
 發風罵坐	
 發飄	huat phiau	47
 發飆	huat piau	131
@@ -187396,7 +186668,6 @@ sort: by_weight
 百千	pah caInn	7
 百卉千葩	
 百口莫辯	pik qeru bok pian
-百吃不厭	pah ziah put iam
 百合	pik hap	182
 百合子		52
 百合科		48
@@ -189420,7 +188691,6 @@ sort: by_weight
 相匹敵		5
 相匹配		141
 相協調		8
-相印		331	#9
 相去	sIang qIR	61
 相去不遠	
 相去太遠	
@@ -191520,7 +190790,6 @@ sort: by_weight
 瞓覺		482	#9
 瞞上欺下	
 瞞下欺上	
-瞞不住	mua put zu	49
 瞞不住的	
 瞞不過		54
 瞞人耳目	
@@ -192938,7 +192207,6 @@ sort: by_weight
 破損	phua suInn	129
 破損率	
 破敗		74
-破敗不堪	phoO pai put qam
 破敝		273	#9
 破敵		9
 破曉		61
@@ -193009,7 +192277,6 @@ sort: by_weight
 破膽	phua tann	51
 破臉		411	#9
 破舊	phua ku	109
-破舊不堪	pho kiu put qam
 破舊立新	pho iu lip sin
 破船	phua zun	50
 破萬		40
@@ -195451,7 +194718,6 @@ sort: by_weight
 祿食	liok sit	27
 祿養	liok Iang	28
 祿餌		7
-禁不住	kim put zu	107
 禁不起		56
 禁令		121
 禁伐	kim huat	40
@@ -195521,15 +194787,13 @@ sort: by_weight
 禁毒工作	
 禁治產		35
 禁治產人	
-禁海		42	#9
+禁海		420
 禁漁	kim hIR	51
 禁漁期		2
 禁演		44
-禁煙		350	#9
 禁片	kim phy	5
 禁用	kim iOng	211
 禁用	kim iong	211
-禁當		288	#9
 禁絕	kim zuat	49
 禁臠		47
 禁菸		74
@@ -198979,7 +198243,6 @@ sort: by_weight
 竇性心動過緩	
 竇性心動過速	
 竇性心律	tau sing sim lut
-竇性心律不齊	tau sing sim lut
 竇房結		8
 竈上		44	#9
 竈具	zau kU	67
@@ -199291,7 +198554,6 @@ sort: by_weight
 站上來		44
 站上去		49
 站下		129	#9
-站不住	zam put zu	58
 站不住腳	
 站不穩		57
 站不起來	
@@ -203199,34 +202461,22 @@ sort: by_weight
 粘在一起	
 粘在上面	
 粘多糖	
-粘帖		643	#9
-粘度		888	#9
-粘性		799	#9
+粘度		888
+粘性		799
 粘手	ziam ciu	6
 粘接	ziam ziap	20
 粘木	ziam bok	33
 粘板岩		24
 粘涎		24
-粘液		833	#9
 粘滑	ziam kut	43
 粘滯		52
 粘滯性		41
-粘痰		416	#9
 粘皮帶骨	
 粘皮着骨	
-粘着		614	#9
-粘稠		791	#9
-粘米		410	#9
 粘粘	nLiam x	56
 粘糊	ziam koo	41
-粘結		652	#9
 粘纏	nLiam ty	29
-粘聚		371	#9
-粘膜		1087	#9
-粘膠		624	#9
 粘膠液		21
-粘菌		458	#9
-粘蟲		476	#9
 粘貼	ziam thiap	357
 粘貼到		31
 粘貼板		2
@@ -205019,7 +204269,6 @@ sort: by_weight
 純靠	sun qoO	76
 純音		56
 純音樂		52
-純風		323	#9
 純鹼	sun kiam	59
 純鹼	sun ky	59
 紕漏	phi lau	63
@@ -206602,7 +205851,6 @@ sort: by_weight
 絕倫	zuat lun	84
 絕口		642	#9
 絕口不提	zuat qeru put the
-絕口不談	zuat qeru put tam
 絕句	zuat ku	61
 絕味	zuat bi	6
 絕味鴨脖	
@@ -207115,7 +206363,6 @@ sort: by_weight
 絲桿		559	#9
 絲棉	si mi	53
 絲毫	si ho	239
-絲毫不減	sur hoO put kiam
 絲氨酸	sur an suan	51
 絲滑	si kut	108
 絲狀	si zong	55
@@ -211215,6 +210462,7 @@ sort: by_weight
 纔滿	zIAh mua	35
 纔獲得	zIAh hik terk	3
 纔玩	zIAh thit tho	50
+纔生效	zIAh senn hau	3
 纔生效	zIAh serng hau	3
 纔用	zIAh iOng	14
 纔畢業	zIAh pit giap	427
@@ -214901,7 +214149,6 @@ sort: by_weight
 耦語		14
 耳下腺		29
 耳下腺炎	
-耳不忍聞	nDi put jim bun
 耳中	hi tiong	26
 耳光	hi kong	137
 耳光	nDi kong	137
@@ -216287,7 +215534,6 @@ sort: by_weight
 聽音	thiann im	51
 聽音樂		173
 聽頭		396	#9
-聽風		797	#9
 聽骨	thiann kut	40
 聽骨鏈		36
 聽鬼故事	
@@ -219033,8 +218279,6 @@ sort: by_weight
 腳上		109
 腳下	kIak haE	338
 腳下	qa ee	338
-腳不沾地	kIak put tiam te
-腳不點地	kIak put tiam te
 腳丫	kIak a	80
 腳丫子		56
 腳位		435	#9
@@ -219797,7 +219041,6 @@ sort: by_weight
 臨制	lim ze	29
 臨危	lim gui	62
 臨危不亂	
-臨危不懼	lim gui put kU
 臨危受命	
 臨危授命	
 臨危時		30
@@ -224899,12 +224142,6 @@ sort: by_weight
 茹魚	jir hIR	22
 茺蔚		40
 茼蒿	tang her	33
-荀卿		49	#9
-荀子	sun zur	62
-荀彧		250
-荀慧生	
-荀攸		33
-荀況		44
 荇菜		43
 草上飛	
 草人	cau lang	53
@@ -227277,13 +226514,11 @@ sort: by_weight
 蔡志忠		543	#9
 蔡文勝		236	#9
 蔡文姬		531	#9
-蔡文豐		117	#9
 蔡某		48	#9
 蔡清遊		66	#9
 蔡瑁		41	#9
 蔡細歷		420	#9
 蔡裕華		131	#9
-蔡豐州		164	#9
 蔣家王朝	ziunn kaE ong tiau
 蔣桂戰爭	
 蔣總統祕錄	
@@ -231454,7 +230689,6 @@ sort: by_weight
 衣缽	i puat	36
 衣胞	i pau	30
 衣衫	i sam	91
-衣衫不整	i sam put zing
 衣衫已乾	
 衣衫襤褸	
 衣袂	i be	24
@@ -232641,7 +231875,6 @@ sort: by_weight
 被領導者	
 被頭	pi thau	42
 被頭散髮	
-被風		131	#9
 被風吹		75
 被風吹散	
 被香港		41	#9
@@ -236850,8 +236083,8 @@ sort: by_weight
 計劃者		43
 計劃落空	
 計劃行動	
-計劃表ke hua pio		59
-計劃表ke ueeh pio		59
+計劃表	ke hua pio		59
+計劃表	ke ueeh pio		59
 計劃進度	
 計劃階段	
 計劃項目	
@@ -239670,7 +238903,6 @@ sort: by_weight
 語音轉換	
 語音通信	
 語音通訊	
-語風		447	#9
 語驚四座	gir king sur zo
 語體		51
 語體化		5
@@ -240735,7 +239967,6 @@ sort: by_weight
 談一個		10
 談上	tam ziunn	49
 談下來		144	#9
-談不	tam put	69
 談不上		446
 談不來		41
 談不出		37
@@ -241810,8 +241041,6 @@ sort: by_weight
 謾天謾地	
 謾罵	ban ma	141
 謾罵叫囂	ban ma kiau hiau
-譀譀	ham x
-譀譀代	ham x tai
 譁然		78
 譁眾取寵	hua ziong cU thiong
 譁笑	hua siau	35
@@ -242933,33 +242162,21 @@ sort: by_weight
 讒間	cam kan	24
 讒陷		23
 讓一下	niu zit ee
-讓一個		1558	#9
+讓一個		1558
 讓一點	niu zit tiam	47
-讓上海		27	#9
-讓不同		133	#9
-讓不少		305	#9
+讓不同		133
 讓不讓		12
-讓世人		218	#9
-讓世界	niu se kai	61
+讓世人		218	
+讓世界	jIang se kai	61
 讓世界充滿愛	jIang se kai
-讓中國		596	#9
+讓人	jIang jin	4899
 讓人	niu lang	4899
-讓人心		33	#9
-讓人民		146	#9
-讓他來		191	#9
-讓企業		454	#9
 讓位	jIang ui	59
 讓位	niu ui	59
 讓位於		54
 讓你	jIang lIR	5707
 讓你	niu lIR	5707
-讓你在		1988	#9
-讓你媽		49	#9
-讓你看		181	#9
-讓你走		114	#9
-讓你跑		43	#9
 讓個人		79	#9
-讓傷心		472	#9
 讓價	niu kee	46
 讓全國		88	#9
 讓其	jIang ki	234
@@ -242972,90 +242189,38 @@ sort: by_weight
 讓受人	jIang siu lang	24
 讓受人	niu siu lang	24
 讓國	jIang kok	44
-讓國內		197	#9
-讓坐		522	#9
-讓大夥		70	#9
-讓大家		8641	#9
-讓女人		888	#9
-讓姐姐		55	#9
-讓媒體		80	#9
-讓孩子		6210	#9
-讓學校		175	#9
-讓學生		2909	#9
-讓客戶		1491	#9
-讓家長		546	#9
-讓市場		294	#9
+讓大家		8641
 讓座	niu zo	87
-讓很多		1282	#9
-讓您		1944	#9
-讓愛		818	#9
-讓我	niu gua	6598
-讓我來		856	#9
-讓我再		260	#9
-讓我去		1388	#9
-讓我回		47	#9
-讓我把		460	#9
-讓我死		34	#9
-讓我看看	
-讓我笑		68	#9
-讓我試		10	#9
-讓我走		97	#9
-讓所有		1162	#9
-讓政府		117	#9
-讓教育		64	#9
-讓日本		190	#9
-讓普通		159	#9
-讓機器		207	#9
-讓歌迷		30	#9
+讓很多		128
+讓您		194
+讓愛	jIang ai	818
+讓我	jIang gua	6598
+讓我	niu gua	659
+讓我來		85
+讓我再		260	
+讓我去		1388
+讓所有		116
+讓政府		117	
 讓步	niu poo	133
 讓汽車	niu qi cia	8
 讓渡	jIang too	53
-讓煙		428	#9
-讓父母		452	#9
-讓玩家		3229	#9
-讓現場		51	#9
 讓球	niu kiu	61
-讓生活		338	#9
-讓用戶		3856	#9
-讓着		217	#9
 讓給	jIang kip	89
-讓網絡		41	#9
-讓美國		484	#9
-讓老外		65	#9
-讓肌膚		60	#9
-讓胡路		590	#9
-讓胡路區	
-讓自己		19189	#9
-讓臺灣		38	#9
+讓自己	jIang zur ki	1918
 讓與	jIang ir	55
 讓與擔保	
 讓行	niu hing	7
-讓記者		50	#9
-讓讀者		2007	#9
-讓買家		176	#9
 讓賢	jIang hian	50
-讓起		364	#9
 讓起來	niu qi lai	29
 讓路	niu loo	74
-讓身材		22	#9
 讓車	niu cia	16
-讓農民		90	#9
-讓這		818	#9
-讓這些		1247	#9
-讓這個		1553	#9
-讓這種		336	#9
-讓遊戲		556	#9
+讓這	jIang zit	818
+讓這些		1247
+讓這個		1553
+讓這種		336
 讓道	niu toO	8
-讓那個		191	#9
-讓部分		113	#9
-讓醫院		53	#9
+讓那個		19
 讓開	niu qui	6140
-讓開來		258	#9
-讓開發		94	#9
-讓電腦		106	#9
-讓韓國		24	#9
-讓音樂		138	#9
-讓風吹		10	#9
 讕言		38
 讖書	cam sir	27
 讖緯	cerm ui	45
@@ -243068,21 +242233,18 @@ sort: by_weight
 讚一聲		43
 讚不絕口	zan put zuat keru
 讚佩		40
-讚兩句		250	#9
-讚口不		417	#9
 讚揚		131
 讚樂	zan gak	25
 讚歌	zan koO	74
 讚歎		119
 讚歎不已	zan than put i
-讚歎聲		484	#9
+讚歎聲		484
 讚美	zan bi	295
 讚美你		2
 讚美有加	zan bi iu ka
 讚美歌		39
 讚美聲	zan bi siann	2
 讚美詩		55
-讚羨		342	#9
 讚自己		43
 讚許	zan hir	84
 讚詞		44
@@ -243104,16 +242266,9 @@ sort: by_weight
 谷口	kok qau	57
 谷圍南亭	
 谷地	kok tere	59
-谷垣禎		40
-谷垣禎一	
 谷壁	kok pik	35
-谷壽夫		2
 谷峯		61
 谷底	kok tere	90
-谷建芬		4
-谷愛凌		108
-谷月涵		20
-谷村新司	
 谷歌三件套	
 谷歌地圖	
 谷歌地球	
@@ -243131,7 +242286,6 @@ sort: by_weight
 豁上	huat sIang	36
 豁上幹		10
 豁不出	
-豁亮		429	#9
 豁免		107
 豁免權		53
 豁出		62
@@ -243139,7 +242293,7 @@ sort: by_weight
 豁出去		79
 豁出命幹	
 豁口	huat qau	53
-豁嘴		373	#9
+豁嘴		373
 豁子	huat zur	50
 豁拳	huat kun	27
 豁朗		40
@@ -243154,12 +242308,9 @@ sort: by_weight
 豆丁	tau ting	8
 豆乳	tau jU	55
 豆乾	tau kuann	55
-豆佉		55	#9
 豆剖瓜分	
 豆包	tau pau	58
-豆在釜中泣	
-豆大		399	#9
-豆奶		597	#9
+豆奶		597
 豆姑娘		21
 豆娘	tau niu	43
 豆娘子		5
@@ -243239,7 +242390,6 @@ sort: by_weight
 豆豉醬		41
 豆豉魚	
 豆象	tau ciunn	34
-豆郵		62	#9
 豆醬	tau ziunn	49
 豆青	tau cenn	43
 豆類	tau lui	84
@@ -243252,7 +242402,6 @@ sort: by_weight
 豈不知		7
 豈不要		2
 豈但	qi tan	43
-豈只		403	#9
 豈可	qi qonn	57
 豈容		5
 豈敢	qi kam	53
@@ -243267,7 +242416,7 @@ sort: by_weight
 豈知	qi ti	71
 豈能		100
 豈非		58
-豉汁		40	#9
+豉汁		40
 豉油	syY iu	41
 豉蟲		18
 豌豆	uan tau	119
@@ -243323,7 +242472,6 @@ sort: by_weight
 豐厚	hong heru	222
 豐城劍氣	hong sing kiam qi
 豐城貫斗	hong sing quan teru
-豐壤		287	#9
 豐奢		15
 豐子愷		21
 豐富	hong hu	2984
@@ -243355,7 +242503,17 @@ sort: by_weight
 豐滿的		39
 豐澤園		4
 豐熟	hong siok	33
-豐熾		42	#9
+一股風		15
+放風聲	pang huang siann	335
+聽風		797
+被風		131
+這風	ze huang	50
+金融風暴	
+金融風波	
+金融風險	
+金風		620	
+風電場		67
+更豐富		223
 豐產		76
 豐產田	hong san can	30
 豐產田	hong san tian	30
@@ -243368,7 +242526,6 @@ sort: by_weight
 豐稔		40
 豐穰		32
 豐美	hong bi	55
-豐耗		183	#9
 豐胸	hong hing	110
 豐腴		58
 豐茂		50
@@ -243377,7 +242534,6 @@ sort: by_weight
 豐贍		38
 豐足		50
 豐鎬		43
-豐頰		363	#9
 豐饒		54
 豐饒之海	
 豔事	iam sur	50
@@ -245588,7 +244744,6 @@ sort: by_weight
 賊店		302	#9
 賊徒	zerk too	35
 賊心	zerk sim	54
-賊心不死	zerk sim put sur
 賊性	zerk sing	37
 賊星	cat cenn	37
 賊棒		48	#9
@@ -246000,7 +245155,6 @@ sort: by_weight
 賣關子		53
 賣關節		20
 賣面子	bere bin zur	33
-賣風流		240	#9
 賣魚	bere hIR	11
 賣鴨	bere ah	10
 賣點	bere tiam	430
@@ -247979,7 +247133,6 @@ sort: by_weight
 趙立新		30	#9
 趙聲	tiau sing	35
 趙莊		543	#9
-趙豐邦		283	#9
 趙越		44	#9
 趙趙	tiau x	1
 趙錢孫李	tiau zian sun li
@@ -249644,7 +248797,6 @@ sort: by_weight
 躲開		1087	#9
 躲難		34
 躲雨		565	#9
-躲風		406	#9
 躺上	thong ziunn	48
 躺上來		23
 躺上去		44
@@ -250551,7 +249703,6 @@ sort: by_weight
 軸流泵		47
 軸測圖		3
 軸率	tiu lut	16
-軸的		832	#9
 軸突		48
 軸突運輸	
 軸箱	tiok siunn	39
@@ -250587,16 +249738,12 @@ sort: by_weight
 較勁	kau king	86
 較厚	qah kau	57
 較去年		19
-較嚴		48	#9
-較場口		13	#9
 較多		747
 較多的		225
 較大	qah tua	830
-較大型		47	#9
 較大的	qah tua e	485
 較好	qah ho	343
 較好的		366
-較寬		264	#9
 較小	qah sio	355
 較小	qah zio	355
 較小的		146
@@ -250604,7 +249751,6 @@ sort: by_weight
 較少的		93
 較少見	qah zio ky	6
 較差	qah ca	196
-較差的		618	#9
 較常	qah sIang	44
 較廣	qah kuInn	48
 較弱	qah jIak	143
@@ -250613,41 +249759,34 @@ sort: by_weight
 較快	qah quai	180
 較慘死	qah cam si	10
 較慢	qah ban	90
-較慢的		125	#9
 較新	qah sin	60
-較新的		188	#9
-較於		584	#9
 較早	qah za	108
 較易	qah kere	69
 較晏	qah uann	10
 較晚	qah uann	77
 較暗	qah am	15
 較有	qah u	7
-較比		435	#9
 較淡	qah tam	6
 較深	qah cim	85
+較淺	qah qin	30
 較淺	qah ciam	30
 較濃	qah nLong	8
-較然		298	#9
 較熟	qah sik	42
 較爲	kau ui	1411
 較爲困難	
 較爲容易	
 較爲普遍	
 較爲重要	
-較略		299	#9
 較瘦	qah san	46
 較真	kau zin	157
 較短	qah tEr	114
-較矮		44	#9
+較矮	qah ere
 較硬	qah ngee	24
-較窄		278	#9
 較粗	qah coo	16
 較細	qah sere	21
 較緊	qah kin	48
 較緩	qah uan	10
 較老	qah lau	10
-較著		387	#9
 較薄	qah poh	55
 較複雜	qah hok zap	23
 較貴	qah kui	25
@@ -250677,7 +249816,6 @@ sort: by_weight
 載人飛船	
 載人飛行	
 載他		10
-載伯德		16
 載你	zai lIR	10
 載來		41
 載來載去	
@@ -250744,7 +249882,6 @@ sort: by_weight
 載重能力	
 載重車	
 載重量		53
-載量		45	#9
 載頻		48
 載體		389
 輓夫	ban hu	22
@@ -252768,7 +251905,6 @@ sort: by_weight
 迅速變成	
 迅速開展	
 迅雷		386
-迅風		439	#9
 迅馳		112
 迆邐		20
 迍邅		29
@@ -253825,7 +252961,6 @@ sort: by_weight
 送水	sang zui	86
 送洗	sang sere	40
 送溫暖		71
-送煙		43	#9
 送物資		2
 送玫瑰花	
 送的	sang e	284
@@ -254538,7 +253673,7 @@ sort: by_weight
 這不過是	ze put koO si
 這世人	zit si lang	398
 這世界	ze se kai	165
-這並		1337	#9
+這並		133
 這並不是	ze ping put si
 這並非	ze ping hui	65
 這个	zit gEe	9000
@@ -255149,7 +254284,6 @@ sort: by_weight
 這顆		2635	#9
 這題	zit tere	206
 這類	zit lui	13753
-這風		50	#9
 這首	zit siu	656
 這首歌		1574
 這首歌曲	
@@ -259681,7 +258815,6 @@ sort: by_weight
 邂逅		124
 邂逅相遇	
 邃古		29
-邃宇		24
 邃密	sui bit	33
 邃戶		5
 還一度		21
@@ -259689,10 +258822,7 @@ sort: by_weight
 還上來		38
 還上去		38
 還上班	
-還下		590	#9
-還下來		354	#9
 還下到		28
-還下去		342	#9
 還不	hai put	655
 還不一定	
 還不來		6
@@ -259708,7 +258838,6 @@ sort: by_weight
 還不吃		2
 還不回	
 還不困	
-還不在		508	#9
 還不多		22
 還不夠		513
 還不夠用	
@@ -259722,7 +258851,6 @@ sort: by_weight
 還不帶		7
 還不得		31
 還不急	
-還不成		22	#9
 還不收		2
 還不改	
 還不是	hai put si	666
@@ -259760,12 +258888,11 @@ sort: by_weight
 還不高		17
 還予	haInn hoo	331
 還人	haInn lang	10
-還他媽		131	#9
+還他媽		131
 還以	hai i	89
 還以爲		211
 還以爲是	
 還低	hai te	80
-還住在		84	#9
 還你	haInn lIR	75
 還你自由	
 還來	hai lai	92
@@ -259773,11 +258900,10 @@ sort: by_weight
 還來到		46
 還依舊		8
 還俗	huan siok	53
-還信		40	#9
+還信	hai sin	40
 還信用卡	
 還修	hai siu	45
-還倒		494	#9
-還借		47	#9
+還借	hai zioh	47
 還值	hai tat	46
 還做	hai zo	25
 還做	hai zue	25
@@ -259793,11 +258919,9 @@ sort: by_weight
 還出去		47
 還分	hai pun	46
 還到	hai kau	59
-還剛		488	#9
 還剩	hai cun	219
 還剩	hai sing	219
 還剩下		76
-還加		597	#9
 還包括		371
 還占		50
 還占	hai ziam	50
@@ -259809,7 +258933,6 @@ sort: by_weight
 還原成	huan guan ziann	54
 還原染料	
 還原法	huan guan huap	49
-還原熔煉		#9
 還原糖	huan guan thng	5
 還原酶		4
 還原點	
@@ -259824,14 +258947,13 @@ sort: by_weight
 還叫	hai kio	95
 還叫我		6
 還可	hai qonn	194
-還可以		4090
+還可以	hai qonn i	4090
 還可以像	
 還可以吧	
 還可以啊	
 還可以在	
 還可以將	
 還可以跟	
-還可在		541	#9
 還可用於	
 還可能		219
 還可與	
@@ -259865,7 +258987,6 @@ sort: by_weight
 還在睡覺	
 還在繼續	
 還在觀望	
-還在這裏		#9
 還在開會	
 還報	huan po	49
 還多	hai toO	227
@@ -259873,16 +258994,12 @@ sort: by_weight
 還夠	haInn kau	52
 還夠	hai kau	52
 還夠用		38
-還大	hai tua	1
-還天天		432	#9
+還大	hai tua
 還太	hai thai	60
-還太小		85	#9
-還夾雜着		#9
 還套	hai tho	45
 還好	hai ho	1366
 還好不是	
 還好吧		31
-還好在		511	#9
 還好我		65
 還好是		54
 還好用		8
@@ -259894,14 +259011,11 @@ sort: by_weight
 還完	haInn uan	54
 還容易		99
 還寫	hai sia	14
-還封		427	#9
 還射	hai sia	37
 還將	hai zIang	335
-還將在		36	#9
-還將推出		#9
 還將會		3
 還將有		2
-還將繼續		#9
+還將繼續	
 還對	hai tui	121
 還小	hai siau	106
 還少	hai zio	86
@@ -259910,16 +259024,8 @@ sort: by_weight
 還差得遠	
 還差這	
 還師	huan sur	38
-還席		292	#9
-還帳		427	#9
-還帶		1241	#9
-還帶着		888	#9
-還常		561	#9
-還常常		587	#9
 還幫	hai pang	25
-還平		366	#9
 還年輕		63
-還幹不幹		#9
 還建議		18
 還強	hai kIang	32
 還彈	hai tuann	41
@@ -259932,7 +259038,6 @@ sort: by_weight
 還從	hai ziong	61
 還必須		113
 還必須要	
-還忙		46	#9
 還快	hai quai	78
 還怎麼		89
 還怕	hai phann	96
@@ -259948,7 +259053,6 @@ sort: by_weight
 還慢	hai ban	13
 還應	hai ing	118
 還應該		86
-還成		139	#9
 還我	haInn gua	65
 還戴	hai ti	54
 還手	huan ciu	82
@@ -259969,18 +259073,14 @@ sort: by_weight
 還排	hai pai	48
 還掛着		17
 還採	hai cai	36
-還接		49	#9
 還提	hai the	53
 還提供		81
-還搖		420	#9
 還搞	hai kau	28
 還撕	hai si	35
 還擊	huan kik	78
 還收	hai siu	56
 還放	hai pang	60
-還放在		51	#9
-還放着		112	#9
-還政		429	#9
+還政	huan zing	429
 還政於民	huan zing ir bin
 還教	hai ka	56
 還敢	hai kann	115
@@ -260024,13 +259124,12 @@ sort: by_weight
 還是那樣	
 還是難以	
 還是非常	
-還晚		43	#9
+還晚	hai uan	43
 還書	haInn sZir	52
 還曾	hai zerng	74
 還替	hai there	50
 還會	hai eRe	3315
 還會	hai hue	3315
-還會在		688	#9
 還會增加	
 還會是		58
 還會有		472
@@ -260038,13 +259137,8 @@ sort: by_weight
 還會說		22
 還有	hai iu	23507
 還有	hai u	23507
-還有一位		#9
 還有一個	
-還有一本		#9
-還有一條		#9
 還有一次	
-還有一款		#9
-還有一篇		#9
 還有一部分	
 還有一點	
 還有不少	
@@ -260052,26 +259146,21 @@ sort: by_weight
 還有些人	
 還有人		634
 還有你		48
-還有個		7052	#9
 還有其他人	
 還有哪些	
 還有啊		29
 還有啥		71
-還有多遠		#9
 還有希望	
 還有待		67
 還有很多	
-還有得		102	#9
 還有我		78
 還有所		9
 還有效		4
 還有救		52
 還有沒有	
 還有無	
-還有的人		#9
 還有着		78
 還有票	
-還有種		238	#9
 還有說		65
 還有誰		92
 還有辦法	
@@ -260079,16 +259168,13 @@ sort: by_weight
 還有這種	
 還有過		19
 還有風	
-還有魚		13	#9
 還有點		261
 還望	huan bong	80
-還木有		49	#9
-還未		4101	#9
-還未到		140	#9
-還未完成		#9
-還未得到		#9
-還未有		68	#9
-還未能		70	#9
+還未	hai bi	4101
+還未完成	
+還未得到	
+還未有		68
+還未能		70
 還本	haInn pun	57
 還本付息	
 還欠	hai qiam	35
@@ -260098,57 +259184,27 @@ sort: by_weight
 還正常		9
 還比較		166
 還比較多	
-還沒	iau ber	1%
-還沒上班		#9
-還沒下來		#9
-還沒來		269	#9
-還沒做		129	#9
-還沒做完		#9
-還沒停		46	#9
-還沒到貨		#9
-還沒吃飯		#9
-還沒回		22	#9
-還沒回來		#9
-還沒在		499	#9
-還沒好		222	#9
-還沒完		456	#9
-還沒完成		#9
-還沒定		62	#9
-還沒寫完		#9
-還沒我		107	#9
-還沒找		23	#9
-還沒找到		#9
-還沒提		48	#9
-還沒換		16	#9
-還沒時間		#9
-還沒有		24054	#9
-還沒有人		#9
-還沒有完		#9
-還沒死		299	#9
-還沒法		203	#9
-還沒消息		#9
-還沒用		99	#9
-還沒發現		#9
-還沒睡		70	#9
-還沒等		660	#9
-還沒簽		17	#9
-還沒結婚		#9
-還沒結束		#9
-還沒給		62	#9
-還沒被		311	#9
-還沒試		23	#9
-還沒說完		#9
-還沒談		12	#9
-還沒講		22	#9
-還沒買		136	#9
-還沒賣		19	#9
-還沒辦		22	#9
-還沒錢		44	#9
-還沒開		144	#9
-還沒開口		#9
-還沒開始		#9
-還沒開學		#9
-還沒點		78	#9
+還沒上班	
+還沒下來	
+還沒來		269
+還沒做		129
+還沒做完	
+還沒停	
+還沒吃飯	
+還沒回	
+還沒回來	
+還沒在	
+還沒好	
+還沒完	
+還沒完成	
+還沒定	
+還沒寫完	
+還沒有		24054
+還沒有人	
+還沒有完	
+還沒死	
+還沒法	
+還沒用		99
 還洗	hai sere	45
 還派	hai phai	50
 還涉及		35
@@ -260176,11 +259232,8 @@ sort: by_weight
 還用	hai iOng	193
 還用不用	
 還用問		11
-還用在		401	#9
-還用得着		#9
 還用於		48
 還用說		51
-還田		54	#9
 還由	hai iu	48
 還留着		31
 還當	hai tong	13
@@ -260197,7 +259250,6 @@ sort: by_weight
 還真是		263
 還真有		85
 還真難		50
-還着		349	#9
 還睡	hai sui	55
 還睡到		31
 還知道		64
@@ -260219,10 +259271,6 @@ sort: by_weight
 還累		166	#9
 還給	haInn kip	10
 還給	huan kip	10
-還給他		461	#9
-還給你		628	#9
-還給到		164	#9
-還給我		1037	#9
 還經常		1921
 還缺	hai quat	24
 還缺一個	
@@ -260242,16 +259290,10 @@ sort: by_weight
 還能用		83
 還能說		17
 還能買		14
-還能這樣		#9
-還自		562	#9
 還與	huan ir	65
 還花唄		3
 還苦	hai qoo	46
 還藏着		11
-還處在		660	#9
-還蠻		2111	#9
-還蠻不錯		#9
-還蠻喜歡		#9
 還行	hai hing	575
 還行吧		49
 還行得通	
@@ -260259,7 +259301,6 @@ sort: by_weight
 還被	hai pi	372
 還被我		4
 還裝	hai zng	8
-還裝逼		14	#9
 還要	hai berh	5426
 還要	hai iau	130
 還要來		14
@@ -260270,12 +259311,10 @@ sort: by_weight
 還要去		88
 還要吃		12
 還要啥		7
-還要在		620	#9
 還要多		98
 還要大		51
 還要好		39
 還要學		21
-還要小		143	#9
 還要帥	
 還要慘		4
 還要把		47
@@ -260295,7 +259334,6 @@ sort: by_weight
 還認得	
 還認爲		42
 還說	hai serh	427
-還說在		439	#9
 還說我		30
 還說是		55
 還說有		48
@@ -260305,14 +259343,10 @@ sort: by_weight
 還請	hai ciann	189
 還講	hai kOang	55
 還變	hai pian	47
-還讓		1037	#9
-還讓你		142	#9
-還讓出		275	#9
-還讓到		151	#9
+還讓	hai jIang	103
 還貴	iau kui	70
 還買	iau bere	17
 還貸	haInn tai	110
-還賜		394	#9
 還賣	hai bere	23
 還賬	haInn tIang	45
 還贏	hai iann	46
@@ -260328,7 +259362,6 @@ sort: by_weight
 還載	hai zai	40
 還辟	huan phik	37
 還送	hai sang	61
-還通		428	#9
 還進去		3
 還遇到		11
 還過	haInn ker	60
@@ -264648,447 +263681,413 @@ sort: by_weight
 金屬離子	
 金屬電極	
 金山公司	
-金山衛		10	#9
-金嶽霖		132	#9
-金工		844	#9
-金巴利		16	#9
-金市		45	#9
-金布道		25	#9
 金帳汗	kim tiong han	41
-金幣		3089	#9
-金店		592	#9
+金幣		3089
+金店		592
 金庫		84
-金彈		376	#9
-金彭貝		21	#9
-金成		597	#9
-金戒		390	#9
-金戒指		539	#9
-金扁擔		17	#9
-金手套		24	#9
-金手指		854	#9
-金手鐲		33	#9
-金援		465	#9
-金文		849	#9
-金斗		551	#9
-金明		601	#9
+金彈		376
+金戒		390
+金戒指		539
+金扁擔		17
+金手套		24
+金手指		854
+金手鐲		33
+金援		465
+金文		849
+金斗		551
+金明		601
 金星	kim cenn	279
-金星人		423	#9
-金晃晃		352	#9
-金晟		394	#9
-金晨		97	#9
+金星人		423
 金曜日		38
 金曲		92
-金曲榜		26	#9
-金曲獎		1167	#9
-金朝		367	#9
-金木		59	#9
-金本位		1060	#9
-金杯		1227	#9
-金枝		65	#9
+金曲榜		26
+金曲獎		1167
+金朝		367
+金木		59
+金本位		1060
+金枝		65
 金枝玉葉	
-金柑		414	#9
-金桂		138	#9
-金桂冠		396	#9
+金柑		414
+金桂		138
+金桂冠		396
 金桔		53
 金條		87
-金棕櫚		113	#9
-金棗		396	#9
+金棕櫚		113
+金棗		396
 金榜	kim png	65
 金榜題名	kim png tere mia
-金槍		102	#9
-金槍魚		678	#9
-金樽		540	#9
-金橋		1020	#9
-金橘		522	#9
-金櫃		495	#9
-金正		80	#9
+金槍		102
+金槍魚		678
+金樽		540
+金橋		1020
+金橘		522
+金櫃		495
 金殿	kim tian	56
-金毛		925	#9
-金毛犬		14	#9
-金毛狗		464	#9
-金水橋		12	#9
-金沙		998	#9
-金泉		625	#9
-金波		592	#9
-金湯		522	#9
-金源		788	#9
-金滷		549	#9
-金漆		505	#9
-金烏		585	#9
-金熊獎		482	#9
-金熊貓		23	#9
-金燦燦		598	#9
-金爵獎		11	#9
+金毛		925
+金毛犬		14
+金毛狗		464
+金水橋		12
+金沙		998
+金泉		625
+金波		592
+金湯		522
+金源		788
+金滷		549
+金漆		505
+金烏		585
+金熊獎		482
+金熊貓		23
+金燦燦		598
+金爵獎		11
 金牌		415
-金牌數		224	#9
-金牌榜		584	#9
-金牌獎		455	#9
-金牙		505	#9
+金牌數		224
+金牌榜		584
+金牌獎		455
+金牙		505
 金牛座	kim gu zo	95
-金牛獎		138	#9
-金獅		104	#9
-金獅獎		521	#9
-金獎		986	#9
-金玉		784	#9
-金珠		573	#9
-金球		1176	#9
-金球獎		1760	#9
-金環		72	#9
-金環蛇		19	#9
+金牛獎		138
+金獅		104
+金獅獎		521
+金獎		986
+金玉		784
+金珠		573
+金球		1176
+金球獎		1760
+金環		72
+金環蛇		19
 金瓜	kim kuee	51
-金瓜石		366	#9
-金瓶		149	#9
-金瓶梅		830	#9
-金甌		506	#9
+金瓜石		366
+金瓶		149
+金瓶梅		830
+金甌		506
 金田起義	
-金甲		614	#9
-金甲蟲		466	#9
-金瘡		478	#9
-金瘡藥		438	#9
+金甲		614
+金甲蟲		466
+金瘡		478
+金瘡藥		438
 金的	kim e	115
-金皮		45	#9
-金盃		1227	#9
+金皮		45
+金盃		1227
 金盆洗手	kim phun sere ciu
-金盞		632	#9
-金盞花		86	#9
-金盞草		386	#9
-金盤		89	#9
-金目鱸		206	#9
-金相		621	#9
-金相學		336	#9
-金相玉式		#9
-金相玉質		#9
-金盾		67	#9
-金盾工程		#9
-金石		849	#9
-金石不渝		#9
-金石之盟		#9
-金石之言		#9
-金石交		305	#9
-金石例		184	#9
-金石可鏤		#9
-金石學		420	#9
-金石文		289	#9
-金石爲開		#9
-金石絲竹		#9
-金石至交		#9
-金石良言		#9
-金石萃編		#9
-金石錄		431	#9
-金砂		545	#9
-金碧		386	#9
-金碧山水		#9
-金碧熒煌		#9
-金碧輝煌		#9
-金磚		630	#9
-金磚四國		#9
-金磚國家		#9
+金盞		632
+金盞花		86
+金盞草		386
+金盤		89
+金目鱸		206
+金相		621
+金相學		336
+金相玉式	
+金相玉質	
+金盾		67
+金盾工程	
+金石		849
+金石不渝	
+金石之盟	
+金石之言	
+金石交		305
+金石可鏤	
+金石學		420
+金石文		289
+金石爲開	
+金石良言	
+金石萃編	
+金石錄		431
+金砂		545
+金碧輝煌	
+金磚		630
+金磚四國	
+金磚國家	
 金礦		107
-金礦石		17	#9
-金福		92	#9
-金秋		960	#9
+金礦石		17
+金福		92
+金秋		960
 金科玉律	kim qo giak lut
-金稅四期		#9
-金稅工程		#9
-金種子		12	#9
-金穗獎		313	#9
-金童		395	#9
-金童獎		29	#9
-金童玉女		#9
-金筆		536	#9
-金箍		488	#9
-金箍棒		583	#9
+金稅	
+金稅工程	
+金種子		12
+金穗獎		313
+金童		395
+金童獎		29
+金童玉女	
+金筆		536
+金箍		488
+金箍棒		583
 金箔	kim poh	60
-金箔紙		476	#9
-金範		566	#9
+金箔紙		476
+金範		566
 金粉		61
 金粉世家	kim hun se ka
-金粉樓臺		#9
-金精		471	#9
-金紅		550	#9
-金紅石		539	#9
-金絲		827	#9
-金絲桃		496	#9
-金絲燕		460	#9
+金紅	kim ang	550
+金紅石	kim ang zioh	539	
+金絲	kim si	827
+金絲桃		496	
+金絲燕		460
 金絲猴	kim si kau	57
-金絲猿		188	#9
-金絲絨		419	#9
-金絲貓		378	#9
-金絲雀		542	#9
+金絲猿		188
+金絲絨		419
+金絲貓		378
+金絲雀		542
 金絲鳥	kim si ziau	45
-金維他		25	#9
-金線		180	#9
-金線蟲		233	#9
-金縷玉衣		#9
-金縷衣	kim lU giok i		479	#9
+金維他		25
+金線		180
+金線蟲		233
+金縷玉衣	
+金縷衣	kim lU giok i		479
 金縷衣	kim lU i	479 
-金翅		566	#9
-金翅擘海		#9
-金翅雀		372	#9
-金翠蓮		10	#9
-金耳朵		38	#9
-金聲		518	#9
-金聲玉振		#9
-金腰帶		336	#9
-金腿		390	#9
-金舌弊口		#9
+金翅		566
+金翅擘海	
+金翅雀		372
+金翠蓮		10
+金耳朵		38
+金聲		518
+金聲玉振	kim sing giok zin
+金腰帶		336
+金腿		390
+金舌弊口	
 金色		286
-金色平原		#9
-金色年華		#9
-金色陽光		#9
-金色頭髮		#9
-金色飛賊		#9
+金色平原	
+金色年華	
+金色陽光	
+金色頭髮	
+金色飛賊	
 金花	kim huee	98
-金花茶		491	#9
-金花菜		387	#9
-金花蟲		304	#9
-金英權		52	#9
-金茂		740	#9
-金茂大廈		#9
-金莎		771	#9
-金菇		442	#9
-金華火腿		#9
-金萬福		306	#9
-金葉		617	#9
-金葉子		15	#9
-金葵花		29	#9
-金蓮		788	#9
-金蓮步		229	#9
-金蓮花		527	#9
-金蘋果		225	#9
-金蘭		619	#9
-金蘭灣		422	#9
-金蘭譜		310	#9
-金蛇		544	#9
-金蛇狂舞		#9
-金蛋		593	#9
-金蝶		1023	#9
+金花茶		491
+金花菜		387
+金花蟲		304
+金茂		740
+金茂大廈	
+金菇		442
+金華火腿	
+金葉		617
+金葉子		15
+金葵花		29
+金蓮		788
+金蓮步		229
+金蓮花		527
+金蘋果		225
+金蘭		619
+金蘭灣		422
+金蘭譜		310
+金蛇		544
+金蛇狂舞	
+金蛋		593
+金蝶		1023
 金融		3798
-金融中心		#9
-金融交易		#9
-金融人才		#9
-金融企業		#9
-金融保險		#9
-金融信息		#9
-金融信用		#9
-金融債券		#9
-金融公司		#9
-金融分析		#9
-金融制度		#9
-金融制裁		#9
-金融創新		#9
-金融區		520	#9
-金融卡		414	#9
-金融危機		#9
-金融史		136	#9
-金融城		123	#9
+金融中心	
+金融交易	
+金融人才	
+金融企業	
+金融保險	
+金融信息	
+金融信用	
+金融債券	
+金融公司	
+金融分析	
+金融制度	
+金融制裁	
+金融創新	
+金融區		520
+金融卡		414
+金融危機	
+金融史		136
+金融城		123
 金融學	kim iong hak	389
 金融學家	kim iong hak ka
-金融學院		#9
-金融安全		#9
+金融學院	
+金融安全	
 金融家	kim iong kaE	59
-金融寡頭		#9
-金融專家		#9
-金融專業		#9
-金融專碩		#9
-金融工具		#9
-金融工程		#9
-金融巨頭		#9
+金融寡頭	
+金融專家	
+金融專業	
+金融專碩	
+金融工具	
+金融工程	
+金融巨頭	
 金融市場	
-金融形勢		#9
-金融性		46	#9
-金融恐慌		#9
-金融投機		#9
-金融投資		#9
-金融支持		#9
-金融改革		#9
-金融政策		#9
-金融時報		#9
-金融服務		#9
-金融期貨		#9
-金融板塊		#9
-金融業		1944	#9
-金融業務		#9
-金融槓桿		#9
-金融機構		#9
-金融機關		#9
-金融法		87	#9
-金融法規		#9
-金融產品		#9
-金融界		1062	#9
-金融發展		#9
-金融監管		#9
-金融知識		#9
-金融票證		#9
-金融秩序		#9
-金融穩定		#9
-金融管制		#9
-金融管理		#9
-金融系		224	#9
-金融系統		#9
-金融網絡		#9
-金融股		805	#9
-金融行業		#9
-金融街		876	#9
-金融計算		#9
-金融詐騙		#9
-金融證券		#9
-金融貿易		#9
-金融資本		#9
-金融資產		#9
-金融赤字		#9
-金融軟件		#9
-金融辦		85	#9
-金融部		42	#9
-金融集團		#9
-金融領域		#9
-金融風暴		#9
-金融風波		#9
-金融風險		#9
-金融體制		#9
-金融體系		#9
-金蟬		608	#9
+金融形勢	
+金融性		46
+金融恐慌	
+金融投機	
+金融投資	
+金融支持	
+金融改革	
+金融政策	
+金融時報	
+金融服務	
+金融期貨	
+金融板塊	
+金融業		1944
+金融業務	
+金融槓桿	
+金融機構	
+金融機關	
+金融法		87
+金融法規	
+金融產品	
+金融界		1062
+金融發展	
+金融監管	
+金融知識	
+金融票證	
+金融秩序	
+金融穩定	
+金融管制	
+金融管理	
+金融系		224
+金融系統	
+金融網絡	
+金融股		805
+金融行業	
+金融街		876
+金融計算	
+金融詐騙	
+金融證券	
+金融貿易	
+金融資本	
+金融資產	
+金融赤字	
+金融軟件	
+金融辦		85
+金融部		42
+金融集團	
+金融領域	
+金融體制	
+金融體系	
+金蟬		608
 金蟬脫殼	kim siam thuat qak
-金蟲		432	#9
-金蟾		537	#9
-金衡		431	#9
-金衡制		312	#9
-金衣玉食		#9
-金袍		437	#9
-金裝		636	#9
-金角		43	#9
-金角灣		382	#9
-金言		492	#9
-金谷		582	#9
-金谷園		503	#9
-金谷墮樓		#9
-金谷酒數		#9
-金豆		54	#9
-金貴		612	#9
-金質		570	#9
-金質獎		449	#9
-金質獎章		#9
+金蟲		432
+金蟾		537
+金衡		431
+金衡制		312
+金衣玉食	
+金袍		437
+金裝		636
+金角		43
+金角灣		382
+金言		492
+金谷		582
+金谷園		503
+金谷墮樓	
+金谷酒數	
+金豆		54
+金貴		612
+金質		570
+金質獎		449
+金質獎章	
 金身		62
-金身羅漢		#9
-金車		483	#9
-金軍		368	#9
-金輪		377	#9
-金迷紙醉		#9
+金身羅漢	
+金車		483
+金軍		368
+金輪		377
+金迷紙醉	
 金邊	kim pian	73
-金邊眼鏡		#9
+金邊眼鏡	
 金都		65
-金酒		560	#9
-金針		644	#9
-金針度人		#9
-金針花		391	#9
-金針菇		606	#9
-金針菜		489	#9
-金釧		481	#9
+金酒		560
+金針		644
+金針度人	
+金針花		391
+金針菇		606
+金針菜		489
+金釧		481
 金釵		58
-金釵十二		#9
-金鈴		545	#9
-金鈴子		417	#9
-金鈿		391	#9
-金鉢		438	#9
-金鉤		342	#9
+金鈴		545
+金鈴子		417
+金鈿		391
+金鉢		438
+金鉤		342
 金銀		189
-金銀器		45	#9
-金銀塊		180	#9
-金銀島		552	#9
-金銀幣		129	#9
-金銀牌		87	#9
-金銀珠寶		#9
-金銀箔		421	#9
-金銀花		761	#9
-金銀財寶		#9
-金銀銅		89	#9
-金鋒		523	#9
-金鋼		590	#9
-金錠		96	#9
+金銀器		45
+金銀塊		180
+金銀島		552
+金銀幣		129
+金銀牌		87
+金銀珠寶	
+金銀箔		421
+金銀花		761
+金銀財寶	
+金銀銅		89
+金鋒		523
+金鋼		590
+金錠		96
 金錢		902
-金錶		530	#9
-金鍊		516	#9
+金錶		530
+金鍊		516
 金鍊仔	kim lian a
-金鎊		327	#9
-金鎖		374	#9
-金鏡		424	#9
+金鎊		327
+金鎖		374
+金鏡		424
 金鏤玉衣	kim leru giok i
-金鐘		805	#9
-金鐲		384	#9
-金鑫		761	#9
-金鑰		420	#9
-金鑼		496	#9
-金鑽		68	#9
+金鐘		805
+金鐲		384
+金鑫		761
+金鑰		420
+金鑼		496
+金鑽		68
 金鑾		2
-金雕		64	#9
-金雞		789	#9
-金面		480	#9
-金靴		523	#9
-金領		618	#9
+金雕		64
+金雞		789
+金面		480
+金靴		523
+金領		618
 金額	kim giah	1194
-金風		620	#9
 金風玉露	
-金風科技		#9
-金飯碗		533	#9
-金飾		593	#9
-金飾品		28	#9
-金首飾		79	#9
-金馬		920	#9
-金馬克		318	#9
-金馬地區		#9
-金馬獎		889	#9
-金駿眉		121	#9
-金髮		1117	#9
-金髮女		17	#9
-金髮女子		#9
-金髮女郎		#9
-金髮碧眼		#9
-金髮科技		#9
-金髮美女		#9
+金飯碗		533
+金飾		593
+金飾品		28
+金首飾		79
+金馬		920
+金馬克		318
+金馬地區	kim bee tere qU
+金馬獎		889
+金駿眉	kim zun bi	121
+金髮		1117
+金髮女		17
+金髮女子	
+金髮女郎	
+金髮碧眼	
+金髮科技	
+金髮美女	
 金魚		1104 
-金魚佬		429	#9
-金魚池		492	#9
-金魚缸		491	#9
-金魚草		19	#9
-金魚藻		369	#9
-金鰲玉蝀		#9
+金魚佬		429
+金魚池		492
+金魚缸		491
+金魚草		19
+金魚藻		369
+金鰲玉蝀	
 金鱗	kim lin	3
 金鳳		75
-金鳳凰		41	#9
-金鳳花		395	#9
+金鳳凰		41
+金鳳花		395
 金鵬		824
 金鷹		904
-金鷹獎		61	#9
+金鷹獎		61
 金黃	kim uInn	110
 金黃色	kim uInn sik	101
-金黃藻		135	#9
-金點子		575	#9
-金黴素		504	#9
-金鼎獎		444	#9
-金鼓雷鳴		#9
-金鼓齊鳴		#9
+金黃藻		135
+金點子		575
+金黴素		504
+金鼎獎		444
+金鼓雷鳴	
+金鼓齊鳴	
 金龍		1063
-金龍隊		197	#9
-金龍魚		132	#9
+金龍隊		197
+金龍魚		132
 金龜	kim ku	60
-金龜婿		548	#9
-金龜子		526	#9
-金龜車		436	#9
+金龜婿		548
+金龜子		526
+金龜車		436
 釔元素		60
 釕元素		90
 釘上	tan ziunn	51
 釘上來		6
 釘上去		34
-釘下		428	#9
-釘下來		121	#9
 釘下去		10
-釘人		355	#9
+釘人		355
 釘住	ting zu	50
-釘來釘去		#9
 釘入	ting jip	44
 釘到	ting kau	41
 釘合	ting hap	34
-釘問		117	#9
 釘在	ting tDeh	71
 釘好	ting ho	40
 釘子	ting zur	133
@@ -265116,11 +264115,9 @@ sort: by_weight
 釘過來		12
 釘過去		12
 釘釘	ting x	100
-釘釘上		26	#9
 釘釘子		7
 釘釦	ting qau	44
 釘釦	ting qeru	44
-釘鈀		380	#9
 釘鈕釦		36
 釘錘	ting tui	45
 釘鞋	ting ere	55
@@ -265173,11 +264170,9 @@ sort: by_weight
 針盤	ziAm puann	39
 針眼	ziAm ngaI	56
 針眼子		13
-針砭		49	#9
 針砭時弊	zerm pian si pe
 針神	ziAm sin	36
 針筆	ziAm pit	33
-針筆匠		75	#9
 針筒	ziAm tang	54
 針箍	ziAm qoo	24
 針管	ziAm kuInn	54
@@ -265205,7 +264200,6 @@ sort: by_weight
 針釦	ziAm qeru	48
 針鋒	zerm hong	63
 針鋒相對	zerm hong sIang tui
-針鋒相投		#9
 針頭	ziAm thau	76
 針頭線腦	
 針骨	ziAm kut	30
@@ -265219,7 +264213,6 @@ sort: by_weight
 釣具	tio kU	57
 釣具店		35
 釣到	tio kau	61
-釣勾		251	#9
 釣去	tio qIR	30
 釣友	tio iu	38
 釣名沽譽	
@@ -266789,7 +265782,7 @@ sort: by_weight
 錯失	co sit	107
 錯失良機	
 錯字		846	#9
-錯字coO ji	84
+錯字	coO ji	84
 錯字連篇	
 錯峯	coO hong	16
 錯峯出行	
@@ -268315,7 +267308,6 @@ sort: by_weight
 長杆		206	#9
 長板	tng pan	49
 長板凳	tng pan terng	42
-長林豐草		#9
 長柄	tng penn	56
 長柄勺子	
 長柄大鐮刀	
@@ -273061,7 +272053,6 @@ sort: by_weight
 隱睾	un ko	54
 隱瞞	un buan	249
 隱瞞	un mua	249
-隱瞞不住	un mua put zu
 隱瞞不報	
 隱瞞之事	
 隱瞞事實	
@@ -274188,6 +273179,7 @@ sort: by_weight
 雙鏈	siAng lian	51
 雙鏈核酸	
 雙門	siAng muI	18
+雙閃	siAng siam	14
 雙閃	siAng syh	14
 雙開	siAng kui	97
 雙開門	siAng kui muI	380
@@ -275308,7 +274300,6 @@ sort: by_weight
 雲靄		407	#9
 雲頂	hun ting	609 
 雲頭		516	#9
-雲風		109	#9
 雲髻		482	#9
 雲鬚	un sU	268 
 雲鬟		431	#9
@@ -276836,7 +275827,6 @@ sort: by_weight
 露韓		429	#9
 露頭	loo thau	63
 露頭角		61
-露風		361	#9
 露餡	loo ham	71
 露馬腳	loo ma kIak	48
 露骨		75
@@ -276929,7 +275919,7 @@ sort: by_weight
 靈座		30
 靈快		338	#9
 靈性		1228	#9
-靈性ling sing		122
+靈性	ling sing		122
 靈怪		432	#9
 靈恩		44
 靈恩派		37
@@ -279521,10 +278511,7 @@ sort: by_weight
 順耳		52
 順腳	sun qa	39
 順藤摸瓜	
-順行	sun kiann	49
-順訪		39
-順話尾	sun uee ber	10
-順豐		152
+順豐		1520
 順豐快遞	
 順起來		34
 順路		97
@@ -279539,7 +278526,6 @@ sort: by_weight
 順道來		38
 順道去		47
 順適		36
-順鉑		95	#9
 順鐘向		26
 順順	sun x	4
 順順利利	
@@ -279552,12 +278538,11 @@ sort: by_weight
 順風順水	sun hong sun zui
 順風順水	sun huang sun sui
 順飛	sun hui
-順馳		824	#9
 須不是		29
-須先		46	#9
-須向		43	#9
+須先		46
+須向		43
 須在	sU zai	74
-須將		42	#9
+須將		42
 須彌		59
 須彌座		47
 須待		46
@@ -279570,7 +278555,7 @@ sort: by_weight
 須根據		45
 須然		42
 須用	sU iong	55
-須由		42	#9
+須由		42
 須留	sU liu	43
 須當	sU tong
 須發展		26
@@ -281097,8 +280082,6 @@ sort: by_weight
 風之	hong zi	88
 風之子		4
 風之戀	
-風乍起		40	#9
-風也溫柔		#9
 風乾	hong kan	80
 風乾機	hong kan ki	388 
 風乾牛肉	hong kan gu bah
@@ -281169,7 +280152,6 @@ sort: by_weight
 風吹草動	hong cer cau tang
 風吹草動	hong cui coO tong
 風吹草動	huang cer cau tang
-風吹起		79	#9
 風吹過		81
 風吹雨打	
 風吹雨淋	
@@ -281345,7 +280327,6 @@ sort: by_weight
 風滿樓	hong buan leru	1
 風潮	hong tiau	120
 風潮	huang tiau	120
-風潮中		38	#9
 風激電飛	hong kik tian hui 
 風激電駭	hong kik tian hai 
 風濤	hong toO	2
@@ -281459,7 +280440,6 @@ sort: by_weight
 風險	hong hiam	5342
 風險也大	
 風險估計	
-風險低		389	#9
 風險係數	
 風險保證金	
 風險分擔	
@@ -281534,14 +280514,12 @@ sort: by_weight
 風雲變幻	
 風雲變態	
 風雲變色	
-風雲車		406	#9
 風雲錄		5
 風雲開闔	
 風雲際會	hong un ze hue
 風雲雄霸天下	
 風雷	hong lui	77
 風電	hong tian	193
-風電場		67	#9
 風霜	hong song	84
 風霜雨雪	hong song U suat
 風霾	hong bai
@@ -281560,10 +280538,8 @@ sort: by_weight
 風風雨雨	hong x U x
 風颱	hong thai	87
 風颱	huang thai	87
-風颳		555	#9
 風飛水走	hong per zui zau
 風餐露宿	
-風馬不接	hong ma put ziap
 風馬牛	hong ma giu	559 
 風馬雲車	hong ma un cia
 風馳雨驟	hong ti u zOo
@@ -282022,9 +280998,7 @@ sort: by_weight
 飛龍橋	
 食不下咽	sik put haE ian
 食不充飢	sik put ciong ki
-食不厭精	sik put iam zing
 食不果腹	sik put koO hok
-食不甘味	sik put kam bi
 食不知味	sik put ti bi
 食不言	sik put gian	100
 食不言，寢不語	sik put gian
@@ -283445,8 +282419,6 @@ sort: by_weight
 馬上去	ma sIang qIR	62
 馬上回來	ma sIang hue lai
 馬上說	ma sIang serh	122 
-馬不停蹄	ma put ting te
-馬不及鞍	ma put kip an
 馬兒	ma ji	792
 馬兜鈴	bee tau ling	4
 馬兜鈴科	
@@ -284563,7 +283535,6 @@ sort: by_weight
 驚險的		14
 驚雷	king lui	64
 驚顫	king zian	44
-驚風		560	#9
 驚飛		506	#9
 驚馬	king ma	45
 驚駭	king hai	62
@@ -285157,7 +284128,6 @@ sort: by_weight
 高二下	koO ji haE	60
 高二年級	
 高亢	koO qong	75
-高亭宇		32	#9
 高亮	koO liang	94
 高亮度		11
 高亮顯示	
@@ -285179,10 +284149,8 @@ sort: by_weight
 高低潮		34
 高低音		7
 高併發		93
-高俅	koO kiu	16
 高保真		46
 高保真度	
-高個		593	#9
 高個子		70
 高倍	koO per	56
 高倍率	ko pue lut	2
@@ -285229,12 +284197,10 @@ sort: by_weight
 高利率	ko li lut	27
 高利貸	ko li tai	80
 高利貸者	ko li tai zia
-高利貸資本	
 高到	koO kau	96
 高到	kuAy kau	96
 高刷屏		10
 高功率	ko kong lut	29
-高勾麗		294	#9
 高匯率	ko hue lut	1
 高半頭	
 高危	koO gui	88
@@ -285325,7 +284291,6 @@ sort: by_weight
 高密度脂蛋白	
 高寒	koO ham	59
 高寒地區	
-高寬比		28	#9
 高寮	koO liau	24
 高射	ko sia	56
 高射機槍	
@@ -285370,7 +284335,6 @@ sort: by_weight
 高山症	ko suann zing	34
 高岸	koO huann	39
 高岸深谷	
-高峙		333	#9
 高峭	koO ciau	27
 高峯	koO hong	315
 高峯時段	koO hong si tuann
@@ -285441,8 +284405,6 @@ sort: by_weight
 高德	koO terk	109
 高德地圖	
 高德打車	
-高德納		32
-高性價		709	#9
 高性價比	
 高性能	koO sing nLerng	278
 高性能服務器	
@@ -285475,7 +284437,6 @@ sort: by_weight
 高抬	koO tai	57
 高抬貴手	
 高抬身價	
-高拋低吸		#9
 高招	koO ziau	96
 高挑	koO thiau	81
 高挺	koO thing	10
@@ -285522,7 +284483,6 @@ sort: by_weight
 高新技術開發區	koO sin ki sut qai huat qU
 高新產業	
 高新科技	
-高新興		10	#9
 高新醫院	
 高於	koO ir	1352
 高於一切	koO ir it ce
@@ -285532,7 +284492,6 @@ sort: by_weight
 高明之處	
 高智商		128
 高智能		4
-高曉聲		12	#9
 高曠	koO qong	42
 高會		556
 高朋	koO oerng
@@ -285544,7 +284503,6 @@ sort: by_weight
 高枕無憂	
 高枝	koO zi	5
 高架	koO kee	95
-高架上		49	#9
 高架公路	
 高架橋		62
 高架路		49
@@ -285560,11 +284518,7 @@ sort: by_weight
 高校錄取	
 高根	koO kern	32
 高格調		4
-高梁川	koO lIang cuan	10
-高梁米		364	#9
-高梁酒		423	#9
 高棚	koO penn	35
-高椅嶺		11	#9
 高槓	koO kang	31
 高槓	koO kng	31
 高樓	koO lau	132
@@ -285580,7 +284534,6 @@ sort: by_weight
 高檔服裝	
 高檔次	koO tong cur	9
 高檔車		4
-高檔轎車		#9
 高檔酒店	
 高檔餐廳	
 高欄	koO lan	53
@@ -285658,10 +284611,8 @@ sort: by_weight
 高牆	koO ciunn	60
 高版本	koO pan pun	11
 高牙大纛	koO ga tai tok
-高特效		41	#9
-高猷		124	#9
 高玩	koO guan	38
-高球	koO kiu	61
+高球		61
 高球場		44
 高球杯		20
 高甜	koO ty	9
@@ -285670,315 +284621,284 @@ sort: by_weight
 高產出		8
 高產穩產	
 高產量		4
-高甲戲	ko kah hi	43
 高畫質		39
 高瘦	koO san	51
 高發期		12
-高百尺		14	#9
-高的		11560	#9
-高盛	ko sing	147
-高盛集團	ko sing zip thuan
-高真空		17	#9
-高瞻遠矚		#9
+高百尺	koO pik cik	14
+高的		1156
+高盛	koO sing	147
+高盛集團	koO sing zip thuan
+高真空		17
+高瞻遠矚	
 高知		656
-高知名度		#9
-高知女性		#9
-高矮		573	#9
-高矮胖瘦		#9
-高硬度		62	#9
-高碳		118	#9
-高碳鋼		504	#9
+高知名度	
+高矮		573
+高矮胖瘦	
+高硬度		6
+高碳		118	
+高碳鋼		504
 高祖	koO zoo	846
-高祖母		336	#9
-高祖父		396	#9
+高祖父		396
 高票		1137
-高票當選		#9
-高福利		332	#9
-高秀敏		11	#9
+高福利		332
 高科	koO qOer	1038
-高科技		3022	#9
-高稈作物		#9
+高科技		3022
+高稈作物	
 高程	koO thing	764
-高積雲		394	#9
+高積雲		394	
 高空	koO qong	1727
-高空中		543	#9
-高空球		118	#9
-高空病		201	#9
+高空中		543	
+高空球		118	
+高空病		201	
 高端	koO tuan	17
-高等代數		#9
-高等動物		#9
-高等學府		#9
-高等學校		#9
-高等學歷		#9
-高等專科		#9
-高等師範		#9
-高等教育		#9
-高等數學		#9
-高等植物		#9
-高等法院		#9
-高等級		537	#9
-高等院校		#9
-高筋粉		26	#9
+高等代數		
+高等動物		
+高等學府		
+高等學校		
+高等學歷		
+高等專科		
+高等師範		
+高等教育		
+高等數學		
+高等植物		
+高等法院		
+高等級		537	
+高等院校		
+高筋粉		26	
 高管	koO kuan	48
 高粱	kau liang	54
-高粱	koO lIang	54
-高粱米		465	#9
+高粱	koO niu	54
+高粱米		465	
 高粱酒	kau liang ziu	54
-高精密		34	#9
-高精尖		537	#9
-高精度		958	#9
-高純度		261	#9
+高精密		34	
+高精尖		537	
+高精度		958	
+高純度		261	
 高級		19991
-高級中學		#9
-高級主管		#9
-高級人才		#9
-高級別		555	#9
-高級功能		#9
-高級化		10	#9
-高級口譯		#9
-高級品		388	#9
-高級官員		#9
-高級將領		#9
-高級專員		#9
-高級小學		#9
-高級工程		#9
-高級幹部		#9
-高級戰爭		#9
-高級技工		#9
-高級技巧		#9
-高級技師		#9
-高級技術		#9
-高級搜索		#9
-高級教師		#9
-高級時裝		#9
-高級會員		#9
-高級查詢		#9
-高級法院		#9
-高級版		214	#9
-高級特工		#9
-高級特性		#9
-高級玩家		#9
-高級班		37	#9
-高級產品		#9
-高級白領		#9
-高級知識		#9
-高級研究		#9
-高級社		424	#9
-高級神經		#9
-高級算法		#9
-高級管理		#9
-高級經理		#9
-高級編程		#9
-高級者		311	#9
-高級職務		#9
-高級職員		#9
-高級職稱		#9
-高級船員		#9
+高級中學		
+高級主管		
+高級人才		
+高級別		555	
+高級功能		
+高級化		10	
+高級口譯		
+高級品		388	
+高級官員		
+高級將領		
+高級專員		
+高級小學		
+高級工程		
+高級幹部		
+高級戰爭		
+高級技工		
+高級技巧		
+高級技師		
+高級技術		
+高級搜索		
+高級教師		
+高級時裝		
+高級會員		
+高級查詢		
+高級法院		
+高級版		214	
+高級特工		
+高級特性		
+高級玩家		
+高級班		37	
+高級產品		
+高級白領		
+高級知識		
+高級研究		
+高級社		424	
+高級神經		
+高級算法		
+高級管理		
+高級經理		
+高級編程		
+高級者		311	
+高級職務		
+高級職員		
+高級職稱		
+高級船員		
 高級詞彙	
 高級語言	
 高級講師	
-高級軍官		#9
-高級轎車		#9
-高級選項		#9
-高級配置		#9
-高級階段		#9
-高級顧問		#9
-高級餐廳		#9
+高級軍官		
+高級轎車		
+高級選項		
+高級配置		
+高級階段		
+高級顧問		
+高級餐廳		
 高素質	
 高統靴	
 高維空間	
-高績效		63	#9
-高纖維		543	#9
-高老莊		56	#9
-高老頭		73	#9
-高耗能		734	#9
-高聚物		539	#9
+高績效		63	
+高纖維		543	
+高老莊		56	
+高老頭		73	
+高耗能		734	
+高聚物		539	
 高聲	koO siann	98
-高聲叫		21	#9
-高聲說		17	#9
+高聲叫		21	
+高聲說		17	
 高聳	
-高聳入雲		#9
+高聳入雲		
 高職	koO zit	108
-高職院校		#9
-高職高專		#9
-高背椅		12	#9
-高胡		456	#9
+高職院校		
+高職高專		
+高背椅		12	
+高胡		456	
 高能	koO nLerng	182
-高能物理		#9
-高能粒子		#9
-高能耗		77	#9
-高能量		566	#9
-高能電子		#9
-高脂肪		356	#9
-高脂血症		#9
+高能物理		
+高能粒子		
+高能耗		77	
+高能量		566	
+高能電子		
+高脂肪		356	
+高脂血症		
 高腔		489
-高腰		211	#9
-高腳杯		544	#9
-高腳椅		428	#9
-高膽固醇		#9
-高臥		466	#9
-高致病性		#9
-高臺跳水		#9
-高興		9469	#9
-高興之餘		#9
-高興地說		#9
-高興就好		#9
-高興得		197	#9
-高興的		685	#9
-高興的是		#9
-高興起來		#9
-高舉		1249	#9
-高舉着		288	#9
-高舉遠蹈		#9
-高舉高打		#9
-高良薑		460	#9
+高腰		211	
+高腳杯		544	
+高腳椅		428	
+高膽固醇		
+高臥		466	
+高致病性		
+高臺跳水		
+高興	kau hing	9469
+高興	koO hing	9469
+高興之餘		
+高興就好		
+高興得		197	
+高興的		685	
+高興的是	
+高興起來	
+高舉		1249
+高舉着		288	
+高舉遠蹈		
 高薪	koO sin	34
-高薪厚祿		#9
-高薪就業		#9
-高薪工作		#9
-高薪聘請		#9
-高薪酬		476	#9
-高薪養廉		#9
+高薪厚祿	
+高薪就業	
+高薪工作	
+高薪聘請	
+高薪酬		476
+高薪養廉	
 高處	koO cir	108
-高蛋白		764	#9
-高血壓		1708	#9
-高血壓病		#9
-高血壓症		#9
-高血壓藥		#9
-高血糖		613	#9
-高血脂		640	#9
-高血脂症		#9
-高要求		435	#9
+高蛋白		764
+高血壓		1708
+高血壓病	
+高血壓症	
+高血壓藥	
+高血糖		613
+高血脂		640
+高血脂症	
+高要求		435
 高見	koO kian	792 
-高視闊步		#9
-高覺敷		14	#9
-高觀		383	#9
-高解析度		#9
-高詠		356	#9
-高詩巖		33	#9
-高誼		386	#9
-高調		1428	#9
-高調的		179	#9
-高談		589	#9
-高談闊論		#9
-高論		540	#9
-高負荷		172	#9
-高負載		91	#9
-高貲		212	#9
+高視闊步	
+高觀		383
+高解析度	
+高誼		386
+高調		1428
+高調的		179
+高談		589
+高談闊論	
+高論		540
+高負荷		172
+高負載		91
+高貲		212
 高貴	koO kui	3303
-高貴不貴		#9
-高貴氣質		#9
-高貴的人		#9
-高買低賣		#9
-高賣低買		#9
-高質量		4506	#9
-高質量的		#9
-高質高效		#9
-高贊		3672	#9
-高起		605	#9
-高起來		460	#9
-高起點		765	#9
-高超		1929	#9
+高貴不貴	
+高貴氣質	
+高貴的人	
+高買低賣	
+高賣低買	
+高質量		4506
+高質量的	
+高質高效	
+高贊		3672
+高起		605
+高起來		460
+高起點		765
+高超		192
 高足	koO ziok	509
-高足弟子		#9
-高跟		895	#9
-高跟鞋		1309	#9
-高跳臺		190	#9
-高蹺		555	#9
-高車		549	#9
-高辛氏		400	#9
+高足弟子	
+高跟		89
+高跟鞋		130
+高跳臺		19
+高蹺		55
+高車		549
 高通	koO thong	2310
-高通過率		#9
-高通量		318	#9
+高通過率	
+高通量		31
 高速	koO sok	8350
-高速下載		#9
-高速傳輸		#9
-高速公路		#9
-高速列車		#9
-高速化		15	#9
-高速增長		#9
-高速度		607	#9
-高速成長		#9
-高速擋		365	#9
-高速收費		#9
-高速旋轉		#9
-高速率		511	#9
-高速發展		#9
-高速網絡		#9
-高速緩存		#9
-高速行駛		#9
-高速路		944	#9
-高速路上		#9
-高速路口		#9
-高速轉動		#9
-高速通道		#9
-高速運轉		#9
-高速過彎		#9
-高速鋼		576	#9
-高速鐵路		#9
-高週波		578	#9
+高速下載	
+高速傳輸	
+高速公路	
+高速列車	
+高速化		15
+高速增長	
+高速度		607
+高速成長	
+高速收費	
+高速旋轉	
+高速率		511
+高速發展	
+高速網絡	
+高速緩存	
+高速行駛	
+高速路		944
+高速路上	
+高速路口	
+高速轉動	
+高速通道		
+高速運轉	
+高速過彎	
+高速鐵路	
 高過	kuAy ker	89
-高達	koO tat	11745	#9
+高達	koO tat	1174
 高遠	koO uan
-高適		189	#9
-高遷		393	#9
-高邁		409	#9
-高鄰		377	#9
 高配		1358	
-高配版		243	#9
+高配版		243
 高鈣		72
-高錳酸鉀		#9
-高錳酸鹽		#9
-高錳鋼		521	#9
-高鐵上		291	#9
-高長虹		380	#9
-高開		1327	#9
-高開低走		#9
-高開叉		14	#9
+高錳酸鉀	
+高錳酸鹽	
+高錳鋼		52
+高鐵上		29
+高開低走	
 高閣	koO kok	559
-高附加值		#9
+高附加值	
 高院	koO y	81
 高階	koO kai	273
-高階函數		#9
-高階層		419	#9
-高階語言		#9
-高雄工專		#9
-高雄海專		#9
 高雅	koO nga	1430
-高雅藝術		#9
+高雅藝術	
 高難		559
-高難動作		#9
-高難度		1427	#9
+高難度		142
 高雲		564
-高電壓		232	#9
-高電平		51	#9
-高露潔		174	#9
-高靈敏度		#9
-高韌性		13	#9
+高電壓		232
+高電平		51
+高露潔		174	
+高韌性		13
 高音		410
-高音喇叭		#9
-高音質		67	#9
-高音部		384	#9
-高音量		19	#9
+高音喇叭	
+高音質		67
+高音部		384
+高音量		19
 高韻		366
 高順	koO sun	111
 高領	koO nia	364
 高領	kuAy nia	364
 高頭		578
-高頭大馬		#9
+高頭大馬	
 高頻		6463
-高頻噪聲		#9
-高頻振盪		#9
-高頻率		576	#9
-高頻詞		498	#9
-高頻電流		#9
-高頻電路		#9
-高頻頭		15	#9
+高頻噪聲	
+高頻振盪
+高頻率		57
+高頻詞		498
+高頻頭		1
 高額		242
-高額利潤		#9
-高額提成		#9
-高額費用		#9
-高顯		455	#9
+高額利潤	
+高額提成	
+高額費用	
 高風	koO hong	581
 高風亮節	
 高風峻節	
@@ -285988,21 +284908,14 @@ sort: by_weight
 高飛	koO hui	84
 高高	kuAy x	144
 高高在上	
-高高大大		#9
-高高手		495	#9
-高高掛起		#9
-高高瘦瘦		#9
-高高的		1057	#9
-高高興興		#9
-高高飄揚		#9
+高高掛起	
+高高的		10
 高鹽		287
-高鹽飲食		#9
-高黏度		10	#9
+高鹽飲食	
 高點		295
-高鼻子		451	#9
 高齡	koO ling	10
-高齡化		25	#9
-高齡產婦		#9
+高齡化		25
+高齡產婦	
 髝髞		6
 髡髮		29
 髦牛	moo gu	20
@@ -286040,10 +284953,8 @@ sort: by_weight
 髮梢		59
 髮梳	huat soo	50
 髮油		45
-髮漂		335	#9
 髮狀	huat zong	35
 髮癬		31
-髮禁		361	#9
 髮箋		17
 髮箍		56
 髮簪	huat zam	54
@@ -286055,7 +284966,6 @@ sort: by_weight
 髮腳	huat kIak	38
 髮膚		49
 髮膠	huat ka	54
-髮臘		383	#9
 髮色		60
 髮菜		52
 髮蠟	huat lah	53
@@ -286082,10 +284992,8 @@ sort: by_weight
 髯口	jiam qeru	37
 髯鬍		24
 髹飾錄		31
-髼鬆		55	#9
 髽髻		24
 鬃毛	zang mDoo	53
-鬅鬆		194	#9
 鬆一下		40
 鬆一口氣	sang zit qau qui
 鬆一點		38
@@ -286102,20 +285010,17 @@ sort: by_weight
 鬆動	sang tang	113
 鬆口	sang qau	58
 鬆口氣		558	#9
-鬆喉		153	#9
 鬆嘴	sang cui	35
 鬆土	sang thoo	54
 鬆土機	sang thoo ki	36
 鬆垮	sang qua	56
 鬆垮垮		19	#9
-鬆寬		352	#9
 鬆弛	sang si	137
 鬆弛下來	
 鬆弛到		26
 鬆弛劑		38
 鬆弛感	sang si kam	137
 鬆弛法		36
-鬆心		404	#9
 鬆快	sang quai	42
 鬆懈	song hai	100
 鬆懈下		281	#9
@@ -286127,7 +285032,6 @@ sort: by_weight
 鬆散型	
 鬆散物料	
 鬆散耦合	
-鬆柔		403	#9
 鬆氣	sang qi	40
 鬆油管		2
 鬆油門		43
@@ -286143,11 +285047,9 @@ sort: by_weight
 鬆脆餅		21
 鬆脫	sang thuat	52
 鬆解	sang kai	55
-鬆起		280	#9
 鬆起來		215	#9
 鬆軟	sang nuI	87
 鬆軟適口	
-鬆通		256	#9
 鬆釦	sang qau	30
 鬆開	sang qui	130
 鬆餅	sang piann	52
@@ -286170,8 +285072,6 @@ sort: by_weight
 鬍髯		29
 鬍鬚	hoo sU	143
 鬍鬚渣		20
-鬒髮		246	#9
-鬚子		432	#9
 鬚根	ciu kern	53
 鬚毛	ciu mDoo	36
 鬚生		46
@@ -286222,12 +285122,6 @@ sort: by_weight
 鬥圖	teru too	9
 鬥地主	tau te zu	128
 鬥士	teru sur	99
-鬥富		469	#9
-鬥巧		375	#9
-鬥弄		345	#9
-鬥引		211	#9
-鬥彩		480	#9
-鬥很		341	#9
 鬥心眼		375	#9
 鬥志	teru zi	151
 鬥志昂揚	
@@ -286235,19 +285129,16 @@ sort: by_weight
 鬥悶	teru bun	25
 鬥悶子		21
 鬥成	tau ziann	36
-鬥打		331	#9
-鬥批改		363	#9
+鬥批改		363
 鬥技	tau ki	53
 鬥技	teru ki	53
 鬥技場		8
 鬥拳	tau kun	34
 鬥拳	teru kun	34
-鬥文		387	#9
 鬥智	tau ti	75
 鬥智	teru ti	75
 鬥智鬥勇	
-鬥暴		283	#9
-鬥武		429	#9
+鬥武		42
 鬥毆	teru eru	78
 鬥氣	tau qi	82
 鬥氣	teru qi	82
@@ -286293,11 +285184,9 @@ sort: by_weight
 鬥破	teru phoO	5
 鬥私批修	
 鬥空	tau qang	1
-鬥羅		125	#9
 鬥而鑄兵	
 鬥而鑄錐	
-鬥腳		305	#9
-鬥舞		44	#9
+鬥舞	
 鬥艦	tau lam	43
 鬥艦	teru lam	43
 鬥茶	tau tee	48
@@ -286305,12 +285194,10 @@ sort: by_weight
 鬥草	teru coO	42
 鬥葉子		13
 鬥蟋蟀		44
-鬥話		216	#9
 鬥豔	teru iam	62
 鬥起	tau qi	41
 鬥起	teru qi	41
 鬥起來		44
-鬥趣		317	#9
 鬥閒氣		194	#9
 鬥雞	tau kere	59
 鬥雞	teru kere	59
@@ -286320,7 +285207,6 @@ sort: by_weight
 鬥雞走狗	teru ke zOo keru
 鬥雞走馬	teru ke zOo ma
 鬥雪紅		25
-鬥頭		244	#9
 鬥風	teru huang	29
 鬥鬥嘴		444	#9
 鬥鬨	teru hong	8
@@ -286354,7 +285240,6 @@ sort: by_weight
 鬧場	la tiunn	48
 鬧場	nLau tiunn	48
 鬧大	nLau tua	57
-鬧天		345	#9
 鬧彆扭		59
 鬧得	nLau tit	106
 鬧心		90
@@ -286374,7 +285259,7 @@ sort: by_weight
 鬧熱滾滾	
 鬧玄虛		12
 鬧病	nLau penn	39
-鬧的		569	#9
+鬧的		56
 鬧着	nLau tioh	76
 鬧着玩		569	#9
 鬧矛盾		27
@@ -286405,35 +285290,22 @@ sort: by_weight
 鬨笑	hong siau	57
 鬨鬧		46
 鬩牆	hik cIang	48
-鬱伊		190	#9
-鬱勃		358	#9
-鬱塞		301	#9
 鬱壘		44
-鬱律		294	#9
-鬱悒		395	#9
-鬱悶		1553
-鬱悶不樂		#9
+鬱悶		155
+鬱悶不樂	
 鬱悶中		10	#9
 鬱悶死		16	#9
-鬱悶的		1159	#9
-鬱憤		386	#9
-鬱抑		381	#9
-鬱挹		75	#9
-鬱林	ut lim	891t qi	4
-鬱江		455	#9
+鬱悶的		1159
+鬱憤		386
+鬱抑		38
+鬱林	ut lim	891
+鬱江		455
 鬱沉沉		102	#9
-鬱泱		107	#9
 鬱熱	ut juah	46
-鬱燠		201	#9
+鬱燠		201
 鬱症		47
-鬱積		522	#9
-鬱紆		264	#9
-鬱結		582	#9
-鬱蒸		366	#9
-鬱蓊		184	#9
-鬱血		367	#9
-鬱邑		316	#9
-鬱郁		400	#9
+鬱積		522
+鬱結		582
 鬱金		68
 鬱金香	ut kim hIang	925 
 鬱閉		460	#9
@@ -286532,16 +285404,12 @@ sort: by_weight
 鬼鬼祟祟	kui x sui x
 鬼魂		99
 鬼魅		79
-鬼魊		138	#9
-鬼魔		457	#9
+鬼魊		138
 鬼點子		51
 鬼黠		16
 魁人黨	que jin tong	20
 魁偉		48
 魁元		41
-魁北克省	que pak qik senn
-魁北克省	que pak qik sing
-魁北克省	que senn
 魁岸		30
 魁拔	que puat	22
 魁斗	que teru
@@ -286579,10 +285447,7 @@ sort: by_weight
 魂飛魄散	
 魂驚膽喪	
 魂魄		93
-魂魄妖夢	hun phik iau bong
-魂魄妖忌	hun phik iau ki
 魄力	phik lat	104
-魅人		436	#9
 魅力	bi lik	893
 魅力值		9
 魅力十足	
@@ -286596,14 +285461,14 @@ sort: by_weight
 魍魅		24
 魍魎		60
 魍魎鬼怪	
-魏代		315	#9
-魏克		381	#9
-魏成		42	#9
-魏晉		847	#9
-魏書		528	#9
-魏碑		511	#9
-魏軍		792	#9
-魏闕		371	#9
+魏代	
+魏克	
+魏成	
+魏晉		84
+魏書	gui sir	52
+魏碑		51
+魏軍		79
+魏闕		37
 魑魅		57
 魑魅魍魎	
 魔人	moo jin	38
@@ -286629,7 +285494,7 @@ sort: by_weight
 魔宮		57
 魔尊		11
 魔尊重樓	
-魔導		121	#9
+魔導		121
 魔導師	moo toO sur	12
 魔山	moo san	37
 魔幻		248
@@ -286696,8 +285561,6 @@ sort: by_weight
 魔窟		56
 魔笛	moo tik	53
 魔羅	moo lo	5
-魔羯		835	#9
-魔羯座		61
 魔芋		72
 魔藥	moo ioh	9
 魔藥課	
@@ -286717,11 +285580,9 @@ sort: by_weight
 魔道		66
 魔邪		39
 魔都		100
-魔錶		312	#9
 魔鏡	moo kiann	74
 魔障	moo zIang	52
 魔電		40
-魔靈		47	#9
 魔音		56
 魔音穿腦	
 魔頭	moo thau	74
@@ -286741,94 +285602,88 @@ sort: by_weight
 魘魅		32
 魚之樂	gir zi lok	1
 魚乾	hir kuann	54
-魚人		620	#9
-魚介		319	#9
+魚人		620
 魚兒	hIR ji	131
-魚叉		505	#9
-魚場		448	#9
-魚塊		507	#9
-魚塘		902	#9
-魚夫		431	#9
+魚叉		505
+魚場		448
+魚塊		507
+魚塘		902
+魚夫		431
 魚市	hIR ci	51
 魚市場	hIR ci tiunn	46
-魚形		496	#9
-魚排		517	#9
-魚村		460	#9
-魚板		365	#9
-魚梁		443	#9
+魚形		496
+魚排		517
+魚村		460
+魚板		365
+魚梁		443
 魚死網破	gir sur bong pho
 魚水之歡	gir sui zi huan
 魚水情	gir sui zing	50
-魚汛		370	#9
-魚津		322	#9
-魚湯		599	#9
-魚漂		494	#9
-魚片		793	#9
-魚狗		447	#9
-魚生		526	#9
-魚產		366	#9
-魚白		418	#9
-魚皮		561	#9
+魚汛		370
+魚津		322
+魚湯		599
+魚漂		494
+魚片		793
+魚狗		447
+魚生		526
+魚產		366
+魚白		418
+魚皮		561
 魚目混珠	gir bok hun zu
-魚眼		186	#9
-魚秧		250	#9
-魚種		582	#9
-魚竿		577	#9
-魚簍		456	#9
+魚眼		186
+魚秧		250
+魚種		582
+魚竿		577
+魚簍		456
 魚米之鄉	
-魚粉		748	#9
-魚網		549	#9
-魚線		322	#9
-魚缸		939	#9
-魚羣		557	#9
+魚粉		748
+魚網		549
+魚線		322
+魚缸		939
+魚羣		557
 魚肉	gir jiok	134
 魚肉百姓	gir jiok pik sing
 魚肉鄉民	gir jiok hIang bin
 魚肉鄉里	gir jiok hIang li
-魚肝		408	#9
-魚脣		465	#9
-魚腥		478	#9
-魚腩		561	#9
-魚腹		73	#9
-魚膠		475	#9
-魚膾		320	#9
-魚船		434	#9
-魚艙		308	#9
-魚花		405	#9
-魚苗		596	#9
-魚蛋		96	#9
-魚蝦		732	#9
-魚蟲		743	#9
-魚貨		393	#9
-魚販		448	#9
+魚肝		408
+魚脣		465
+魚腥		478
+魚腩		561
+魚腹		73
+魚膠		475
+魚膾		320
+魚船		434
+魚艙		308
+魚花		405
+魚苗		596
+魚蛋		96
+魚蝦		732
+魚蟲		743
+魚貨		393
+魚販		448
 魚貫	gir kuan	56
 魚躍	gir iok	60
-魚道		394	#9
-魚雁		433	#9
-魚露		515	#9
-魚類		2031	#9
-魚餅		465	#9
-魚香		89	#9
-魚鬆		444	#9
-魚鷹		510	#9
-魚鼓		358	#9
-魚龍		622	#9
+魚道		394
+魚雁		433
+魚露		515
+魚類		2031
+魚餅		465
+魚香		89
+魚鬆		444
+魚鷹		510
+魚鼓		358
+魚龍		622
 魟魚	kong hIR	43
 魣魚	ir hIR	7
-魯南		62	#9
-魯史		376	#9
-魯國		810	#9
-魯棒		588	#9
-魯王		108	#9
-魯美		107	#9
-魯能		1431	#9
-魯莽		808	#9
-魯菜		1051	#9
-魯豫	loo ir	84
-魯賓		511	#9
-魯賓遜	loo pin sun		516	#9
-魯迅先生	
-魯迪		116	#9
+魯南		62
+魯史		376
+魯國		810
+魯棒		588
+魯王		108
+魯美		107
+魯能		1431
+魯莽		808
+魯菜		105
 魯鈍		417	#9
 魯陽揮戈	loo Iang hui ko 
 魯難未已	loo nLan bi i 
@@ -286841,7 +285696,6 @@ sort: by_weight
 鮁魚		51
 鮎魚		62
 鮐背之年	thai pue zi nLian
-鮑參軍	pau cam kun
 鮑魚		1010 
 鮑魚之肆	pau gir zi sur
 鮓肉	ca jiok
@@ -287007,18 +285861,16 @@ sort: by_weight
 鱉裙		31
 鱉魚	pih hIR	36
 鱒魚		51
-鱔絲		46	#9
+鱔絲	
 鱔魚		59
 鱖豚		7
 鱖魚	ker hIR	56
 鱗介	lin kai	35
-鱗傷		644	#9
 鱗屑	lin sut	54
 鱗形	lin hing	36
 鱗次	lin cur	56
 鱗次櫛比	lin cur ziat pi
 鱗比	lin pi	34
-鱗毛		404	#9
 鱗波	lin poO	38
 鱗游	lin iu	29
 鱗爪		45
@@ -287044,7 +285896,6 @@ sort: by_weight
 鱸魚		60
 鳥人	ziau lang	138
 鳥兒	niau ji	116
-鳥卜		243	#9
 鳥卵	ziau nuI	39
 鳥叔	niau siok	75
 鳥叫	ziau kio	56
@@ -287056,15 +285907,13 @@ sort: by_weight
 鳥園	ziau huInn	48
 鳥媒花		9
 鳥屋	ziau ok	36
-鳥山明	niau san bing	115
 鳥島	niau toO	15
 鳥巢	niau zoO	98
-鳥店		456	#9
 鳥弓	ziau kiOng	10
 鳥槍	niau ciang	52
 鳥槍換炮	
 鳥槍法	
-鳥機		264	#9
+鳥機	
 鳥氣	ziau qui	44
 鳥氨酸	
 鳥爪	ziau jiau	38
@@ -287145,41 +285994,36 @@ sort: by_weight
 鳳凰花開	
 鳳凰號		480
 鳳凰衛視	
-鳳占		271	#9
 鳳去臺空	
 鳳姐	hong zia	78
-鳳尾		243	#9
 鳳尾松		231
+鳳尾	hong ber
 鳳尾竹		571
 鳳尾草		414
 鳳尾魚		490
-鳳梨		599	#9
+鳳梨		59
 鳳梨乾		299
 鳳梨園		209
 鳳梨汁		383
 鳳梨罐頭	
 鳳梨酥		450
-鳳歌		105	#9
-鳳毛		52	#9
 鳳毛麟角	
 鳳求凰		550
-鳳爪		591	#9
 鳳爪	hong zau	13
-鳳王		43	#9
 鳳皇于蜚	
-鳳眼		548	#9
 鳳眼蓮		19
 鳳眼蘭		21
 鳳蓋	hong kai
-鳳蝶		538	#9
+鳳蝶		538
 鳳蝶科		332
-鳳輦		400	#9
+鳳輦		400
 鳳還巢		10
-鳳閣		318	#9
-鳳雛		510	#9
-鳳頭		65	#9
-鳳駕		359	#9
-鳳鳴		77	#9
+皇國		318
+鳳閣	
+鳳雛		51
+鳳頭	
+鳳駕	
+鳳鳴		77
 鳴不平	bing put ping	57
 鳴人	bing jin	298
 鳴冤		49
@@ -287290,10 +286134,6 @@ sort: by_weight
 鴨心	ah sim	1
 鴨掌	ah ziunn	52
 鴨梨	ah lai	56
-鴨母	ah bo	47
-鴨母	ah bu	47
-鴨母蹄	ah bo tere	47
-鴨母蹄	ah bu tere	47
 鴨毛	ah mDoo	47
 鴨絨	ah jiong	49
 鴨絨毛		18
@@ -288518,7 +287358,6 @@ sort: by_weight
 黑澤明	hik tik bing	152
 黑火藥		26
 黑無常		4
-黑煙		728	#9
 黑煤玉		2
 黑熱病		45
 黑燈瞎火	
@@ -288661,22 +287500,20 @@ sort: by_weight
 黗腀		67
 黗腀肥	thun lun pui	67
 默不作聲	bik put zok sing
-默克		621	#9
 默劇	bik kIak	47
 默化	bik hua	65
 默哀	bik ai	97
 默哀致意	
-默唸	berk nLiam	785 
+默唸	bik nLiam	785 
 默問	bik bun	34
 默啓	bik qe	22
 默坐	bik zo	43
-默多克		70
+給我	kip gua	430
 默契	bik qere	193
 默字	bik ji	30
 默存	bik zun	38
 默寫	bik sia	218
 默從	bik ziong	31
-默志		135	#9
 默念	bik nLiam	69
 默思	bik sur	39
 默想	bik siunn	54
