@@ -37,13 +37,14 @@ import_tables:
   - banlam_dicts/banlam.emoji					#顏文字
   - banlam_dicts/banlam.kiongiong			#閩南語/普通話共有詞
   - banlam_dicts/banlam.langmia				#人物名（漢名及歸化翻譯名）
-  - banlam_dicts/banlam.langmia2				#人物名（日本人名和地名）
-  - banlam_dicts/banlam.langmia3				#人物名（音譯人名和地名）
+  - banlam_dicts/banlam.langmia2				#人物名2（日本人名和地名）
+  - banlam_dicts/banlam.langmia3				#人物名3（音譯人名和地名）
   - banlam_dicts/banlam.banlamsur			#閩南特有詞
   - banlam_dicts/banlam.guabun				#帶外文字符的詞彙
   - banlam_dicts/banlam.koobun				#文言文相關
-  - banlam_dicts/banlam.hunthak				#訓讀詞彙（適應非正字交流語境）
   - banlam_dicts/banlam.teremia				#閩海地名（含部分東南亞地名）
   - banlam_dicts/banlam.tiongkok				#中國、朝鮮、韓國地名（除閩海地名）
+  - banlam_dicts/banlam.hunthak				#訓讀詞彙（適應非正字交流語境）
+ # - banlam_dicts/banlam.huanhunthak				#取消訓讀詞彙（訓讀部分對應之「孔子白」）
   - banlam_dicts/banlam.surjin					#私人用詞庫
 ...

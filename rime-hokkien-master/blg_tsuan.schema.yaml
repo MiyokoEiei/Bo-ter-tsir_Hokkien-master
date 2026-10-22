@@ -51,7 +51,7 @@ engine:
     - punct_translator
     - r10n_translator
     - reverse_lookup_translator@luna_pinyin
-    - table_translator@bangul
+#    - table_translator@bangul
     - table_translator@hutsoo
     - reverse_lookup_translator@dmode
     - history_translator@history_repeat
@@ -246,6 +246,7 @@ speller:
     - derive/gEe/ge/													#泉音主流說法
     - derive/gEe/ke/													#永德老派說法
     #- derive/gEe/e/													#漳廈臺主流說法
+    #- derive/gEe/ger/													#
     #- derive/gEe/kai/												#原始形態（你若願意.....）
 #腔口分異字：“科”、“果”
     - derive/Oer/er/												#泉音
@@ -389,14 +390,14 @@ history_repeat:
   size: 1
   initial_quality: 1
 
-bangul:
-  dictionary: bangul
-  initial_quality: 100001
-  enable_sentence: false
-  enable_user_dict: false
-  enable_completion: false
-  comment_format:
-    - xform/.*//
+#bangul:
+#  dictionary: bangul
+#  initial_quality: 100001
+#  enable_sentence: false
+#  enable_user_dict: false
+#  enable_completion: false
+#  comment_format:
+#    - xform/.*//
 hutsoo:
   dictionary: hutsoo
   initial_quality: 100001
