@@ -4,6 +4,9 @@ version: '20260605'
 sort: by_weight
 ...
 #常用單字訓
+腳	qa	144	#民間多有使用，故閩普共有詞（kiongiong.dict.yaml）部分仍然保留腳=kha的情況
+找	cer	100	#民間多有使用，故閩普共有詞（kiongiong.dict.yaml）仍然保留找=tsher/tshue的情況
+嘴	cui	99	#俗音，如嘴脣；民間多有使用，故閩普共有詞（kiongiong.dict.yaml）仍然保留嘴=tshui的情況
 不	m	100
 沒	bo	149
 很	zIn	145
@@ -16,6 +19,7 @@ sort: by_weight
 #常用詞彙訓
 幹嘛	cong na	17741
 幹嘛	cong sannh	17741
+真假	ziann kee	28
 不到	bere kau	33778	
 這樣	an nee	146876
 這樣	a nee	146876
@@ -330,7 +334,7 @@ sort: by_weight
 
 #很=真/盡OR誠
 很次	zIn cur	53
-很小	zIn sere	10402
+很小	zIn sio	10402
 很真	zIn zin	53
 也很	ia zIn	13716
 人很	lang zIn	868
@@ -383,7 +387,7 @@ sort: by_weight
 很窮	zIn kiong	742
 很糙	zIn coO	77
 很紅	zIn ang	701
-很細	zIn sere	1024
+很細	zIn se	1024
 很胖	zIn phong	682
 很脆	zIn cer	215
 很舊	zIn ku	567
@@ -406,6 +410,9 @@ sort: by_weight
 還很	hai zIn	1943
 很多	zIn zere	153301
 很水	zIn zui	757
+很平常	zIn ping sIang	47
+很平淡	zIn ping tam	25
+很平靜	zIn ping zing	46
 #拿=摕
 拿上	thereh ziunn	725
 拿給	thereh hoo	872
@@ -811,7 +818,6 @@ sort: by_weight
 
 #塞=窒
 酒塞	ziu that
-
 #他=伊("ih"僅供輸入方便)
 他真	ih zin	237
 問他	muI ih	4947
@@ -837,3 +843,137 @@ sort: by_weight
 轉他	zuan ih	40
 送他	sang ih	967
 他受到	ih siu kau 
+
+#吃=食
+一吃	zit ziah	42
+一雞三吃	zit kere sann ziah
+也吃	ia ziah	25
+亂吃	luan ziah	57
+人吃人	lang ziah lang
+偷吃	thau ziah	83
+先吃	saInn ziah
+分開吃	
+吃上	ziah ziunn	95
+吃了	
+吃油		49
+吃準		43
+吃灰		130
+吃些	ziah sia	195
+吃人	ziah lang	117
+吃人夠夠	ziah lang kau x
+吃來吃去	
+吃光	ziah kuInn	75
+吃到	ziah kau	480
+吃剩	ziah cun	20
+吃剩	ziah sin	20
+吃吃	ziah x	80
+吃啊	ziah ah	29
+吃土	ziah thoo	48
+吃定	ziah ting	6
+吃後	ziah au	11
+吃得	ziah tit
+吃成	ziah ziann	52
+吃我	ziah gua	16
+吃播	ziah poo	19
+吃本	ziah pun	40
+吃死	ziah si	8
+吃水	ziah zui	58
+吃水線	ziah zui suann	37
+吃水量	ziah zui lIang	30
+吃瓜	ziah kuee	132
+吃用	ziah iOng
+吃的	ziah e	1500
+吃的上	ziah e ziunn
+吃的了	ziah e liau
+吃的人	ziah e lang	12
+吃的出	ziah e cut
+吃的出來	ziah e cit lai
+吃的少	ziah e zio
+吃的消	ziah e siau
+吃的起	ziah e qi
+吃的開	ziah e qui
+吃的飽	ziah e pa
+吃相	ziah siunn	88
+吃着	ziah tioh	223
+吃碗	ziah uann	8
+吃穿	ziah cing	59
+吃米	ziah bi	100
+吃糉	ziah zang	4
+吃糖	ziah thng	72
+吃糧	ziah niu	48
+吃素	ziah soo	90
+吃緊	ziah kin	76
+吃罪	qik zue	36
+吃翔	ziah sIang	13
+吃肉	ziah bah	311
+吃膩	ziah ji	53
+吃苦	ziah qoo	127
+吃草	ziah cau	79
+吃草	ziah cau	79
+吃藥	ziah ioh	475
+吃貨	ziah her	202
+吃起	ziah qi	55
+吃軟	ziah nuI	51
+吃辣	ziah luah	43
+吃進	ziah zin	74
+吃遍	ziah phian	28
+吃過	ziah ker	453
+吃醋	ziah coo	132
+吃錢	ziah zy	45
+吃錯	ziah co	56
+吃錯藥	ziah co ioh	52
+吃雞	ziah kere	216
+吃頓	ziah tuInn	75
+吃食	ziah sit	59
+吃飯	ziah puInn	3169
+吃飽	ziah pa	160
+吃飽了撐的	ziah pa liau
+吃飽飯	ziah pa puInn	46
+吃飽飽	ziah pa x
+吃餅	ziah piann	46
+吃魚	ziah hIR	92
+吃鱉	ziah pih	43
+吃麵	ziah mi
+吃齋	ziah zai	53
+各吃	kok ziah	47
+在吃	tDeh ziah	68
+夠吃	kau ziah	56
+大吃	tua ziah	85
+大吃特吃	tua ziah tit ziah
+小吃	sio ziah	290
+小吃店	sio ziah tiam	63
+小吃攤	sio ziah thuann	52
+小吃街	sio ziah kere	32
+小吃部	sio ziah poo	49
+少吃	zio ziah	206
+得吃	tit ziah	23
+快吃	quai ziah	55
+想要吃	siunn berh ziah	36200
+想要吃天鵝肉	siunn berh ziah
+我吃	gua ziah	97
+敢吃	kann ziah	8
+會吃	eRe ziah
+有吃	u ziah	69
+有吃有穿	u ziah u cing
+靠山吃山	qoO suann ziah suann
+百吃不厭	pah ziah put iam
+爭風吃醋	zenn huang ziah coo
+猛吃	bing ziah	54
+生吃	cenn ziah
+白吃	peeh ziah	74
+省吃	senn ziah	60
+省吃	sing ziah	60
+省吃儉用	senn ziah qiam iong
+省吃儉用	sing ziah qiam iOng
+空腹吃	qang pak ziah	9
+纔吃	zIAh ziah 	39
+纔吃過	zIAh ziah ker	39
+纔吃飯	zIAh ziah puInn	2
+要吃	beh ziah	149
+要吃	berh ziah	149
+通吃	thong ziah	92
+連吃	lian ziah	58
+還吃	hai ziah	14
+邊吃	py ziah	87
+開吃	qui ziah	31
+飯吃	puInn ziah	133

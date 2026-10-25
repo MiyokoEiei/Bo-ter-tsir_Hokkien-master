@@ -26,7 +26,7 @@ sort: by_weight
 還會	iau eRe	33156
 對對對	tui x x
 獅子座	sai zur zo	1049
-吃香	qit hIang	1006
+吃香	qik hIang	1006
 給我	kip gua	43556
 沒給	but kip	1009
 他給	thann kip	1293
@@ -277,7 +277,7 @@ sort: by_weight
 很窮	hern kiong	742
 很糙	hern coO	77
 很紅	hern ang	701
-很細	hern sere	1024
+很細	hern se	1024
 很胖	hern phong	682
 很脆	hern cer	215
 很舊	hern ku	567
@@ -300,6 +300,9 @@ sort: by_weight
 還很	hai hern	1943
 很多	hern zere	153301
 很水	hern zui	757
+很平常	hern ping sIang	47
+很平淡	hern ping tam	25
+很平靜	hern ping zing	46
 #拿=摕
 拿上	na ziunn	725
 敢拿	kann na	113
@@ -537,7 +540,7 @@ sort: by_weight
 #菸=薰
 菸嘴	hun cui	553
 吸菸	qip hun	2538
-吃菸	ziah hun	494
+吃菸	qik hun	494
 愛點菸	ai tiam hun	472
 戒菸	kai hun	1493
 抽菸室	thiu hun sit	248
@@ -725,3 +728,120 @@ sort: by_weight
 轉他	zuan thann	40
 送他	sang thann	967
 他受到	thann siu kau 
+
+#吃=食
+一吃	zit qik	42
+也吃	ia qik	25
+亂吃	luan qik	57
+偷吃	thau qik	83
+先吃	saInn qik
+分開吃	
+吃上	qik ziunn	95
+吃了	
+吃油		49
+吃準		43
+吃灰		130
+吃些	qik sia	195
+吃人	qik jin	117
+吃來吃去	
+吃光	qik kuInn	75
+吃到	qik kau	480
+吃剩	qik cun	20
+吃剩	qik sin	20
+吃啊	qik ah	29
+吃土	qik thoo	48
+吃定	qik ting	6
+吃後	qik au	11
+吃得	qik tit
+吃成	qik ziann	52
+吃我	qik gua	16
+吃播	qik poo	19
+吃本	qik pun	40
+吃死	qik si	8
+吃水	qik zui	58
+吃水線	qik zui suann	37
+吃水量	qik zui lIang	30
+吃瓜	qik kuee	132
+吃用	qik iOng
+吃的	qik e	1500
+吃的上	qik e ziunn
+吃的了	qik e liau
+吃的人	qik e lang	12
+吃的出	qik e cut
+吃的出來	qik e cit lai
+吃的少	qik e zio
+吃的消	qik e siau
+吃的起	qik e qi
+吃的開	qik e qui
+吃的飽	qik e pa
+吃相	qik siunn	88
+吃着	qik tioh	223
+吃碗	qik uann	8
+吃穿	qik cing	59
+吃米	qik bi	100
+吃糉	qik zang	4
+吃糖	qik thng	72
+吃糧	qik niu	48
+吃素	qik soo	90
+吃緊	qik kin	76
+吃翔	qik sIang	13
+吃肉	qik bah	311
+吃膩	qik ji	53
+吃苦	qik qoo	127
+吃草	qik cau	79
+吃草	qik cau	79
+吃藥	qik ioh	475
+吃貨	qik her	202
+吃起	qik qi	55
+吃軟	qik nuI	51
+吃辣	qik luah	43
+吃進	qik zin	74
+吃遍	qik phian	28
+吃過	qik ker	453
+吃醋	qik coo	132
+吃錢	qik zy	45
+吃錯	qik co	56
+吃錯藥	qik co ioh	52
+吃雞	qik kere	216
+吃頓	qik tuInn	75
+吃食	qik sit	59
+吃飯	qik puInn	3169
+吃飽飯	qik pau puInn	46
+吃餅	qik piann	46
+吃魚	qik hIR	92
+吃鱉	qik pih	43
+吃麵	qik mi
+吃齋	qik zai	53
+各吃	kok qik	47
+在吃	tDeh qik	68
+夠吃	kau qik	56
+大吃特吃	tai qik terk qik
+小吃店	siau qik tiam	63
+小吃攤	siau qik thuann	52
+小吃街	siau qik kere	32
+少吃	zio qik	206
+得吃	terk qik	23
+快吃	quai qik	55
+我吃	gua qik	97
+敢吃	kam qik	8
+會吃	hue qik
+靠山吃山	qoO san qik san
+百吃不厭	pik qik put iam
+猛吃	bing qik	54
+生吃	cenn qik
+白吃	peeh qik	74
+省吃	senn qik	60
+省吃	sing qik	60
+省吃儉用	sing qik qiam iOng
+空腹吃	qong hok qik	9
+纔吃	zIAh qik 	39
+纔吃過	zIAh qik ker	39
+纔吃飯	zIAh qik puInn	2
+要吃	beh qik	149
+要吃	berh qik	149
+通吃	thong qik	92
+連吃	lian qik	58
+還吃	hai qik	14
+邊吃	py qik	87
+開吃	qui qik	31
+飯吃	puInn qik	133

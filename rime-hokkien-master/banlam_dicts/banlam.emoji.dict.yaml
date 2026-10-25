@@ -396,9 +396,11 @@ sort: by_weight
 🐴	bee	98
 🐶	kau a	100
 🐷	tIR	98
-🐸	can kap a	100
+🐸	can kauh a
+🐸	can kap a
 🐸	cing ua	100
 🐸	zui kere	100
+🐸	am muih kauh a	100
 🐻	him	98
 🐽	tIR	98
 🐽	tIR phyY	100
@@ -406,20 +408,25 @@ sort: by_weight
 👂🏻	hi qang	100
 👃🏻	phyY	98
 👅	ne	98
-👇🏻	ha	98
-👇🏻	hee	98
+👇🏻	haE	98
 👈🏻	zoO	98
+👈🏻	zoO ciu paInn	98
+👈🏻	to ciu paInn	98
 👈🏻	zoO paInn	100
 👉🏻	iu	98
+👉🏻	iu ciu paInn	98
+👉🏻	ziann ciu paInn	98
 👉🏻	iu paInn	100
 👊🏻	phah	98
+👊🏻	kun thau	98
 👊🏻	zing	98
 👍	gau	98	100
-👍	zan	98	100
+👍	zan	98
 👎	phayY	98
-👏🏻	koo ziong	100
+👏🏻	koo zIang	100
+👏🏻	kiong hi	100
 👏🏻	phah phoo a	100
-👏🏻	zan	98
+👓	gan kiann	100
 👓	bak kiann	100
 👕	thi sut	100
 👕	ti sut	100
@@ -441,6 +448,7 @@ sort: by_weight
 💊	ioh uan	100
 💎	suan zioh	100
 💔	sim cui	100
+💡	ting pha	100
 💡	ting phau	100
 💢	siu qi	100
 💣	zee tuann	100
@@ -616,8 +624,8 @@ sort: by_weight
 🚬	sio hun	100
 🚬	tiam hun	100
 🚭	kim ian	100
-🚲	qa la cia	100
-🚲	qa tah cia	100
+🚲	qa lap cia	70
+🚲	qa tah cia	70
 🚹	nLam cee soo	100
 🚺	lIR cee soo	100
 🚺	lu cee soo	100

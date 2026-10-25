@@ -7,8 +7,50 @@ sort: by_weight
 #權利	quan li
 #權力	quan lik
 #權勢	quan se
+骹蹬	qa tenn	57
+四骹蛇	si qa zua	44
+骹疼	qa thiann	8
+骹腕	qa uann	18
+骹臭	qa cau	26
+肉骹	bah qa	10
+榕樹骹	cing ciu qa	84
+榕樹骹	iong ciu qa	84
+有骹	u qa	57
+斷骹	tuInn qa	50
+斷骹斷手	tng qa tng ciu
+骹踏	qa tah	92
+骹指頭	qa zaInn thau	51
+骹尾銀	qa ber gern	100
+骹底	qa tere	86
+骹底抹油	qa tere buah iu
+骹指	qa zaInn	47
+骹指甲	qa zaInn kah	48
+骹掌	qa ziunn	72
+雨雲飛	hoo hui hui	515 
+雨雲飛	hoo hun per	51
+長短骹	tng tEr qa	10
+拳頭屁	kun thau phui	24
+拳頭師	kun thau sai	24
+拳頭母	kun thau bo	10
+拳頭母	kun thau bu	10
+拳頭砧	kun thau tiam	24
+拳頭砧坯	kun thau tiam pher
+左骹	zoO qa	128
+右骹	iu qa	117
+拳頭步	kun thau poo	24
+踏骹	tah qa	50
+靠骹	qua qa	76
+釘骹	tan qa	33
+長短骹	tng tEr qa	10
+跛骹	pai qa	50
+赤骹	ciah qa	81
+骹面	qa bin	54
+骹頭	qa thau	44
+骹鏈	qa lian	7
+樁骹	zng qa	33
+香港骹	hIang kang qa
 鎙仔	sok a	298
-
+揬臭	tuh cau	298
 諾啦	hiooh lah
 假若	ka na	584
 假若是		39
@@ -45,12 +87,11 @@ sort: by_weight
 㴙㴙滴	cap x tih
 㴙㴙落	cap x loh
 㴷㴷	tam x	10
-㽎腳	sim qa
+㽎骹	sim qa
 㾀了了	qiap liau x
 㾀勢	qiap se	10
 㾀勢	qiap si	10
 㾀去	qiap qIR
-㾀嘴斗	qiap cui tau
 㾀屎	qiap sai
 㾀菜籃	qiap cai na
 㾀風櫃	qiap hong kui
@@ -231,8 +272,8 @@ sort: by_weight
 三層肉	sam zan hik
 三擺	sann pai	1000
 三更半暝	sann kenn puann mee
-三腳椅仔	sann qa i a
-三腳貓	sann qa niau
+三骹椅仔	sann qa i a
+三骹貓	sann qa niau
 三邁	sann mai	100
 三除四扣	sann tir si qau
 三除四扣	sann tir si qeru
@@ -251,6 +292,7 @@ sort: by_weight
 上北	ziunn pak
 上北落南	ziunn pak loh nLam
 上卌袂攝	ziunn siap bere liap
+卌九日烏	siap kau jit oo
 上取	ziunn cU
 上吉	sIang kiat
 上墓	ciunn bong
@@ -336,8 +378,8 @@ sort: by_weight
 下碇	hee tiann
 下肥	hee pui
 下脣	ee tun	59
-下腳	ee qa
-下腳手人	ee qa ciu lang
+下骹	ee qa
+下骹手人	ee qa ciu lang
 下輪	ee lun	9
 下過	ee ker	89
 下邁	ee mai	114
@@ -426,6 +468,10 @@ sort: by_weight
 也着到	ia tioh kau
 也着是	ia tioh si
 也着有	ia tioh u
+執癖	zip phiah
+執性	zip sing
+着加鑿	tioh ka tak
+着加鑿	tioh ka cak
 也着比	ia tioh pi
 乾焦	kan na	28
 乾焦	kan ta	28
@@ -461,9 +507,9 @@ sort: by_weight
 五分仔車	goo hun a cia
 五層塔	goo zan thah
 五擺	goo pai	100
-五腳基	goo qa ki
-五腳架	goo qa kee
-五腳砌	goo qa kih
+五骹基	goo qa ki
+五骹架	goo qa kee
+五骹砌	goo qa kih
 五邁	goo mai	100
 亞達子	a tat zi	70
 交伊	kiau i	190
@@ -536,7 +582,7 @@ sort: by_weight
 伏岫	pu siu
 伏膿	pu lang
 伐步	huah poo
-伐腳	huah qa
+伐骹	huah qa
 伙食錢	her sit zy
 伯仔	peeh a
 伯姆	peeh m
@@ -552,9 +598,9 @@ sort: by_weight
 伸筋挽頷	cun kern ban am
 伸腰拔骨	cun io peh kut
 伸腰拔骨	cun io puih kut
-伸腳	cun qa
-伸腳伸手	cun qa cun ciu
-伸腳出手	cun qa cut ciu
+伸骹	cun qa
+伸骹伸手	cun qa cun ciu
+伸骹出手	cun qa cut ciu
 伸輪	cun lun
 伸長手	cun tng ciu
 但使	na sai
@@ -638,7 +684,6 @@ sort: by_weight
 佮伊	kap i
 佮你	kah lIR
 佮你	kap lIR
-佮嘴	kah cui
 佮囝	kap kann
 佮囝	kap kiann
 佮恁	kah lin	190
@@ -801,6 +846,10 @@ sort: by_weight
 做竅	zo qio
 做竅	zue qio
 做腳	zue kioh
+腳數	kioh siau	10
+骹數	qa siau	10
+腳本	kioh pun	550
+丑腳	thiu kioh	1
 做苦旱	zo qoo uann
 做苦旱	zue qoo uann
 做藝	zo gere
@@ -815,16 +864,24 @@ sort: by_weight
 做親情	zue cin ziann	1
 做議量	zo gi niu	1
 做議量	zue gi niu	1
-停嘴	thing cui
+鳥喙	ziau cui	46
 停睏	thing qun
-停腳	thing qa
+停骹	thing qa
 健丟	kian tiu
 偷偷仔	thau x a
 偷問	thau muI
 偷囥	thau qng
 偷巧	thau qa	30
 偷抾	thau qioh
+奶喙	lin cui	80
+奶喙	ling cui	80
 偷挽	thau ban	190
+答好	tap ho	46
+答對	tap tui	84
+答得	tap tit	58
+答應	tah ing	555
+有喙	u cui	5
+
 偷掠	thau liah
 偷掩	thau uInn
 偷搣	thau mee
@@ -923,8 +980,8 @@ sort: by_weight
 兩擺	nDoo pai	100
 兩爿	nDoo paInn
 兩爿邊	nDoo paInn py
-兩腳行	lIang qa kiann
-兩腳騎	lIang qa qia
+兩骹行	lIang qa kiann
+兩骹騎	lIang qa qia
 兩邁	nDoo mai	100
 八寶糜	pereh po ber
 八寶糜	pereh po mue
@@ -1069,7 +1126,7 @@ sort: by_weight
 冉閔	jiam bin	18
 冊亭	ceeh tan
 冊仔	ceeh a
-冊包	ceeh pau
+冊包	ceeh pau	1900
 冊名	ceeh mia
 冊房	ceeh pang
 冊文	ceeh bun	35
@@ -1079,7 +1136,9 @@ sort: by_weight
 冊櫥	ceeh tu
 冊歷	ceeh lik	16
 冊皮	ceeh pher
-冊立	cik lip	47
+內家	lai kee	39
+內孫	lai sun	35
+內媽	lai ma	960
 冊簏仔	ceeh lok a
 冊籤	ceeh ciam
 冊袋	ceeh tEr
@@ -1127,12 +1186,6 @@ sort: by_weight
 凡勢	huam se
 凡若	huam na
 凶勢	hiong se
-凶吉	hiong kiat
-凶吉	hiong kit
-凶報	hiong po
-凶心	hiong sim
-凶葬	hiong zong
-凶險	hiong hiam
 凶鬼鬼	hiong kui x
 出串	cut cuan
 出事誌	cut tai zi
@@ -1191,7 +1244,7 @@ sort: by_weight
 分欉	pun zang
 分田塗	pun can thoo
 分秧	hun ng
-分竈腳	pun zau qa
+分竈骹	pun zau qa
 分聲	hun siann
 分辦	hun pan
 分釐	hun li
@@ -1311,7 +1364,7 @@ sort: by_weight
 加額	kee giah
 加食	kee ziah	12
 勍仔	qiang a
-勥腳	qiang qa
+勥骹	qiang qa
 勺仔	sCiah a
 勻仔	un a
 勻仔是	un a si
@@ -1338,8 +1391,6 @@ sort: by_weight
 匙仔	si a	100
 匯予	hue hoo	10
 十二生相	zap ji senn siunn
-十嘴九尻川	zap cui kau qa cuInn
-十嘴五舌	zap cui goo zih
 十外	zap gua	470
 十外个	zap gua gEe	470
 十外人	zap gua lang	470
@@ -1446,7 +1497,7 @@ sort: by_weight
 厝角	cu kak
 厝身	cu sin
 厝邊	cu py
-厝邊腳兜	cu py qa tau
+厝邊骹兜	cu py qa tau
 厝邊頭尾	cu py thau ber
 厝間	cu kaInn
 厝面	cu bin
@@ -1512,8 +1563,6 @@ sort: by_weight
 合倚	hap ua
 合做堆	hap zo tui
 合做堆	hap zue tui
-合嘴	hah cui
-合嘴	hap cui
 合桌	hap toh
 合的來	hap e lai
 合該然	hap kai jian
@@ -1522,7 +1571,7 @@ sort: by_weight
 吊猴	tiau kau
 吊籃	tiau na
 吊脰	tiau tau
-吊腳	tiau qa
+吊骹	tiau qa
 吊膏	tiau ko
 吊頷	tiau am
 吊鬼仔	tiau kui a
@@ -1543,7 +1592,6 @@ sort: by_weight
 向落去	hiann loh qIR
 向風針	ng hong ziAm
 吝情	lin zing
-吞嘴瀾	thun cui nua
 吞忍	thun lun
 吞瀾	thun nua
 含三缺四	ham sann qerh si
@@ -1563,15 +1611,13 @@ sort: by_weight
 吵洨	ca siau
 吵衰	za sue
 吹狗螺	cer kau lEr
-吹頭毛	cer thau mng
-吹頭毛	cer thau moo
+吹頭毛	cer thau mDoo
 呂宋噶喇吧	lir song ka la pa	54
 周晬	ziu zEr	18
 味噌	bi sooh	503		#日語借詞
 味素粉	bi soo hun
 呵佬	o lo
 呵脬捧卵	o pha phong nuI
-呸嘴瀾	phui cui nua
 呸子	phui zi
 呸捒	phui sak
 呸東呸西	phui tang phui sai
@@ -1604,7 +1650,6 @@ sort: by_weight
 咕咚咕咚	kuh tong x
 咧要	tDeh beh
 咧要	tDeh berh
-咬嘴齒跟	ka cui qi kern
 咯攤	qok thuann	190
 咱人	lan lang
 咱人話	lan lang uee	100
@@ -1631,7 +1676,6 @@ sort: by_weight
 唌人	siann lang
 唐人正	tng lang ziann
 唔唔睏	onn x qun
-唚嘴	zim cui
 唚落去	zim loh qIR	2
 唬秤頭	hoo cin thau
 唬袂着	hoo bere tioh
@@ -1701,13 +1745,18 @@ sort: by_weight
 喝爾	huah ni 190
 喝爾仔	huah ni a 1900
 喝頷	huah am	10
-單腳單手	tan qa tan ciu
+單骹單手	tan qa tan ciu
 嗑嗑	qap x
 嘈嘈	cauh x
-嘈嘈	saunnh x
+騷騷	saunnh x
+騷骹軟蹄	sau qa nuI tere
+未用	ber iOng	46
+騷骹	sau qa
 嘈嘈	zo x
+販騷婆	huan sau po
 嘈嘈唸	cauh x nLiam
-嘈嘈唸	saunnh x nLiam
+騷騷唸	saunnh x nLiam
+鴨味	ah bi
 嘈死	zo si
 嘈齪	zo zak
 嘐六	hau lak
@@ -1717,63 +1766,11 @@ sort: by_weight
 嘓子	qok zi
 嘓魚	qok hIR
 嘔紅	au ang
-嘴䫌	cui phue
-嘴下斗	cui ee tau
-嘴下頦	cui ee hai
-嘴內	cui lai
-嘴凊	cui cin
-嘴利	cui lai
-嘴前話	cui zaInn uee
-嘴口	cui qau
-嘴口定	cui qau tiann
-嘴口話	cui qau uee	190
-嘴口願	cui qau guan
-嘴密	cui bat
-嘴尖舌利	cui ziam zih lai
-嘴尾	cui ber
-嘴拄嘴	cui tu cui
-嘴斗	cui tau
-嘴殘	cui zuann
-嘴水	cui zui
-嘴汫	cui ziann
-嘴汫汫	cui ziann x
-嘴瀾	cui nua
-嘴瀾水	cui nua zui
-嘴焦	cui ta
-嘴燥	cui so
-嘴琴	cui qim
-嘴白	cui peeh
-嘴笑目笑	cui cio bak cio
-嘴箍	cui qoo
-嘴箍話	cui qoo uee
-嘴約	cui Iak
-嘴罨	cui am
-嘴罨	cui om
-嘴罩	cui ta
-嘴翹翹	cui qiau x
-嘴聖	cui siann
-嘴腔	cui qang
-嘴舌	cui zih
-嘴花	cui huee
-嘴說	cui serh
-嘴講	cui kOang
-嘴起凊	cui qi cin
-嘴錦	cui gim
-嘴錦	cui kim
-嘴鬚	cui ciu
-嘴麻	cui ba
-嘴鼓	cui koo
-嘴齒噗噗	cui qi phok phok
-嘴齒岸	cui qi huann
-嘴齒根	cui qi kern
-嘴齒疼	cui qi thiann
-嘴齒痕	cui qi hern
-嘴齒縫	cui qi phang
+喙約	cui Iak
 嘻嘻嘩嘩	hi x huee x
 嘻嘻笑笑	hi x cio x
 噗仔	phok a
 噗噗車	phok x cia
-噤嘴	qiunn cui
 噩噩	gok x
 噭噭	kiau x
 噴水花	phun zui huee
@@ -1815,11 +1812,11 @@ sort: by_weight
 四箍圍仔	si qoo ui a
 四箍輾轉	si qoo lian tuInn
 四箍輾轉	si qoo lin tuInn
-四腳塗豬	si qa too tIR
-四腳杜定	si qa too ting	100
+四骹塗豬	si qa too tIR
+四骹杜定	si qa too ting	100
 杜定	too ting	199
-四腳媽	si qa ma
-四腳蛇	si qa zua
+四骹媽	si qa ma
+四骹蛇	si qa zua
 四邁	si mai	100
 四配	sur phue
 囝仔	kiann a	1900
@@ -1871,9 +1868,10 @@ sort: by_weight
 塗蚓	too lun
 塗蚓	too un
 塗豬	too tIR
-土鍤	thoo ciah
-土鑿仔	thoo cak a
+塗鍤	thoo ciah
+塗鑿仔	thoo cak a
 土雞仔	thoo kere a
+肉雞仔	bah kere a
 塗鱉	thoo pih
 塗鱉	too pih
 在佗	tDeh to	95
@@ -1976,9 +1974,9 @@ sort: by_weight
 塗礱	thoo lang
 塗筍凍	thoo sun tang
 塗粉	thoo hun	47
-塗腳	thoo qa
-塗腳底	thoo qa tere
-塗腳枝	thoo qa ki
+塗骹	thoo qa
+塗骹底	thoo qa tere
+塗骹枝	thoo qa ki
 塗色	thoo sik	54
 塗蒜凍	thoo sng tang
 塗虱	thoo sat
@@ -2026,7 +2024,7 @@ sort: by_weight
 墜精	tui zing
 墜繩	tui zin
 墜肚重	thui too tang
-墜腳氣	tui qa qi
+墜骹氣	tui qa qi
 墜腸	tui tiong
 墜落地	tui loh tere
 墜重	thui tang
@@ -2036,7 +2034,7 @@ sort: by_weight
 墳樹	hun ciu
 壁塗	piah thoo
 壁粉	piah hun
-壁腳	piah qa
+壁骹	piah qa
 壁角	piah kak
 壁邊	piah py
 壺仔	oo a
@@ -2127,7 +2125,7 @@ sort: by_weight
 天猶未光	thy iau ber kuInn
 天纔要光	thy zIAh beh kuInn
 天纔要光	thy zIAh berh kuInn
-天腳下	thy qa ee
+天骹下	thy qa ee
 天落紅雨	thy loh ang hoo	10
 天要光	thy beh kuInn
 天要光	thy berh kuInn
@@ -2146,10 +2144,12 @@ sort: by_weight
 奈何	tai ua		10
 奉請	hong ciann
 契兄	qere hiann
+顧契兄	koo qere hiann
 契小妹	qere sio ber
 契小妹	qere sio mue	190
 契小弟	qere sio ti
 契母	qere bo
+契姆	qere m
 契母	qere bu
 契父	qere pee
 契的	qere e
@@ -2172,10 +2172,6 @@ sort: by_weight
 好叫毋好應	ho kio m ho in
 好味素	ho bi soo	32
 好啥	ho siann
-好嘴	ho cui
-好嘴斗	ho cui tau
-好嘴毋值箠	ho cui m tat cer
-好嘴講毋聽	ho cui kOang m thiann
 好塊	ho tEr
 廿幾	jiap kui
 廿幾个	jiap kui gEe
@@ -2196,7 +2192,7 @@ sort: by_weight
 好歹	ho phayY	599
 好目色	ho bak sik
 好聲	ho siann 
-好腳好手	ho qa ho ciu
+好骹好手	ho qa ho ciu
 好腳數	ho kioh siau
 好食	ho ziah
 好魚好菜	ho hIR ho cai
@@ -2204,7 +2200,9 @@ sort: by_weight
 妹仔	ber a
 妹仔	mai a	10
 妹仔	mue a
+曲屎	qik sai
 姆仔	m a
+神曲	sin qak
 姆姆	m x
 姆婆	m po
 姆媽	m ma	47
@@ -2242,7 +2240,6 @@ sort: by_weight
 婊間	piau kaInn
 媒人公	hm lang kong
 媒人公	mue lang kong
-媒人嘴	mue lang cui	48
 媒人婆	hm lang po	35
 媒人婆	mue lang po	35
 媒人禮	hm lang le
@@ -2395,7 +2392,7 @@ sort: by_weight
 少歲	zio her
 少算	zio suInn
 少缺	zio kerh
-尖腳幼手	ziam qa iu ciu
+尖骹幼手	ziam qa iu ciu
 尛尛	tay x	100
 尛尛箇	tay x koo	100
 尛尛箇仔	tay x koo a	100
@@ -2455,7 +2452,7 @@ sort: by_weight
 屈尺巷	qut cioh hang
 屈尺角	qut cioh kak
 屈手	qut ciu
-屈腳	qut qa
+屈骹	qut qa
 屈頭	qut thau
 屈頭巷	qut thau hang
 屈頭步	qut thau poo
@@ -2471,7 +2468,7 @@ sort: by_weight
 山崎	suann kia	57
 山東白	suann tang peeh
 山濛	suann bong	10
-山腳	suann qa
+山骹	suann qa
 崁蓋	qam kua
 崁起來	qam qi lai
 崁頂	qam ting	24
@@ -2545,7 +2542,7 @@ sort: by_weight
 幼聲	iu siann
 幼肉	iu bah
 幼肉	iu hik
-幼腳	iu qa
+幼骹	iu qa
 幼芒芒	iu bang x
 幼花	iu huee
 幼芽	iu ga	48
@@ -2564,7 +2561,7 @@ sort: by_weight
 幾日仔	kui jit a
 幾爿	kui paInn
 幾箍	kui qoo
-幾腳	kui qa
+幾骹	kui qa
 幾若	kui na
 幾若个	kui na gEe
 幾若工	kui na kang
@@ -2583,8 +2580,8 @@ sort: by_weight
 幾通	kui thang	46
 幾鐳	kui lui
 幾鐳錢	kui lui zy
-庄腳	zng qa
-庄腳人	zng qa lang
+庄骹	zng qa
+庄骹人	zng qa lang
 庄頭	zng thau
 序大	si tua	100
 序大人	si tua lang	100
@@ -2696,7 +2693,6 @@ sort: by_weight
 彼位	hit ui
 彼內	hit lai
 彼卷	hit kuInn
-彼嘴	hit cui
 彼圖	hit too
 彼型	hit hing
 彼場	hit tiunn
@@ -2724,6 +2720,9 @@ sort: by_weight
 彼本	hit pun
 彼條	hit tiau
 彼棟	hit tong
+有當時	u tang si
+有當時仔	u tann si a
+有當時	u tann si
 彼樣	hit iunn
 彼欄	hit nua
 彼款	hit quan
@@ -2731,6 +2730,8 @@ sort: by_weight
 彼氣	hit qui
 彼氣仔	hit qui a
 彼爿	hit paInn
+彼當時	hit tng si
+彼當時	hit tang si
 彼當時	hit tong si
 彼盤	hit puann
 彼碗	hit uann
@@ -2783,7 +2784,7 @@ sort: by_weight
 後母仔	au bo a	43
 後母仔	au bu a	43
 後生家	hau senn kee
-後腳	au qa
+後骹	au qa
 後頭厝	au thau cu
 後首	au ciu	190
 後齻	au zan	180
@@ -3010,7 +3011,7 @@ sort: by_weight
 截肉	zereh bah
 截肉	zereh hik
 截菜	zereh cai
-戲腳	hi qa
+戲骹	hi qa
 戴帽仔	ti bo a
 戴目鏡	ti bak kiann
 戶橂	hoo taInn
@@ -3052,7 +3053,7 @@ sort: by_weight
 手斡彎	ciu uat uan
 手曲	ciu qiau
 手枕	ciu zim
-手櫼腳踢	ciu zy qa that
+手櫼骹踢	ciu zy qa that
 手液	ciu sioh
 手爪黏	ciu jiau nLiam
 手痕	ciu hern
@@ -3118,23 +3119,21 @@ sort: by_weight
 扼咧	kirh lErh 
 扼牢牢	kirh tiau x
 扼絚絚	kirh an x
-找一个	cer zit gEe
 找人	cer lang
 找伊	cer i
 找你	cer lIR
-找奪	cui tuat
 找無人	cer bo lang
 找無路	cer bo loo
 找的着	cer e tioh
 找空找縫	cer qang cer phang
 找路	cer loo
 找頭路	cer thau loo
-找骨聽聲	cui kut thing sing
+綴找	ter cer
+覕找	bih cer
+走找	zau cer
 承塵	sin tin
 承水	sin zui
 承茶	sin tee
-抉嘴	kuat cui
-抉嘴䫌	kuat cui phue
 把位	pee ui
 把場	pee tiunn
 把門人	pee muI lang
@@ -3208,7 +3207,6 @@ sort: by_weight
 拄佇咧	tu tIR tDeh
 拄像	tu ciunn
 拄咧	tu tDeh
-拄嘴	tu cui
 拄壁	tu phiah
 拄好	tu ho
 拄好好	tu ho x
@@ -3334,8 +3332,7 @@ sort: by_weight
 拜四	pai si
 拜日	pai jit
 拭仔	cit a
-拭嘴	cit cui
-拭塗腳	cit thoo qa
+拭塗骹	cit thoo qa
 拭尻川	cit qa cng
 拭手	cit ciu
 拭桌	cit toh
@@ -3382,6 +3379,17 @@ sort: by_weight
 挓火	tha her
 挔衫	hiannh sann
 挕倒	hy to	6
+搤來搤去	iah lai iah qIR
+摀來摀去	oo lai oo qIR
+摀人	oo lang	48
+挖人	uih lang	48
+摀來	oo lai	52
+摀井	oo zenn	51
+搤上	iah ziunn	38
+摀上	oo ziunn	38
+搤倒	iah to	33
+摀倒	oo to	33
+
 挕動	hy tang	158
 挕哼	hy hay
 挕捒	hy sak
@@ -3390,19 +3398,65 @@ sort: by_weight
 挖一空	uih zit qang
 挖半工	uih puann kang
 挖半晡	uih puann poo
-挖塗	oo thoo
+摀塗	oo thoo
 挖塗	uih thoo
 挖塗機	uih thoo ki
-挖心肝	oo sim kuann
+摀心肝	oo sim kuann
+摀出	oo cut	117
+摀出來	oo cut lai	107
+摀到	oo kau	82
+摀去	oo qIR	8
+摀坑	oo qenn	125
+摀好	oo ho	13
+摀得	oo tit	49
+摀掉	oo tiau	51
+摀洞	oo tong	53
+摀溝	oo kau	51
+摀煤	oo mue	53
+摀的	oo e	57
+摀礦	oo qong	142
+摀空	oo qang	59
+摀穿	oo cuInn	38
+摀耳匙	oo hi si	6
+摀路	oo loo	38
+摀走	oo zau	55
+摀過	oo ker	45
+摀開	oo qui	54
+摀除	oo tir	43
+摀臭	oo cau
+搤出	iah cut	117
+搤出來	iah cut lai	107
+搤到	iah kau	82
+搤去	iah qIR	8
+搤坑	iah qenn	125
+搤大	iah tua	38
+搤好	iah ho	13
+搤孔	iah qong	31
+搤泥	iah ni	50
+搤洞	iah tong	53
+搤溝	iah kau	51
+搤煤	iah mue	53
+搤鎖	iah so
+搤門	iah muI
+搤箱仔	iah siunn a
+搤的	iah e	57
+搤礦	iah qong	142
+搤空	iah qang	59
+搤穿	iah cuInn	38
+搤耳匙	iah hi si	6
+搤走	iah zau	55
+搤起	iah qi	48
+搤過	iah ker	45
+搤開	iah qui	54
 挖心肝	uih sim kuann
 挖着	uih tioh
-挖空	oo qang
+摀空	oo qang
 挖空	uih qang
 挖耳屎	uih hi sai
-挖耳空	iah hi qang	42
-挖耳空	oo hi qang	42
+搤耳空	iah hi qang	42
+摀耳空	oo hi qang	42
 挖耳空	uih hi qang	42
-挖飯	oo puInn
+摀飯	oo puInn
 挨倒	ere to
 挨拶	ai sat cuh	100		#日語借詞
 挨石磨	ere zioh bo
@@ -3424,7 +3478,6 @@ sort: by_weight
 挵鼓	long koo
 挺袂牢	thing bere tiau	51
 挼目睭	jer bak ziu
-挽嘴齒	ban cui qi
 挽瓜揫藤	ban kuee ciu tin
 挽筋	ban kern
 挽脈	ban beeh
@@ -3446,8 +3499,7 @@ sort: by_weight
 捆身	qun sin
 捋仔	luah a
 捋頭	luah thau
-捋頭毛	luah thau mng
-捋頭毛	luah thau moo
+捋頭毛	luah thau mDoo
 捋頭鬃	luah thau zang
 捎掠	sa liah
 捎錢	sann zy
@@ -3485,7 +3537,7 @@ sort: by_weight
 捶扁	tui py
 捶扁去	tui py qIR
 捶胸坎	tui hing qam
-捶胸蹔腳	tui hing zam qa
+捶胸蹔骹	tui hing zam qa
 捶衫	tui sann
 捷捷	ziap x
 捷捷仔	ziap x a
@@ -3524,7 +3576,7 @@ sort: by_weight
 掠直	liah tit	10
 掠着	liah tioh	10
 掠筊	liah kiau	10
-掠腳掠手	liah qa liah ciu	10
+掠骹掠手	liah qa liah ciu	10
 掠賊	liah cat	10
 掠走	liah zau	51
 掠過	liah ker	110
@@ -3540,7 +3592,7 @@ sort: by_weight
 掣走	cuah zau
 接位	ziap ui
 接後	ziap au
-接腳	ziap qa
+接骹	ziap qa
 接袂牢	ziap bere tiau
 接載袂牢	zih zai bere tiau
 控壁	qang piah
@@ -3578,14 +3630,13 @@ sort: by_weight
 揀東揀西	kaInn tang kaInn sai
 揀菜	kaInn cai
 揀食	kaInn ziah
-揉塗腳	jiu thoo qa
-插一腳	cap zit qa
+揉塗骹	jiu thoo qa
+插一骹	cap zit qa
 插事誌	cap tai zi
-插嘴插舌	cap cui cap zih
 插洨	cap siau
 插牌	cap pai
 插管	cap kuan	150
-插腳插手	cap qa cap ciu
+插骹插手	cap qa cap ciu
 插走	cap zau
 插雜	cap zap
 揕捒	thim sak
@@ -3739,10 +3790,9 @@ sort: by_weight
 撆手䘼	pih ciu uInn
 撆紮	pih zah
 撆褲	pih qoo
-撆褲腳	pih qoo qa
+撆褲骹	pih qoo qa
 撈勺	hoo sCiah
-撐腸拄肚	therng tCIang tu too
-撐腸拄腹	therng tCIang tu hok
+跍屎礐	qu sai hak
 撓疕	hiau phi
 撚人	lian lang
 撜力	tenn lat
@@ -3848,7 +3898,6 @@ sort: by_weight
 攪吵	kiau ca
 攪絞	kiau ka
 收仙	siu sian
-收嘴	siu cui
 收囥	siu qng
 收堅	siu kian
 收定	siu tiann
@@ -3866,7 +3915,7 @@ sort: by_weight
 收疕	siu phi
 收稅單	siu ser tuann
 收細	siu sere
-收腳	siu qa
+收骹	siu qa
 收陣	siu tin
 收領	siu nia
 收額	siu giah
@@ -4089,7 +4138,7 @@ sort: by_weight
 曲去	qiau qIR
 曲痀	qiau ku
 曲盤	qik puann
-曲腳	qiau qa
+曲骹	qiau qa
 書架仔	zir kee a
 替工	there kang	34
 會一症	eRe zit zing
@@ -4176,8 +4225,6 @@ sort: by_weight
 有合	u hah
 有合算	u hah suInn
 有向	u ng
-有嘴無瀾	u cui bo nua
-有嘴無舌	u cui bo zih	8
 有底置	u tere ti
 有形頭	iu hing thau
 有影	u iann
@@ -4193,6 +4240,35 @@ sort: by_weight
 有時節	u si zereh
 有時陣	u si zun
 有暝無日	u mee bo jit
+羅經	lo kenn	48
+羅經	lua kenn	48
+無裝備	bo zong pi	5
+無骹	bo qah	49
+無骹蟹	bo qa here
+無骹鳥	bo qa ziau
+無聲息	bo siann sit
+無聲音	bo siann im
+無聲無息	bo siann bo sit
+無錯	bo co	1200
+無聲	bo siann	176
+無縫	bo phang	137
+無緣	bo ian	177
+無管	bo kuan	3900
+焦面大士	ta bin tua sur
+焦耳	ta hi	166
+無算	bo suInn	166
+無禮	bo le	80
+無神	bo sin	60
+無知無覺	bo ti bo kak
+無癮	bo gian	10
+無疑誤	bo gi goo	10
+無甚物	bo siam mih	1900
+無甚物	bo sim mih	1900
+甚物	sim mih	6000
+甚物	siam mih	6000
+無啥物	bo siann mih	1900
+無管伊	bo kuan i	10
+無行	bo kiann	1000
 有槌	u thui
 有法得	u huap lit
 有法得	u huap tit
@@ -4204,7 +4280,7 @@ sort: by_weight
 有算無貫	u suInn bo kuInn
 有精差	u zing ca
 有聖	u siann
-有腳有手	u qa u ciu
+有骹有手	u qa u ciu
 有膏	u ko
 有若無	u na bo
 有蓋的	u kua e
@@ -4370,7 +4446,7 @@ sort: by_weight
 桌帷	toh ui
 桌櫃	toh kui
 咧囝	lerh kiann
-桌腳	toh qa
+桌骹	toh qa
 桌裙	toh kun
 桌角	toh kak
 桌面板	toh bin pan
@@ -4405,7 +4481,7 @@ sort: by_weight
 棕蓑	zang sui
 棗仔	zo a
 棚仔	penn a
-棚腳	penn qa
+棚骹	penn qa
 棺柴	kuann ca
 𧌄栱蟬	iam kong zun
 棺柴枋	kuann ca pang
@@ -4452,7 +4528,7 @@ sort: by_weight
 樓仔厝	lau a cu
 樓梯層	lau thui zan
 樓楹	lau y	190
-樓腳	lau qa
+樓骹	lau qa
 標會仔	pio hue a
 標着	pio tioh
 樟仔	ziunn a
@@ -4473,7 +4549,7 @@ sort: by_weight
 樹目	ciu bak
 樹空	ciu qang	26
 樹絡	ciu le
-樹腳	ciu qa
+樹骹	ciu qa
 樹腹	ciu pak
 樹芽	ciu gee
 樹蜞	ciu qi
@@ -4481,7 +4557,7 @@ sort: by_weight
 樹頭	ciu thau
 橋枋	kio pang
 橋柱	kio thiau
-橋腳	kio qa
+橋骹	kio qa
 橋頂	kio ting
 機仔布	kui a poo
 橫人	huay lang
@@ -4531,7 +4607,6 @@ sort: by_weight
 歕鼓吹	pun koo cer
 歡頭喜面	huann thau hi bin
 止嗽	zi sau
-止嘴焦	zi cui ta
 止血布	zi huih poo
 止袂牢	zi bere tiau
 正南爿	ziann nLam paInn	46
@@ -4628,7 +4703,7 @@ sort: by_weight
 死賴	si lua	1
 死賴人	si lua lang	1
 死趖	si so	1
-死鴨仔硬嘴䫌	si ah a ngee	100
+死鴨仔硬喙䫌	si ah a ngee	100
 殕仔光	phu a kuInn
 殕光	phu kuInn
 殕殕	phu x
@@ -4749,12 +4824,11 @@ sort: by_weight
 比範	pi pan
 比論	pi lun
 比長論短	pi tng lun ter
-毛尾仔	mng ber a
-毛尾仔	moo ber a
+毛尾仔	mDoo ber a
 毛管	mDoo kuInn
+毛管絲	mDoo kuInn si
 毛管腔	mDoo kuInn qang
-毛腳	mng qa
-毛腳	moo qa
+毛骹	mDoo qa
 毯仔	than a
 毽仔	kian a	52
 氣喘入	qui cuan jip
@@ -4896,17 +4970,15 @@ sort: by_weight
 注心注肝	zu sim zu kuann
 注神	zu sin
 洋飛獅	iunn per sai
-洗嘴	sere cui	10
-洗嘴齒	sere cui qi
 洗捒	sere sak
 洗汰	sere thua
 洗碗箸	sere uann tir
-洗腳	sere qa
+洗骹	sere qa
 洗衫	sere sann
 洗衫機	sere sann ki
 洗衫粉	sere sann hun
 洗衫褲	sere sann qoo
-洗身	sere sin
+洗身	sere sin	1900
 洗身水	sere sin zui
 洗頭水	sere thau zui
 洘旱	qo huann
@@ -4960,7 +5032,7 @@ sort: by_weight
 海漲	hai tiunn
 海瓜子	hai kuee zi
 海翁	hai ang
-海腳	hai qa
+海骹	hai qa
 海虼蚻	hai ka zuah
 海豬	hai tIR
 海邊仔	hai py a
@@ -4990,7 +5062,7 @@ sort: by_weight
 添價	thy kee
 添壽	thiam siu
 添油	thy iu
-添腳添手	thy qa thy ciu
+添骹添手	thy qa thy ciu
 添話	thy uee
 添錢	thy zy
 添飯	thiam puInn
@@ -5066,8 +5138,7 @@ sort: by_weight
 滾衫墘	kun sann ky
 滿四界	mua si kere
 滿滿是	mua x si	328
-漉嘴	gok cui
-漉嘴	lok cui
+漉喙	gok cui
 漉漉	lok x
 漏屎	lau sai
 漏氣	lau qui	83
@@ -5221,7 +5292,7 @@ sort: by_weight
 烏名單	oo mia tuann
 烏唆唆	oo so x
 烏喌喌	oo ziuh x
-烏嘴	oo cui
+烏喙	oo cui
 烏囉唆	oo lo so
 烏塗	oo thoo	34
 烏墨	oo bak	48
@@ -5266,7 +5337,7 @@ sort: by_weight
 烏糖	oo thng
 烏糖粿	oo thng ker
 烏胿魚	oo kui hIR
-烏腳蠓	oo qa bang
+烏骹蠓	oo qa bang
 烏臭臭	oo cau x
 烏色	oo sik
 烏虼蠐	oo ka ze
@@ -5300,7 +5371,6 @@ sort: by_weight
 烘肉	hang bah
 烘青	hang cenn	43
 烘魚	hang hIR
-烙烙玉	lok x giok
 烞薰	pok hun
 烧煦煦	sio uh x
 焙飯	per puInn
@@ -5317,7 +5387,6 @@ sort: by_weight
 無伊法	bo i huap
 無伴	bo phuann
 無低	bo kee	397
-無佛處稱尊	bu hut cir cing zun
 無佮意	bo kah i
 無依倚	bo i ua
 無依無倚	bo i bo ua
@@ -5332,6 +5401,445 @@ sort: by_weight
 無偌久	bo jua ku	33
 無偌濟	bo gua zere
 無偌濟	bo jua zere
+真䆀	zin bai	300
+真低	zin kee	38
+野假	ia kee
+真躼	zin lo	70
+真躼	zin lio	70
+真冰	zin ping	300
+真冷	zin ling	24
+真凊	zin cin	300
+野親	ia cin	300
+誠厚	ziann kau	845
+野厚	ia kau	845
+真厚	zin kau	845
+誠合	ziann hah	114
+真合	zin hah	114
+真有	zin u	11272
+誠敢	ziann kann	213
+誠有	ziann u	19000
+真凝	zin gan	300
+真厚	zin kau	300
+真好	zin ho	32400
+真嚴	zin giam	727
+野嚴	ia giam	727
+誠嚴	ziann giam	727
+真媠	zin sui	22
+真寒	zin kuann	300
+真慢	zin ban	24	300
+真全	zin zuan	919
+真吵	zin ca	279
+真嫩	zin lun	243
+真富	zin pu	41
+真少	zin zio	2789
+真巧	zin qa	253
+真差	zin ca	524
+真平	zin penn	195
+真像	zin ciunn	6960
+真亮	zin liang	420
+真俗	zin siok	250
+真值	zin tat	16
+真久	zin ku	1094
+真乖	zin kuai	656
+真亂	zin luan	1041
+真急	zin kip	887
+真快	zin quai	1242
+真怪	zin kuai	502
+真恨	zin hern	594
+真悶	zin bun	711
+真擠	zin qereh	527
+真新	zin sin	569
+真早	zin za	1909
+真旺	zin ong	94
+真晚	zin uan	169
+甚䆀	see bai	300
+甚低	see kee	38
+甚躼	see lo	70
+甚冰	see ping	300
+甚冷	see ling	24
+甚凊	see cin	300
+甚厚	see kau	845
+甚合	see hah	114
+甚有	see u	11272
+甚凝	see gan	300
+甚厚	see kau	300
+甚好	see ho	32400
+甚嚴	see giam	727
+甚媠	see sui	22
+甚寒	see kuann	300
+甚慢	see ban	24	300
+甚全	see zuan	919
+甚吵	see ca	279
+甚嫩	see lun	243
+甚富	see pu	41
+甚少	see zio	2789
+甚差	see ca	524
+甚平	see penn	195
+甚像	see ciunn	6960
+甚亮	see liang	420
+甚俗	see siok	250
+甚久	see ku	1094
+甚乖	see kuai	656
+甚亂	see luan	1041
+甚急	see kip	887
+甚快	see quai	1242
+甚怪	see kuai	502
+甚恨	see hern	594
+甚悶	see bun	711
+甚擠	see qereh	527
+甚新	see sin	569
+甚早	zi za	1909
+甚旺	see ong	94
+甚晚	see uan	169
+甚暖	see nLuan	316
+甚暗	see am	557
+甚熱	see juah	1271	300
+甚燒	see sio	300
+甚痟	see siau	10	300
+甚短	see tEr	150
+甚緊	see kin	386
+甚薄	see poh	300
+甚鬼	see kui	1300
+甚尖	see ziam	467
+甚闊	see quah	300
+甚槌	see thui	1800
+甚澀	see siap	190
+甚僫	see oh	1900
+甚戇	see gong	1900
+甚烏	see oo	190
+甚白	see peeh	100
+誠黃	ziann uInn	100
+甚黃	see uInn	100
+甚臭	see cau	100
+誠臭	ziann cau	100
+野臭	ia cau	100
+誠健	ziann kiann	1000
+真健	zin kiann	1000
+甚健	see kiann	1000
+野健	ia kiann	1000
+甚遠	see huInn	1000
+甚藍	see lam	66
+甚窮	see kiong	742
+甚脆	see cer	215
+甚癢	see ziunn	122
+甚直	see tit	364
+甚破	see phua	112
+甚穩	see un	874
+甚皮	see phi	874
+甚拚	see piann	190
+甚想	see siunn	2425
+甚烈	see liat	308
+甚煩	see huan	1124
+甚熟	see sik	1074
+甚燙	see thng	165
+甚爛	see nua	1482
+甚溜	see liu	157
+甚爽	see song	200
+甚狹	see ereh
+甚猛	see bing	467
+甚猛	see mee	467
+甚毒	see tok	504
+甚氣	see qi	548
+甚沉	see tiam	165
+甚油	see iu	501
+甚涼	see liang	90
+甚淡	see tam	720
+甚深	see cim	2598
+甚淺	see ciam	485
+甚清	see cing	406
+甚準	see zun	840
+甚溼	see sip	484
+甚滑	see kut	141
+甚滿	see mua	141
+甚濃	see nLong	801
+甚凶	see hiong	100
+甚強	see kIang	14373
+甚𠢕	see gau	100
+甚𪁎	see cio	100
+甚厲害	see li hai	100
+真暖	zin nLuan	316
+真暗	zin am	557
+誠全	ziann zuan	919
+誠吵	ziann ca	279
+誠嫩	ziann lun	243
+誠富	ziann pu	41
+誠少	ziann zio	2789
+誠巧	ziann qa	253
+誠差	ziann ca	524
+誠平	ziann penn	195
+誠像	ziann ciunn	6960
+誠亮	ziann liang	420
+誠俗	ziann siok	250
+誠值	ziann tat	16
+誠久	ziann ku	1094
+誠乖	ziann kuai	656
+誠亂	ziann luan	1041
+誠急	ziann kip	887
+誠快	ziann quai	1242
+誠怪	ziann kuai	502
+誠恨	ziann hern	594
+誠悶	ziann bun	711
+誠擠	ziann qereh	527
+誠新	ziann sin	569
+誠早	zi za	1909
+誠旺	ziann ong	94
+誠晚	ziann uan	169
+誠暖	ziann nLuan	316
+誠暗	ziann am	557
+野全	ia zuan	919
+野吵	ia ca	279
+野嫩	ia lun	243
+野富	ia pu	41
+野少	ia zio	2789
+野巧	ia qa	253
+野差	ia ca	524
+野平	ia penn	195
+野像	ia ciunn	6960
+野亮	ia liang	420
+野俗	ia siok	250
+野值	ia tat	16
+野久	ia ku	1094
+野乖	ia kuai	656
+野亂	ia luan	1041
+野急	ia kip	887
+野快	ia quai	1242
+野怪	ia kuai	502
+野恨	ia hern	594
+野悶	ia bun	711
+野擠	ia qereh	527
+野新	ia sin	569
+肚腸	too tng	50
+肚綰	too kuann
+野早	zi za	1909
+野旺	ia ong	94
+野晚	ia uan	169
+野暖	ia nLuan	316
+野暗	ia am	557
+真張	zin tiunn	1040
+真熱	zin juah	1271
+挰死	tenn si	536
+真燒	zin sio	300
+真痟	zin siau	10	300
+真短	zin tEr	150
+真緊	zin kin	386
+真薄	zin poh	300
+誠䆀	ziann bai	300
+真鬼	zin kui	1300
+野尖	ia ziam	300
+誠尖	ziann ziam	467
+真尖	zin ziam	467
+真闊	zin quah	300
+誠圓	ziann y	1800
+野圓	ia y	1800
+野扁	ia py	1800
+真槌	zin thui	1800
+誠槌	zin thui	1800
+野鹹	ia kiam	1800
+野疼	ia thiann	1900
+誠疼	ziann thiann	1900
+野汫	ia ziann	190
+野澀	ia siap	190
+真澀	zin siap	190
+誠澀	ziann siap	190
+誠低	ziann kee	300
+誠僫	ziann oh	150
+真僫	zin oh	1900
+誠冰	ziann ping	150
+誠冷	ziann ling	150
+誠凊	ziann cin	150
+誠凝	ziann gan	150
+誠厚	ziann kau	150
+誠夠	ziann kau	150
+誠好	ziann ho	150
+誠寒	ziann kuann	300
+誠寒	ziann kuann	10
+誠實	ziann sit	187
+誠少	ziann zio	10
+誠慢	ziann ban	10
+誠擠	ziann qereh	52
+誠歹	ziann phayY	3000
+誠濟	ziann zere	300
+誠熱	ziann juah	300
+誠燒	ziann sio	150
+誠狹	ziann ereh	300
+誠短	ziann tEr	300
+誠細	ziann sere	102
+誠緊	ziann kin	300
+誠薄	ziann poh	300
+誠躼	ziann lio	100
+誠躼	ziann lo	100
+誠長	ziann tng	300
+誠闊	ziann quah	300
+誠高	ziann kuAy	300
+誠高	ziann kuAy	2883
+野㜅	ia thik	300
+野低	ia kee	300
+野冰	ia ping	300
+野冷	ia ling	300
+野凊	ia cin	300
+野凝	ia gan	300
+野厚	ia kau	300
+野好	ia ho	300
+野媠	ia sui	220
+野寒	ia kuann	300
+野少	ia zio	300
+野慢	ia ban	300
+野死	ia si	21
+野濟	ia zere	300
+野熱	ia juah	300
+野燒	ia sio	300
+野狹	ia ereh	300
+野短	ia tEr	300
+野緊	ia kin	300
+野老	ia lau	48
+誠老	ziann lau	1900
+真戇	zin gong	1900
+誠戇	ziann gong	1900
+野戇	ia gong	1900
+誠紅	ziann ang	1900
+野紅	ia ang	1900
+真烏	zin oo	190
+誠烏	ziann oo	1900
+野烏	ia oo	190
+真白	zin peeh	100
+野白	ia peeh	100
+誠白	ziann peeh	100
+野粗	ia coo	190
+誠粗	ziann coo	100
+誠遠	ziann huInn	1900
+誠近	ziann kern	190
+真遠	zin huInn	1000
+真藍	zin lam	66
+野藍	ia lam	100
+誠藍	ziann lam	66
+野薄	ia poh	300
+野赤	ia ciah	300
+野躼	ia lio	190
+野長	ia tng	300
+野闊	ia quah	3000
+野遠	ia huInn	300
+野近	ia kern	300
+野㾪	ia san	300
+野肥	ia pui	300
+野細	ia sere	1900
+野高	ia kuAy	300
+真窮	zin kiong	742
+真窮	zin kiOng	742
+野窮	ia kiong	100
+野窮	ia kiOng	100
+誠窮	ziann kiOng	100
+誠窮	ziann kiong	100
+誠精	ziann zing	99
+野精	ia zing	99
+誠脆	ziann cer	215
+真脆	zin cer	215
+真癢	zin ziunn	122
+誠癢	ziann ziunn	122
+野癢	ia ziunn	100
+真直	zin tit	364
+野直	ia tit	109
+誠直	ziann tit	100
+野矮	ia ere	103
+真破	zin phua	112
+野破	ia phua	100
+誠破	ziann phua	100
+誠𠕇	ziann taInn	112
+野𠕇	ia taInn	112
+真𠕇	zin taInn	112
+野硬	ia ngee	770
+誠硬	ziann ngee	100
+野穩	ia un	874
+誠穩	ziann un	874
+真穩	zin un	874
+誠皮	ziann phi	874
+真皮	zin phi	874
+真拚	zin piann	190
+誠想要	ziann siunn beh	2425
+誠想要	ziann siunn berh	2425
+誠想	ziann siunn	2425
+野想要	ia siunn beh	2425
+野想要	ia siunn berh	2425
+野想	ia siunn	2425
+真想	zin siunn	2425
+真想要	zin siunn beh	2425
+真想要	zin siunn berh	2425
+真烈	zin liat	308
+誠烈	ziann liat	308
+誠煩	ziann huan	1124
+真煩	zin huan	1124
+真熟	zin sik	1074
+誠熟	ziann sik	1074
+野熟	zin sik	1074
+真燙	ia thng	165
+真燙	ziann thng	165
+真燙	zin thng	165
+野爛	ia nua	1482
+誠爛	ziann nua	1482
+真爛	zin nua	1482
+真溜	zin liu	157
+野爽	ia song	200
+誠爽	ziann song	200
+真爽	zin song	200
+真狹	zin ereh
+真猛	zin bing	467
+真猛	zin mee	467
+誠猛	ziann bing	467
+誠猛	ziann mee	467
+野猛	ia bing	100
+真毒	zin tok	504
+真氣	zin qi	548
+
+真沉	zin tiam	165
+真油	zin iu	501
+真涼	zin liang	90
+真淡	zin tam	720
+真深	zin cim	2598
+真淺	zin qin	485
+真淺	zin ciam	485
+真清	zin cing	406
+真準	zin zun	840
+真溼	zin sip	484
+真滑	zin kut	141
+真滿	zin mua	141
+真濃	zin nLong	801
+誠毒	ziann tok	504
+誠氣	ziann qi	548
+誠沉	ziann tiam	165
+誠油	ziann iu	501
+誠涼	ziann liang	90
+誠淡	ziann tam	720
+誠深	ziann cim	2598
+誠淺	ziann qin	485
+誠淺	ziann ciam	485
+誠清	ziann cing	406
+誠準	ziann zun	840
+誠溼	ziann sip	484
+誠滑	ziann kut	141
+誠滿	ziann mua	141
+誠濃	ziann nLong	801
+野毒	ia tok	504
+野氣	ia qi	548
+野水	ia zui	757
+野沉	ia tiam	165
+野油	ia iu	501
+野涼	ia liang	90
+野淡	ia tam	720
+野深	ia cim	2598
+野淺	ia qin	485
+野淺	ia ciam	485
+野清	ia cing	406
+野準	ia zun	840
+野溼	ia sip	484
+野滑	ia kut	141
+野滿	ia mua	141
+野濃	ia nLong	801
+誠凶	ziann hiong	100
+真凶	zin hiong	100
+誠強	ziann kIang	14373
+野強	ia kIang	14373
+真強	zin kIang	14373
+
+
 無偷無搶	bo thau bo ciunn
 無共	bo kang	10684
 無共款	bo kang quan
@@ -5672,6 +6180,7 @@ sort: by_weight
 爐竈	loo zau
 爛去	nua qIR
 爛塗	nua thoo
+爛塗糜	
 爛糊糊	nua koo x
 爛𤶃仔	nua thiau a
 爪仔	jiau a	181
@@ -5697,7 +6206,7 @@ sort: by_weight
 牆仔頂	ciunn a ting
 牆圍	ciunn ui
 牆壁籐	ciunn piah tin
-牆腳	ciunn qa
+牆骹	ciunn qa
 牆路	ciunn loo
 牆階	ciunn kere
 牆階圍	ciunn kere ui
@@ -5711,7 +6220,7 @@ sort: by_weight
 牌子貨	pai zi her
 牛公	gu kang
 牛哥	gu ko
-牛嘴罨	gu cui am
+牛喙罨	gu cui am
 牛屎巴	gu sai pa
 牛屎色	gu sai sik
 牛摔仔	gu sut a
@@ -5740,6 +6249,9 @@ sort: by_weight
 物啥物	mih siann mih	10
 物啥物	mih siann mngh	10
 物啥鬼	mih siann kui	10
+哪物	na mih	1000
+哪物鬼	na mih kui	1000
+啥物	sannh mih	1000
 物配	mih pher
 物配	mngh pher
 物鬼	mih kui	10
@@ -5798,7 +6310,16 @@ sort: by_weight
 猴囡仔		15
 猴死囡仔		15
 猴猴	kau x	190
-猴腳猴手	kau qa kau ciu
+猴骹猴手	kau qa kau ciu
+圖冊館	too ceeh kuan	60
+圖冊	too ceeh	60
+冊店	ceeh taInn	60
+冊店	ceeh tiam	60
+買冊	bere ceeh
+賣冊	bere ceeh
+冊局	ceeh kiok
+
+猴仔齊天	kau a ze thian
 猴齊天	kau ze thian
 猶佫	a koh
 猶佫	ia koh
@@ -5947,15 +6468,14 @@ sort: by_weight
 生驚	cenn kiann
 產仔	san zur	54
 甪仔	lut a
-甪仔嘴	lut a cui
+甪仔喙	lut a cui
 甪任	lut jim
 甪價	lut kee
 甪名	lut mia
 甪官	lut kuann
 甪手	lut ciu
 甪捒	lut sak
-甪毛	lut mng
-甪毛	lut moo
+甪毛	lut mDoo
 甪漆	lut cat
 甪班	lut pan
 甪疕	lut phi
@@ -5999,7 +6519,6 @@ sort: by_weight
 畏事	ui sur
 畏做	ui zo
 畏做	ui zue
-畏嘴	ui cui
 畏嚇	ui hiannh
 畏擽	ui ngiau
 畏某	ui boo
@@ -6058,8 +6577,10 @@ sort: by_weight
 畫虎𡳞	ueeh hoo lan
 畫龍畫鳳	uee liOng uee hong
 畫龍畫鳳	ueeh liOng ueeh hong
+當作	tng zoh	190
 當作	tang zoh	190
 當作	tong zoh	190
+教伊	ka i	97
 當其時	tang ki si	100
 當其時	tong ki si	100
 當其然	tong ki jian	100
@@ -6122,7 +6643,7 @@ sort: by_weight
 瘕痀	hee ku	100     #哮喘
 瘕瘕嗽	hee x sau	10
 瘸手	qer ciu
-瘸腳	qer qa
+瘸骹	qer qa
 癩膏	thai ko
 癮哭	gian qau
 癮啉	gian lim
@@ -6131,7 +6652,6 @@ sort: by_weight
 癮笑	gian cio
 癮食	gian ziah
 癸水	kui sui
-發嘴齒	huat cui qi
 發穎	huat y
 發穎	puh y
 發粿	huat ker
@@ -6216,19 +6736,18 @@ sort: by_weight
 盤牆	puann ciunn
 盤蹲	phuan zun
 盤車	puann cia
-目尾	bak ber
-目屎	bak sai
+目尾	bak ber	1900
+目屎	bak sai	1900
 目屎膏	bak sai ko
 目後	bak au
 目油	bak iu
 目洨	bak siau
-目滓	bak zai
+目滓	bak zai	1900
 目珠仔	bak zu a	70
 目珠仔	bak zu a	72
 目皮	bak pher
 目眉	bak bai
-目睫毛	bak ziah mng
-目睫毛	bak ziah moo
+目睫毛	bak ziah mDoo
 目睭	bak ziu
 目睭仁	bak ziu lin
 目睭放瞌	bak ziu pang qereh
@@ -6344,34 +6863,13 @@ sort: by_weight
 一下覓	zit ee bai
 一下覓	zit ee mai
 看賺	quann tann
-真䆀	zin bai
-真低	zin kee	38
-真躼	zin lo	70
-真躼	zin lio	70
-真冰	zin ping
-真冷	zin ling	24
-真凊	zin cin
-真凝	zin gan
-真厚	zin kau
-真好	zin ho	324
-真媠	zin sui	22
-真寒	zin kuann	#092
 真想要	zin siunn berh	11
-真慢	zin ban	24	#092
-真熱	zin juah	1271	#092
-真燒	zin sio	#092
-真痟	zin siau	10	#092
-真短	zin tEr 
-真緊	zin kin	386	#092
-真薄	zin poh	#092
-真贗	zin gan
-真闊	zin quah	#092
 真𠢕	zin gau	#092
 眠一下	bin zit e
 眠夢	bin bang
 眠牀	bin cng
 眠牀枋	bin cng pang
-眠牀腳	bin cng qa
+眠牀骹	bin cng qa
 眠牀頂	bin cng ting
 眩眩	hin x
 眩船	hin zun
@@ -6421,7 +6919,7 @@ sort: by_weight
 睇燈	thaInn terng	574
 睏去	qun qIR
 睏坦橫	qun than huay
-睏塗腳	qun thoo qa
+睏塗骹	qun thoo qa
 睏夢	qun bang
 睏房	qun pang
 睏日時	qun jit si
@@ -6500,6 +6998,135 @@ sort: by_weight
 石猴	zioh kau
 石獅仔	zioh sai a
 石硯	siah hy
+
+㾀嘴斗	qiap cui tau
+佮嘴	kah cui
+喙嘴	cui zui
+翘喙嘴	qiau cui zui
+落嘴	loh cui	1
+一嘴	zit cui	550
+一嘴咯	zui cui kok	10
+嘴齒	cui qi	200
+嘴渴	cui quah	18
+盤嘴錦	puann cui kim	35
+嘴角	cui kak	221
+答嘴鼓	tap cui koo
+有嘴無心	u cui bo sim
+有耳無嘴	u hi bo cui
+有耳無嘴	u hy bo cui
+拍嘴鼓	phah cui koo	39
+應嘴	in cui	19
+應嘴應舌	in cui in zih
+忌嘴	ki cui	40
+忌嘴	qi cui	40
+十嘴九尻川	zap cui kau qa cuInn
+十嘴五舌	zap cui goo zih
+合嘴	hah cui
+合嘴	hap cui
+吞嘴瀾	thun cui nua
+呸嘴瀾	phui cui nua
+咬嘴齒跟	ka cui qi kern
+唚嘴	zim cui
+嘴面	cui bin	200
+嘴䫌	cui phue
+嘴下斗	cui ee tau
+嘴下頦	cui ee hai
+嘴內	cui lai
+嘴凊	cui cin
+嘴利	cui lai
+嘴前話	cui zaInn uee
+嘴口	cui qau
+嘴口定	cui qau tiann
+嘴口話	cui qau uee	190
+嘴口願	cui qau guan
+嘴密	cui bat
+嘴尖舌利	cui ziam zih lai
+嘴尾	cui ber
+嘴拄嘴	cui tu cui
+嘴斗	cui tau
+嘴殘	cui zuann
+嘴水	cui zui
+嘴汫	cui ziann
+嘴汫汫	cui ziann x
+嘴瀾	cui nua
+嘴瀾水	cui nua zui
+嘴焦	cui ta
+嘴燥	cui so
+嘴琴	cui qim
+嘴白	cui peeh
+嘴笑目笑	cui cio bak cio
+嘴箍	cui qoo
+嘴箍話	cui qoo uee
+嘴罨	cui am
+嘴罨	cui om
+嘴罩	cui ta
+嘴翹翹	cui qiau x
+嘴聖	cui siann
+嘴腔	cui qang
+嘴舌	cui zih
+嘴花	cui huee
+嘴說	cui serh
+嘴講	cui kOang
+嘴起凊	cui qi cin
+嘴錦	cui gim
+嘴錦	cui kim
+嘴鬚	cui ciu
+嘴麻	cui ba
+嘴鼓	cui koo
+嘴齒噗噗	cui qi phok phok
+嘴齒岸	cui qi huann
+嘴齒根	cui qi kern
+嘴齒疼	cui qi thiann
+嘴齒痕	cui qi hern
+嘴齒縫	cui qi phang
+噤嘴	qiunn cui
+好嘴	ho cui
+好嘴斗	ho cui tau
+好嘴毋值箠	ho cui m tat cer
+好嘴講毋聽	ho cui kOang m thiann
+媒人嘴	mue lang cui	48
+彼嘴	hit cui
+抉嘴	kuat cui
+抉嘴䫌	kuat cui phue
+拄嘴	tu cui
+拭嘴	cit cui
+挽嘴齒	ban cui qi
+插嘴插舌	cap cui cap zih
+收嘴	siu cui
+有嘴無瀾	u cui bo nua
+有嘴無舌	u cui bo zih	8
+止嘴焦	zi cui ta
+洗嘴	sere cui	100
+洗嘴齒	sere cui qi
+漉嘴	lok cui
+畏嘴	ui cui
+發嘴齒	huat cui qi
+粒仔嘴	liap a cui
+破嘴	phua cui
+硬嘴	ngee cui
+禁嘴	kim cui
+空嘴哺舌	qang cui poo zih
+笑破嘴	cio phua cui
+粗嘴	coo cui
+粗嘴野斗	coo cui ia tau
+落人的嘴	loh lang e cui
+虐嘴	gioh cui
+補嘴齒	poo cui qi
+褪嘴齒	thuInn cui qi
+規嘴	kui cui
+覕嘴	bih cui
+講袂出嘴	kOang bere cut cui
+轉嘴	tuInn cui
+這嘴	ze cui
+過嘴	ker cui
+醒嘴	cenn cui
+鈍嘴鈍舌	tun cui tun zih
+闊嘴	quah cui
+飫嘴	IR cui
+髡嘴鬚	qun cui ciu
+黜嘴	thut cui
+𢼌嘴䫌	pa cui phere	10
+𢼌嘴䫌	pau cui phere	10
 石碇	zioh tiann	35
 石碑	zioh pi	85
 石碓	zioh tui	37
@@ -6515,7 +7142,9 @@ sort: by_weight
 石花膏	zioh huee ko	10
 石鏨	zioh zam	10
 石頭仔	zioh thau a
-矸仔	kan a
+港喙	kang cui
+矸仔喙	kan a cui	3000
+矸仔	kan a	3000
 矸仔蓋	kan a kua
 研槌	ngaI thui
 研槽	ngaI zo
@@ -6523,7 +7152,6 @@ sort: by_weight
 研磨	ngaI bua	139
 研缽	ngaI puah
 破厝	phua cu
-破嘴	phua cui
 破媌	phua ba
 破柴	phua ca
 破病	phua penn
@@ -6552,7 +7180,6 @@ sort: by_weight
 硩落去	teeh loh qIR
 硩驚	eeh kiann
 硩驚	teeh kiann
-硬嘴	ngee cui
 硬巴巴	ngee pa x
 硬斗	ngee tau
 硬死	ngee si
@@ -6624,13 +7251,12 @@ sort: by_weight
 神轎	sin kio
 祧仔內	thiau a lai
 票錢	phio zy
-禁嘴	kim cui
 禁捒	kim sak
 禁氣	kim qui
 禁火	kim her	1
 禁熄	kim sit
 禁燈	kim terng
-禁腳	kim qa
+禁骹	kim qa
 禁薰	kim hun
 禁起來	kim qi lai
 禁電	kim tian
@@ -6672,7 +7298,6 @@ sort: by_weight
 穩死	un si	10
 穩死無救	un si bo kiu	10
 穩當	un tang	79
-空嘴哺舌	qang cui poo zih
 空縫	qang phang
 空闊	qong quah	52
 空驚	qang kiann
@@ -6703,7 +7328,7 @@ sort: by_weight
 窮赤	qing ciah
 窮錢	qing zy
 竈腔	zau qang
-竈腳	zau qa
+竈骹	zau qa
 竈腹	zau pak
 竈頭	zau thau
 站節	zam zat
@@ -6734,7 +7359,7 @@ sort: by_weight
 竹篙叉	tik ko cee
 竹篾仔	tik bih a
 竹耙	tik pee
-竹腳	tik qa
+竹骹	tik qa
 竹蟶	tik than
 竹雞仔	tik kere a
 笑倯	cio song
@@ -6745,7 +7370,6 @@ sort: by_weight
 笑杯	cio pue
 笑桮	cio pue
 笑甲	cio kah	190
-笑破嘴	cio phua cui
 笑詼	cio qer
 笑頭笑面	cio thau cio bin
 笛仔	tat a	40
@@ -6761,7 +7385,7 @@ sort: by_weight
 筊本	kiau puInn
 筊桌	kiau toh
 筊注	kiau tu
-筊腳	kiau qa
+筊骹	kiau qa
 筊錢	kiau zy
 筊間	kiau kaInn
 筊鬼	kiau kui
@@ -6830,7 +7454,6 @@ sort: by_weight
 簏仔	lok a	2000
 簏起來	lok qi lai
 簡簡	kan x
-簷喙	iam hue
 簷頭流	zy thau lau
 簸箕甲	pua ki kah
 簿仔	phoo a
@@ -6877,8 +7500,6 @@ sort: by_weight
 粒仔	liap a
 粗俗貨	coo siok her
 粗勇	coo iong
-粗嘴	coo cui
-粗嘴野斗	coo cui ia tau
 粗在	coo cai
 粗坯	coo pher
 粗桶	coo thang
@@ -7068,13 +7689,12 @@ sort: by_weight
 絲絲仔	si x a
 經布	kenn poo
 經絲	kenn si
-經腳經手	kenn qa kenn ciu
+經骹經手	kenn qa kenn ciu
 綠竹筍	lik tik sun	19
 綠豆仔	lik tau a
 綴人走	ter lang zau
 綴前綴後	ter zaInn ter au
 綴去	ter qIR
-綴找	ter cer
 綴會仔	ter hue a
 綴無	ter bo
 綴着	ter tioh	31
@@ -7091,8 +7711,8 @@ sort: by_weight
 緊捷	kin ziap
 緊朮朮	kin zut x
 緊狂	kin kong
-緊腳	kin qa
-緊腳捷手	kin qa ziap ziu
+緊骹	kin qa
+緊骹捷手	kin qa ziap ziu
 線頂	suann ting
 緣投仔桑	ian tau a san	100		#日語借詞
 緩緩仔	uan x a
@@ -7101,7 +7721,7 @@ sort: by_weight
 練仙	lian sian
 縈纏	y ty	10
 縛粽	pak zang
-縛腳	pak qa
+縛骹	pak qa
 繩墨	zin bak	26
 繩尺	zin cioh	27
 繩索	zin soh	10
@@ -7109,7 +7729,7 @@ sort: by_weight
 繩繩	zin x
 繩長	zin tng	1
 纏綴	ty ter	10
-纏腳纏手	ty qa ty ciu
+纏骹纏手	ty qa ty ciu
 纔佫	zIAh koh
 纔袂	zIAh bere	10
 缺缺裂裂	qih x lih x
@@ -7132,7 +7752,7 @@ sort: by_weight
 罩雺	ta bong
 罩霧	ta bu
 羅漢病	lo han penn	17
-羅漢腳	lo han qa	10
+羅漢骹	lo han qa	10
 羅漢豆	lo han tau	34
 羅漢骹	lo han qa	58
 羊仔	iunn a	10
@@ -7212,10 +7832,8 @@ sort: by_weight
 聲喚	siann huan
 聲嗽	siann sau
 聲尾	siann ber
-聳毛	cang mng
-聳毛	cang moo
-聳毛猴	cang mng kau
-聳毛猴	cang moo kau
+聳毛	cang mDoo
+聳毛猴	cang mDoo kau
 聳鬚	cang ciu
 聽便便	thiann pian x
 聽賺	thiann tann
@@ -7242,6 +7860,10 @@ sort: by_weight
 肩胛頭	kaInn kah thau
 育人	io lang	89
 肺管	hi kuInn
+勇健	iong kiann
+分牀睏	pun cng qun	10
+分物件	pun mngh kiann	553
+分物件	pun mih kiann	553
 肺管	hui kuInn
 胃散	ui san
 胃藥仔	ui ioh a
@@ -7274,44 +7896,56 @@ sort: by_weight
 腰桶	io thang
 腰痀	io ku
 腱子肉	kian zi bah
-腳兜	qa tau
-腳兜邊	qa tau py
-腳尪仔	qa ang a
-腳尾	qa ber
-腳層	qa zan
-腳底	qa tere
-腳後肚	qa au too
-腳後蹬	qa au tenn
-腳手	qa ciu
-腳指甲	qa zing kah
-腳指甲	qa zng kah
-腳指頭仔	qa zing thau a
-腳指頭仔	qa zng thau a
-腳撐	qa thenn
-腳數	qa siau
-腳步	qa poo
-腳汗	qa kuann	5
-腳爐	qa loo	34
-腳爪	qa jiau	48
-腳疼	qa thiann
-腳疼抹腳	qa thiann buah qa
-腳疼醫腳	qa thiann i qa
-腳痠	qa suInn	47
-腳盤	qa puann
-腳目	qa bak
-腳胴骨	qa tang kut
-腳腕	qa uann
-腳腕頭	qa uann thau
-腳腿	qa thui
-腳跡	qa jiah
-腳跡	qa ziah	41
-腳踏車	qa tah cia
-腳蹠	qa cioh
-腳頂	qa ting	109
-腳頭腕	qa thau uann
-腳頭趺	qa thau hu
-腳頭趺	qa thau u
-腳餿	qa sioh
+骹兜	qa tau
+骹兜邊	qa tau py
+骹尪仔	qa ang a
+骹尾	qa ber
+骹層	qa zan
+骹底	qa tere
+骹縫	qa phang
+骹肚	qa too	190
+阿騷	a sau
+骹騷	qa sau
+骹後肚	qa au too
+骹後蹬	qa au tenn
+骹手	qa ciu
+骹手仔	qa ciu a
+骹手面	qa ciu bin
+骹腰	qa io
+骹指甲	qa zing kah
+骹指甲	qa zng kah
+骹指頭仔	qa zing thau a
+骹指頭仔	qa zng thau a
+骹撐	qa thenn
+骹數	qa siau
+骹步	qa poo
+骹汗	qa kuann	5
+骹爐	qa loo	34
+骹爪	qa jiau	48
+骹疼	qa thiann
+骹疼抹骹	qa thiann buah qa
+骹疼醫骹	qa thiann i qa
+骹痠	qa suInn	47
+骹盤	qa puann
+骹目	qa bak
+骹胴骨	qa tang kut
+骹腕	qa uann
+骹腕頭	qa uann thau
+骹腿	qa thui
+骹跡	qa jiah
+骹跡	qa ziah	41
+骹踏車	qa tah cia
+骹蹠	qa ziah
+骹蹠	qa zioh
+骹蹠	qa cioh
+骹蹠底	qa ziah tere
+骹蹠底	qa cioh tere
+骹蹠底	qa zioh tere
+骹頂	qa ting	109
+骹頭腕	qa thau uann
+骹頭趺	qa thau hu
+骹頭趺	qa thau u
+骹餿	qa sioh
 腸仔	tng a	47
 腸仔炎	tng a iam
 腸仔熱	tng a jiat
@@ -7326,7 +7960,8 @@ sort: by_weight
 腿頭	thui thau
 腿頭骨	thui thau kut
 膈食	keeh sit
-膋儳	la sam
+膋盈	la ing	1900
+膋儳	la sam	1900
 膏膏纏	ko x ty
 膠黐	ka thi	5
 膣屄	zi bai
@@ -7389,9 +8024,9 @@ sort: by_weight
 臭肉	cau hik
 臭腥	cau cenn
 臭腥味	cau cenn bi
-臭腳	cau qa
-臭腳餿	cau qa sioh
-臭腳餿味	cau qa sioh bi
+臭骹	cau qa
+臭骹餿	cau qa sioh
+臭骹餿味	cau qa sioh bi
 臭腹內	cau pak lai
 臭膣	cau zi	338
 臭膣屄	cau zi bai	338
@@ -7476,8 +8111,8 @@ sort: by_weight
 花巴哩貓	huee pa li niau
 花欉	huee zang
 花痟	huee siau
-花腳	huee qa
-花腳蠘	huee qa cih
+花骹	huee qa
+花骹蠘	huee qa cih
 芳味	phang bi
 芳料	phang liau
 芳水	phang zui
@@ -7594,7 +8229,6 @@ sort: by_weight
 萵菜	o cai
 落下頦	lauh ee hai
 落井	loh zenn	59
-落人的嘴	loh lang e cui
 落來	loh lai	5800
 落價	lak kee	39
 落價	loh kee	39
@@ -7630,7 +8264,7 @@ sort: by_weight
 落笡	loh cia
 落肥	loh pui	44
 落胎	lauh thEr	44
-落腳氣	loh qa qi
+落骹氣	loh qa qi
 落臺	loh tai
 落船	loh zun
 落色	loh sik	39
@@ -7682,7 +8316,7 @@ sort: by_weight
 薯籖	zir ciam
 薯粉	zir hun
 薰吹	hun cer
-薰嘴	hun cui
+薰喙	hun cui
 薰塗	hun thoo
 薰屎	hun sai
 薰屎頭	hun sai thau
@@ -7717,7 +8351,6 @@ sort: by_weight
 虎舅	hoo ku
 虎頭柑	hoo thau kam
 虎頭鍘	hoO thau zat
-虐嘴	gioh cui
 虯儉	qiu qiam
 虯手	qiu ciu
 虯抓	qiu jiau
@@ -7726,10 +8359,9 @@ sort: by_weight
 虯相	qiu siunn
 虯短	qiu tEr
 虯筋	qiu kern
-虯腳	qiu qa
-虯腳筋	qiu qa kern
-虯頭毛	qiu thau mng
-虯頭毛	qiu thau moo
+虯骹	qiu qa
+虯骹筋	qiu qa kern
+虯頭毛	qiu thau mDoo
 虯頭鬃	qiu thau zang
 虱目魚	sat bak hIR
 虼蚻	ka zuah	1900
@@ -8005,7 +8637,6 @@ sort: by_weight
 裙仔	kun a	294
 補䋎	poo thy
 補冬	poo tang
-補嘴齒	poo cui qi
 補添	poo thiam
 補破網	poo phua bang
 補網	poo bang
@@ -8018,7 +8649,6 @@ sort: by_weight
 褒嗦	po so
 褒囉唆	po lo so
 褪人	thuInn lang
-褪嘴齒	thuInn cui qi
 褪徹徹	thuInn theeh x
 褪捒	thuInn sak
 褪殼	thuInn qak
@@ -8033,7 +8663,7 @@ sort: by_weight
 褪褲𡳞	thuInn qoo lan
 褪襪	thuInn berh
 哭父	qau pee
-褪赤腳	thuInn ciah qa
+褪赤骹	thuInn ciah qa
 團圓	tuann y
 褪鞋	thuInn ere
 褪齒	thuInn qi
@@ -8043,7 +8673,7 @@ sort: by_weight
 褲尾	qoo ber
 褲懷	qoo kui
 褲縫	qoo phang
-褲腳	qoo qa
+褲骹	qoo qa
 褲袋仔	qoo tEr a
 褲長	qoo tng
 褻體	siat thai
@@ -8059,10 +8689,10 @@ sort: by_weight
 西米落	se bi loh	100		#日語借詞
 要來	berh lai
 要去	berh qIR
-要吃毋做	beh ziah m zo	5
-要吃毋做	beh ziah m zue	5
-要吃毋做	berh ziah m zo	5
-要吃毋做	berh ziah m zue	5
+要食毋做	beh ziah m zo	5
+要食毋做	beh ziah m zue	5
+要食毋做	berh ziah m zo	5
+要食毋做	berh ziah m zue	5
 要啉	beh lim	10
 要啉	berh lim	10
 要挃	beh tyYh
@@ -8099,12 +8729,11 @@ sort: by_weight
 規口灶	kui qau cau
 規句	kui ku
 規台	kui tai
-規嘴	kui cui
 規嚾規黨	kui uang kui tong
 規四界	kui si kere
 規堆	kui tui
 規塊	kui tEr
-規塗腳	kui thoo qa
+規塗骹	kui thoo qa
 規塗跤	kui thoo qa
 規套	kui tho
 規家伙	kui kee her
@@ -8156,7 +8785,7 @@ sort: by_weight
 規組害了了	kui zoo hai liau liau
 規繩	kui zin	25
 規群	kui kun
-規腳	kui qa
+規骹	kui qa
 規腹	kui pak
 規腹火	kui pak her
 規腹肚	kui pak too
@@ -8171,8 +8800,11 @@ sort: by_weight
 規路頂	kui loo ting
 規路頭	kui loo thau
 規身	kui sin
-規身軀	kui sin qu
+規身軀	kui sin qU
 規軀	kui su
+渾軀	hun su
+洗身軀	sere sin qU	1900
+洗渾軀	sere hun su	1900
 規輾		10
 規迣	kui zua
 規間	kui kaInn
@@ -8197,8 +8829,6 @@ sort: by_weight
 覓頭路	ba thau loo
 覓頭路	bai thau loo
 覕來覕去	bih lai bih qIR	41
-覕嘴	bih cui
-覕找	bih cer
 覕雨	bih hoo
 親像	cin ciunn
 親像人樣	cin ciunn lang iunn
@@ -8252,7 +8882,7 @@ sort: by_weight
 設便便	siat pian x
 註死	zu si
 註生	zu senn
-註腳	zu qa
+註骹	zu qa
 詈人	lere lang
 詜仔	tho a	67
 試想看看	ci siunn quann x
@@ -8267,23 +8897,8 @@ sort: by_weight
 認份	jin hun
 認毋着	jin m tioh
 認賺	jin tann
-誠低	ziann kee
-誠僫	ziann oh	10
-誠冰	ziann ping	1
-誠冷	ziann ling	1
-誠凊	ziann cin	1
-誠凝	ziann gan	1
-誠厚	ziann kau	1
-誠夠	ziann kau	1
-誠好	ziann ho	1
-誠寒	ziann kuann
-誠寒	ziann kuann	10
-誠實	ziann sit	187
-誠少	ziann zio	10
 規年	kui ni	1000
 誠想要	ziann siunn berh	11
-誠慢	ziann ban	10
-誠擠	ziann qereh	52
 規月	kui gerh
 規禮拜	kui le pai
 規日	kui jit
@@ -8294,23 +8909,8 @@ sort: by_weight
 幾工	kui kang	500
 幾工前	kui kang zaInn
 
-誠歹	ziann phayY
-誠濟	ziann zere
 誠濟个	ziann zere gEe	140
-誠熱	ziann juah
-誠燒	ziann sio 
-誠狹	ziann ereh
-誠短	ziann tEr
-誠細	ziann sere	102
-誠緊	ziann kin
-誠薄	ziann poh
 誠袂爽	ziann bere song	76
-誠躼	ziann lio	100
-誠躼	ziann lo	100
-誠長	ziann tng
-誠闊	ziann quah
-誠高	ziann kuAy
-誠高	ziann kuAy	2883
 誠𠢕	ziann gau
 誠𠢕	ziann gau	10
 說多謝	serh toO sia
@@ -8350,7 +8950,6 @@ sort: by_weight
 講空	kOang qang
 講笑	kOang cio
 講耍笑	kOang sng cio	10
-講袂出嘴	kOang bere cut cui
 講親情	kOang cin ziann
 講賺	kOang tann
 講透透	kOang thau x
@@ -8391,7 +8990,7 @@ sort: by_weight
 豬哥仔牙	tIR ko a gee
 豬岫	tIR siu
 豬牢	tIR tiau
-豬腳	tIR qa
+豬骹	tIR qa
 豬腿	tIR thui
 豬頭皮	tIR thau pher
 豹尾	pa ber
@@ -8477,7 +9076,6 @@ sort: by_weight
 赤鼠	ciah cir
 走了後	zau liau au
 走後壁	zau au piah
-走找	zau cer
 走斜	zau cuah
 走東走西	zau tang zau sai
 走的開	zau e qui
@@ -8527,7 +9125,7 @@ sort: by_weight
 起碇	qi tiann	26
 起童	qi tang
 起笡	qi cia
-起腳動手	qi qa tang ciu
+起骹動手	qi qa tang ciu
 起藥蛆	qi ioh cir
 起雄	qi hiong
 起雷	qi lui
@@ -8538,13 +9136,44 @@ sort: by_weight
 趁燒	than sio
 趁蠓	than bang
 趁走	than zau
+菜店查某	cai tiam za boo
+菜店	cai tiam
 趁食	than ziah
 趁食人	than ziah lang
-趒腳頓蹄	tio qa tuInn tere
+趁食查某	than ziah za boo
+趒骹頓蹄	tio qa tuInn tere
 趕穡	kuann sit
 趖趖	so x	200
-跂腳	ker qa	200
+跂骹	ker qa	200
+吃虧	qik qui
+吃力	ziah lat	299
 跋一倒	puah zit to
+食洨	ziah siau	86
+食驚	ziah kiann
+小食	sio ziah	530
+食酒	ziah ziu
+食了	ziah liau
+食未	ziah ber	1000
+食麵	ziah mi	92
+食魚	ziah hIR	92
+食雞	ziah kere	216
+食飽	ziah pa	160
+食飽飽	ziah pa x
+食餅	ziah piann	46
+
+食了了	ziah liau x
+食過	ziah ker	453
+食菜	ziah cai	39
+食草	ziah cau	79
+食苦	ziah qoo	127
+食素	ziah soo	90
+食糖	ziah thng	72
+食茶	ziah tee	53
+食着	ziah tioh	223
+食矣	ziah ah
+食硬	ziah ngee	51
+食虧	ziah kui	305
+食食	ziah sit	59
 跋倒	puah to
 跋卦	puah kua
 跋桮	puah pue
@@ -8572,7 +9201,7 @@ sort: by_weight
 跙一倒	cu zit to
 跙倒	cu to
 跛仔	pai a	49
-跛腳	pai qa
+跛骹	pai qa
 跟綴	kern ter 
 跩个	zuai gEe	1000	#泉音
 跪咧	kui tDeh
@@ -8615,11 +9244,11 @@ sort: by_weight
 踖踖	zoh x
 踢捒	that sak
 蹄仔	tere a	666
-蹌腳	ciang qa
+蹌骹	ciang qa
 蹌蹌	ciang x
 蹔死	zam si	10
 蹔破	zam phua
-蹔腳步	zam qa poo
+蹔骹步	zam qa poo
 蹔落去	zam loh qIR
 蹛袂牢	tua bere tiau	45
 蹜蹜	sok x
@@ -8628,26 +9257,26 @@ sort: by_weight
 蹺出	qiau cut	36
 蹺去	qiau qIR	9
 蹺去	qiauh qIR	10
-蹺腳	qiau qa	100
+蹺骹	qiau qa	100
 蹾踏	thun tah
 躄恁	phih lin	190
 躄恁姨仔	phih lin i a	190
 躄恁祖公	phih lin zoo kong	9150
 躄恁祖媽	phih lin zoo ma	190
 躄躄𧮙	phih x coh
-躘腳	ling qa
+躘骹	ling qa
 躘身	ling sin
 躘開	ling qui
-躡腳前	neeh qa zaInn
-躡腳尾	neeh qa ber
+躡骹前	neeh qa zaInn
+躡骹尾	neeh qa ber
 身命	sin mia
 身屍	sin si
-身軀頂	sin qu ting
+身軀頂	sin qU ting
 身頂	sin ting
 躼竹篙	lio tik ko	100
 躼竹篙	lo tik ko	100
-躼腳	lio qa	190
-躼腳	lo qa	190
+躼骹	lio qa	190
+躼骹	lo qa	190
 軁人空	nuI lang qang
 軁入去	nuI jip qIR
 軁無路	nuI bo loo
@@ -8673,9 +9302,9 @@ sort: by_weight
 軟汫	nuI ziann
 軟糊糊	nuI koo x
 軟絲仔	nuI si a
-軟腳	nuI qa
-軟腳垂手	nuI qa sEr ciu
-軟腳蝦	nuI qa hee
+軟骹	nuI qa
+軟骹垂手	nuI qa sEr ciu
+軟骹蝦	nuI qa hee
 軟膏膏	nuI ko x
 軟荍荍	nuI sio x
 軟轎	nuI kio
@@ -8721,7 +9350,6 @@ sort: by_weight
 轉來	tuInn lai	83
 轉來去	tuInn lai qIR
 轉入	tuInn jip	261
-轉嘴	tuInn cui
 轉外家	tuInn gua kee
 轉大	tuInn tua
 轉大人	tuInn tua lang
@@ -8778,7 +9406,6 @@ sort: by_weight
 這久時	zit ku si	2100
 這內	zit lai
 這卷	zit kuInn
-這嘴	ze cui
 這四个	zit si gEe
 這型	zit hing
 這字	zit ji
@@ -8848,7 +9475,6 @@ sort: by_weight
 過再來	ker zai lai
 過厄	ker eeh
 過名	ker mia
-過嘴	ker cui
 過嘹	ker liau
 過定	ker tiann
 過山	ker suann
@@ -8871,7 +9497,7 @@ sort: by_weight
 過空	ker qang
 過綢	ker thng
 過繩	ker zin
-過腳	ker qa
+過骹	ker qa
 過芒過角	ker mee ker kak
 過袂得去	ker bere tit qIR
 過角	ker kak
@@ -8935,13 +9561,19 @@ sort: by_weight
 配頭	phue thau
 配魚	pher hIR
 酒升	ziu zin	190
-酒在桌	ziu zai toh、
+酒在桌	ziu zai toh
 酒底	ziu tere
 酒料	ziu liau
 酒毒	ziu tok
 酒癲	ziu tian
 酒矸	ziu kan
+酒窟		10
+骹巾	qa kern	10
+骹布	qa poo	10
+拭骹布	cit qa poo
+拭拭	cit x
 酒窟仔	ziu qut a	10
+酒粕	ziu phoh	10
 酒臭	ziu cau
 酒退	ziu thEr
 酒配	ziu pher
@@ -8955,6 +9587,13 @@ sort: by_weight
 酸記記	suInn ki x
 醇凎	sun kam
 醇良	sun lIang
+躡肩	neeh kaInn
+天使	thy sai	591
+聳起	cang qi	6
+聳起來	cang qi lai	6
+攑肩	giah kaInn
+衝肩	cing kaInn
+摕肩	thereh kaInn
 醉甲	zui kah
 醉精神	zui zing sin
 醉茫茫	zui bang x
@@ -8964,7 +9603,6 @@ sort: by_weight
 醋桶	coo thang
 醋甕	coo ang
 醒了後	cenn liau au
-醒嘴	cenn cui
 醒狂	cenn kong
 醒眠	cenn bin
 醒睡	sing sui
@@ -8983,38 +9621,19 @@ sort: by_weight
 重句	ting ku
 重巡	ting sun	34
 重慶仔	tiong qing a	150
+𠢕呮	gau thih
+𠢕趖	gau so
+齧甘蔗	qere kam zia
+齧骨頭	qere kut thau
+趖精	so ziann
 重眠	tang bin
 重眠	tiong bin
 重耽	ting tann
 重藥	tang ioh
 重頭輕	tang thau qin
 重食	tiong ziah
-野㜅	ia thik
-野低	ia kee
-野冰	ia ping
-野冷	ia ling
-野凊	ia cin
-野凝	ia gan
-野厚	ia kau
-野好	ia ho
-野媠	ia sui	22
-野寒	ia kuann
-野少	ia zio
-野慢	ia ban
-野死	ia si	21
-野濟	ia zere
-野熱	ia juah
-野燒	ia sio
-野狹	ia ereh
-野短	ia tEr
-野緊	ia kin
-野老	ia lau	48
-野薄	ia poh
-野赤	ia ciah
-野躼	ia lio	190
-野長	ia tng
-野闊	ia quah
-野高	ia kuAy
+野厲害	ia li hai
+野𠢕	ia gau
 金仔	kim a
 金噹噹	kim tang x
 金滑	kim kut
@@ -9039,14 +9658,22 @@ sort: by_weight
 鈃仔	giang a
 鈍刀出利手	tun to cut lai ciu
 鈍去	tun qIR
-鈍嘴鈍舌	tun cui tun zih
 鈍市	tun ci
 鈍才	tun zai
 鈍目	tun bak
 鈕仔	nLiu a
+放公差	pang kong cee	74
+公差	kong cee	74
+四骹仔	si qa a	74
 鈕衫	nLiu sann
 鈴仔	ling a
 鉎鉎	siAn x	190
+蟾蜍	siam sir	77
+蟾蜍	siam zir	77
+蛄婆	koo po	100
+
+蟾蜍	siam cir	77
+目鏡蛇	bak kiann zua
 鉗仔	qy a
 鉗鉗	qy x
 鉛桶	ian thang
@@ -9163,26 +9790,25 @@ sort: by_weight
 長桶鞋	tng thang ere
 長歲壽	tng her siu	10
 長流長頭	tng lau tng thau
-長短腳	tng tEr qa
+長短骹	tng tEr qa
 長統鞋	tng thang ere
 長聲	tng siann
 長腰	tng io
-長腳	tng qa
-長腳躼手	tng qa lio ciu
-長腳躼手	tng qa lo ciu
+長骹	tng qa
+長骹躼手	tng qa lio ciu
+長骹躼手	tng qa lo ciu
 長裙掃肚	tng kun sau too
 長賒短欠	tng sia ter qiam
 長躼埽	tng lo so
 長躼掃	tng lo so
 長釘螺	tng tan lEr
-長頭毛	tng thau mng
-長頭毛	tng thau moo
+長頭毛	tng thau mDoo
 長頭鬃	tng thau zang
 長頷鹿	tng am lok
 長額	tIang giah
 門口公	muI qau kong
 門口庵	muI qau am
-門嘴口	muI cui qau
+門喙口	muI cui qau
 門岸	muI huann
 門扇後	muI sy au
 門扇板	muI sy pan
@@ -9192,9 +9818,9 @@ sort: by_weight
 門榫	muI sun
 門牽	muI qian
 門窗戶扇	muI thang hoo sy
-門腳	muI qa
-門腳兜	muI qa tau
-門腳口	muI qa qau
+門骹	muI qa
+門骹兜	muI qa tau
+門骹口	muI qa qau
 門臼	muI qu
 門蔭	bun im
 閂門閂戶	cuann muI cuann hoo
@@ -9225,8 +9851,8 @@ sort: by_weight
 開窗仔	qui thang a
 開聲	qui siann
 開脾	qui pi
-開腳	qui qa
-開腳褲	qui qa qoo
+開骹	qui qa
+開骹褲	qui qa qoo
 開臊	qui co
 開舉	qai kir
 開菜	qui cai
@@ -9253,7 +9879,6 @@ sort: by_weight
 𠁣𠃛	y uay
 𠁣𠃛	y x uay x
 輾落來	lian loh lai	100
-闊嘴	quah cui
 闊腹	quah pak
 闔門	qah muI	1
 闖路	cuan loo
@@ -9396,7 +10021,7 @@ sort: by_weight
 雄雄	hiong x
 雙爿邊	siAng paInn py
 雙生仔	siAng senn a
-雙腳	siAng qa
+雙骹	siAng qa
 雜嘈	zap zo
 雜插	zap cap
 雜雜叫	zap x kio
@@ -9416,7 +10041,7 @@ sort: by_weight
 雞卵清	kere nuI cing
 雞卵糕	kere nuI ko
 雞同鴨講	kere tang ah kOang	49
-雞嘴	kere cui
+雞喙	kere cui
 雞屎	kere sai
 雞岫	kere siu	190
 雞料	kere liau
@@ -9425,8 +10050,7 @@ sort: by_weight
 雞母	kere bo
 雞母	kere bu
 雞母𤆬	kere bo cua
-雞毛筅	kere mng caInn
-雞毛筅	kere moo caInn
+雞毛筅	kere mDoo caInn
 雞牢	kere tiau
 雞眠	kere bin
 雞硞槌仔	kere qok thui a
@@ -9436,7 +10060,7 @@ sort: by_weight
 雞胘	kere kin
 雞胘膜	kere kian mooh
 雞胘膜	kere kin mooh
-雞腳	kere qa
+雞骹	kere qa
 雞角	kere kak
 雞酒	kere ziu
 雞飯	kere puInn
@@ -9465,7 +10089,7 @@ sort: by_weight
 雪文	sap bun
 雲片雨	hun phian hoo
 雲縫	hun phang
-雲腳	hun qa
+雲骹	hun qa
 雲衫	hun sam
 雷公性	lui kong sing
 雷公面	lui kong bin
@@ -9478,8 +10102,7 @@ sort: by_weight
 電火	tian her
 電着	tian tioh
 電罐	tian kuan
-電頭毛	tian thau mng
-電頭毛	tian thau moo
+電頭毛	tian thau mDoo
 電風吹	tian hong cer
 電風吹	tian huang cer
 霆雷	tan lui
@@ -9504,7 +10127,7 @@ sort: by_weight
 青紅燈	cenn ang ting
 青草石	cenn cau zioh
 靜清清	zing cenn x
-靠腳	qua qa
+靠骹	qua qa
 面柱	bin thiau	100		#另寫法
 面模	bin boo
 面模仔	bin boo a
@@ -9521,7 +10144,7 @@ sort: by_weight
 鞋拖	ere thua
 鞋苴	ere zu
 鞭仔	pian a
-韻腳	un qa
+韻骹	un qa
 頁頭	iah thau
 頂一勻	ting zit un
 頂一擺	ting zit pai
@@ -9570,7 +10193,7 @@ sort: by_weight
 頓心肝	tuInn sim kuann
 頓手印	tuInn ciu in
 頓椅頓桌	tuInn i tuInn toh
-頓腳	tuInn qa
+頓骹	tuInn qa
 頓跋坐	tuInn puah zEr
 頓蹄	tuInn tere
 頓龜	tuInn ku
@@ -9596,16 +10219,14 @@ sort: by_weight
 頭日	thau jit
 頭梳	thau sere
 頭殼頂	thau qak ting
-頭毛	thau mng
-頭毛	thau moo
-頭毛碎	thau mng cui
-頭毛碎	thau moo cui
+頭毛	thau mDoo
+頭毛碎	thau mDoo cui
 頭泡茶	thau phau tee
 頭牙	thau gee
 頭生日	thau senn jit
 頭疕	thau phi	10
 頭疕仔	thau phi a	10
-頭疼抹手手疼抹腳	qa thiann buah ciu	34
+頭疼抹手手疼抹骹	qa thiann buah ciu	34
 頭眩	thau hin
 頭眩目暗	thau hin bak am
 頭空目榻	thau qang bak thap
@@ -9635,6 +10256,9 @@ sort: by_weight
 顧三頓	koo sann tuInn
 顧人怨	koo lang uan
 顧厝	koo cu
+不着題	put ziak tere
+
+不着落	put ziak lok
 顧家	koo kee	92
 顧家己	koo ka ki
 顧家己	koo ka ti
@@ -9643,7 +10267,7 @@ sort: by_weight
 顧門	koo muI
 顫悶	zun bun
 顫股	zun koo
-顫腳	zun qa
+顫骹	zun qa
 風吹輪	hong cer lian
 風呂	hu loo	100		#日語借詞
 風尾	hong ber
@@ -9699,7 +10323,6 @@ sort: by_weight
 食銃子	ziah cing zi	1
 食頭路	ziah thau loo
 飫人	IR lang
-飫嘴	IR cui
 飫飫	IR x
 飯包	puInn pau
 飯匙銃	puInn si cing
@@ -9759,7 +10382,7 @@ sort: by_weight
 香箸	hiunn tir
 香籃	hiunn na
 香細	hiunn sere
-香腳	hiunn qa
+香骹	hiunn qa
 香芳	hiunn phang
 香過爐	hiunn ker loo
 香銃	hiunn cing
@@ -9826,10 +10449,9 @@ sort: by_weight
 體剔	there thak
 高䠷	ko thiau
 高仔	ko a	80
-高腳	kuAy qa	9
+高骹	kuAy qa	9
 高鼻	kuAy phyY	46
 髡刀	qun to
-髡嘴鬚	qun cui ciu
 髡芋	qun oo
 髡鼎	qun tiann
 髻仔	ker a
@@ -9842,7 +10464,7 @@ sort: by_weight
 鬥無閒	tau bo aInn
 鬥相共	tau sDio kang
 鬥相贊	tau sDio zan
-鬥腳手	tau qa ciu
+鬥骹手	tau qa ciu
 鬥陣	tau tin	50
 鬥鬧熱	tau lau jiat
 鬥鬧熱	tau nLau jiat
@@ -9873,7 +10495,7 @@ sort: by_weight
 鬼樣	kui iunn
 鬼精	kui zenn	5
 鬼精	kui ziann	5
-鬼腳鬼手	kui qa kui ciu
+鬼骹鬼手	kui qa kui ciu
 鬼邪	kui sia
 鬼面	kui bin
 鬼鬼唧唧	kui x zit x
@@ -10002,13 +10624,12 @@ sort: by_weight
 黃連	uInn ni		#待考
 黃面婆	uInn bin po	59
 黜仔	thuh a
-黜嘴	thut cui
 黜塗機	thuh thoo ki
 黜牙	thut ga
 黜破	thuh phua
 黜胎	thut ther
 黜脫	thut thut
-黜腳	thut qa
+黜骹	thut qa
 黜腸頭	thut tng thau
 黜仔	thuh a
 鐵黜	thih thuh
@@ -10083,8 +10704,8 @@ sort: by_weight
 龜精	ku ziann
 龜粿	ku ker
 龜綏	ku sui
-龜腳	ku qa
-龜腳趖出來	ku qa so cut lai
+龜骹	ku qa
+龜骹趖出來	ku qa so cut lai
 龜蠅	ku sin	1
 𠕇硞硞	taInn qok x
 𠕇空空	taInn qong x
@@ -10102,13 +10723,11 @@ sort: by_weight
 𡳞鳥人	lan ziau lang	100
 𡳞鳥面	lan ziau bin
 𡳞𦉎	lan sui
-𢪱落去	but qIR
+𢪱落去	but loh qIR
 𢯾壁	mooh piah
 𢯾壁鬼	mooh piah kui
 𢯾捒	mooh sak	10
 𢯾無路	mooh bo loo
-𢼌嘴䫌	pa cui phere	10
-𢼌嘴䫌	pau cui phere	10
 𢼌落去	pa loh qIR	10
 𢼌落去	pau loh qIR	10
 𢼌頭殼	pa thau qak	10
@@ -10129,17 +10748,39 @@ sort: by_weight
 𤻂漬漬	i zi x	30
 𥐵仔	phiat a
 𥰔仔	phin a
+𧌄嬰仔	am y a
+蛤蜅	kap poo
 𧌄蜅蠐	am poo ze
+𧌄蝛仔	am ui a
+𧌄蝛	am ui
 𧌄蝛	am bui
+𧌄蝛	am muih
+𧌄蝛蛤仔	am muih kauh a
+肚卑	too pi
+解勸	kere quInn	42
+拍簿仔	phah phoo a	4200
+肚卑仔	too pi a
+肚胿	too kui
+大肚鮭仔	tua too kuai a
+蛤鮭	kap kuai
+大肚鮭	tua too kuai
+肚鮭	too kuai
+田蛤仔	can kauh a
 𧮙人	coh lang
 𧮙姦	coh kan
 𧮙幹	coh kan
 𧮙粗話	coh coo uee
-𨑨迌	cTHit tho
-𨑨迌人	cTHit tho lang
+𨑨迌	cit tho
+𨑨迌	thit tho
+𨑨迌人	thit tho lang
+𨑨迌人	cit tho lang
 𨑨迌囡仔		150
-𨑨迌物	cTHit tho mngh
-𨑨迌物仔	cTHit tho mngh a
+𨑨迌物	cit tho mih
+𨑨迌物	thit tho mih
+𨑨迌物	thit tho mngh
+𨑨迌物仔	cit tho mih a
+𨑨迌物仔	thit tho mih a
+𨑨迌物仔	thit tho mngh a
 𩚨牽	qiu qan
 𩚨𩚨	qiu x
 𩚨𩚨糖	qiu x thng	1
