@@ -4,18 +4,22 @@ version: '20261017'
 sort: by_weight
 ...
 傷	siunn	100
-上	ziunn	100
 猶	ia	97
 猶	iau	99
 乞	qi	98	#介詞
+曲	qik	98
+易	kere	98
+解	kere	90
 撞	tong	90
-食	ziah	97
+臉	liam	97
+食	ziah	98
 燃	nia	97
 爾	nia	98
 物	mih	100
 物	mngh	100
 諾	hiooh	100
 若	na	98
+柱	thiau	98
 度	thoo	99
 抄	ciau	97	#白讀
 予	hoo	100
@@ -37,7 +41,6 @@ sort: by_weight
 龍	liOng	98
 央	ng	98
 向	ng	99
-誠	ziann	100
 精	ziann	97
 橋	kiau	95
 皆	keeh	100	#訓讀，皆（是）
