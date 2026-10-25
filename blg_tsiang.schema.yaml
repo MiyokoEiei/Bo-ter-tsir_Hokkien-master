@@ -1,0 +1,510 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: blg_tsiang
+  name: 閩南語漳州音
+  version: "20261018"
+  author:
+    - 阿托 <a-thok@outlook.com>
+    - 沒袋子 <tenn_tik_u@qq.com>
+  description: |
+    閩南語輸入方案，
+    顯示字符採用「臺灣閩南語羅馬字拼音方案」，鍵入方式有改動；
+    speller參考洪惟仁《閩南地區方言地圖集》的分類方法予以標註。
+    p.s. 「輸入法設定」中，務請不要同時勾選兩種（及以上）閩南語腔口方案，否則各方案中speller部分可能失靈。
+  dependencies:
+    - bangul
+    - luna_pinyin
+    - hutsoo
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中, En ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢, 汉 ]
+  - name: phraseComment
+    reset: 1        # 1 表示默认开启，0 表示默认关闭
+    # states: [關閉註釋, 開啓註釋]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator@luna_pinyin
+    - table_translator@bangul
+    - table_translator@hutsoo
+    - reverse_lookup_translator@dmode
+    - history_translator@history_repeat
+  filters:
+    - simplifier
+    - uniquifier
+    - lua_filter@phraseComment_Filter				# 短语释义
+    #- lua_filter@dateTime_filter
+speller:
+  alphabet: 'abcdefghijklnmopqstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~[/\]90-;'
+  initials: xvzywutsqponmlkjihgfedcbaABCDEFGHIJKLMNOPQRSTUVWXYZ
+  delimiter: " '"
+  algebra:
+    - abbrev/^([xvzywutsqponmlrkjihgfedcbaABCDEFGHIJKLMNOPQRSTUVWXYZ]h?).+$/$1/ 
+    - derive/^([a-z]+)\d$/$1/
+#聲母（以下各詞條最前方添加井號"#"即可取消詞條效果，詞條功效請見後綴說明）
+    #- derive/^j/l/														#入歸柳
+    #- derive/l/d/														#常見拼寫形式
+    - derive/^th/v/														#簡化拼式
+    - derive/^ph/f/													#簡化拼式
+    #- derive/^sC/s/													#泉，例字：（飯）勺、（形）象、（畫）像
+    - derive/^sC/c/													#漳，例字：（飯）勺、（形）象、（畫）像
+    #- derive/^tC/t/													#泉，例字：（古道熱）腸
+    - derive/^tC/c/												#漳，例字：（古道熱）腸
+    #- derive/^tZ/t/													#泉，例字：着（力）
+    - derive/^tZ/z/												#漳，例字：着（力）
+    #- derive/mau/bau/
+    - derive/^jZ/j/														#漳，例字：（表）字
+    - derive/^jC/j/														#漳，例字：揤（門鈴）
+    #- derive/^jZ/z/														#泉，例字：（表）字
+    #- derive/^jC/c/														#泉，例字：揤（門鈴）
+    #- derive/^nD/n/													#泉，例字：（馬）爾（代夫）、（李）耳
+    - derive/^nD/j/													#漳，例字：（馬）爾（代夫）、（李）耳
+#韻母
+##陰聲韻
+    #- derive/ian/en/													#臺音
+    #- derive/iat/et/												#臺音
+###高沽文（例字：芋（仔）、（落）雨）
+    - derive/oo/w/														#主流，簡化拼式
+    #- derive/oo/ou/													#漳南、長泰、龍涓
+###西嘉白（例字：加（少）、蝦（仔））
+    #- derive/ee/e/													#泉音
+    #- derive/^([mn]g?)ee/$1i/									#廈音，例字：（較）猛、硬（死）
+    - derive/aE$/ee/								#漳音，例字：加（錢）、炸（彈）
+    #- derive/aE$/a/								#泉廈音，例字：加（錢）、炸（彈）
+###毛扛白（例字：（頭）毛、兩（个））
+    - derive/Doo/oo/													#漳音
+    #- derive/Doo/ng/												#泉音
+###刀高文（例字：高（尚）、（無可奈）何）
+    #- derive/oO/oo/													#泉音
+    - derive/oO/o/														#廈漳
+    #- derive/ngOO/ngoo/										#泉音，例字：俄（羅斯）、鰲（拜）
+    #- derive/ngOO/ngw/											#泉音，例字：俄（羅斯）、鰲（拜），簡化拼式
+    - derive/ngOO/go/												#廈漳，例字：俄（羅斯）、鰲（拜）
+    #- derive/nGoo/goo/												#泉音，例字：（一九二）五、中午
+    - derive/nGoo/ngoo/												#廈漳，例字：（一九二）五、中午
+    #- derive/goo/ngoo/												#廈泉，例字：（會）晤、梧（桐樹）
+    - derive/qonn/qo/												#廈漳，例字：可（以）、考（試）
+###鉤沽文（例字：（結）構、（忠）厚）
+    - derive/eru/oo/													#廈漳
+    #- derive/eru/io/													#泉音（新）
+    #- derive/eru/iro/												#泉音（老）
+    #- derive/eru/ro/													#泉音（老），簡化拼式
+    #- derive/eru/ou/												#永德（老），簡化拼式
+    #- derive/eru/er/													#永德（新）
+###鉤沽文（廈門腔特字，例字：謳（歌）、（皇）后）
+    - derive/ERU/w/													#廈漳，簡化拼式
+    - derive/ERU/oo/													#廈漳
+    #- derive/ERU/io/												#泉音（新）
+    #- derive/ERU/ro/												#泉音（老），簡化拼式
+    #- derive/ERU/iro/												#泉音（老）
+    #- derive/ERU/eru/												#永德（老）
+    #- derive/ERU/ou/												#永德（老），簡化拼式
+    #- derive/ERU/er/												#永德（新）
+###鉤沽文（例字：（輻）輳、湊（文讀音））
+    - derive/Oo/oo/													#廈漳
+    #- derive/Oo/o/													#泉音
+    #- derive/Oo/eru/												#德化
+    #- derive/Oo/ou/													#德化
+###杯稽白（例字：溪（水）、雞（角））
+    #- derive/ere/re/													#汐止腔，簡化拼式
+    #- derive/ere/ue/												#泉音
+    - derive/ere/e/														#漳音
+    #- derive/^([^eur]*)e(\d?)$/$1ei$2/					#漳南
+    #- derive/^([^eur]*)e(\d?)$/$1iei$2/					#漳浦
+###杯稽白（例字：會/解（曉））
+    #- derive/eRe/ere/												#老泉音
+    #- derive/eRe/ue/												#永德
+    - derive/eRe/e/													#泉漳
+###科伽白（例字：短（褲）、袋（仔））
+    #- derive/Er/er/													#泉音
+    - derive/Er/e/														#廈漳
+###科伽白入（例字：（落）雪、踅（街））
+    #- derive/Erh/erh/													#泉音
+    - derive/Erh/eh/													#漳音
+###科檜白入（例字：說（話）、月（娘））
+    #- derive/er([mu])/r$1/										#泉音，簡化拼式
+    - derive/er([hmu])/ue$1/										#漳音
+    #- derive/er(h?)(.)/e$1$2/									#晉江
+ ###梅檜文（例字：梅（花）、（挖）煤）
+    #- derive/^mue/mui/											#泉音
+    - derive/^mue/bue/											#漳音
+ ###杯瓜白（例字：（西）瓜、（開）花）
+    - derive/uee/ua/													#漳音
+    #- derive/uee/uai/												#海澄
+ ###杯瓜白入（例字：（流）血、挖（煤））
+    - derive/uih/ueh/													#漳音
+###居居文（例字：書（記）、（老）鼠）
+    #- derive/ir(\d?\s?)/r$1/										#泉音，簡化拼式
+    - derive/ir/i/															#漳音
+###居居白（廈門腔特字，例字：（一尾）魚、鋤（頭））
+    #- derive/IR/ir/													#泉音
+    #- derive/IR(\d?\s?)/r$1/										#簡化拼式
+    #- derive/IR/u/													#廈音
+    - derive/IR/i/														#漳音
+###居艍文（例字：自（私）、（自）私）
+    #- derive/ur/ir/													#泉音
+    #- derive/ur/r/														#泉音，簡化拼式
+    - derive/ur/u/														#漳音
+###龜珠文（廈門腔特字，例字：需（要）、輸（出））
+    #- derive/U/u/														#泉廈
+    - derive/U/i/														#漳音
+##陽聲韻
+###香姜文（例字：強（迫）、（家）鄉）
+    #- derive/Ia/io/													#泉廈
+    - derive/Ia/ia/														#漳音
+    - derive/iang/ian/												#薌城、龍海
+    - derive/Iang/ian/												#薌城、龍海
+###香姜文（例字：（畫）像、形（象）、（心）腸）
+    #- derive/sCIang/siong/										#泉
+    - derive/sCIang/ciang/										#漳
+    #- derive/tCIang/tiong/										#泉
+    - derive/tCIang/ciang/										#漳
+###生經文（例字：生（活）、（戰）爭）
+    - derive/erng/ing/												#生卿合流
+    #- derive/erng/ng/												#泉音
+###生經文入1（例字：特（別）、德（國））
+    - derive/^(t|z|c)erk/$1ik/												#泉音，簡化拼式
+    #- derive/^(t|z|c)erk/$1rk/												#南安，簡化拼式
+###生經文入2（例字：革（命）、克（服））
+    - derive/^([kq])erk/$1ik/												#泉音，簡化拼式
+    #- derive/^([kq])erk/$1rk/												#南安，簡化拼式
+###卿經文（例字：（執）行、英（國））
+    #- derive/i(ng|k)/e$1/											#漳南
+###卿經文入（例字：革（命）、（豐）澤）
+    #- derive/ik/iak/													#泉音
+    #- derive/i(ng|k)/io$1/											#漳南
+###卿經白（例字：宮（廟）、龍（王））
+    #- derive/iOng/ing/											#泉音
+    - derive/iOng/iong/												#廈漳
+###恩巾文（例字：恩（情）、（面）巾）
+    #- derive/ern(\d?\s?)/un$1/								#泉音
+    - derive/ern(\d?\s?)/in$1/									#漳音
+###箴箴文（例字：（陰）森、（丹）蔘）
+    #- derive/om/im/												#廈音
+    #- derive/om/erm/												#泉音
+###江姜白（例字：（一）雙、（無相）同）、三兼白（例字：針（線））
+    #- derive/iA/a/													#泉音
+    - derive/iA/ia/														#廈漳
+##鼻化韻
+    - derive/i([auo])nn/y$1/
+    - derive/iaunn/yau/
+    - derive/mi/my/													#帶鼻化韻的形式
+    - derive/niu/nyu/													#帶鼻化韻的形式
+###熋千白（例字：（一）千；（頭）先）
+    - derive/aInn/ing/												#廈漳、泉山又音
+    - derive/^ngaI$/gan/											#廈漳，例字：研（磨）、（龍）眼
+    - derive/^ngaI/ging/											#廈漳，例字：研（磨）、（龍）眼
+    - derive/^naI/lai/												#漳音，例字：荔（枝）
+    #- derive/aInn/uy/												#泉音
+    #- derive/aI$/ui/													#泉音，例字：蓮（花）、荔（枝）
+    #- derive/aI$/uy/													#泉音，例字：蓮（花）、荔（枝）（帶鼻化韻的形式）
+    #- derive/ngaI/nguy/											#泉音，例字：研（磨）、（龍）眼
+    #- derive/aInn/an/												#漳又音、龍涓
+    #- derive/aI/ai/													#同安、禾山，例字：蓮（花）、荔（枝）
+    #- derive/aInn/ay/												#同安、禾山（帶鼻化韻的形式）
+    #- derive/naI/nay/												#同安、禾山（帶鼻化韻的形式）
+    #- derive/naI/ling/												#廈音
+###關官白（例字：（使）橫、關（門））
+    #- derive/uay/uy/												#泉音
+    - derive/uay/uann/												#漳音
+    #- derive/uay/uenn/											#南靖
+###關觀白（例字：縣（城）、（誠）懸）
+    #- derive/uAy/uy/												#泉音
+    #- derive/uAy/uay/												#廈音
+    - derive/uAy/uan/												#漳音
+###毛褌白（例字：（食）飯、酸（菜））
+    #- derive/uIn?n?/ng/											#泉廈
+    - derive/uInn/uy/												#漳音
+    - derive/uI$/ui/												#漳音
+###箱薑白（例字：（和）尚、想（法））
+    - derive/iunn/ionn/												#漳音
+    - derive/niu/nio/													#漳音
+###青更白（例字：（三）更（半）暝）
+    #- derive/enn/y/													#泉音
+    - derive/enn/ey/													#漳音，簡化拼式
+    #- xform/^(m|ng)$/$1_/
+#腔口分異字：“級”
+    #- derive/qK/q/
+    - derive/qK/k/
+#腔口分異字：“書”
+    #- derive/sZ/z/													#泉音
+    - derive/sZ/s/														#漳音
+    #- derive/sZ/c/													#臺音？
+#腔口分異字：“个/其”
+    #- derive/gEe/ge/													#泉音主流說法
+    #- derive/gEe/ke/													#永德老派說法
+    - derive/gEe/e/													#漳廈臺主流說法
+    #- derive/gEe/ger/												#
+    #- derive/gEe/kai/												#原始形態（你若願意.....）
+#腔口分異字：“科”、“果”
+    #- derive/Oer/er/												#泉音
+    - derive/Oer/o/													#漳音
+#腔口分異字：“講”
+    #- derive/kOang/kang/										#泉音
+    - derive/kOang/kong/											#漳音
+#腔口分異字：“則”/“纔”
+    - derive/zIAh/ziah/											#漳泉廈臺主流說法
+    #- derive/zIAh/zerk/											#南安又音
+    #- derive/zIAh/zak/												#泉山又音
+#腔口分異字：“腦”白讀
+    - derive/nau/lo/													#泉音
+#腔口分異字：“積”、“即”
+    - derive/iK/ik/														#廈漳
+    #- derive/iK/it/													#泉音
+#腔口分異字，例字：（欲）挃、知（影）
+    - derive/yY/y/														#漳音
+    #- derive/yY/i/														#泉音
+#腔口分異字：“百”
+    - derive/pah/peeh/
+#腔口分異字：“阮”
+    - derive/^gun/guan/
+#腔口分異字：“超”
+    #- derive/cTHiau/ciau/										#泉音
+    - derive/cTHiau/thiau/											#漳音
+#腔口分異字：“仔/囝”（暫未製作）
+    #- derive/kYA/a/													#主流說法
+    #- derive/kYA/kiann/											#永德
+#腔口分異字：“相”
+    - derive/sDio/sio/												#“相”=sio
+    #- derive/sDio/sann/											#“相”=sann
+    #- derive/sDio/sa/											#“相”=sa
+#腔口分異字：“肉”白讀音
+    #- derive/bah/hik/												#泉山
+    #- derive/bah/hiak/												#泉音
+#腔口分異字：“風”
+    - derive/huang/hong/
+#腔口分異字：“誰”
+    - derive/tiang/zuah/											#漳音
+    #- derive/tiang/siang/											#泉廈音
+    #- derive/tiang/zui/
+#腔口分異字：“佗（哪）”
+    - derive/tOh/tah/												#漳音
+    #- derive/tOh/toh/												#泉音
+#特定詞彙訓讀：“bong/bang/m bang/mai”("不要")
+    #- derive/mBang/mbang/									#“不要”=毋bang
+    - derive/mBang/mai/											#“不要”=mai
+    - derive/mBang/bang/										#“不要”=bang
+    - derive/mBang/bong/										#“不要”=bong
+    #- derive/mBang/boh/										#“不要”=boh
+#特定詞彙訓讀：“哪裏”
+    - derive/tOh/tahui/												#“哪裏”=搭位
+    - derive/tOh/tahloh/											#“哪裏”=搭落
+    #- derive/tOh/toui/												#“哪裏”=佗位
+    #- derive/tOh/tohui/											#“哪裏”=佗位
+    #- derive/tOh/toloh/											#“哪裏”=佗落
+    #- derive/tOh/tohloh/											#“哪裏”=佗落
+    #- derive/tOh/tuann/											#“哪裏”=tuann
+#特定詞彙訓讀：“在”/“咧”/“哩”
+    #- derive/tDeh/ler/												#“在”=ler
+    #- derive/tDeh/lerh/											#“在”=lerh
+    #- derive/tDeh/terh/											#“在”=terh
+    #- derive/tDeh/leh/												#“在”=leh
+    #- derive/tDeh/le/												#“在”=le
+    - derive/tDeh/li/													#“在”=li
+    #特定詞彙訓讀：“很”
+    - derive/zIn/zin/													#“很”=真/盡
+    #- derive/zIn/ziann/											#“很”=誠
+    #- derive/zIn/ia/													#“很”=野
+#個人向特殊處理：強制分泥來
+    - derive/nL([ieoua]o?O?)/n$1/
+    - derive/nLoo/noo/												#例字：（憤）怒
+    - derive/nLoo/nw/												#簡化拼式
+    #- derive/nIang/lIang/										#例字：（孃）孃
+#個人向特殊處理2：咸韻三等合口字讀如-uam、-uap（現實中爲潮州音）
+    - derive/uap/uat/												#核心閩南語
+    - derive/uam/uan/												#核心閩南語
+translator:
+  dictionary: banlam
+  initial_quality: 100001
+  preedit_format:
+    #漳腔專用
+    - 'xform yo ionn'
+    - 'xform inno ionn'
+    - 'xform y inn'
+    #通用
+    - 'xform z ts'
+    - 'xform q kh'
+    - 'xform f ph'
+    - 'xform w oo'
+    - 'xform iw ioo'
+    - 'xform c tsh'
+    - 'xform y inn'
+    - 'xform v th'
+    - 'xform uy uinn'
+    - 'xform ya iann'
+    - 'xform inna iann'
+    - 'xform yu iunn'
+    - 'xform yu iunn'
+    - 'xform x ~'
+    - 'xform einn enn'
+    - 'xform ey enn'
+    - 'xform yau iaunn'
+    - 'xform innau iaunn'
+    - 'xform iannu iaunn'
+  enable_user_dict: true
+  enable_sentence: false
+  enable_encoder: true
+  enable_completion: true
+  enable_encoder: false
+  encode_commit_history: true
+  spelling_hints: 0
+
+luna_pinyin:
+  dictionary: luna_pinyin
+  prefix: "`"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+dmode:
+  dictionary: dmode
+  prefix: "`"
+  tips: 〔文讀拆字〕
+
+history_repeat:
+  input: x
+  size: 1
+  initial_quality: 1
+
+bangul:
+  dictionary: bangul
+  initial_quality: 100001
+  enable_sentence: false
+  enable_user_dict: false
+  enable_completion: false
+  comment_format:
+    - xform/.*//
+hutsoo:
+  dictionary: hutsoo
+  initial_quality: 100001
+  enable_sentence: false
+  enable_user_dict: false
+  enable_completion: false
+  comment_format:
+    - xform/.*//
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*`?$"
+    dmode_lookup: "/[a-z]*`?$"
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: minus, send: minus }  # 第7調
+    - { when: paging, accept: minus, send: Page_Up }
+
+style:
+  display_tray_icon: false
+  font_face: "Source Han Sans TC, Plangothic P1, Plangothic P2"
+  font_point: 
+  fullscreen: false
+  horizontal: false
+  inline_preedit: true
+  layout:
+    border_width: 3
+    candidate_spacing: 7
+    hilite_padding: 2
+    hilite_spacing: 4
+    margin_x: 12
+    margin_y: 6
+    min_height: 0
+    min_width: 160
+    round_corner: 4
+    spacing: 10
+punctuator:
+  full_shape:
+    ' ' : { commit: '　' }
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    '<' : [ 《, 〈, «, ‹, ⟨ ]
+    '>' : [ 》, 〉, », ›, ⟩ ]
+    '/' : [ ／, ÷ ]
+    '?' : { commit: ？ }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '''' : { pair: [ '‘', '’' ] }
+    '"' : { pair: [ '“', '”' ] }
+    '\' : [ /, ､，, ÷]
+    '|' : [ ·, ｜, '§', '¦' ]
+    '`' : ｀
+    '~' : ～
+    '!' : { commit: ！ }
+    '@' : [ ＠, ☯ ]
+    '#' : [ ＃, ⌘ ]
+    '%' : [ ％, '°', '℃' ]
+    '$' : [ ￥, '$', '€', '£', '¥', '¢', '¤', ₩ ]
+    '^' : { commit: …… }
+    '&' : ＆
+    '*' : [ ＊, ·, ・, ×, ※, ❂ ]
+    '(' : （
+    ')' : ）
+    '-' : －
+    '_' : ——
+    '+' : ＋
+    '=' : [ ＝, 々, 〃 ]
+    '[' : [ 「, 【, 〔, ［, 〚, 〘 ]
+    ']' : [ 」, 】, 〕, ］, 〛, 〙 ]
+    '{' : [ 『, 〖, ｛ ]
+    '}' : [ 』, 〗, ｝ ]
+  half_shape:
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    '<' : 《
+    '>' : 》
+    '/' : [ 、, ､, '/', ／, ÷ ]
+    '?' : { commit: ？ }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '''' : { pair: [ '‘', '’' ] }
+    '"' : { pair: [ '“', '”' ] }
+    '\' : 、
+    '|' : [ ·, ・, '|', ｜, '§', '¦', '‖', ︴ ]
+    '`' : [ '`', ‵, ‶, ‷, ′, ″, ‴, ⁗ ]
+    '~' : ~
+    '!' : { commit: ！ }
+    '@' : '@'
+    '#' : [ '#', № ]
+    '%' : [ '%', ％, '°', '℃', ‰, ‱, ℉, ℅, ℆, ℀, ℁, ⅍ ]
+    '$' : [ ￥, '$', '€', '£', '¥', '¢', '¤', ₩ ]
+    '^' : { commit: …… }
+    '&' : '&'
+    '*' : ·
+    '(' : （
+    ')' : ）
+    '-' : '-'
+    '_' : ——
+    '+' : '+'
+    '=' : [ '=', 々, 〃 ]
+    '[' : [ 「, 【, 〔, ［, 〚, 〘 ]
+    ']' : [ 」, 】, 〕, ］, 〛, 〙 ]
+    '{' : [ 『, 〖, ｛ ]
+    '}' : [ 』, 〗, ｝ ]
